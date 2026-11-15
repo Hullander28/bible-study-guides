@@ -1,0 +1,271 @@
+{
+ "id": "micah",
+ "name": "Micah",
+ "chapters": 7,
+ "overview": {
+  "author": "Micah of Moresheth, a town in the Judean lowlands (1:1).",
+  "date": "About 735–700 BC, during the reigns of Jotham, Ahaz, and Hezekiah, a contemporary of Isaiah.",
+  "audience": "Both Samaria (Israel) and Jerusalem (Judah), especially their corrupt leaders.",
+  "setting": "Assyria threatened and then destroyed Samaria (722 BC) and invaded Judah (701 BC). Within, rulers, priests, and prophets were corrupt.",
+  "purpose": "To expose injustice and idolatry, announce judgment on Samaria and Jerusalem, and proclaim hope in a coming ruler from Bethlehem and a God who pardons sin.",
+  "structure": "Three cycles, each beginning with “Hear”: judgment and hope (1–2), corrupt leaders and the coming kingdom and king (3–5), and God’s lawsuit and final hope (6–7)."
+ },
+ "outline": [
+  {
+   "title": "First Message: Judgment and Remnant",
+   "range": "1:1–2:13",
+   "start": 1,
+   "end": 2,
+   "items": [
+    {
+     "title": "Judgment on Samaria and Judah",
+     "range": "1:1–16"
+    },
+    {
+     "title": "Woe to oppressors; the Shepherd-King",
+     "range": "2:1–13"
+    }
+   ]
+  },
+  {
+   "title": "Second Message: Leaders and the Coming King",
+   "range": "3:1–5:15",
+   "start": 3,
+   "end": 5,
+   "items": [
+    {
+     "title": "Corrupt rulers and prophets",
+     "range": "3:1–12"
+    },
+    {
+     "title": "The mountain of the LORD",
+     "range": "4:1–13"
+    },
+    {
+     "title": "The ruler from Bethlehem",
+     "range": "5:1–15"
+    }
+   ]
+  },
+  {
+   "title": "Third Message: God’s Case and Mercy",
+   "range": "6:1–7:20",
+   "start": 6,
+   "end": 7,
+   "items": [
+    {
+     "title": "What the LORD requires",
+     "range": "6:1–16"
+    },
+    {
+     "title": "Who is a God like you?",
+     "range": "7:1–20"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Justice",
+   "text": "Micah condemns those who covet fields, seize houses, and pervert justice."
+  },
+  {
+   "title": "Corrupt Leadership",
+   "text": "Rulers, priests, and prophets serve for money."
+  },
+  {
+   "title": "True Religion",
+   "text": "God requires justice, kindness, and humble walking with Him, not thousands of rams."
+  },
+  {
+   "title": "The Coming King",
+   "text": "A ruler from Bethlehem will shepherd in the strength of the LORD."
+  },
+  {
+   "title": "The Remnant",
+   "text": "God will gather the lame and the outcasts."
+  },
+  {
+   "title": "Pardoning Grace",
+   "text": "“Who is a God like you, pardoning iniquity?” (7:18)."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Micah 4:3",
+   "quote": "They shall beat their swords into plowshares."
+  },
+  {
+   "ref": "Micah 5:2",
+   "quote": "But you, O Bethlehem Ephrathah... from you shall come forth for me one who is to be ruler in Israel."
+  },
+  {
+   "ref": "Micah 6:8",
+   "quote": "And what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?"
+  },
+  {
+   "ref": "Micah 7:7",
+   "quote": "I will wait for the God of my salvation; my God will hear me."
+  },
+  {
+   "ref": "Micah 7:18",
+   "quote": "Who is a God like you, pardoning iniquity?"
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "5:2",
+   "text": "The ruler born in Bethlehem whose origin is from of old is Jesus (Matthew 2:5–6)."
+  },
+  {
+   "ref": "5:4–5",
+   "text": "He will shepherd in the strength of the LORD “and he shall be their peace” (Ephesians 2:14)."
+  },
+  {
+   "ref": "2:13",
+   "text": "The breaker who goes before the flock pictures Christ leading His people out."
+  },
+  {
+   "ref": "7:18–20",
+   "text": "God casting sins into the depths of the sea is accomplished through Christ’s atonement."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Matthew 2:1–6",
+   "note": "The scribes cite Micah 5:2."
+  },
+  {
+   "ref": "Isaiah 2:2–4",
+   "note": "A parallel to Micah 4:1–3."
+  },
+  {
+   "ref": "Jeremiah 26:18",
+   "note": "Elders quote Micah 3:12."
+  },
+  {
+   "ref": "Matthew 10:35–36",
+   "note": "Jesus echoes Micah 7:6."
+  },
+  {
+   "ref": "Psalm 103:12",
+   "note": "Sins removed far from us."
+  }
+ ],
+ "reflection": [
+  "Which part of Micah 6:8 (justice, kindness, humility) do you most need to grow in?",
+  "How does Micah’s critique of leaders challenge anyone with influence?",
+  "What does Bethlehem, a small town, teach about how God works through the small and overlooked?",
+  "Micah 7:7 says, “I will watch for the LORD.” What are you waiting on God for?",
+  "How does 7:18–19 change how you think about your sins?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "The LORD Comes in Judgment",
+   "summary": "“Hear, you peoples, all of you.” The LORD comes from His place, and mountains melt. Samaria’s idolatry will be judged, and the wound reaches Jerusalem. Micah laments, going barefoot and naked, and uses wordplay on the names of Judean towns.",
+   "questions": [
+    "How does Micah describe God’s coming (1:3–4)?",
+    "Why is Samaria’s sin a “wound” that reaches Judah?",
+    "How does Micah’s grief model a godly response to judgment?"
+   ],
+   "crossRefs": [
+    "Isaiah 64:1–3",
+    "Habakkuk 3:3–6",
+    "2 Kings 17:6"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Woe to Oppressors",
+   "summary": "Woe to those who plan evil on their beds and seize fields and houses. People tell Micah not to preach. They prefer a prophet who preaches wine and beer. Yet God will gather the remnant like sheep, and “he who opens the breach goes up before them.”",
+   "questions": [
+    "How did the powerful oppress others (2:1–2)?",
+    "What kind of preacher did the people want (2:11)?",
+    "Who is the “breaker” leading the flock (2:13)?"
+   ],
+   "crossRefs": [
+    "Isaiah 5:8",
+    "2 Timothy 4:3–4",
+    "John 10:4"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Corrupt Leaders",
+   "summary": "Micah rebukes rulers who “hate the good and love the evil,” prophets who cry “Peace” when fed, and priests and judges who serve for pay. “But as for me, I am filled with power, with the Spirit of the LORD.” Because of them, Zion will be plowed as a field.",
+   "questions": [
+    "How does Micah describe the leaders’ cruelty (3:2–3)?",
+    "What made Micah different from false prophets (3:8)?",
+    "How did Micah 3:12 save Jeremiah’s life later (Jeremiah 26:18–19)?"
+   ],
+   "crossRefs": [
+    "Jeremiah 26:18–19",
+    "Ezekiel 34:2–4",
+    "1 Peter 5:2–3"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The Mountain of the LORD",
+   "summary": "In the latter days the mountain of the LORD’s house will be raised up, and nations will stream to it to learn His ways. “They shall beat their swords into plowshares.” Each will sit under his vine and fig tree. God will gather the lame and reign over them in Zion.",
+   "questions": [
+    "What does the future peace look like (4:3–4)?",
+    "How do the nations come to God (4:2)?",
+    "How is this vision fulfilled in Christ’s kingdom?"
+   ],
+   "crossRefs": [
+    "Isaiah 2:2–4",
+    "Revelation 21:24–26",
+    "Zechariah 8:20–23"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The Ruler from Bethlehem",
+   "summary": "“But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old.” He will shepherd His flock in the strength of the LORD, “and he shall be their peace.”",
+   "questions": [
+    "How was 5:2 fulfilled (Matthew 2:1–6)?",
+    "What does “from of old, from ancient days” suggest about this ruler?",
+    "How is Jesus “our peace” (5:5; Ephesians 2:14)?"
+   ],
+   "crossRefs": [
+    "Matthew 2:1–6",
+    "John 7:42",
+    "Ephesians 2:14"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "What Does the LORD Require?",
+   "summary": "God brings a lawsuit against Israel, recalling His saving acts. The people ask what offering would please Him: rams, oil, even a firstborn? “He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?” Dishonest scales are condemned.",
+   "questions": [
+    "Why does God recount His saving acts (6:3–5)?",
+    "Why can’t offerings replace obedience (6:6–7)?",
+    "Describe what 6:8 looks like in daily life."
+   ],
+   "crossRefs": [
+    "Deuteronomy 10:12–13",
+    "Hosea 6:6",
+    "Matthew 23:23"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Who Is a God Like You?",
+   "summary": "Micah laments that the godly have perished; even family members betray. “But as for me, I will look to the LORD; I will wait for the God of my salvation.” Though fallen, “I shall rise.” Micah ends in praise: “Who is a God like you, pardoning iniquity?... You will cast all our sins into the depths of the sea.”",
+   "questions": [
+    "How does Micah respond to a corrupt society (7:7)?",
+    "How does Jesus echo 7:6 (Matthew 10:35–36)?",
+    "What does 7:18–20 reveal about God’s character?"
+   ],
+   "crossRefs": [
+    "Matthew 10:35–36",
+    "Psalm 103:8–12",
+    "Hebrews 8:12"
+   ]
+  }
+ ],
+ "tagline": "Do justice, love kindness, walk humbly; and look for the ruler from Bethlehem",
+ "readingPlan": "7 chapters: one chapter a day takes 7 days; two a day takes about 4 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

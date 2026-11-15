@@ -1,0 +1,321 @@
+{
+ "id": "amos",
+ "name": "Amos",
+ "chapters": 9,
+ "overview": {
+  "author": "Amos, a shepherd and dresser of sycamore figs from Tekoa in Judah, called to prophesy to Israel (1:1; 7:14–15).",
+  "date": "About 760 BC, “two years before the earthquake,” during the reigns of Uzziah of Judah and Jeroboam II of Israel.",
+  "audience": "The northern kingdom of Israel, especially its wealthy elite in Samaria and worshipers at Bethel.",
+  "setting": "Israel was prosperous and secure under Jeroboam II, but its wealth was built on oppression of the poor, and its worship was empty ritual.",
+  "purpose": "To announce God’s judgment on Israel for social injustice and false worship, call them to seek the LORD and live, and promise future restoration of David’s fallen booth.",
+  "structure": "Oracles against the nations, ending with Israel (1–2), sermons against Israel (3–6), five visions of judgment (7–9:10), and a promise of restoration (9:11–15)."
+ },
+ "outline": [
+  {
+   "title": "Oracles Against the Nations",
+   "range": "1:1–2:16",
+   "start": 1,
+   "end": 2,
+   "items": [
+    {
+     "title": "Israel’s neighbors judged",
+     "range": "1:1–2:5"
+    },
+    {
+     "title": "Israel judged",
+     "range": "2:6–16"
+    }
+   ]
+  },
+  {
+   "title": "Sermons Against Israel",
+   "range": "3:1–6:14",
+   "start": 3,
+   "end": 6,
+   "items": [
+    {
+     "title": "Privilege brings responsibility",
+     "range": "3:1–15"
+    },
+    {
+     "title": "Cows of Bashan and refused warnings",
+     "range": "4:1–13"
+    },
+    {
+     "title": "Seek the LORD and live",
+     "range": "5:1–27"
+    },
+    {
+     "title": "Woe to those at ease",
+     "range": "6:1–14"
+    }
+   ]
+  },
+  {
+   "title": "Visions of Judgment",
+   "range": "7:1–9:10",
+   "start": 7,
+   "end": 9,
+   "items": [
+    {
+     "title": "Locusts, fire, and plumb line",
+     "range": "7:1–17"
+    },
+    {
+     "title": "The basket of summer fruit",
+     "range": "8:1–14"
+    },
+    {
+     "title": "The LORD by the altar",
+     "range": "9:1–10"
+    }
+   ]
+  },
+  {
+   "title": "Restoration",
+   "range": "9:11–15",
+   "start": 9,
+   "end": 9,
+   "items": [
+    {
+     "title": "David’s booth rebuilt",
+     "range": "9:11–15"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Social Justice",
+   "text": "God condemns selling the needy, trampling the poor, and corrupt courts."
+  },
+  {
+   "title": "Empty Religion",
+   "text": "God hates feasts and offerings that come from unjust lives."
+  },
+  {
+   "title": "Privilege and Accountability",
+   "text": "“You only have I known... therefore I will punish you” (3:2)."
+  },
+  {
+   "title": "Seek the LORD and Live",
+   "text": "God repeatedly calls Israel to return."
+  },
+  {
+   "title": "The Day of the LORD",
+   "text": "It will be darkness, not light, for the complacent."
+  },
+  {
+   "title": "God’s Sovereignty Over Nations",
+   "text": "God judges all nations by His moral standard."
+  },
+  {
+   "title": "Restoration",
+   "text": "God will raise David’s fallen booth and restore His people."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Amos 3:2",
+   "quote": "You only have I known of all the families of the earth."
+  },
+  {
+   "ref": "Amos 4:12",
+   "quote": "Prepare to meet your God, O Israel!"
+  },
+  {
+   "ref": "Amos 5:4",
+   "quote": "Seek me and live."
+  },
+  {
+   "ref": "Amos 5:24",
+   "quote": "But let justice roll down like waters, and righteousness like an ever-flowing stream."
+  },
+  {
+   "ref": "Amos 8:11",
+   "quote": "A famine... of hearing the words of the LORD."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "9:11–12",
+   "text": "James quotes the rebuilt booth of David to show Gentiles now included through Jesus (Acts 15:15–17)."
+  },
+  {
+   "ref": "8:9",
+   "text": "The sun going down at noon echoes the darkness at Jesus’ crucifixion (Matthew 27:45)."
+  },
+  {
+   "ref": "5:24",
+   "text": "Christ fulfills God’s justice and righteousness and creates a people who practice them."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Acts 15:13–18",
+   "note": "James quotes Amos 9."
+  },
+  {
+   "ref": "Isaiah 1:10–17",
+   "note": "God rejects worship without justice."
+  },
+  {
+   "ref": "Micah 6:6–8",
+   "note": "What the LORD requires."
+  },
+  {
+   "ref": "James 5:1–6",
+   "note": "Warning to the oppressive rich."
+  },
+  {
+   "ref": "2 Kings 14:23–29",
+   "note": "Jeroboam II’s reign."
+  }
+ ],
+ "reflection": [
+  "Amos was a farmer God called to prophesy. How might God use you, even if you feel ordinary?",
+  "Where do you see injustice that God cares about, and how might you respond?",
+  "Is any of your worship disconnected from how you treat others?",
+  "How does prosperity tempt you to complacency (6:1)?",
+  "What would it look like to “seek the LORD and live” this week?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Judgment on the Nations",
+   "summary": "“The LORD roars from Zion.” Amos announces judgment on Damascus, Gaza, Tyre, Edom, and Ammon, each “for three transgressions... and for four.” Their crimes include cruelty in war, selling people as slaves, and pitiless violence.",
+   "questions": [
+    "What does the formula “for three... and for four” emphasize?",
+    "What sins do these nations commit?",
+    "Why might Israel have cheered these oracles?"
+   ],
+   "crossRefs": [
+    "Joel 3:16",
+    "Jeremiah 49",
+    "Ezekiel 25"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Judgment on Judah and Israel",
+   "summary": "Moab is judged, then Judah for rejecting God’s law. Then Amos turns to Israel: they sell the righteous for silver and the needy for sandals, trample the poor, and practice sexual immorality and idolatry. God recalls all He did for them, and no one will escape.",
+   "questions": [
+    "Why does Amos save Israel for last?",
+    "Which of Israel’s sins in 2:6–8 stand out?",
+    "How does God’s past kindness (2:9–11) increase their guilt?"
+   ],
+   "crossRefs": [
+    "Luke 12:48",
+    "Romans 2:1–5",
+    "Deuteronomy 24:12–15"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Privilege and Punishment",
+   "summary": "“You only have I known of all the families of the earth; therefore I will punish you for all your iniquities.” A series of questions shows cause and effect: when the lion roars, the prophet must speak. Samaria’s luxury will be destroyed.",
+   "questions": [
+    "Why does privilege bring greater accountability (3:2)?",
+    "What does 3:7 say about God and His prophets?",
+    "How do the questions in 3:3–8 build Amos’s case?"
+   ],
+   "crossRefs": [
+    "Luke 12:47–48",
+    "1 Peter 4:17",
+    "Jeremiah 20:9"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Yet You Did Not Return",
+   "summary": "Amos condemns the wealthy women of Samaria, “cows of Bashan,” who oppress the poor. God sent famine, drought, blight, plague, and defeat, yet five times says, “Yet you did not return to me.” Therefore, “Prepare to meet your God, O Israel!”",
+   "questions": [
+    "What is the refrain of 4:6–11?",
+    "How should hardships turn us toward God?",
+    "What does “Prepare to meet your God” mean for us?"
+   ],
+   "crossRefs": [
+    "Hebrews 12:5–11",
+    "Revelation 9:20–21",
+    "Hebrews 9:27"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Seek the LORD and Live",
+   "summary": "Amos laments for fallen Israel. “Seek me and live.” People hate the one who speaks truth at the gate and trample the poor. “Woe to you who desire the day of the LORD!” It is darkness, not light. God hates their feasts: “But let justice roll down like waters, and righteousness like an ever-flowing stream.”",
+   "questions": [
+    "What does it mean to seek God (5:4–6, 14–15)?",
+    "Why was the day of the LORD darkness for Israel (5:18–20)?",
+    "Why does God reject worship without justice (5:21–24)?"
+   ],
+   "crossRefs": [
+    "Isaiah 1:11–17",
+    "Micah 6:8",
+    "Matthew 23:23"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Woe to Those at Ease",
+   "summary": "“Woe to those who are at ease in Zion.” The wealthy lie on ivory beds, eat lambs, sing idle songs, and drink wine from bowls, but “are not grieved over the ruin of Joseph.” They will be the first into exile.",
+   "questions": [
+    "What is wrong with their luxury (6:4–6)?",
+    "Why is not grieving over others’ ruin a sin?",
+    "How does complacency show up in our lives?"
+   ],
+   "crossRefs": [
+    "Luke 12:16–21",
+    "Luke 16:19–25",
+    "Revelation 3:17"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "The Plumb Line",
+   "summary": "Amos sees visions of locusts and fire and intercedes, and God relents. Then God shows a plumb line: Israel is crooked and will be judged. Amaziah the priest tells Amos to go home. Amos replies, “I was no prophet... but the LORD took me from following the flock.”",
+   "questions": [
+    "Why did God relent after Amos prayed?",
+    "What does the plumb line represent?",
+    "How did Amos respond to opposition (7:14–17)?"
+   ],
+   "crossRefs": [
+    "Exodus 32:11–14",
+    "Acts 4:19–20",
+    "2 Kings 21:13"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "A Famine of the Word",
+   "summary": "A basket of summer fruit means “the end has come” for Israel. Merchants can’t wait for the Sabbath to cheat with false scales and buy the poor for silver. God will send “a famine... of hearing the words of the LORD.”",
+   "questions": [
+    "How did the merchants show contempt for God (8:5–6)?",
+    "What is a famine of hearing God’s word (8:11–12)?",
+    "How can we value God’s word while it is available?"
+   ],
+   "crossRefs": [
+    "Proverbs 11:1",
+    "1 Samuel 3:1",
+    "Matthew 4:4"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "David’s Booth Restored",
+   "summary": "Amos sees the LORD beside the altar commanding judgment. No one can hide from God. Yet God will not utterly destroy Jacob. “In that day I will raise up the booth of David that is fallen,” and the nations will be called by His name. The mountains will drip sweet wine, and Israel will be planted never to be uprooted.",
+   "questions": [
+    "Why can no one escape God (9:2–4)?",
+    "How does James use 9:11–12 in Acts 15:16–17?",
+    "What does the closing picture of abundance promise?"
+   ],
+   "crossRefs": [
+    "Acts 15:16–17",
+    "Psalm 139:7–12",
+    "Joel 3:18"
+   ]
+  }
+ ],
+ "tagline": "Let justice roll down like waters",
+ "readingPlan": "9 chapters: one chapter a day takes 9 days; two a day takes about 5 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

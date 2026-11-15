@@ -1,0 +1,150 @@
+{
+ "id": "obadiah",
+ "name": "Obadiah",
+ "chapters": 1,
+ "overview": {
+  "author": "Obadiah, whose name means “servant of the LORD.” Nothing else is known of him.",
+  "date": "Probably soon after Jerusalem’s fall to Babylon in 586 BC, when Edom joined in plundering Judah.",
+  "audience": "Judah, comforted by God’s word against Edom, their hostile relative.",
+  "setting": "Edom, descended from Esau, lived in the rocky heights south of the Dead Sea and gloated over and plundered Jerusalem in its disaster.",
+  "purpose": "To announce God’s judgment on Edom for pride and violence against its brother Jacob, and to promise deliverance on Mount Zion where “the kingdom shall be the LORD’s.”",
+  "structure": "Edom’s pride and downfall (1–9), Edom’s crimes against Judah (10–14), and the day of the LORD: judgment on the nations and restoration for Zion (15–21)."
+ },
+ "outline": [
+  {
+   "title": "Edom’s Downfall",
+   "range": "1–14",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "Pride brought down",
+     "range": "1–9"
+    },
+    {
+     "title": "Violence against brother Jacob",
+     "range": "10–14"
+    }
+   ]
+  },
+  {
+   "title": "The Day of the LORD",
+   "range": "15–21",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "As you have done, it shall be done to you",
+     "range": "15–16"
+    },
+    {
+     "title": "Deliverance on Mount Zion",
+     "range": "17–21"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Pride",
+   "text": "“The pride of your heart has deceived you” (3). Edom trusted its high, rocky fortresses."
+  },
+  {
+   "title": "Brotherly Betrayal",
+   "text": "Edom, descended from Esau, betrayed Jacob’s descendants in their day of distress."
+  },
+  {
+   "title": "Justice and Reaping",
+   "text": "“As you have done, it shall be done to you” (15)."
+  },
+  {
+   "title": "The Day of the LORD",
+   "text": "Judgment for all nations is near."
+  },
+  {
+   "title": "God’s Kingdom",
+   "text": "“The kingdom shall be the LORD’s” (21)."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Obadiah 3",
+   "quote": "The pride of your heart has deceived you."
+  },
+  {
+   "ref": "Obadiah 4",
+   "quote": "Though you soar aloft like the eagle... from there I will bring you down."
+  },
+  {
+   "ref": "Obadiah 15",
+   "quote": "As you have done, it shall be done to you."
+  },
+  {
+   "ref": "Obadiah 21",
+   "quote": "And the kingdom shall be the LORD’s."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "21",
+   "text": "Saviors on Mount Zion and the kingdom belonging to the LORD point to Christ’s reign (Revelation 11:15)."
+  },
+  {
+   "ref": "17",
+   "text": "Deliverance and holiness on Mount Zion find fulfillment in Christ’s people (Hebrews 12:22–24)."
+  },
+  {
+   "ref": "10–14",
+   "text": "Edom’s betrayal of its brother contrasts with Christ, the brother who lays down His life (Hebrews 2:11–17)."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Genesis 25:19–34; 27",
+   "note": "Jacob and Esau."
+  },
+  {
+   "ref": "Psalm 137:7",
+   "note": "Edom cheering Jerusalem’s fall."
+  },
+  {
+   "ref": "Jeremiah 49:7–22",
+   "note": "A parallel oracle against Edom."
+  },
+  {
+   "ref": "Ezekiel 35",
+   "note": "Judgment on Mount Seir."
+  },
+  {
+   "ref": "Revelation 11:15",
+   "note": "The kingdom of the world becomes Christ’s."
+  }
+ ],
+ "reflection": [
+  "Where might pride be deceiving you (verse 3)?",
+  "What “high places” of security do you trust instead of God?",
+  "Verses 12–14 warn against gloating over others’ trouble. How do you respond when someone who hurt you suffers?",
+  "How does verse 15 challenge you to treat others?",
+  "What hope does “the kingdom shall be the LORD’s” give you in a world of proud powers?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "The Kingdom Shall Be the LORD’s",
+   "summary": "God pronounces judgment on Edom, whose pride deceived it because it lived in rocky heights and said, “Who will bring me down?” God will bring it down, and its allies will betray it. Edom is condemned for violence against its brother Jacob: gloating, looting, and handing over survivors on Jerusalem’s day of disaster. The day of the LORD is near for all nations: “As you have done, it shall be done to you.” But on Mount Zion there will be deliverance, Jacob will possess its land, and “the kingdom shall be the LORD’s.”",
+   "questions": [
+    "What was the root of Edom’s sin (3–4)?",
+    "List the eight “do not” warnings in verses 12–14. Which applies to you?",
+    "How does verse 15 express God’s justice?",
+    "What hope does verses 17–21 offer God’s people?"
+   ],
+   "crossRefs": [
+    "Genesis 27:41",
+    "Psalm 137:7",
+    "Revelation 11:15"
+   ]
+  }
+ ],
+ "tagline": "Edom’s pride brought low and the kingdom belongs to the LORD",
+ "readingPlan": "1 chapter: a short book you can read in one sitting, then work through the questions over a few days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

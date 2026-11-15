@@ -1,0 +1,173 @@
+{
+ "id": "haggai",
+ "name": "Haggai",
+ "chapters": 2,
+ "overview": {
+  "author": "Haggai the prophet (1:1), a contemporary of Zechariah (Ezra 5:1; 6:14).",
+  "date": "Four precisely dated messages from August to December 520 BC, in the second year of King Darius of Persia.",
+  "audience": "Zerubbabel the governor, Joshua the high priest, and the returned exiles in Jerusalem.",
+  "setting": "About 18 years after the first return from exile, the temple foundation lay unfinished. Discouraged by opposition and hardship, the people focused on their own houses.",
+  "purpose": "To stir the people to rebuild the temple by putting God first, encourage them with His presence and future glory, and affirm God’s promise through Zerubbabel, David’s descendant.",
+  "structure": "Four messages: a call to rebuild (1), the future glory of the temple (2:1–9), a lesson on defilement and blessing (2:10–19), and a promise to Zerubbabel (2:20–23)."
+ },
+ "outline": [
+  {
+   "title": "Call to Rebuild",
+   "range": "1:1–15",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "Consider your ways",
+     "range": "1:1–11"
+    },
+    {
+     "title": "The people obey",
+     "range": "1:12–15"
+    }
+   ]
+  },
+  {
+   "title": "Encouragement and Promise",
+   "range": "2:1–23",
+   "start": 2,
+   "end": 2,
+   "items": [
+    {
+     "title": "The latter glory",
+     "range": "2:1–9"
+    },
+    {
+     "title": "From this day I will bless",
+     "range": "2:10–19"
+    },
+    {
+     "title": "Zerubbabel the signet ring",
+     "range": "2:20–23"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Priorities",
+   "text": "The people built paneled houses while God’s house lay in ruins."
+  },
+  {
+   "title": "Consider Your Ways",
+   "text": "Their frustration and lack were a call to reflect."
+  },
+  {
+   "title": "God’s Presence",
+   "text": "“I am with you, declares the LORD” (1:13; 2:4)."
+  },
+  {
+   "title": "Courage",
+   "text": "“Be strong... work, for I am with you” (2:4)."
+  },
+  {
+   "title": "Future Glory",
+   "text": "The latter glory of the house will be greater than the former."
+  },
+  {
+   "title": "Holiness and Blessing",
+   "text": "Holiness is not contagious, but defilement is; obedience brings blessing."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Haggai 1:4",
+   "quote": "Is it a time for you yourselves to dwell in your paneled houses, while this house lies in ruins?"
+  },
+  {
+   "ref": "Haggai 1:5",
+   "quote": "Consider your ways."
+  },
+  {
+   "ref": "Haggai 2:4",
+   "quote": "Be strong... work, for I am with you."
+  },
+  {
+   "ref": "Haggai 2:9",
+   "quote": "The latter glory of this house shall be greater than the former."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "2:6–9",
+   "text": "The shaking of the nations and the greater glory point to Christ coming to the second temple (Hebrews 12:26–28; John 2:19–21)."
+  },
+  {
+   "ref": "2:23",
+   "text": "Zerubbabel, chosen as God’s signet ring, is an ancestor of Jesus (Matthew 1:12–13)."
+  },
+  {
+   "ref": "2:9",
+   "text": "“In this place I will give peace”: Jesus, the Prince of Peace, taught in this temple."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Ezra 3–6",
+   "note": "The temple’s rebuilding."
+  },
+  {
+   "ref": "Zechariah 4",
+   "note": "Encouragement to Zerubbabel."
+  },
+  {
+   "ref": "Matthew 6:33",
+   "note": "Seek first the kingdom."
+  },
+  {
+   "ref": "Hebrews 12:26–29",
+   "note": "The unshakable kingdom."
+  },
+  {
+   "ref": "1 Corinthians 3:16",
+   "note": "Believers as God’s temple."
+  }
+ ],
+ "reflection": [
+  "Where have your priorities drifted from God’s to your own “paneled houses”?",
+  "Haggai says, “Consider your ways.” What frustrations in your life might be a call to reflect?",
+  "What work has God given you that discouragement has stalled?",
+  "How does “I am with you” (2:4) give you courage?",
+  "How are you helping build God’s house, His church, today?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Consider Your Ways",
+   "summary": "The people say, “The time has not yet come to rebuild the house of the LORD.” God asks, “Is it a time for you yourselves to dwell in your paneled houses, while this house lies in ruins?” They sow much but harvest little. “Consider your ways.” Zerubbabel, Joshua, and the people obey and fear the LORD. God says, “I am with you,” and stirs their spirits, and they begin work.",
+   "questions": [
+    "What excuse did the people give (1:2)?",
+    "How were their hardships connected to their priorities (1:6, 9)?",
+    "How did God stir up their spirits (1:14)?"
+   ],
+   "crossRefs": [
+    "Matthew 6:33",
+    "Ezra 4:24–5:2",
+    "Proverbs 3:9–10"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "The Latter Glory",
+   "summary": "Older people grieve that the new temple seems like nothing compared to Solomon’s. God says, “Be strong... work, for I am with you.” He will shake the heavens and nations, and the latter glory will be greater than the former. A lesson about holiness shows that their offerings were defiled, but “from this day on I will bless you.” God will make Zerubbabel like a signet ring.",
+   "questions": [
+    "Why were some people discouraged (2:3)?",
+    "How was the temple’s greater glory fulfilled in Jesus?",
+    "What does the lesson on defilement teach (2:11–14)?",
+    "Why is Zerubbabel called a signet ring (2:23)?"
+   ],
+   "crossRefs": [
+    "Hebrews 12:26–28",
+    "John 2:19–21",
+    "Matthew 1:12–13"
+   ]
+  }
+ ],
+ "tagline": "Consider your ways: rebuild God’s house",
+ "readingPlan": "2 chapters: a short book you can read in one sitting, then work through the questions over a few days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}
