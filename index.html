@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bible Study Guides</title>
+<meta name="description" content="Book-by-book Bible study guides with outlines, themes, chapter questions, progress tracking and notes.">
+<meta name="theme-color" content="#7a4b1e">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="stylesheet" href="css/style.css">
+<script>try{var t=JSON.parse(localStorage.getItem('bsg:v1')||'{}').theme;if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>
+</head>
+<body>
+<header class="topbar">
+  <a href="#/" class="brand" aria-label="Home"><span class="logo">✦</span> Study Guides</a>
+  <div class="top-actions">
+    <a href="#/search" class="icon-btn" aria-label="Search">🔍</a>
+    <button id="themeBtn" class="icon-btn" aria-label="Toggle dark mode">🌙</button>
+  </div>
+</header>
+<main id="app" tabindex="-1"><p class="loading">Loading…</p></main>
+<footer class="foot">
+  <p>Scripture quotations are from the ESV® Bible (The Holy Bible, English Standard Version®), © 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.</p>
+  <p>Study notes, summaries and questions are original to this app. Chapter links open the full text on ESV.org or BibleGateway.</p>
+</footer>
+<script src="js/books.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1030 @@
+{
+ "id": "genesis",
+ "name": "Genesis",
+ "tagline": "The book of beginnings: creation, the fall, and the promise",
+ "chapters": 50,
+ "overview": {
+  "author": "Jewish and Christian tradition holds that Moses wrote or compiled Genesis as the first book of the Torah (the Pentateuch). Later Scripture speaks of the Law as coming from Moses (e.g., Joshua 8:31; Luke 24:27; John 5:46). Some scholars think later editors updated parts of the text, such as place names.",
+  "date": "Traditionally written during the wilderness wanderings, roughly 1446–1406 BC (or the 13th century BC if a later Exodus date is taken). The events run from creation to the death of Joseph, around 1800 BC.",
+  "audience": "The people of Israel after the Exodus, who were about to enter Canaan and needed to know who God is, where they came from, and why the land had been promised to them.",
+  "setting": "It begins in Eden and the ancient Near East (Mesopotamia), follows Abraham’s family to Canaan, and ends in Egypt, where Jacob’s family settles during a famine.",
+  "purpose": "To show that the one true God made everything good, to explain how sin and death entered the world, and to introduce God’s plan to bless all nations through the family of Abraham. That covenant promise is carried by God’s grace through generations of flawed people and points ahead to the coming offspring who will crush the serpent.",
+  "structure": "Genesis is arranged around ten “generations” headings (Hebrew toledot: “These are the generations of…”) at 2:4; 5:1; 6:9; 10:1; 11:10; 11:27; 25:12; 25:19; 36:1; and 37:2. The book divides into two parts: primeval history (chs. 1–11) and the history of the patriarchs (chs. 12–50)."
+ },
+ "outline": [
+  {
+   "title": "Primeval History",
+   "range": "1:1–11:26",
+   "start": 1,
+   "end": 11,
+   "items": [
+    {
+     "title": "Creation of the heavens and the earth",
+     "range": "1:1–2:3"
+    },
+    {
+     "title": "Eden, the fall, and its aftermath",
+     "range": "2:4–4:26"
+    },
+    {
+     "title": "From Adam to Noah",
+     "range": "5:1–6:8"
+    },
+    {
+     "title": "Noah, the flood, and the covenant",
+     "range": "6:9–9:29"
+    },
+    {
+     "title": "The nations and the Tower of Babel",
+     "range": "10:1–11:26"
+    }
+   ]
+  },
+  {
+   "title": "Abraham: The Call and the Covenant",
+   "range": "11:27–25:18",
+   "start": 11,
+   "end": 25,
+   "items": [
+    {
+     "title": "The call of Abram and the journey to Canaan",
+     "range": "11:27–14:24"
+    },
+    {
+     "title": "The covenant made and confirmed",
+     "range": "15:1–17:27"
+    },
+    {
+     "title": "Sodom judged, Isaac born",
+     "range": "18:1–21:34"
+    },
+    {
+     "title": "The great test on Mount Moriah",
+     "range": "22:1–24"
+    },
+    {
+     "title": "Abraham’s final years and Ishmael’s line",
+     "range": "23:1–25:18"
+    }
+   ]
+  },
+  {
+   "title": "Isaac and Jacob: The Promise Carried On",
+   "range": "25:19–36:43",
+   "start": 25,
+   "end": 36,
+   "items": [
+    {
+     "title": "Jacob and Esau: birthright and blessing",
+     "range": "25:19–28:9"
+    },
+    {
+     "title": "Jacob at Bethel and in Haran",
+     "range": "28:10–31:55"
+    },
+    {
+     "title": "Jacob wrestles with God and returns home",
+     "range": "32:1–35:29"
+    },
+    {
+     "title": "Esau’s descendants",
+     "range": "36:1–43"
+    }
+   ]
+  },
+  {
+   "title": "Joseph: God’s Providence Preserves the Family",
+   "range": "37:1–50:26",
+   "start": 37,
+   "end": 50,
+   "items": [
+    {
+     "title": "Joseph sold into Egypt; Judah and Tamar",
+     "range": "37:1–38:30"
+    },
+    {
+     "title": "Joseph’s trials and exaltation",
+     "range": "39:1–41:57"
+    },
+    {
+     "title": "The brothers tested and reconciled",
+     "range": "42:1–45:28"
+    },
+    {
+     "title": "Israel in Egypt; Jacob’s blessings and death",
+     "range": "46:1–50:26"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "God the Creator and Sovereign King",
+   "text": "God creates by His word, owns all things, and rules over history. Nothing in Genesis, from floods to famines to family betrayals, falls outside His purpose (1:1; 50:20)."
+  },
+  {
+   "title": "The Image of God",
+   "text": "Humans uniquely bear God’s image (1:26–27; 9:6), which gives every person dignity and calls us to represent God’s rule with care."
+  },
+  {
+   "title": "Sin and Its Spread",
+   "text": "Sin moves from one act of distrust (ch. 3) to murder (ch. 4), widespread violence (ch. 6), and proud rebellion (ch. 11), and it lives on in the patriarchs’ families."
+  },
+  {
+   "title": "Judgment and Grace",
+   "text": "Every judgment comes with grace: clothing for Adam and Eve, a mark for Cain, an ark for Noah, and a promise after Babel through Abraham."
+  },
+  {
+   "title": "Covenant and Promise",
+   "text": "God binds Himself to Abraham with promises of offspring, land, and blessing to all nations (12:1–3; 15; 17). These promises shape the rest of the Bible."
+  },
+  {
+   "title": "Faith",
+   "text": "Abraham “believed the LORD, and he counted it to him as righteousness” (15:6). Genesis shows faith that trusts God’s word when circumstances seem impossible."
+  },
+  {
+   "title": "God’s Surprising Choice",
+   "text": "Again and again God chooses the younger or the unlikely (Abel, Isaac, Jacob, Judah, Joseph, Ephraim), so that it is clear blessing comes by grace, not by rank."
+  },
+  {
+   "title": "Providence",
+   "text": "God works through ordinary events and even evil human choices to accomplish good, most clearly in the story of Joseph."
+  },
+  {
+   "title": "Blessing to the Nations",
+   "text": "From the table of nations (ch. 10) to Joseph feeding the world (ch. 41), God’s plan is global: “in you all the families of the earth shall be blessed.”"
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Genesis 1:1",
+   "quote": "In the beginning, God created the heavens and the earth."
+  },
+  {
+   "ref": "Genesis 1:27",
+   "quote": "So God created man in his own image, in the image of God he created him; male and female he created them."
+  },
+  {
+   "ref": "Genesis 3:15",
+   "quote": "I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel."
+  },
+  {
+   "ref": "Genesis 12:2–3",
+   "quote": "And I will make of you a great nation, and I will bless you… and in you all the families of the earth shall be blessed."
+  },
+  {
+   "ref": "Genesis 15:6",
+   "quote": "And he believed the LORD, and he counted it to him as righteousness."
+  },
+  {
+   "ref": "Genesis 18:14",
+   "quote": "Is anything too hard for the LORD?"
+  },
+  {
+   "ref": "Genesis 50:20",
+   "quote": "As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "3:15",
+   "text": "The offspring of the woman who will crush the serpent’s head (Galatians 4:4; Romans 16:20; 1 John 3:8)."
+  },
+  {
+   "ref": "12:3; 22:18",
+   "text": "The single offspring of Abraham through whom all nations are blessed (Galatians 3:8, 16)."
+  },
+  {
+   "ref": "14:18–20",
+   "text": "Melchizedek, the priest-king, foreshadows Christ’s eternal priesthood (Hebrews 7)."
+  },
+  {
+   "ref": "22:1–14",
+   "text": "The beloved son offered on a mountain, with a substitute provided by God (John 1:29; Romans 8:32)."
+  },
+  {
+   "ref": "28:12",
+   "text": "Jacob’s stairway to heaven is fulfilled in Jesus, the true connection between heaven and earth (John 1:51)."
+  },
+  {
+   "ref": "49:10",
+   "text": "The scepter will not depart from Judah, pointing to the Lion of the tribe of Judah (Revelation 5:5)."
+  },
+  {
+   "ref": "37–50",
+   "text": "Joseph, rejected by his brothers, suffers unjustly, is exalted, and becomes the savior of those who betrayed him."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "John 1:1–3",
+   "note": "“In the beginning”: Christ as the Word through whom all things were made."
+  },
+  {
+   "ref": "Romans 5:12–21",
+   "note": "Adam and Christ: how sin entered through one man and grace comes through one man."
+  },
+  {
+   "ref": "Romans 4; Galatians 3",
+   "note": "Abraham as the father of all who believe; justification by faith."
+  },
+  {
+   "ref": "Hebrews 11:3–22",
+   "note": "The “hall of faith”: Abel, Enoch, Noah, Abraham, Sarah, Isaac, Jacob, Joseph."
+  },
+  {
+   "ref": "Acts 7:2–16",
+   "note": "Stephen retells the story of the patriarchs."
+  },
+  {
+   "ref": "Revelation 21–22",
+   "note": "The new creation: the tree of life restored and the curse removed (22:2–3)."
+  }
+ ],
+ "reflection": [
+  "Genesis 1 says that you bear God’s image. How should that change the way you see yourself, and the person you find hardest to love?",
+  "Like Adam and Eve, we tend to hide and shift blame. What would it look like this week to bring a hidden sin into the light before God?",
+  "Abraham left the familiar on the strength of God’s promise. What step of faith is God asking you to take right now?",
+  "Where are you tempted to “help God out” the way Sarai did with Hagar instead of waiting on His timing?",
+  "Jacob was changed through wrestling and weakness. How has God used a struggle or a “limp” in your life to shape you?",
+  "Joseph said, “God meant it for good.” Think of a painful season in your past. Where can you now see God at work, or trust that He is?",
+  "Which family patterns in Genesis (favoritism, deception, rivalry) do you see in your own family? How can the gospel break those cycles?",
+  "Who is one person you need to forgive or seek reconciliation with, as Esau and Jacob and then Joseph and his brothers did?"
+ ],
+ "readingPlan": "50 chapters: about 2 chapters a day finishes the book in 25 days, or 1 chapter a day takes 7 weeks. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes.",
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "God Creates the Heavens and the Earth",
+   "summary": "God speaks creation into being over six days, bringing order and fullness out of what was “without form and void.” Days 1–3 form the realms (light, sky and seas, land), and days 4–6 fill them (lights, birds and fish, animals and people). Everything is declared “good,” and humanity, made male and female in God’s image, is blessed and given dominion over the earth.",
+   "questions": [
+    "What does the repeated phrase “And God said… and it was so” teach about God’s power and authority?",
+    "Notice the pattern of forming (days 1–3) and filling (days 4–6). What does this reveal about God’s character?",
+    "What does it mean to be made in the image of God (1:26–27), and how should it shape the way we treat every person?",
+    "God called creation “very good” (1:31). How does that affect your view of the physical world, work, and the body?"
+   ],
+   "crossRefs": [
+    "John 1:1–3",
+    "Psalm 33:6–9",
+    "Hebrews 11:3",
+    "Colossians 1:16"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "The Seventh Day and the Garden of Eden",
+   "summary": "God rests on the seventh day and blesses it. The narrative then zooms in on the creation of man from the dust, the planting of the garden in Eden, the command not to eat from the tree of the knowledge of good and evil, and the creation of woman from the man’s side. Marriage is established as a one-flesh union, and the first couple live unashamed.",
+   "questions": [
+    "Why do you think God “rested” on the seventh day? What does it model for us?",
+    "What does God’s single prohibition (2:16–17) say about freedom, trust, and boundaries?",
+    "How does 2:18–25 describe the purpose and nature of marriage?"
+   ],
+   "crossRefs": [
+    "Exodus 20:8–11",
+    "Matthew 19:4–6",
+    "Ephesians 5:31–32",
+    "Hebrews 4:9–10"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The Fall",
+   "summary": "The serpent questions God’s word, and Eve and then Adam eat the forbidden fruit. Shame, fear, and blame immediately follow. God confronts them, pronounces curses on the serpent and the ground and consequences for the man and woman, yet also gives the first promise of a coming offspring who will crush the serpent (3:15). God clothes them with garments of skin and sends them out of Eden.",
+   "questions": [
+    "How does the serpent twist God’s words (3:1–5)? Where do you hear similar lies today?",
+    "Trace the chain of blame in 3:9–13. Why is it so hard to own our sin?",
+    "Why is 3:15 often called the “first gospel”? Who is the promised offspring?",
+    "Where do you see God’s mercy mixed with judgment in this chapter?"
+   ],
+   "crossRefs": [
+    "Romans 5:12–19",
+    "1 Corinthians 15:21–22",
+    "Romans 16:20",
+    "Revelation 12:9"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Cain and Abel",
+   "summary": "Sin spreads to the next generation. God accepts Abel’s offering but not Cain’s, and Cain, warned that sin is “crouching at the door,” murders his brother. God sentences Cain to wander but marks him for protection. Cain’s line builds cities and culture but also grows violent (Lamech). Seth is born, and people begin to call upon the name of the LORD.",
+   "questions": [
+    "What does God’s warning to Cain in 4:7 teach about temptation and personal responsibility?",
+    "Why might God have accepted Abel’s offering but not Cain’s? (See Hebrews 11:4.)",
+    "Compare Cain’s line (4:17–24) with Seth’s (4:25–26). What two paths are being contrasted?"
+   ],
+   "crossRefs": [
+    "Hebrews 11:4",
+    "1 John 3:11–12",
+    "Hebrews 12:24",
+    "Jude 11"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "From Adam to Noah",
+   "summary": "A genealogy traces the line from Adam through Seth to Noah. Its repeated refrain “and he died” shows the reign of death after the fall. The exception is Enoch, who “walked with God, and he was not, for God took him.” Lamech names his son Noah, hoping he will bring relief from the cursed ground.",
+   "questions": [
+    "What is the effect of the repeated phrase “and he died”?",
+    "What does it mean that Enoch “walked with God” (5:22–24)? What would that look like in your life?",
+    "How does this genealogy keep the promise of 3:15 moving forward?"
+   ],
+   "crossRefs": [
+    "Hebrews 11:5–6",
+    "Jude 14–15",
+    "Luke 3:36–38",
+    "Romans 5:14"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Wickedness and the Call of Noah",
+   "summary": "Human wickedness grows so great that “every intention of the thoughts of his heart was only evil continually.” The LORD is grieved and resolves to judge the earth, but Noah finds favor in His eyes. God tells Noah, a righteous man who walked with God, to build an ark and promises to establish His covenant with him.",
+   "questions": [
+    "How does 6:5–6 describe the depth of human sin and God’s response to it?",
+    "Noah “found favor” (6:8) before he is described as righteous (6:9). Why is that order significant?",
+    "Noah “did all that God commanded him” (6:22). What does long-term obedience look like for you?"
+   ],
+   "crossRefs": [
+    "Hebrews 11:7",
+    "Matthew 24:37–39",
+    "2 Peter 2:5",
+    "1 Peter 3:20"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "The Flood",
+   "summary": "Noah, his family, and the animals enter the ark, and the LORD shuts them in. For forty days the waters pour down and rise until even the mountains are covered. Every living thing on the land dies; only Noah and those with him in the ark survive.",
+   "questions": [
+    "What is the significance of the LORD Himself shutting the door of the ark (7:16)?",
+    "How does the flood reverse the creation of Genesis 1?",
+    "How is the ark a picture of salvation in Christ?"
+   ],
+   "crossRefs": [
+    "1 Peter 3:20–21",
+    "Luke 17:26–27",
+    "2 Peter 3:5–7"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "The Waters Recede",
+   "summary": "“But God remembered Noah.” The waters subside, the ark rests on the mountains of Ararat, and Noah sends out a raven and a dove until the earth is dry. Noah leaves the ark and builds an altar, and the LORD promises never again to curse the ground or strike down every living creature in this way while the earth remains.",
+   "questions": [
+    "What does it mean that God “remembered” Noah (8:1)?",
+    "Why is Noah’s first act after leaving the ark to build an altar? What does that teach about worship?",
+    "God makes His promise even though “the intention of man’s heart is evil from his youth” (8:21). What does this reveal about grace?"
+   ],
+   "crossRefs": [
+    "Exodus 2:24",
+    "Psalm 29:10",
+    "Isaiah 54:9"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "God’s Covenant with Noah",
+   "summary": "God blesses Noah and his sons, renews the creation mandate, and establishes the sanctity of human life because humans are made in God’s image. He makes a covenant never again to destroy the earth by flood, with the rainbow as its sign. The chapter ends with Noah’s drunkenness, Ham’s dishonor, and the curse on Canaan.",
+   "questions": [
+    "How does 9:6 ground the value of human life in the image of God?",
+    "What does the rainbow covenant teach about God’s faithfulness to all creation?",
+    "What does Noah’s failure (9:20–27) show us about even the most faithful people?"
+   ],
+   "crossRefs": [
+    "Romans 13:4",
+    "Isaiah 54:9–10",
+    "Revelation 4:3",
+    "James 3:9"
+   ]
+  },
+  {
+   "n": 10,
+   "title": "The Table of Nations",
+   "summary": "The descendants of Shem, Ham, and Japheth spread out across the earth, forming the nations, lands, and languages of the ancient world. This list sets the stage for God’s later promise that through Abraham “all the families of the earth” will be blessed.",
+   "questions": [
+    "Why do you think Genesis carefully records the origins of so many nations?",
+    "How does this chapter prepare for God’s global purpose in 12:3?",
+    "How does Acts 17:26 connect to this chapter?"
+   ],
+   "crossRefs": [
+    "Acts 17:26",
+    "Deuteronomy 32:8",
+    "Revelation 7:9"
+   ]
+  },
+  {
+   "n": 11,
+   "title": "The Tower of Babel; Shem to Abram",
+   "summary": "United by one language, people build a city and a tower to “make a name” for themselves and avoid being scattered. God confuses their language and scatters them. A genealogy then narrows from Shem to Terah and introduces Abram and his barren wife Sarai, who move from Ur toward Canaan but settle in Haran.",
+   "questions": [
+    "What was wrong with wanting to “make a name for ourselves” (11:4)? How do we do the same?",
+    "Compare 11:4 with God’s promise to Abram in 12:2. Who makes Abram’s name great?",
+    "How does Pentecost (Acts 2) reverse Babel?"
+   ],
+   "crossRefs": [
+    "Acts 2:5–11",
+    "Revelation 7:9–10",
+    "Joshua 24:2"
+   ]
+  },
+  {
+   "n": 12,
+   "title": "The Call of Abram",
+   "summary": "God calls Abram to leave his country and family and go to a land He will show him, promising to make him a great nation, to bless him, and to bless all the families of the earth through him. Abram obeys at 75 and builds altars in Canaan. But when famine comes he goes to Egypt and, out of fear, passes Sarai off as his sister, and God protects her.",
+   "questions": [
+    "List the promises of 12:1–3. Which of them reach all the way to you?",
+    "What did Abram have to leave behind? What might God be calling you to leave?",
+    "How does Abram’s fear in Egypt (12:10–20) contrast with his faith in 12:4?"
+   ],
+   "crossRefs": [
+    "Hebrews 11:8–10",
+    "Galatians 3:8–9",
+    "Acts 7:2–4"
+   ]
+  },
+  {
+   "n": 13,
+   "title": "Abram and Lot Separate",
+   "summary": "Abram and Lot’s herds grow too large to live together. Abram graciously lets Lot choose first, and Lot chooses the well-watered Jordan Valley near wicked Sodom. God then renews His promise of land and countless offspring to Abram.",
+   "questions": [
+    "What does Abram’s generosity in 13:8–9 show about his trust in God?",
+    "Lot chose by sight (13:10). How do we make choices based on appearances?",
+    "Why does God renew His promise right after Lot leaves (13:14–17)?"
+   ],
+   "crossRefs": [
+    "2 Corinthians 5:7",
+    "Philippians 2:3–4",
+    "2 Peter 2:7–8"
+   ]
+  },
+  {
+   "n": 14,
+   "title": "Abram Rescues Lot; Melchizedek",
+   "summary": "Four eastern kings defeat the kings of the Jordan Valley and capture Lot. Abram leads 318 trained men to rescue him. Returning, Abram is blessed by Melchizedek, king of Salem and priest of God Most High, and gives him a tenth of everything, but he refuses any reward from the king of Sodom.",
+   "questions": [
+    "Why does Abram refuse the king of Sodom’s offer (14:22–24)?",
+    "Who is Melchizedek, and how does Hebrews 7 connect him to Jesus?",
+    "What does Abram’s tithe teach about acknowledging God as the source of victory?"
+   ],
+   "crossRefs": [
+    "Hebrews 7:1–17",
+    "Psalm 110:4",
+    "Proverbs 3:9"
+   ]
+  },
+  {
+   "n": 15,
+   "title": "God’s Covenant with Abram",
+   "summary": "Abram, still childless, questions God. God brings him outside to count the stars and promises offspring as numerous. Abram believes the LORD, and it is counted to him as righteousness. God then confirms the land promise in a solemn covenant ceremony, passing alone between the animal pieces, and foretells Israel’s 400 years of affliction and deliverance.",
+   "questions": [
+    "Why is 15:6 so central to the whole Bible’s teaching on faith and righteousness?",
+    "What does it mean that only God (the smoking fire pot and flaming torch) passed between the pieces?",
+    "Abram honestly brings his doubts to God (15:2–3). How can you do the same?"
+   ],
+   "crossRefs": [
+    "Romans 4:1–25",
+    "Galatians 3:6–9",
+    "James 2:23",
+    "Exodus 12:40–41"
+   ]
+  },
+  {
+   "n": 16,
+   "title": "Hagar and Ishmael",
+   "summary": "Impatient for the promised child, Sarai gives her Egyptian servant Hagar to Abram, and Hagar conceives. Conflict follows, and Hagar flees. The angel of the LORD meets her in the wilderness, promises her a son named Ishmael, and Hagar calls God “El Roi,” the God who sees.",
+   "questions": [
+    "What went wrong when Sarai and Abram tried to fulfill God’s promise their own way?",
+    "What does it mean to you that God is “a God of seeing” (16:13)?",
+    "How does God care for Hagar, an outsider with little power?"
+   ],
+   "crossRefs": [
+    "Galatians 4:21–31",
+    "Psalm 139:1–4",
+    "Psalm 33:18"
+   ]
+  },
+  {
+   "n": 17,
+   "title": "The Covenant of Circumcision",
+   "summary": "When Abram is 99, God appears as God Almighty (El Shaddai), renames him Abraham (“father of a multitude”) and Sarai Sarah, and gives circumcision as the sign of the everlasting covenant. God promises that Sarah herself will bear a son, Isaac, while also blessing Ishmael.",
+   "questions": [
+    "Why do you think God changed Abram’s and Sarai’s names?",
+    "What did circumcision signify, and how does the New Testament speak of circumcision of the heart?",
+    "Abraham laughed (17:17). How do God’s promises sometimes seem impossible to us?"
+   ],
+   "crossRefs": [
+    "Romans 4:9–12",
+    "Colossians 2:11–12",
+    "Deuteronomy 30:6"
+   ]
+  },
+  {
+   "n": 18,
+   "title": "The LORD Visits Abraham; Intercession for Sodom",
+   "summary": "Three visitors come to Abraham at Mamre, and he shows them generous hospitality. The LORD promises that Sarah will have a son within a year; Sarah laughs, and the LORD asks, “Is anything too hard for the LORD?” Abraham then boldly intercedes for Sodom, asking if God will spare it for fifty, and eventually ten, righteous people.",
+   "questions": [
+    "What can we learn from Abraham’s hospitality (18:1–8)? See Hebrews 13:2.",
+    "Answer the question of 18:14 for a situation in your own life.",
+    "What does Abraham’s intercession teach about prayer and about God’s justice?"
+   ],
+   "crossRefs": [
+    "Hebrews 13:2",
+    "Luke 1:37",
+    "James 5:16",
+    "Jeremiah 32:17"
+   ]
+  },
+  {
+   "n": 19,
+   "title": "Sodom and Gomorrah Destroyed",
+   "summary": "Two angels arrive in Sodom, and Lot takes them in. The men of the city surround the house in violent wickedness. The angels urge Lot’s family to flee; Lot lingers, and they are dragged out by the hand because the LORD was merciful. Fire rains on Sodom and Gomorrah, Lot’s wife looks back and becomes a pillar of salt, and Lot’s daughters later bear Moab and Ammon.",
+   "questions": [
+    "Lot “lingered” (19:16). Where are you tempted to linger near sin?",
+    "Why did Jesus say, “Remember Lot’s wife” (Luke 17:32)?",
+    "How does 19:29 connect Lot’s rescue to Abraham’s prayer?"
+   ],
+   "crossRefs": [
+    "Luke 17:28–32",
+    "2 Peter 2:6–9",
+    "Jude 7",
+    "Ezekiel 16:49–50"
+   ]
+  },
+  {
+   "n": 20,
+   "title": "Abraham and Abimelech",
+   "summary": "Abraham again claims Sarah is his sister, this time in Gerar, and King Abimelech takes her. God warns Abimelech in a dream and keeps him from touching her. Abimelech rebukes Abraham, returns Sarah with gifts, and Abraham prays for Abimelech’s household to be healed.",
+   "questions": [
+    "Why do you think Abraham repeated the same sin from chapter 12?",
+    "How does God protect His promise even when Abraham fails?",
+    "What patterns of sin do you find yourself repeating, and how does God’s faithfulness encourage you?"
+   ],
+   "crossRefs": [
+    "2 Timothy 2:13",
+    "Psalm 105:12–15",
+    "1 John 1:9"
+   ]
+  },
+  {
+   "n": 21,
+   "title": "The Birth of Isaac",
+   "summary": "The LORD visits Sarah as He promised, and she bears Isaac to 100-year-old Abraham. Sarah’s laughter turns to joy. At Sarah’s demand, Hagar and Ishmael are sent away, and God provides water for them in the wilderness. Abraham makes a treaty with Abimelech at Beersheba and calls on the name of the LORD, the Everlasting God.",
+   "questions": [
+    "How does 21:1–2 emphasize God’s faithfulness to His exact word?",
+    "How is God compassionate toward Hagar and Ishmael (21:15–21)?",
+    "What promise has God kept in your life that you once laughed at or doubted?"
+   ],
+   "crossRefs": [
+    "Hebrews 11:11–12",
+    "Galatians 4:28–31",
+    "Romans 9:7–9"
+   ]
+  },
+  {
+   "n": 22,
+   "title": "The Binding of Isaac",
+   "summary": "God tests Abraham by commanding him to offer Isaac as a burnt offering on Mount Moriah. Abraham obeys, telling Isaac, “God will provide for himself the lamb.” At the last moment the angel of the LORD stops him, and God provides a ram in Isaac’s place. Abraham names the place “The LORD will provide,” and God reaffirms His promise with an oath.",
+   "questions": [
+    "Why would God test Abraham this way? What was being revealed?",
+    "How does Hebrews 11:17–19 explain Abraham’s faith in this moment?",
+    "List the parallels between Isaac and Jesus (the beloved son, the wood, the mountain, the substitute).",
+    "What “Isaac” might God be asking you to hold with an open hand?"
+   ],
+   "crossRefs": [
+    "Hebrews 11:17–19",
+    "John 3:16",
+    "Romans 8:32",
+    "James 2:21–23",
+    "2 Chronicles 3:1"
+   ]
+  },
+  {
+   "n": 23,
+   "title": "Sarah’s Death and Burial",
+   "summary": "Sarah dies at 127, and Abraham mourns her. As a sojourner in the land, he negotiates with the Hittites and buys the field and cave of Machpelah near Hebron as a burial place, the first piece of the promised land he legally owns.",
+   "questions": [
+    "Why is it significant that Abraham insists on paying full price for the cave?",
+    "How is this small plot of land a down payment on God’s promise?",
+    "How does Abraham model grief combined with hope?"
+   ],
+   "crossRefs": [
+    "Hebrews 11:13–16",
+    "Acts 7:5",
+    "1 Thessalonians 4:13–14"
+   ]
+  },
+  {
+   "n": 24,
+   "title": "A Wife for Isaac",
+   "summary": "Abraham sends his servant to his relatives to find a wife for Isaac. The servant prays for a specific sign, and before he finishes praying Rebekah appears and fulfills it. Rebekah’s family agrees, Rebekah willingly goes, and Isaac takes her as his wife and loves her.",
+   "questions": [
+    "What stands out to you about the servant’s prayer and his response to God’s answer (24:12–27)?",
+    "How does God’s guidance work through ordinary circumstances in this chapter?",
+    "What can we learn from Rebekah’s willingness to say “I will go” (24:58)?"
+   ],
+   "crossRefs": [
+    "Proverbs 3:5–6",
+    "Proverbs 19:14",
+    "Philippians 4:6"
+   ]
+  },
+  {
+   "n": 25,
+   "title": "Abraham’s Death; Jacob and Esau",
+   "summary": "Abraham dies “in a good old age” and is buried by Isaac and Ishmael. Ishmael’s descendants are listed. Rebekah, barren for twenty years, conceives twins after Isaac prays, and God declares that the older will serve the younger. Esau becomes a hunter and Jacob a quiet man, and Esau despises his birthright, selling it for a bowl of stew.",
+   "questions": [
+    "What does God’s word in 25:23 teach about His choice not being based on human rank?",
+    "Why does Hebrews 12:16 warn us not to be like Esau?",
+    "What are some “bowls of stew” that tempt us to trade lasting blessings for momentary desires?"
+   ],
+   "crossRefs": [
+    "Romans 9:10–13",
+    "Hebrews 12:16–17",
+    "Malachi 1:2–3"
+   ]
+  },
+  {
+   "n": 26,
+   "title": "God’s Promise to Isaac",
+   "summary": "During a famine God tells Isaac not to go to Egypt and confirms the Abrahamic promises to him. Isaac repeats his father’s sister-lie in Gerar. Blessed with great harvests, he faces envy and disputes over wells, but keeps moving and digging until there is room. God appears at Beersheba, and Abimelech seeks a peace treaty.",
+   "questions": [
+    "How is Isaac both like and unlike his father in this chapter?",
+    "What does Isaac’s response to the well disputes teach about peacemaking?",
+    "How does God’s promise pass from one generation to the next?"
+   ],
+   "crossRefs": [
+    "Romans 12:18",
+    "Matthew 5:9",
+    "Psalm 37:11"
+   ]
+  },
+  {
+   "n": 27,
+   "title": "Jacob Steals Esau’s Blessing",
+   "summary": "Isaac, old and blind, plans to bless Esau. Rebekah and Jacob scheme to deceive him, and Jacob, disguised as his brother, receives the blessing of the firstborn. Esau weeps bitterly and vows to kill Jacob, so Rebekah arranges for Jacob to flee to her brother Laban.",
+   "questions": [
+    "List every person in this chapter who acts wrongly. What does that say about this family?",
+    "How does God’s purpose (25:23) still go forward through sinful choices?",
+    "What did deception cost Rebekah and Jacob?"
+   ],
+   "crossRefs": [
+    "Hebrews 11:20",
+    "Hebrews 12:17",
+    "Proverbs 19:21"
+   ]
+  },
+  {
+   "n": 28,
+   "title": "Jacob’s Dream at Bethel",
+   "summary": "Isaac blesses Jacob and sends him away to find a wife among Rebekah’s family. On the way, Jacob dreams of a stairway reaching to heaven with angels ascending and descending, and the LORD standing above it, renewing the Abrahamic promise and pledging to be with him. Jacob names the place Bethel (“house of God”) and makes a vow.",
+   "questions": [
+    "Jacob is a fugitive when God meets him. What does this show about grace?",
+    "How does Jesus apply this dream to Himself in John 1:51?",
+    "Jacob said, “Surely the LORD is in this place, and I did not know it” (28:16). Where might God be present in your life that you have overlooked?"
+   ],
+   "crossRefs": [
+    "John 1:51",
+    "Hebrews 13:5",
+    "Psalm 139:7–10"
+   ]
+  },
+  {
+   "n": 29,
+   "title": "Jacob Marries Leah and Rachel",
+   "summary": "Jacob meets Rachel at a well and serves Laban seven years for her, which seem “but a few days” because of his love. On the wedding night Laban substitutes Leah, and the deceiver is deceived. Jacob serves seven more years for Rachel. Unloved Leah bears Reuben, Simeon, Levi, and Judah, and with Judah’s birth she says, “This time I will praise the LORD.”",
+   "questions": [
+    "How does Jacob experience the same kind of deception he used on his father?",
+    "Trace Leah’s naming of her sons (29:32–35). How does her focus shift?",
+    "How does God care for the overlooked and unloved in this story?"
+   ],
+   "crossRefs": [
+    "Galatians 6:7",
+    "Psalm 68:5–6",
+    "Matthew 1:2–3"
+   ]
+  },
+  {
+   "n": 30,
+   "title": "Jacob’s Children and Prosperity",
+   "summary": "Rivalry between Rachel and Leah drives a competition to bear children, including through their servants Bilhah and Zilpah. Eleven sons and a daughter, Dinah, are born, and at last God remembers Rachel, who bears Joseph. Jacob then outwits Laban in their agreement over the flocks, and God prospers him greatly.",
+   "questions": [
+    "What damage does jealousy do in this family?",
+    "What does 30:22 (“God remembered Rachel”) teach about God’s timing?",
+    "How does God bless Jacob in spite of Laban’s schemes (see 31:7–9)?"
+   ],
+   "crossRefs": [
+    "James 3:16",
+    "1 Samuel 1:19–20",
+    "Psalm 127:3"
+   ]
+  },
+  {
+   "n": 31,
+   "title": "Jacob Flees from Laban",
+   "summary": "God tells Jacob to return to his homeland. Jacob leaves secretly with his family and flocks, and Rachel steals her father’s household gods. Laban pursues, but God warns him in a dream not to harm Jacob. After a heated confrontation, the two make a covenant at Mizpah and set up a heap of stones as a witness.",
+   "questions": [
+    "How had God protected Jacob during twenty years with Laban (31:38–42)?",
+    "Why might Rachel have taken the household gods? What idols do we carry with us?",
+    "What does a boundary like the Mizpah covenant teach about resolving conflict?"
+   ],
+   "crossRefs": [
+    "Psalm 124:1–3",
+    "Romans 8:31",
+    "1 John 5:21"
+   ]
+  },
+  {
+   "n": 32,
+   "title": "Jacob Wrestles with God",
+   "summary": "Jacob fearfully prepares to meet Esau, dividing his camp, sending gifts, and praying a humble prayer that rests on God’s promises. Alone at the Jabbok at night, he wrestles with a man until daybreak and refuses to let go without a blessing. He is renamed Israel, leaves limping, and calls the place Peniel: “I have seen God face to face, and yet my life has been delivered.”",
+   "questions": [
+    "What stands out to you in Jacob’s prayer (32:9–12)?",
+    "Why do you think God left Jacob with a limp?",
+    "What does it mean to “wrestle” with God in prayer? Have you experienced this?"
+   ],
+   "crossRefs": [
+    "Hosea 12:3–4",
+    "2 Corinthians 12:7–10",
+    "Luke 18:1"
+   ]
+  },
+  {
+   "n": 33,
+   "title": "Jacob Meets Esau",
+   "summary": "Esau runs to meet Jacob and embraces him, and the brothers weep together. Jacob says that seeing Esau’s face is “like seeing the face of God.” Jacob declines to travel with Esau and settles at Succoth and then Shechem, where he buys land and builds an altar called “God, the God of Israel.”",
+   "questions": [
+    "How does the reunion exceed Jacob’s fears?",
+    "How does Esau’s welcome picture the father in Luke 15:20?",
+    "Is there a relationship in your life where God might be preparing reconciliation?"
+   ],
+   "crossRefs": [
+    "Luke 15:20",
+    "Matthew 5:23–24",
+    "Proverbs 16:7"
+   ]
+  },
+  {
+   "n": 34,
+   "title": "Dinah and the Shechemites",
+   "summary": "Shechem, a local prince, violates Jacob’s daughter Dinah and then seeks to marry her. Jacob’s sons answer deceitfully, requiring the men of the city to be circumcised, and then Simeon and Levi slaughter the men while they are still sore. Jacob rebukes them for making him odious in the land.",
+   "questions": [
+    "How does this dark chapter show the danger of mixing with Canaanite culture and of answering evil with evil?",
+    "What do you make of Jacob’s passive response compared to his sons’ violent one?",
+    "How should God’s people respond to injustice? (See Romans 12:17–21.)"
+   ],
+   "crossRefs": [
+    "Romans 12:17–21",
+    "Genesis 49:5–7",
+    "Deuteronomy 22:28–29"
+   ]
+  },
+  {
+   "n": 35,
+   "title": "God Blesses and Renames Jacob",
+   "summary": "God tells Jacob to return to Bethel. Jacob orders his household to put away their foreign gods and purify themselves. At Bethel God again names him Israel and repeats the promises. Rachel dies giving birth to Benjamin, Reuben sins against his father, and Isaac dies and is buried by Esau and Jacob.",
+   "questions": [
+    "Why did Jacob need to put away foreign gods before returning to Bethel?",
+    "How does God’s renewed blessing (35:9–12) echo Genesis 1:28 and 17:6?",
+    "How do joy and sorrow mix in this chapter?"
+   ],
+   "crossRefs": [
+    "Joshua 24:14–15",
+    "2 Corinthians 6:16–7:1",
+    "Matthew 2:18"
+   ]
+  },
+  {
+   "n": 36,
+   "title": "Esau’s Descendants",
+   "summary": "A detailed record of Esau’s family, the chiefs of Edom, and the kings who reigned in Edom “before any king reigned over the Israelites.” Esau settles in the hill country of Seir.",
+   "questions": [
+    "Why include Esau’s genealogy in a book about the chosen line?",
+    "How does 36:31 hint at Israel’s future?",
+    "How does God keep His promise that Esau would also become a nation (27:39–40)?"
+   ],
+   "crossRefs": [
+    "Obadiah 1–21",
+    "Deuteronomy 2:4–5",
+    "Numbers 20:14–21"
+   ]
+  },
+  {
+   "n": 37,
+   "title": "Joseph’s Dreams; Sold into Slavery",
+   "summary": "Jacob favors seventeen-year-old Joseph and gives him a special robe. Joseph shares two dreams in which his family bows to him, and his brothers hate him. When Joseph visits them in the fields, they throw him into a pit and sell him to traders bound for Egypt, then deceive Jacob with his bloodied robe. Joseph is sold to Potiphar.",
+   "questions": [
+    "How did favoritism and pride contribute to this family’s crisis?",
+    "Notice that Jacob, once the deceiver with a goat and clothing (ch. 27), is deceived with a goat and clothing. What do you see?",
+    "Where is God in this chapter, even though He is not mentioned?"
+   ],
+   "crossRefs": [
+    "Acts 7:9–10",
+    "Psalm 105:16–19",
+    "James 1:14–15"
+   ]
+  },
+  {
+   "n": 38,
+   "title": "Judah and Tamar",
+   "summary": "Judah leaves his brothers, marries a Canaanite, and has three sons. When his sons die and Judah fails to give Tamar his youngest as promised, she disguises herself and conceives by Judah himself. Confronted with the evidence, Judah confesses, “She is more righteous than I.” Tamar bears twins, Perez and Zerah, and Perez becomes an ancestor of David and Jesus.",
+   "questions": [
+    "Why do you think this story interrupts the Joseph narrative?",
+    "What does Judah’s confession (38:26) show about the beginning of change in him?",
+    "What does Tamar’s place in Jesus’ genealogy (Matthew 1:3) say about grace?"
+   ],
+   "crossRefs": [
+    "Matthew 1:3",
+    "Ruth 4:12, 18–22",
+    "Deuteronomy 25:5–6"
+   ]
+  },
+  {
+   "n": 39,
+   "title": "Joseph and Potiphar’s Wife",
+   "summary": "In Potiphar’s house “the LORD was with Joseph,” and everything prospers under him. Potiphar’s wife repeatedly tries to seduce him, but Joseph refuses: “How then can I do this great wickedness and sin against God?” Falsely accused, he is thrown into prison, yet the LORD is with him there too and gives him favor.",
+   "questions": [
+    "How many times does the chapter say “the LORD was with Joseph”? Why does that matter?",
+    "What can we learn from how Joseph handled persistent temptation (39:8–12)?",
+    "How do you hold onto faith when doing right leads to suffering?"
+   ],
+   "crossRefs": [
+    "1 Corinthians 10:13",
+    "2 Timothy 2:22",
+    "1 Peter 2:19–20",
+    "Psalm 105:17–19"
+   ]
+  },
+  {
+   "n": 40,
+   "title": "Joseph Interprets Two Dreams",
+   "summary": "In prison Joseph meets Pharaoh’s cupbearer and baker, who each have a troubling dream. Joseph credits God with interpretations, and the cupbearer is restored while the baker is executed, just as Joseph said. Joseph asks the cupbearer to remember him, but the cupbearer forgets him.",
+   "questions": [
+    "How does Joseph point to God rather than himself (40:8)?",
+    "How does Joseph care for others while suffering himself (40:6–7)?",
+    "How do you handle seasons when you feel forgotten?"
+   ],
+   "crossRefs": [
+    "Daniel 2:27–28",
+    "Psalm 13:1–6",
+    "Isaiah 49:15"
+   ]
+  },
+  {
+   "n": 41,
+   "title": "Joseph Rises to Power",
+   "summary": "Two years later Pharaoh dreams of seven fat and seven thin cows and of seven good and seven withered ears of grain. The cupbearer remembers Joseph, who explains that God is revealing seven years of plenty followed by seven years of famine. Pharaoh makes Joseph, now 30, ruler over Egypt. Joseph stores grain, marries, and names his sons Manasseh and Ephraim.",
+   "questions": [
+    "How does God use 13 years of hardship to prepare Joseph for this moment?",
+    "What do the names Manasseh and Ephraim (41:51–52) reveal about Joseph’s heart?",
+    "How does Joseph show wisdom and stewardship in planning for the famine?"
+   ],
+   "crossRefs": [
+    "Acts 7:10",
+    "Psalm 105:20–22",
+    "Daniel 2:47–48",
+    "Luke 16:10"
+   ]
+  },
+  {
+   "n": 42,
+   "title": "Joseph’s Brothers Go to Egypt",
+   "summary": "Famine drives Jacob’s sons to Egypt to buy grain, and they bow before Joseph without recognizing him, fulfilling his dreams. Joseph speaks roughly, accuses them of spying, and keeps Simeon while sending the others home to bring Benjamin. The brothers connect their trouble with their guilt over Joseph.",
+   "questions": [
+    "Why do you think Joseph tested his brothers rather than revealing himself immediately?",
+    "How does guilt surface in the brothers’ words (42:21–22)?",
+    "Joseph weeps privately (42:24). What does this show about him?"
+   ],
+   "crossRefs": [
+    "Numbers 32:23",
+    "Psalm 32:3–5",
+    "Proverbs 28:13"
+   ]
+  },
+  {
+   "n": 43,
+   "title": "The Return to Egypt with Benjamin",
+   "summary": "As the famine worsens, Judah pledges his own life as security for Benjamin, and Jacob reluctantly lets him go. In Egypt the brothers are brought to Joseph’s house and fear a trap, but they are welcomed. Joseph is overcome at seeing Benjamin and hosts a feast where Benjamin receives five times as much as the others.",
+   "questions": [
+    "What change do you see in Judah (43:8–10) compared with chapter 37?",
+    "How does Jacob surrender control in 43:14?",
+    "Why might Joseph favor Benjamin at the meal? What is he testing?"
+   ],
+   "crossRefs": [
+    "Romans 8:28",
+    "Hebrews 7:22",
+    "Philippians 4:11–13"
+   ]
+  },
+  {
+   "n": 44,
+   "title": "Joseph’s Silver Cup",
+   "summary": "Joseph has his silver cup hidden in Benjamin’s sack and then has the brothers stopped and accused. When the cup is found, they all return. Joseph says only Benjamin must stay as a slave, but Judah steps forward with a moving plea, offering to remain as a slave in Benjamin’s place for the sake of their father.",
+   "questions": [
+    "How does this test show whether the brothers have changed since they sold Joseph?",
+    "In what ways does Judah’s offer to take Benjamin’s place anticipate Christ?",
+    "What evidence of true repentance do you see in this chapter?"
+   ],
+   "crossRefs": [
+    "Hebrews 7:14",
+    "Mark 10:45",
+    "2 Corinthians 7:10–11"
+   ]
+  },
+  {
+   "n": 45,
+   "title": "Joseph Reveals Himself",
+   "summary": "Unable to restrain himself, Joseph weeps aloud and says, “I am Joseph!” He tells his terrified brothers not to be distressed, because God sent him ahead to preserve life. Pharaoh invites Jacob’s whole family to Egypt, and Jacob, hearing that Joseph is alive, revives.",
+   "questions": [
+    "Count how many times Joseph says that God sent him (45:5–9). What does this reveal?",
+    "How does Joseph’s forgiveness model the gospel?",
+    "Is there someone you need to forgive with Joseph’s perspective on God’s sovereignty?"
+   ],
+   "crossRefs": [
+    "Acts 7:13–14",
+    "Ephesians 4:32",
+    "Colossians 3:13",
+    "Romans 8:28"
+   ]
+  },
+  {
+   "n": 46,
+   "title": "Jacob Goes to Egypt",
+   "summary": "At Beersheba God speaks to Jacob in a vision: “Do not be afraid to go down to Egypt, for there I will make you into a great nation.” Seventy members of Jacob’s family go to Egypt, and Jacob and Joseph are tearfully reunited in Goshen.",
+   "questions": [
+    "Why might Jacob have been afraid to go to Egypt?",
+    "How does God’s promise in 46:3–4 connect to 15:13–14?",
+    "What does it mean to you that God promises “I myself will go down with you”?"
+   ],
+   "crossRefs": [
+    "Exodus 1:1–7",
+    "Deuteronomy 10:22",
+    "Acts 7:14–15",
+    "Isaiah 41:10"
+   ]
+  },
+  {
+   "n": 47,
+   "title": "Jacob’s Family Settles in Goshen",
+   "summary": "Joseph presents his family to Pharaoh, and they settle in Goshen. Jacob blesses Pharaoh. As the famine deepens, Joseph acquires money, livestock, land, and people for Pharaoh in exchange for food, keeping Egypt alive. Near death, Jacob makes Joseph swear to bury him in Canaan.",
+   "questions": [
+    "What is significant about Jacob (a shepherd and sojourner) blessing Pharaoh?",
+    "How does Jacob describe his life in 47:9? How would you describe yours?",
+    "Why was it so important to Jacob to be buried in Canaan?"
+   ],
+   "crossRefs": [
+    "Hebrews 11:21",
+    "Hebrews 7:7",
+    "1 Peter 2:11"
+   ]
+  },
+  {
+   "n": 48,
+   "title": "Jacob Blesses Ephraim and Manasseh",
+   "summary": "Jacob adopts Joseph’s sons Ephraim and Manasseh as his own. When he blesses them, he crosses his hands, deliberately placing his right hand on the younger, Ephraim. He speaks of “the God who has been my shepherd all my life long.”",
+   "questions": [
+    "How does the younger-over-older pattern appear again here? Where else have you seen it in Genesis?",
+    "What does Jacob mean by calling God “my shepherd all my life long” (48:15)?",
+    "How might you pass on a blessing of faith to the next generation?"
+   ],
+   "crossRefs": [
+    "Hebrews 11:21",
+    "Psalm 23:1",
+    "Psalm 78:4–7"
+   ]
+  },
+  {
+   "n": 49,
+   "title": "Jacob Blesses His Twelve Sons",
+   "summary": "On his deathbed Jacob speaks prophetic words over each of his sons, foretelling the future of the tribes. Reuben loses preeminence, Simeon and Levi are scattered for their violence, and Judah receives the promise of royalty: the scepter will not depart from Judah. Joseph receives a rich blessing. Jacob charges them to bury him at Machpelah and dies.",
+   "questions": [
+    "How do the sons’ past actions shape the words spoken over them?",
+    "Why is the blessing on Judah (49:8–12) so important for the rest of the Bible?",
+    "How does Revelation 5:5 connect Jesus to this chapter?"
+   ],
+   "crossRefs": [
+    "Revelation 5:5",
+    "Hebrews 7:14",
+    "Numbers 24:17",
+    "Deuteronomy 33"
+   ]
+  },
+  {
+   "n": 50,
+   "title": "Joseph’s Final Days",
+   "summary": "Joseph and the Egyptians mourn Jacob, and a great procession buries him in Canaan. Afterward, Joseph’s brothers fear revenge, but Joseph weeps and assures them: “You meant evil against me, but God meant it for good.” Joseph lives to 110 and, confident in God’s promise, makes Israel swear to carry his bones to the promised land.",
+   "questions": [
+    "Why do the brothers still fear Joseph after 17 years (50:15)? How does guilt linger?",
+    "How does 50:20 summarize the whole Joseph story, and even the gospel?",
+    "Why does Hebrews 11:22 highlight Joseph’s instruction about his bones?",
+    "Genesis begins with life in a garden and ends with a coffin in Egypt. What hope is left at the end?"
+   ],
+   "crossRefs": [
+    "Romans 8:28",
+    "Acts 2:23–24",
+    "Hebrews 11:22",
+    "Exodus 13:19",
+    "Joshua 24:32"
+   ]
+  }
+ ]
+}
