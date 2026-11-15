@@ -98,7 +98,7 @@ def main():
     open(os.path.join(ROOT, "js/books.js"), "w").write(js)
     # sw.js cache list + version
     sw = open(os.path.join(ROOT, "sw.js")).read()
-    core = ["./", "index.html", "css/style.css", "js/books.js", "js/app.js", "manifest.webmanifest", "icons/icon-192.png"] + [f"data/{b}.json" for b, _, _ in bl if b in ready]
+    core = ["./", "index.html", "css/style.css", "js/books.js", "js/plans.js", "js/memory.js", "js/app.js", "manifest.webmanifest", "icons/icon-192.png"] + [f"data/{b}.json" for b, _, _ in bl if b in ready]
     sw = re.sub(r"const CORE = \[.*?\];", "const CORE = " + json.dumps(core) + ";", sw, flags=re.S)
     v = int(re.search(r'bsg-v(\d+)', sw)[1]) + 1
     sw = re.sub(r'bsg-v\d+', f"bsg-v{v}", sw)
