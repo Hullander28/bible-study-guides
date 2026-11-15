@@ -1,0 +1,150 @@
+{
+ "id": "philemon",
+ "name": "Philemon",
+ "chapters": 1,
+ "overview": {
+  "author": "The apostle Paul, with Timothy (1).",
+  "date": "About AD 60–62, during Paul’s Roman imprisonment, sent with Colossians.",
+  "audience": "Philemon, a wealthy believer in Colossae who hosted a house church, along with Apphia, Archippus, and the church.",
+  "setting": "Onesimus, Philemon’s slave, had run away, perhaps after wronging him, and met Paul in prison, where he became a Christian. Paul sends him back with this letter.",
+  "purpose": "To appeal to Philemon to welcome Onesimus back not merely as a slave but as a beloved brother, showing how the gospel transforms relationships.",
+  "structure": "Greeting and thanksgiving (1–7), Paul’s appeal for Onesimus (8–22), and closing greetings (23–25)."
+ },
+ "outline": [
+  {
+   "title": "Greeting and Thanksgiving",
+   "range": "1–7",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "Thanks for Philemon’s love and faith",
+     "range": "1–7"
+    }
+   ]
+  },
+  {
+   "title": "The Appeal",
+   "range": "8–25",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "Receive Onesimus as a brother",
+     "range": "8–22"
+    },
+    {
+     "title": "Greetings and blessing",
+     "range": "23–25"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Reconciliation",
+   "text": "The gospel restores broken relationships."
+  },
+  {
+   "title": "Brotherhood in Christ",
+   "text": "Onesimus is now “a beloved brother.”"
+  },
+  {
+   "title": "Love Over Command",
+   "text": "Paul appeals on the basis of love rather than authority."
+  },
+  {
+   "title": "Substitution",
+   "text": "“Charge that to my account” pictures Christ’s payment for us."
+  },
+  {
+   "title": "Changed Lives",
+   "text": "Onesimus (“useful”) was once useless but is now useful."
+  },
+  {
+   "title": "God’s Providence",
+   "text": "Perhaps he was parted for a while so Philemon might have him back forever."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Philemon 6",
+   "quote": "I pray that the sharing of your faith may become effective."
+  },
+  {
+   "ref": "Philemon 11",
+   "quote": "Formerly he was useless to you, but now he is indeed useful to you and to me."
+  },
+  {
+   "ref": "Philemon 16",
+   "quote": "No longer as a bondservant but more than a bondservant, as a beloved brother."
+  },
+  {
+   "ref": "Philemon 18",
+   "quote": "If he has wronged you at all, or owes you anything, charge that to my account."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "17–19",
+   "text": "Paul standing in for Onesimus pictures Christ, who takes our debt and presents us to the Father as Himself."
+  },
+  {
+   "ref": "16",
+   "text": "In Christ, social status is transformed by new brotherhood (Galatians 3:28)."
+  },
+  {
+   "ref": "3, 25",
+   "text": "Grace and peace come from the Lord Jesus Christ."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Colossians 4:7–9",
+   "note": "Onesimus sent with Tychicus."
+  },
+  {
+   "ref": "Colossians 3:11",
+   "note": "Christ is all and in all."
+  },
+  {
+   "ref": "Galatians 3:28",
+   "note": "All one in Christ."
+  },
+  {
+   "ref": "2 Corinthians 5:17–21",
+   "note": "The ministry of reconciliation."
+  },
+  {
+   "ref": "Ephesians 6:5–9",
+   "note": "Masters and servants."
+  }
+ ],
+ "reflection": [
+  "Is there someone you need to forgive and welcome back, as Philemon was asked to do?",
+  "How does “charge that to my account” help you understand what Christ did for you?",
+  "How does the gospel change the way you view people of different status?",
+  "Who has “refreshed the hearts” of others in your life (7), and how can you do the same?",
+  "How might God use a painful situation for good, as with Onesimus (15)?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "A Beloved Brother",
+   "summary": "Paul, a prisoner, thanks God for Philemon’s love and faith that have refreshed the hearts of the saints. Rather than command, he appeals in love for Onesimus, his “child” born in prison. Once useless, Onesimus is now useful. Paul sends him back, hoping Philemon will receive him “no longer as a bondservant but... as a beloved brother.” “If he has wronged you... charge that to my account.” Paul is confident Philemon will do even more, and asks him to prepare a guest room.",
+   "questions": [
+    "How does Paul show tact and love in his appeal (8–10)?",
+    "How does the gospel change Onesimus’s relationship with Philemon (16)?",
+    "How does Paul’s offer in 18–19 picture what Christ does for us?",
+    "What might “even more than I say” (21) have meant?"
+   ],
+   "crossRefs": [
+    "Colossians 4:7–9",
+    "Galatians 3:28",
+    "2 Corinthians 5:19–21"
+   ]
+  }
+ ],
+ "tagline": "Receive him as you would receive me: the gospel reconciles",
+ "readingPlan": "1 chapter: a short book you can read in one sitting, then work through the questions over a few days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

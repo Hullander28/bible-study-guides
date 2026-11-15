@@ -1,0 +1,187 @@
+{
+ "id": "titus",
+ "name": "Titus",
+ "chapters": 3,
+ "overview": {
+  "author": "The apostle Paul (1:1).",
+  "date": "About AD 62–64, between Paul’s two Roman imprisonments, around the time of 1 Timothy.",
+  "audience": "Titus, a Gentile co-worker whom Paul left in Crete to organize the churches.",
+  "setting": "Crete’s culture was known for dishonesty and laziness (1:12). False teachers, especially “of the circumcision party,” were upsetting households.",
+  "purpose": "To instruct Titus to appoint qualified elders, silence false teachers, and teach sound doctrine that leads every group in the church to godly living and good works, grounded in God’s grace.",
+  "structure": "Appointing elders and rebuking false teachers (1), teaching godly living rooted in grace (2), and doing good in society as those saved by mercy (3)."
+ },
+ "outline": [
+  {
+   "title": "Leadership in the Church",
+   "range": "1:1–16",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "Qualified elders and false teachers",
+     "range": "1:1–16"
+    }
+   ]
+  },
+  {
+   "title": "Living in the Church",
+   "range": "2:1–15",
+   "start": 2,
+   "end": 2,
+   "items": [
+    {
+     "title": "Instructions for every group; grace that trains",
+     "range": "2:1–15"
+    }
+   ]
+  },
+  {
+   "title": "Living in the World",
+   "range": "3:1–15",
+   "start": 3,
+   "end": 3,
+   "items": [
+    {
+     "title": "Saved by mercy to devote ourselves to good works",
+     "range": "3:1–15"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Sound Doctrine",
+   "text": "Teaching that is healthy and leads to godliness."
+  },
+  {
+   "title": "Qualified Leaders",
+   "text": "Elders must be above reproach and hold firm to the word."
+  },
+  {
+   "title": "Grace That Trains",
+   "text": "God’s grace saves and teaches us to renounce ungodliness."
+  },
+  {
+   "title": "Good Works",
+   "text": "Mentioned repeatedly as the fruit of true faith."
+  },
+  {
+   "title": "Adorning the Gospel",
+   "text": "Godly behavior makes the teaching about God attractive."
+  },
+  {
+   "title": "Salvation by Mercy",
+   "text": "God saved us by His mercy through washing and renewal by the Spirit."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Titus 2:11",
+   "quote": "For the grace of God has appeared, bringing salvation for all people."
+  },
+  {
+   "ref": "Titus 2:13",
+   "quote": "Waiting for our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ."
+  },
+  {
+   "ref": "Titus 3:5",
+   "quote": "He saved us, not because of works done by us in righteousness, but according to his own mercy."
+  },
+  {
+   "ref": "Titus 3:8",
+   "quote": "Those who have believed in God may be careful to devote themselves to good works."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "2:13",
+   "text": "Jesus Christ is called “our great God and Savior.”"
+  },
+  {
+   "ref": "2:14",
+   "text": "He gave Himself to redeem us and purify a people zealous for good works."
+  },
+  {
+   "ref": "3:4–6",
+   "text": "God’s kindness appeared, pouring out the Spirit richly through Jesus Christ our Savior."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "1 Timothy 3:1–13",
+   "note": "Qualifications for leaders."
+  },
+  {
+   "ref": "Galatians 2:1–3",
+   "note": "Titus in Jerusalem."
+  },
+  {
+   "ref": "Ephesians 2:8–10",
+   "note": "Saved by grace for good works."
+  },
+  {
+   "ref": "2 Corinthians 7:6–7",
+   "note": "Titus comforts Paul."
+  },
+  {
+   "ref": "1 Peter 2:11–17",
+   "note": "Good conduct among unbelievers."
+  }
+ ],
+ "reflection": [
+  "How does your life “adorn the doctrine of God” (2:10)?",
+  "What is grace currently training you to renounce, and to pursue (2:11–12)?",
+  "Who is an older believer who could mentor you, or a younger one you could mentor (2:3–8)?",
+  "Remember what you were (3:3). How does that shape your attitude toward unbelievers?",
+  "What good work is God calling you to devote yourself to (3:8, 14)?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Elders and False Teachers",
+   "summary": "Paul greets Titus and reminds him why he was left in Crete: to appoint elders in every town. An elder must be above reproach, faithful, not arrogant or greedy, hospitable, self-controlled, and holding firm to the trustworthy word, able to instruct and rebuke. False teachers must be silenced; they profess to know God but deny Him by their works.",
+   "questions": [
+    "Why does a leader’s character matter as much as skill?",
+    "Why must elders hold firm to sound doctrine (1:9)?",
+    "How can people deny God by their works (1:16)?"
+   ],
+   "crossRefs": [
+    "1 Timothy 3:1–7",
+    "Matthew 7:15–20",
+    "James 2:14–17"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Grace That Trains Us",
+   "summary": "Teach what accords with sound doctrine: older men, older women, younger women, younger men, and servants each receive instruction for godly living, so that the word of God may not be reviled and the gospel may be adorned. “For the grace of God has appeared... training us to renounce ungodliness.” We wait for the appearing of our great God and Savior Jesus Christ, who redeemed a people zealous for good works.",
+   "questions": [
+    "Why does Paul give instructions for different ages?",
+    "How does grace train us (2:11–12)?",
+    "What does 2:13–14 teach about Jesus and His purpose?"
+   ],
+   "crossRefs": [
+    "1 Peter 2:9",
+    "Philippians 2:14–16",
+    "2 Peter 3:11–13"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Saved by Mercy",
+   "summary": "Remind believers to submit to rulers, be ready for every good work, speak evil of no one, and show courtesy to all. We ourselves were once foolish and enslaved. “But when the goodness and loving kindness of God our Savior appeared, he saved us, not because of works... but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit.” Devote yourselves to good works; avoid foolish controversies and divisive people.",
+   "questions": [
+    "Why does remembering our past help us treat others well (3:3)?",
+    "What does 3:4–7 teach about how we are saved?",
+    "How should we respond to divisive people (3:10–11)?"
+   ],
+   "crossRefs": [
+    "Ephesians 2:1–10",
+    "John 3:5",
+    "Romans 13:1–7"
+   ]
+  }
+ ],
+ "tagline": "Sound doctrine that produces good works",
+ "readingPlan": "3 chapters: one chapter a day takes 3 days; two a day takes about 2 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

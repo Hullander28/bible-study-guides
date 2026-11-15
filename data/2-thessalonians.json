@@ -1,0 +1,195 @@
+{
+ "id": "2-thessalonians",
+ "name": "2 Thessalonians",
+ "chapters": 3,
+ "overview": {
+  "author": "The apostle Paul, with Silvanus and Timothy (1:1).",
+  "date": "About AD 51, from Corinth, a few months after 1 Thessalonians.",
+  "audience": "The church in Thessalonica.",
+  "setting": "Persecution had intensified. Some had been shaken by a false claim, perhaps in a letter claiming to be from Paul, that the day of the Lord had already come. Others had stopped working.",
+  "purpose": "To encourage the persecuted church with God’s justice, correct confusion about the day of the Lord, and command the idle to work.",
+  "structure": "Encouragement in persecution (1), events before the day of the Lord (2), and instructions on prayer and idleness (3)."
+ },
+ "outline": [
+  {
+   "title": "Comfort in Persecution",
+   "range": "1:1–12",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "God’s righteous judgment",
+     "range": "1:1–12"
+    }
+   ]
+  },
+  {
+   "title": "The Day of the Lord",
+   "range": "2:1–17",
+   "start": 2,
+   "end": 2,
+   "items": [
+    {
+     "title": "The man of lawlessness",
+     "range": "2:1–12"
+    },
+    {
+     "title": "Stand firm",
+     "range": "2:13–17"
+    }
+   ]
+  },
+  {
+   "title": "Instructions for the Church",
+   "range": "3:1–18",
+   "start": 3,
+   "end": 3,
+   "items": [
+    {
+     "title": "Prayer and the danger of idleness",
+     "range": "3:1–18"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Endurance",
+   "text": "Paul boasts of their steadfastness and faith in persecution."
+  },
+  {
+   "title": "God’s Justice",
+   "text": "God will repay those who afflict His people when Jesus is revealed."
+  },
+  {
+   "title": "The Day of the Lord",
+   "text": "It will not come before the rebellion and the man of lawlessness are revealed."
+  },
+  {
+   "title": "God’s Choice and Calling",
+   "text": "God chose them to be saved through sanctification and belief in truth."
+  },
+  {
+   "title": "Work",
+   "text": "“If anyone is not willing to work, let him not eat” (3:10)."
+  },
+  {
+   "title": "Faithfulness of God",
+   "text": "“The Lord is faithful. He will establish you and guard you” (3:3)."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "2 Thessalonians 2:15",
+   "quote": "So then, brothers, stand firm and hold to the traditions that you were taught by us."
+  },
+  {
+   "ref": "2 Thessalonians 3:3",
+   "quote": "But the Lord is faithful. He will establish you and guard you against the evil one."
+  },
+  {
+   "ref": "2 Thessalonians 3:5",
+   "quote": "May the Lord direct your hearts to the love of God and to the steadfastness of Christ."
+  },
+  {
+   "ref": "2 Thessalonians 3:13",
+   "quote": "As for you, brothers, do not grow weary in doing good."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1:7–10",
+   "text": "The Lord Jesus will be revealed from heaven to judge and to be glorified in His saints."
+  },
+  {
+   "ref": "2:8",
+   "text": "The Lord Jesus will destroy the lawless one with the breath of His mouth."
+  },
+  {
+   "ref": "2:14",
+   "text": "Believers are called to obtain the glory of our Lord Jesus Christ."
+  },
+  {
+   "ref": "3:16",
+   "text": "The Lord of peace gives peace at all times in every way."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "1 Thessalonians 4–5",
+   "note": "The Lord’s coming."
+  },
+  {
+   "ref": "Daniel 7:25; 11:36",
+   "note": "A blasphemous ruler."
+  },
+  {
+   "ref": "Matthew 24:4–31",
+   "note": "Warnings about deception before the end."
+  },
+  {
+   "ref": "Revelation 13",
+   "note": "The beast."
+  },
+  {
+   "ref": "Galatians 6:9",
+   "note": "Do not grow weary of doing good."
+  }
+ ],
+ "reflection": [
+  "How does knowing God will set things right help you endure unfair treatment?",
+  "How can you guard against being “quickly shaken” by teaching about the end times?",
+  "What truths do you need to “stand firm” in (2:15)?",
+  "How does Paul’s teaching on work apply to your responsibilities?",
+  "Where are you tempted to grow weary in doing good?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Glorified in His Saints",
+   "summary": "Paul thanks God that their faith is growing and their love increasing, and he boasts of their steadfastness in persecution. God will repay affliction to those who afflict them and grant relief when the Lord Jesus is revealed from heaven with His angels. Paul prays that God will make them worthy of His calling and that Jesus’ name will be glorified in them.",
+   "questions": [
+    "How is suffering evidence of God’s work in them (1:4–5)?",
+    "What will happen when Jesus is revealed (1:7–10)?",
+    "What does Paul pray in 1:11–12?"
+   ],
+   "crossRefs": [
+    "Romans 12:19",
+    "Matthew 25:31–46",
+    "1 Peter 4:12–14"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "The Man of Lawlessness",
+   "summary": "Paul tells them not to be shaken by claims that the day of the Lord has come. First the rebellion must come and the man of lawlessness be revealed, who exalts himself and takes his seat in God’s temple. Something now restrains him. The Lord Jesus will destroy him by His appearing. Those who refuse to love the truth will be deceived. But God chose believers for salvation, so stand firm.",
+   "questions": [
+    "Why does Paul warn against being quickly shaken (2:2)?",
+    "What characterizes the man of lawlessness (2:3–4, 9–10)?",
+    "Why do people believe lies (2:10–12)?"
+   ],
+   "crossRefs": [
+    "Daniel 11:36",
+    "Matthew 24:24",
+    "1 John 2:18"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Do Not Grow Weary",
+   "summary": "Paul asks for prayer that the word would speed ahead. The Lord is faithful and will guard them. Paul commands them to keep away from idle believers. He worked night and day to set an example: “If anyone is not willing to work, let him not eat.” Do not grow weary in doing good. Warn the disobedient as brothers. “The Lord of peace himself give you peace at all times in every way.”",
+   "questions": [
+    "What does Paul ask them to pray (3:1–2)?",
+    "Why does Paul take idleness so seriously?",
+    "How should the church treat a disobedient brother (3:14–15)?"
+   ],
+   "crossRefs": [
+    "1 Thessalonians 4:11–12",
+    "Galatians 6:9",
+    "Ephesians 4:28"
+   ]
+  }
+ ],
+ "tagline": "Stand firm until the Lord comes, and do not grow weary in doing good",
+ "readingPlan": "3 chapters: one chapter a day takes 3 days; two a day takes about 2 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}
