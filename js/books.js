@@ -4,7 +4,7 @@ window.BOOKS = (function () {
   return [
     ...S("OT", "Law", [["genesis","Genesis",50,true],["exodus","Exodus",40,true],["leviticus","Leviticus",27,true],["numbers","Numbers",36,true],["deuteronomy","Deuteronomy",34,true]]),
     ...S("OT", "History", [["joshua","Joshua",24,true],["judges","Judges",21,true],["ruth","Ruth",4,true],["1-samuel","1 Samuel",31,true],["2-samuel","2 Samuel",24,true],["1-kings","1 Kings",22,true],["2-kings","2 Kings",25,true],["1-chronicles","1 Chronicles",29,true],["2-chronicles","2 Chronicles",36,true],["ezra","Ezra",10,true],["nehemiah","Nehemiah",13,true],["esther","Esther",10,true]]),
-    ...S("OT", "Wisdom & Poetry", [["job","Job",42],["psalms","Psalms",150],["proverbs","Proverbs",31],["ecclesiastes","Ecclesiastes",12],["song-of-solomon","Song of Solomon",8]]),
+    ...S("OT", "Wisdom & Poetry", [["job","Job",42,true],["psalms","Psalms",150,true],["proverbs","Proverbs",31,true],["ecclesiastes","Ecclesiastes",12,true],["song-of-solomon","Song of Solomon",8,true]]),
     ...S("OT", "Major Prophets", [["isaiah","Isaiah",66],["jeremiah","Jeremiah",52],["lamentations","Lamentations",5],["ezekiel","Ezekiel",48],["daniel","Daniel",12]]),
     ...S("OT", "Minor Prophets", [["hosea","Hosea",14],["joel","Joel",3],["amos","Amos",9],["obadiah","Obadiah",1],["jonah","Jonah",4],["micah","Micah",7],["nahum","Nahum",3],["habakkuk","Habakkuk",3],["zephaniah","Zephaniah",3],["haggai","Haggai",2],["zechariah","Zechariah",14],["malachi","Malachi",4]]),
     ...S("NT", "Gospels", [["matthew","Matthew",28],["mark","Mark",16],["luke","Luke",24],["john","John",21]]),

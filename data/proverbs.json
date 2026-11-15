@@ -1,0 +1,659 @@
+{
+ "id": "proverbs",
+ "name": "Proverbs",
+ "chapters": 31,
+ "overview": {
+  "author": "Mainly Solomon (1:1; 10:1; 25:1), with sections by “the wise” (22:17; 24:23), Agur (30), and King Lemuel (31). Hezekiah’s men copied some of Solomon’s proverbs (25:1).",
+  "date": "Most proverbs come from Solomon’s reign (about 970–930 BC). The collection was completed around Hezekiah’s time (about 700 BC) or later.",
+  "audience": "Originally young men being trained for life and leadership (“my son”), and all of God’s people seeking skill in godly living.",
+  "setting": "Israel’s royal court and households, applied to everyday life: family, work, speech, money, friendship, and justice.",
+  "purpose": "To teach wisdom, the skill of living well in God’s world, grounded in the fear of the LORD, and to contrast the path of wisdom with the path of folly.",
+  "structure": "Long poems on wisdom (1–9), short proverbs of Solomon (10:1–22:16), sayings of the wise (22:17–24:34), Hezekiah’s collection (25–29), and the words of Agur and Lemuel, including the excellent wife (30–31)."
+ },
+ "outline": [
+  {
+   "title": "The Call of Wisdom",
+   "range": "1:1–9:18",
+   "start": 1,
+   "end": 9,
+   "items": [
+    {
+     "title": "Purpose and prologue",
+     "range": "1:1–7"
+    },
+    {
+     "title": "A father’s instruction",
+     "range": "1:8–7:27"
+    },
+    {
+     "title": "Lady Wisdom and Folly",
+     "range": "8:1–9:18"
+    }
+   ]
+  },
+  {
+   "title": "Proverbs of Solomon",
+   "range": "10:1–22:16",
+   "start": 10,
+   "end": 22,
+   "items": [
+    {
+     "title": "Contrasts of the righteous and the wicked",
+     "range": "10:1–15:33"
+    },
+    {
+     "title": "Wise and godly living",
+     "range": "16:1–22:16"
+    }
+   ]
+  },
+  {
+   "title": "Sayings of the Wise",
+   "range": "22:17–24:34",
+   "start": 22,
+   "end": 24,
+   "items": [
+    {
+     "title": "Thirty sayings",
+     "range": "22:17–24:22"
+    },
+    {
+     "title": "Further sayings",
+     "range": "24:23–34"
+    }
+   ]
+  },
+  {
+   "title": "Proverbs Copied by Hezekiah’s Men",
+   "range": "25:1–29:27",
+   "start": 25,
+   "end": 29,
+   "items": [
+    {
+     "title": "Kings, fools, sluggards, and friends",
+     "range": "25:1–29:27"
+    }
+   ]
+  },
+  {
+   "title": "Words of Agur and Lemuel",
+   "range": "30:1–31:31",
+   "start": 30,
+   "end": 31,
+   "items": [
+    {
+     "title": "Agur’s sayings",
+     "range": "30:1–33"
+    },
+    {
+     "title": "Lemuel’s mother and the excellent wife",
+     "range": "31:1–31"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "The Fear of the LORD",
+   "text": "Reverent trust in God is the beginning of wisdom and knowledge (1:7; 9:10)."
+  },
+  {
+   "title": "Two Paths",
+   "text": "Wisdom leads to life and folly to death. Proverbs constantly contrasts the righteous and the wicked, the wise and the fool."
+  },
+  {
+   "title": "The Power of Words",
+   "text": "The tongue can bring life or death, healing or harm (18:21)."
+  },
+  {
+   "title": "Work and Diligence",
+   "text": "The diligent prosper, while the sluggard comes to poverty."
+  },
+  {
+   "title": "Money and Generosity",
+   "text": "Wealth is fleeting; honesty, generosity, and contentment are better."
+  },
+  {
+   "title": "Family and Friendship",
+   "text": "Parents teach, children listen, and true friends love at all times."
+  },
+  {
+   "title": "Sexual Purity",
+   "text": "Repeated warnings against the adulterous woman and a call to delight in one’s spouse."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Proverbs 1:7",
+   "quote": "The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction."
+  },
+  {
+   "ref": "Proverbs 3:5–6",
+   "quote": "Trust in the LORD with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths."
+  },
+  {
+   "ref": "Proverbs 4:23",
+   "quote": "Keep your heart with all vigilance, for from it flow the springs of life."
+  },
+  {
+   "ref": "Proverbs 16:9",
+   "quote": "The heart of man plans his way, but the LORD establishes his steps."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "8:22–31",
+   "text": "Wisdom present with God at creation anticipates Christ, through whom all things were made (John 1:1–3; Colossians 1:15–17)."
+  },
+  {
+   "ref": "1 Corinthians 1:24, 30",
+   "text": "Christ is “the wisdom of God” who “became to us wisdom from God.”"
+  },
+  {
+   "ref": "30:4",
+   "text": "Agur asks, “What is his name, and what is his son’s name?” pointing to the Son revealed in Jesus."
+  },
+  {
+   "ref": "Colossians 2:3",
+   "text": "In Christ “are hidden all the treasures of wisdom and knowledge.”"
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "James 1:5; 3:13–18",
+   "note": "Wisdom from above."
+  },
+  {
+   "ref": "Matthew 7:24–27",
+   "note": "The wise and foolish builders."
+  },
+  {
+   "ref": "Hebrews 12:5–6",
+   "note": "Quotes Proverbs 3:11–12 on discipline."
+  },
+  {
+   "ref": "Romans 12:20",
+   "note": "Quotes Proverbs 25:21–22."
+  },
+  {
+   "ref": "1 Peter 4:8",
+   "note": "Love covers a multitude of sins (Proverbs 10:12)."
+  }
+ ],
+ "reflection": [
+  "Read the chapter of Proverbs that matches today’s date. Which proverb speaks most directly to your life?",
+  "Proverbs 3:5–6 calls us to trust God rather than our own understanding. Where are you leaning on your own understanding?",
+  "What is one habit of speech you need to change (gossip, harshness, flattery, or too many words)?",
+  "Who are your closest companions, and are they making you wiser (13:20)?",
+  "Proverbs 31 describes a woman who fears the LORD. What qualities in her do you want to grow in, man or woman?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "The Purpose of Proverbs; Wisdom’s Call",
+   "summary": "Solomon states the purpose of the book: to know wisdom and instruction and to give prudence to the simple. “The fear of the LORD is the beginning of knowledge.” A father warns his son against joining sinners who entice him to violence. Wisdom cries out in the streets, warning those who ignore her.",
+   "questions": [
+    "What is the purpose of Proverbs (1:2–6)?",
+    "Why is the fear of the LORD the starting point of knowledge?",
+    "What happens to those who reject wisdom’s call (1:24–33)?"
+   ],
+   "crossRefs": [
+    "Psalm 111:10",
+    "James 1:5",
+    "Job 28:28"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "The Value of Seeking Wisdom",
+   "summary": "If you seek wisdom like silver and search for it as hidden treasure, you will understand the fear of the LORD and find knowledge of God. Wisdom guards you from evil men and the adulterous woman.",
+   "questions": [
+    "What conditions does the father give for finding wisdom (2:1–4)?",
+    "Where does wisdom ultimately come from (2:6)?",
+    "What does wisdom protect you from?"
+   ],
+   "crossRefs": [
+    "James 1:5",
+    "Matthew 13:44",
+    "Colossians 2:3"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Trust in the LORD",
+   "summary": "The father urges his son to keep his teaching and not forget steadfast love and faithfulness. “Trust in the LORD with all your heart.” Honor God with your wealth, do not despise His discipline, and do good to your neighbor.",
+   "questions": [
+    "What does it mean to trust God and not lean on your own understanding?",
+    "Why does God discipline those He loves (3:11–12)?",
+    "How can you honor God with your wealth (3:9–10)?"
+   ],
+   "crossRefs": [
+    "Hebrews 12:5–6",
+    "Jeremiah 17:5–8",
+    "James 4:6"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Get Wisdom",
+   "summary": "The father passes on what his own father taught him: “Get wisdom; get insight.” The path of the righteous is like the light of dawn. “Keep your heart with all vigilance,” keep your mouth honest, and keep your feet on a straight path.",
+   "questions": [
+    "Why is wisdom worth any cost (4:7)?",
+    "What does it mean to guard your heart (4:23)?",
+    "How does 4:18 describe the life of the righteous?"
+   ],
+   "crossRefs": [
+    "Matthew 15:18–19",
+    "Matthew 13:45–46",
+    "Hebrews 12:12–13"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Warning Against Adultery",
+   "summary": "The father warns that the forbidden woman’s lips drip honey, but her end is bitter, and her steps lead to death. Instead: “Drink water from your own cistern... rejoice in the wife of your youth.” God sees every path.",
+   "questions": [
+    "Why is adultery so deceptive (5:3–6)?",
+    "How does the father describe joy in marriage (5:15–19)?",
+    "What does 5:21–23 say about sin’s consequences?"
+   ],
+   "crossRefs": [
+    "Hebrews 13:4",
+    "1 Corinthians 6:18–20",
+    "Song of Solomon 4:12–15"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Warnings: Debt, Laziness, and Adultery",
+   "summary": "Get free from rash pledges. Go to the ant, sluggard, and be wise. Seven things the LORD hates include haughty eyes, a lying tongue, and one who sows discord. Adultery is like carrying fire in your lap.",
+   "questions": [
+    "What can you learn from the ant (6:6–11)?",
+    "Which of the seven things God hates (6:16–19) do you struggle with?",
+    "Why is adultery compared to fire (6:27–29)?"
+   ],
+   "crossRefs": [
+    "2 Thessalonians 3:10–12",
+    "Galatians 5:19–21",
+    "James 3:16"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "The Seductive Woman",
+   "summary": "The father describes a naive young man walking near the house of a seductress at twilight. She entices him with flattering speech, and he follows “as an ox goes to the slaughter.” “Her house is the way to Sheol.”",
+   "questions": [
+    "What mistakes did the young man make before he met her (7:7–9)?",
+    "What tactics does the seductress use?",
+    "How can you guard yourself from temptation (7:1–5, 25)?"
+   ],
+   "crossRefs": [
+    "James 1:14–15",
+    "1 Corinthians 10:13",
+    "Psalm 119:9–11"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Wisdom’s Call and Role in Creation",
+   "summary": "Wisdom calls out at the city gates, offering truth better than silver. By her kings reign. Wisdom was there before creation, beside God as a master workman, rejoicing in His world. “Whoever finds me finds life.”",
+   "questions": [
+    "What does wisdom offer (8:6–21)?",
+    "How does 8:22–31 point to Christ (Colossians 1:15–17)?",
+    "What does it mean to find life by finding wisdom (8:35)?"
+   ],
+   "crossRefs": [
+    "John 1:1–3",
+    "Colossians 1:15–17",
+    "1 Corinthians 1:24"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Wisdom and Folly’s Invitations",
+   "summary": "Lady Wisdom builds her house and invites the simple to a feast. A scoffer hates correction, but a wise person loves it. “The fear of the LORD is the beginning of wisdom.” Folly also calls out, “Stolen water is sweet,” but her guests are in the depths of Sheol.",
+   "questions": [
+    "How do the invitations of wisdom and folly differ?",
+    "How do you respond to correction (9:7–9)?",
+    "How does Jesus’ invitation to a feast compare (Luke 14:15–24)?"
+   ],
+   "crossRefs": [
+    "Luke 14:15–24",
+    "Matthew 11:28–30",
+    "Psalm 111:10"
+   ]
+  },
+  {
+   "n": 10,
+   "title": "The Righteous and the Wicked",
+   "summary": "Solomon’s short proverbs begin with contrasts: the righteous and the wicked, the diligent and the lazy, wise and foolish speech. “Hatred stirs up strife, but love covers all offenses.”",
+   "questions": [
+    "What contrasts stand out to you in this chapter?",
+    "How does 10:12 relate to 1 Peter 4:8?",
+    "What does 10:19 teach about the number of our words?"
+   ],
+   "crossRefs": [
+    "1 Peter 4:8",
+    "James 1:19",
+    "Psalm 1:6"
+   ]
+  },
+  {
+   "n": 11,
+   "title": "Integrity and Generosity",
+   "summary": "A false balance is an abomination to the LORD. Pride brings disgrace; integrity guides the upright. “One gives freely, yet grows all the richer.” Whoever brings blessing will be enriched, and whoever waters will be watered.",
+   "questions": [
+    "Why does God care about honest business (11:1)?",
+    "What does 11:24–25 teach about generosity?",
+    "What does 11:14 say about seeking counsel?"
+   ],
+   "crossRefs": [
+    "2 Corinthians 9:6–8",
+    "Luke 6:38",
+    "Leviticus 19:35–36"
+   ]
+  },
+  {
+   "n": 12,
+   "title": "The Way of the Fool",
+   "summary": "Whoever loves discipline loves knowledge. The way of a fool is right in his own eyes, but the wise listen to advice. Rash words are like sword thrusts, but the tongue of the wise brings healing.",
+   "questions": [
+    "What does 12:15 say about listening to advice?",
+    "How can words heal or hurt (12:18)?",
+    "What does 12:25 teach about encouraging the anxious?"
+   ],
+   "crossRefs": [
+    "James 3:2–12",
+    "Ephesians 4:29",
+    "Proverbs 16:24"
+   ]
+  },
+  {
+   "n": 13,
+   "title": "Walk with the Wise",
+   "summary": "Hope deferred makes the heart sick. Whoever walks with the wise becomes wise, but the companion of fools suffers harm. Whoever spares the rod hates his son.",
+   "questions": [
+    "How do companions shape us (13:20)?",
+    "What does 13:12 say about unfulfilled hope?",
+    "How should loving parents discipline?"
+   ],
+   "crossRefs": [
+    "1 Corinthians 15:33",
+    "Hebrews 12:10–11",
+    "Ephesians 6:4"
+   ]
+  },
+  {
+   "n": 14,
+   "title": "A Way That Seems Right",
+   "summary": "The wise woman builds her house; the foolish tears it down. “There is a way that seems right to a man, but its end is the way to death.” In the fear of the LORD one has strong confidence. A tranquil heart gives life to the flesh.",
+   "questions": [
+    "What way “seems right” today but leads to death (14:12)?",
+    "How does the fear of the LORD give confidence (14:26–27)?",
+    "What does 14:31 say about how we treat the poor?"
+   ],
+   "crossRefs": [
+    "Matthew 7:13–14",
+    "Matthew 25:40",
+    "Jeremiah 17:9"
+   ]
+  },
+  {
+   "n": 15,
+   "title": "A Soft Answer",
+   "summary": "“A soft answer turns away wrath, but a harsh word stirs up anger.” The eyes of the LORD are everywhere. Better a little with the fear of the LORD than great treasure with trouble. Plans fail without counsel.",
+   "questions": [
+    "How have you seen a soft answer defuse conflict?",
+    "What does 15:16–17 say about contentment?",
+    "Why is it wise to seek many advisers (15:22)?"
+   ],
+   "crossRefs": [
+    "James 1:19–20",
+    "1 Timothy 6:6–8",
+    "Colossians 4:6"
+   ]
+  },
+  {
+   "n": 16,
+   "title": "The LORD Directs Our Steps",
+   "summary": "The plans of the heart belong to man, but the answer of the tongue is from the LORD. “Commit your work to the LORD, and your plans will be established.” Pride goes before destruction. The lot is cast, but every decision is from the LORD.",
+   "questions": [
+    "How does 16:9 balance planning and God’s sovereignty?",
+    "What does 16:18 warn about pride?",
+    "What does it mean to commit your work to the LORD (16:3)?"
+   ],
+   "crossRefs": [
+    "James 4:13–16",
+    "Proverbs 19:21",
+    "1 Peter 5:5–6"
+   ]
+  },
+  {
+   "n": 17,
+   "title": "A Friend Loves at All Times",
+   "summary": "Better a dry morsel with quiet than a feast with strife. “A friend loves at all times, and a brother is born for adversity.” A joyful heart is good medicine. Even a fool who keeps silent is considered wise.",
+   "questions": [
+    "What does a true friend look like (17:17)?",
+    "How does 17:9 teach about covering offenses?",
+    "How does a joyful heart affect health (17:22)?"
+   ],
+   "crossRefs": [
+    "John 15:13",
+    "1 Peter 4:8",
+    "Proverbs 18:24"
+   ]
+  },
+  {
+   "n": 18,
+   "title": "The Name of the LORD Is a Strong Tower",
+   "summary": "A fool takes no pleasure in understanding, only in expressing his opinion. “The name of the LORD is a strong tower; the righteous man runs into it and is safe.” Death and life are in the power of the tongue.",
+   "questions": [
+    "How does 18:2 describe many conversations today?",
+    "What does it mean to run to God’s name (18:10)?",
+    "Why should you hear both sides of a story (18:13, 17)?"
+   ],
+   "crossRefs": [
+    "Psalm 61:3",
+    "James 1:19",
+    "Matthew 12:36–37"
+   ]
+  },
+  {
+   "n": 19,
+   "title": "The LORD’s Purpose Stands",
+   "summary": "It is better to be poor and walk in integrity than to be crooked in speech and a fool. Good sense makes one slow to anger. Whoever is generous to the poor lends to the LORD. Many are the plans of a man, but the LORD’s purpose will stand.",
+   "questions": [
+    "How does 19:11 define glory?",
+    "What does it mean to “lend to the LORD” (19:17)?",
+    "How does 19:21 comfort you about your plans?"
+   ],
+   "crossRefs": [
+    "Matthew 25:40",
+    "Isaiah 46:10",
+    "James 1:19–20"
+   ]
+  },
+  {
+   "n": 20,
+   "title": "Who Can Say, “I Am Clean”?",
+   "summary": "Wine is a mocker. Who can say, “I have made my heart pure”? Unequal weights are an abomination to the LORD. The king’s heart is a stream of water in God’s hand. The spirit of man is the lamp of the LORD.",
+   "questions": [
+    "What does 20:1 warn about alcohol?",
+    "What does 20:9 teach about human sinfulness?",
+    "How does God search the inner parts (20:27)?"
+   ],
+   "crossRefs": [
+    "Ephesians 5:18",
+    "1 John 1:8–10",
+    "Romans 3:23"
+   ]
+  },
+  {
+   "n": 21,
+   "title": "The King’s Heart in God’s Hand",
+   "summary": "“The king’s heart is a stream of water in the hand of the LORD; he turns it wherever he will.” To do righteousness and justice is more acceptable than sacrifice. The horse is made ready for battle, but victory belongs to the LORD.",
+   "questions": [
+    "How does 21:1 encourage you to pray for leaders?",
+    "Why does God prefer justice over sacrifice (21:3)?",
+    "How can you prepare diligently yet trust God for the outcome (21:31)?"
+   ],
+   "crossRefs": [
+    "1 Timothy 2:1–2",
+    "Micah 6:8",
+    "Psalm 20:7"
+   ]
+  },
+  {
+   "n": 22,
+   "title": "Train Up a Child",
+   "summary": "A good name is to be chosen rather than great riches. “Train up a child in the way he should go; even when he is old he will not depart from it.” The borrower is the slave of the lender. The “sayings of the wise” begin with warnings not to rob the poor or befriend a hothead.",
+   "questions": [
+    "Why is a good name more valuable than riches?",
+    "How should 22:6 be understood: as a promise or a principle?",
+    "What does 22:7 teach about debt?"
+   ],
+   "crossRefs": [
+    "Ephesians 6:4",
+    "Deuteronomy 6:6–7",
+    "Romans 13:8"
+   ]
+  },
+  {
+   "n": 23,
+   "title": "Do Not Envy Sinners",
+   "summary": "Be careful at a ruler’s table; do not toil to acquire wealth, for it flies away like an eagle. Do not withhold discipline. “Let not your heart envy sinners, but continue in the fear of the LORD.” Warnings against drunkenness and gluttony follow.",
+   "questions": [
+    "Why is chasing wealth foolish (23:4–5)?",
+    "What does 23:17–18 say about envy?",
+    "How does the description of drunkenness (23:29–35) warn us?"
+   ],
+   "crossRefs": [
+    "1 Timothy 6:9–10",
+    "Psalm 37:1–2",
+    "Ephesians 5:18"
+   ]
+  },
+  {
+   "n": 24,
+   "title": "Rescue Those Being Taken Away",
+   "summary": "By wisdom a house is built. Rescue those being taken away to death; do not say, “We did not know.” Do not rejoice when your enemy falls. The sluggard’s field is overgrown: “A little sleep, a little slumber... and poverty will come upon you.”",
+   "questions": [
+    "What responsibility does 24:11–12 give us?",
+    "Why shouldn’t we rejoice when enemies fall (24:17–18)?",
+    "What lesson do you learn from the sluggard’s field (24:30–34)?"
+   ],
+   "crossRefs": [
+    "James 4:17",
+    "Matthew 5:44",
+    "Galatians 6:9–10"
+   ]
+  },
+  {
+   "n": 25,
+   "title": "Coals of Fire",
+   "summary": "Hezekiah’s men copied these proverbs of Solomon. It is God’s glory to conceal things and kings’ glory to search them out. A word fitly spoken is like apples of gold. “If your enemy is hungry, give him bread to eat... you will heap burning coals on his head.”",
+   "questions": [
+    "How can a word be “fitly spoken” (25:11)?",
+    "How does Paul quote 25:21–22 (Romans 12:20)?",
+    "What does 25:28 say about self-control?"
+   ],
+   "crossRefs": [
+    "Romans 12:20–21",
+    "Colossians 4:6",
+    "Galatians 5:22–23"
+   ]
+  },
+  {
+   "n": 26,
+   "title": "Fools, Sluggards, and Gossips",
+   "summary": "Answer a fool according to his folly, or do not, depending on the situation. Like a dog returning to its vomit is a fool repeating his folly. Without wood a fire goes out, and without a whisperer quarreling ceases.",
+   "questions": [
+    "How do 26:4 and 26:5 work together?",
+    "What does gossip do to relationships (26:20–22)?",
+    "Why does 26:11 compare repeated folly to a dog?"
+   ],
+   "crossRefs": [
+    "2 Peter 2:22",
+    "James 3:5–6",
+    "Proverbs 16:28"
+   ]
+  },
+  {
+   "n": 27,
+   "title": "Faithful Are the Wounds of a Friend",
+   "summary": "Do not boast about tomorrow. “Faithful are the wounds of a friend.” Iron sharpens iron, and one man sharpens another. Know well the condition of your flocks.",
+   "questions": [
+    "Why is it unwise to boast about tomorrow (27:1)?",
+    "How can friends sharpen each other (27:17)?",
+    "What “flocks” or responsibilities do you need to tend carefully (27:23)?"
+   ],
+   "crossRefs": [
+    "James 4:13–15",
+    "Hebrews 10:24–25",
+    "Galatians 6:1"
+   ]
+  },
+  {
+   "n": 28,
+   "title": "Confess and Forsake",
+   "summary": "The wicked flee when no one pursues, but the righteous are bold as a lion. “Whoever conceals his transgressions will not prosper, but he who confesses and forsakes them will obtain mercy.”",
+   "questions": [
+    "What does 28:1 say about a clear conscience?",
+    "Why must confession include forsaking sin (28:13)?",
+    "What does 28:26 say about trusting your own mind?"
+   ],
+   "crossRefs": [
+    "1 John 1:9",
+    "Psalm 32:3–5",
+    "Jeremiah 17:9"
+   ]
+  },
+  {
+   "n": 29,
+   "title": "Where There Is No Prophetic Vision",
+   "summary": "When the righteous increase, the people rejoice. The fear of man lays a snare, but whoever trusts in the LORD is safe. “Where there is no prophetic vision the people cast off restraint, but blessed is he who keeps the law.”",
+   "questions": [
+    "What does 29:18 mean in context?",
+    "How does the fear of man trap us (29:25)?",
+    "What does 29:11 say about controlling our anger?"
+   ],
+   "crossRefs": [
+    "Galatians 1:10",
+    "Amos 8:11–12",
+    "Ephesians 4:26"
+   ]
+  },
+  {
+   "n": 30,
+   "title": "The Words of Agur",
+   "summary": "Agur confesses his weariness and lack of understanding: “Who has ascended to heaven...? What is his name, and what is his son’s name?” Every word of God proves true. He asks for neither poverty nor riches. He observes numbered sayings about things that are never satisfied, too wonderful, and small but wise.",
+   "questions": [
+    "What does Agur’s humility teach (30:2–4)?",
+    "Why ask for neither poverty nor riches (30:7–9)?",
+    "What do the small creatures in 30:24–28 teach?"
+   ],
+   "crossRefs": [
+    "John 3:13",
+    "Philippians 4:11–12",
+    "1 Timothy 6:6–8"
+   ]
+  },
+  {
+   "n": 31,
+   "title": "The Excellent Wife",
+   "summary": "King Lemuel’s mother advises him to avoid women and wine that destroy kings and to defend the rights of the poor. An acrostic poem praises the excellent wife: trustworthy, hardworking, generous, strong, wise, and kind. “Charm is deceitful, and beauty is vain, but a woman who fears the LORD is to be praised.”",
+   "questions": [
+    "What did Lemuel’s mother teach him about justice (31:8–9)?",
+    "Which qualities of the excellent wife stand out to you?",
+    "Why is the fear of the LORD more praiseworthy than charm or beauty (31:30)?"
+   ],
+   "crossRefs": [
+    "1 Peter 3:3–4",
+    "Ruth 3:11",
+    "Proverbs 18:22"
+   ]
+  }
+ ],
+ "tagline": "Practical wisdom for everyday life, rooted in the fear of the LORD",
+ "readingPlan": "31 chapters: one chapter a day takes 31 days; two a day takes about 16 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

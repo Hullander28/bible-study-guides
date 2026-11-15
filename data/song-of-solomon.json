@@ -1,0 +1,282 @@
+{
+ "id": "song-of-solomon",
+ "name": "Song of Solomon",
+ "chapters": 8,
+ "overview": {
+  "author": "Solomon is named in the title (1:1), which can mean “by,” “for,” or “about” Solomon. Traditionally Solomon wrote it; he wrote 1,005 songs (1 Kings 4:32).",
+  "date": "Around the time of Solomon’s reign, about 970–930 BC, if Solomon is the author.",
+  "audience": "Israel, and all who would celebrate and guard the gift of romantic and marital love.",
+  "setting": "The countryside of Israel (vineyards, gardens, Lebanon) and Jerusalem, in a series of poems between a woman (the Shulammite) and her beloved, with a chorus of “daughters of Jerusalem.”",
+  "purpose": "To celebrate the goodness of love, desire, and intimacy within marriage as God’s good gift, and to call for patience and faithfulness in love. Jewish and Christian readers have also seen in it a picture of God’s love for His people.",
+  "structure": "A series of love poems: longing and courtship (1:1–3:5), the wedding (3:6–5:1), struggles and reunion in marriage (5:2–8:4), and the strength of love (8:5–14)."
+ },
+ "outline": [
+  {
+   "title": "Courtship and Longing",
+   "range": "1:1–3:5",
+   "start": 1,
+   "end": 3,
+   "items": [
+    {
+     "title": "Mutual delight",
+     "range": "1:1–2:7"
+    },
+    {
+     "title": "Spring and seeking",
+     "range": "2:8–3:5"
+    }
+   ]
+  },
+  {
+   "title": "The Wedding",
+   "range": "3:6–5:1",
+   "start": 3,
+   "end": 5,
+   "items": [
+    {
+     "title": "The royal procession",
+     "range": "3:6–11"
+    },
+    {
+     "title": "The groom’s praise and the wedding night",
+     "range": "4:1–5:1"
+    }
+   ]
+  },
+  {
+   "title": "Tension and Restoration in Marriage",
+   "range": "5:2–8:4",
+   "start": 5,
+   "end": 8,
+   "items": [
+    {
+     "title": "A missed opportunity and search",
+     "range": "5:2–6:3"
+    },
+    {
+     "title": "Renewed praise and love",
+     "range": "6:4–8:4"
+    }
+   ]
+  },
+  {
+   "title": "The Power of Love",
+   "range": "8:5–14",
+   "start": 8,
+   "end": 8,
+   "items": [
+    {
+     "title": "Love strong as death",
+     "range": "8:5–14"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "The Goodness of Love and Desire",
+   "text": "Romantic and physical love in marriage are celebrated as God’s good gifts."
+  },
+  {
+   "title": "Exclusive Commitment",
+   "text": "“My beloved is mine, and I am his” (2:16). True love is faithful and exclusive."
+  },
+  {
+   "title": "Patience in Love",
+   "text": "“Do not stir up or awaken love until it pleases” (2:7; 3:5; 8:4)."
+  },
+  {
+   "title": "Mutual Delight and Praise",
+   "text": "Husband and wife speak words of admiration and affection to each other."
+  },
+  {
+   "title": "The Strength of Love",
+   "text": "“Love is strong as death... many waters cannot quench love” (8:6–7)."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Song of Solomon 2:4",
+   "quote": "His banner over me was love."
+  },
+  {
+   "ref": "Song of Solomon 2:7",
+   "quote": "That you not stir up or awaken love until it pleases."
+  },
+  {
+   "ref": "Song of Solomon 8:6",
+   "quote": "Set me as a seal upon your heart... for love is strong as death."
+  },
+  {
+   "ref": "Song of Solomon 8:7",
+   "quote": "Many waters cannot quench love, neither can floods drown it."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "Ephesians 5:25–32",
+   "text": "Marriage is a picture of Christ’s love for the church, which the Song’s devoted love reflects."
+  },
+  {
+   "ref": "8:6–7",
+   "text": "Love “strong as death” points to Christ’s love, which conquered death for His bride (Romans 8:38–39)."
+  },
+  {
+   "ref": "Revelation 19:7–9",
+   "text": "The marriage supper of the Lamb fulfills the longing for the bridegroom."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Genesis 2:18–25",
+   "note": "God’s design for marriage."
+  },
+  {
+   "ref": "Proverbs 5:15–19",
+   "note": "Rejoice in the wife of your youth."
+  },
+  {
+   "ref": "1 Corinthians 7:2–5",
+   "note": "Mutual care in marriage."
+  },
+  {
+   "ref": "Hebrews 13:4",
+   "note": "Let marriage be held in honor."
+  },
+  {
+   "ref": "Hosea 2:14–20",
+   "note": "God’s love for His people as a husband."
+  }
+ ],
+ "reflection": [
+  "How does the Song challenge both cultural cheapening of sex and religious embarrassment about it?",
+  "What does “Do not awaken love until it pleases” mean for singles and dating couples?",
+  "The lovers praise each other freely. If married, how could you express admiration to your spouse this week?",
+  "The “little foxes” spoil the vineyard (2:15). What small problems could damage your relationships?",
+  "How does the love in this book deepen your understanding of Christ’s love for His people?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Longing and Delight",
+   "summary": "The woman longs for her beloved’s kisses, for his love is better than wine. She is dark from working in the vineyards, yet lovely. The two exchange words of praise and admiration.",
+   "questions": [
+    "How does the woman feel about herself (1:5–6)?",
+    "How do the lovers speak to each other?",
+    "What can couples learn from their words of affirmation?"
+   ],
+   "crossRefs": [
+    "Genesis 2:23",
+    "Proverbs 5:18–19",
+    "Ephesians 4:29"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "My Beloved Is Mine",
+   "summary": "The woman calls herself a rose of Sharon, and her beloved says she is a lily among brambles. She rests in his love: “His banner over me was love.” She warns, “Do not stir up or awaken love until it pleases.” He invites her into spring. “Catch the foxes... that spoil the vineyards.” “My beloved is mine, and I am his.”",
+   "questions": [
+    "What does “his banner over me was love” (2:4) mean?",
+    "Why is the warning in 2:7 important?",
+    "What “little foxes” can damage a relationship (2:15)?"
+   ],
+   "crossRefs": [
+    "1 Thessalonians 4:3–5",
+    "1 John 4:18",
+    "Hebrews 13:4"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Seeking and the Royal Procession",
+   "summary": "At night the woman searches the city for her beloved, finds him, and holds him. She repeats the charge to wait for love. A grand procession arrives: Solomon’s carriage on his wedding day, the day of the gladness of his heart.",
+   "questions": [
+    "What does the search suggest about longing in love?",
+    "Why does the charge (3:5) repeat?",
+    "What does the wedding procession celebrate?"
+   ],
+   "crossRefs": [
+    "John 3:29",
+    "Revelation 19:7",
+    "Psalm 45"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "You Are Altogether Beautiful",
+   "summary": "The groom praises his bride’s beauty from head to toe: “You are altogether beautiful, my love; there is no flaw in you.” He calls her a garden locked, a fountain sealed, and invites her to come with him. She invites him into her garden.",
+   "questions": [
+    "How does the groom express his love?",
+    "What does “a garden locked” (4:12) suggest about purity?",
+    "How does Ephesians 5:27 connect to “no flaw in you” (4:7)?"
+   ],
+   "crossRefs": [
+    "Ephesians 5:25–27",
+    "Proverbs 5:15–19",
+    "1 Corinthians 7:3–5"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Missed Opportunity and Renewed Longing",
+   "summary": "The wedding is celebrated: “Eat, friends, drink, and be drunk with love!” Later, the beloved knocks at night, but the woman hesitates. When she opens, he is gone. She searches, is mistreated by watchmen, and then describes her beloved’s excellence to the daughters of Jerusalem: “This is my beloved and this is my friend.”",
+   "questions": [
+    "How does God bless married love (5:1)?",
+    "What does her hesitation (5:3) teach about responsiveness in marriage?",
+    "How does praising her beloved renew her love (5:10–16)?"
+   ],
+   "crossRefs": [
+    "Revelation 3:20",
+    "1 Corinthians 7:3–5",
+    "Colossians 3:19"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Reunion",
+   "summary": "The daughters ask where her beloved has gone, and she knows: he is in his garden. “I am my beloved’s and my beloved is mine.” The groom again praises her as unique among all women.",
+   "questions": [
+    "How do the lovers find each other again?",
+    "What does “I am my beloved’s” (6:3) say about mutual belonging?",
+    "How does the groom see his bride as unique (6:8–9)?"
+   ],
+   "crossRefs": [
+    "1 Corinthians 7:4",
+    "Proverbs 31:29",
+    "Ephesians 5:28–29"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Delight in Marriage",
+   "summary": "The groom praises his bride’s beauty and expresses his desire. She responds, “I am my beloved’s, and his desire is for me,” and invites him to the fields and vineyards.",
+   "questions": [
+    "How is desire expressed differently here than in Genesis 3:16?",
+    "What does mutual desire in marriage look like?",
+    "How can couples keep delight alive in marriage?"
+   ],
+   "crossRefs": [
+    "Genesis 3:16",
+    "Proverbs 5:19",
+    "1 Corinthians 7:3"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Love Is Strong as Death",
+   "summary": "The woman wishes to show her love openly and repeats her charge to wait for love. “Set me as a seal upon your heart... for love is strong as death... Many waters cannot quench love.” True love cannot be bought. The song ends with a call to come quickly.",
+   "questions": [
+    "What does it mean for love to be a seal (8:6)?",
+    "How is love “strong as death”?",
+    "Why can’t love be bought (8:7)?"
+   ],
+   "crossRefs": [
+    "Romans 8:38–39",
+    "1 Corinthians 13:4–8",
+    "Revelation 22:17"
+   ]
+  }
+ ],
+ "tagline": "The beauty of love between husband and wife",
+ "readingPlan": "8 chapters: one chapter a day takes 8 days; two a day takes about 4 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}
