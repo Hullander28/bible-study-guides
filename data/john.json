@@ -1,0 +1,509 @@
+{
+ "id": "john",
+ "name": "John",
+ "chapters": 21,
+ "overview": {
+  "author": "John the apostle, son of Zebedee, “the disciple whom Jesus loved” (21:20–24).",
+  "date": "Probably about AD 85–95, from Ephesus.",
+  "audience": "Believers and seekers in the wider Greco-Roman world, both Jews and Gentiles.",
+  "setting": "Jesus’ ministry in Galilee, Samaria, and especially Judea and Jerusalem, often around the Jewish feasts.",
+  "purpose": "“These are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name” (20:31).",
+  "structure": "Prologue (1:1–18), the Book of Signs, seven miraculous signs with teaching (1:19–12:50), the Book of Glory, the Upper Room discourse, the passion, and the resurrection (13–20), and an epilogue (21)."
+ },
+ "outline": [
+  {
+   "title": "Prologue",
+   "range": "1:1–18",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "The Word became flesh",
+     "range": "1:1–18"
+    }
+   ]
+  },
+  {
+   "title": "The Book of Signs",
+   "range": "1:19–12:50",
+   "start": 1,
+   "end": 12,
+   "items": [
+    {
+     "title": "First disciples and first signs",
+     "range": "1:19–4:54"
+    },
+    {
+     "title": "Conflict at the feasts",
+     "range": "5:1–10:42"
+    },
+    {
+     "title": "Lazarus and the hour approaching",
+     "range": "11:1–12:50"
+    }
+   ]
+  },
+  {
+   "title": "The Book of Glory",
+   "range": "13:1–20:31",
+   "start": 13,
+   "end": 20,
+   "items": [
+    {
+     "title": "The Upper Room discourse",
+     "range": "13:1–17:26"
+    },
+    {
+     "title": "Arrest, trial, and crucifixion",
+     "range": "18:1–19:42"
+    },
+    {
+     "title": "Resurrection",
+     "range": "20:1–31"
+    }
+   ]
+  },
+  {
+   "title": "Epilogue",
+   "range": "21:1–25",
+   "start": 21,
+   "end": 21,
+   "items": [
+    {
+     "title": "Peter restored",
+     "range": "21:1–25"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Jesus Is God",
+   "text": "“The Word was God” (1:1). Thomas confesses, “My Lord and my God!” (20:28)."
+  },
+  {
+   "title": "Believing",
+   "text": "John uses “believe” nearly 100 times."
+  },
+  {
+   "title": "Eternal Life",
+   "text": "Life now and forever through knowing God and Jesus (17:3)."
+  },
+  {
+   "title": "The Seven Signs",
+   "text": "Miracles reveal Jesus’ glory and call for faith."
+  },
+  {
+   "title": "The “I Am” Sayings",
+   "text": "Bread of life, light of the world, door, good shepherd, resurrection and life, way, true vine."
+  },
+  {
+   "title": "Love",
+   "text": "God so loved the world; Jesus commands His disciples to love one another."
+  },
+  {
+   "title": "The Holy Spirit",
+   "text": "The Helper will teach, remind, and testify about Jesus."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "John 1:14",
+   "quote": "And the Word became flesh and dwelt among us."
+  },
+  {
+   "ref": "John 3:16",
+   "quote": "For God so loved the world, that he gave his only Son."
+  },
+  {
+   "ref": "John 11:25",
+   "quote": "I am the resurrection and the life."
+  },
+  {
+   "ref": "John 14:6",
+   "quote": "I am the way, and the truth, and the life. No one comes to the Father except through me."
+  },
+  {
+   "ref": "John 15:5",
+   "quote": "I am the vine; you are the branches."
+  },
+  {
+   "ref": "John 20:31",
+   "quote": "These are written so that you may believe that Jesus is the Christ, the Son of God."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1:1–14",
+   "text": "The eternal Word who is God became flesh."
+  },
+  {
+   "ref": "1:29",
+   "text": "“Behold, the Lamb of God, who takes away the sin of the world!”"
+  },
+  {
+   "ref": "8:58",
+   "text": "“Before Abraham was, I am,” claiming the divine name (Exodus 3:14)."
+  },
+  {
+   "ref": "10:11",
+   "text": "The good shepherd lays down His life for the sheep."
+  },
+  {
+   "ref": "19:30",
+   "text": "“It is finished”: Jesus completes His saving work."
+  },
+  {
+   "ref": "20:28",
+   "text": "Thomas confesses Jesus as Lord and God."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Genesis 1:1",
+   "note": "“In the beginning.”"
+  },
+  {
+   "ref": "Exodus 3:14",
+   "note": "God’s name “I AM.”"
+  },
+  {
+   "ref": "1 John 1:1–4",
+   "note": "The Word of life."
+  },
+  {
+   "ref": "Isaiah 53:7",
+   "note": "The lamb led to the slaughter."
+  },
+  {
+   "ref": "Revelation 21:3",
+   "note": "God dwells with His people."
+  }
+ ],
+ "reflection": [
+  "Which “I am” saying of Jesus means the most to you now, and why?",
+  "John 3:16 is famous. How would you explain it in your own words?",
+  "What does abiding in Jesus (15:4–5) look like in your daily routine?",
+  "How does Jesus’ prayer for you in John 17 encourage you?",
+  "Like Thomas, what doubts do you bring to Jesus, and how does He meet you?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "The Word Became Flesh",
+   "summary": "“In the beginning was the Word, and the Word was with God, and the Word was God.” He is life and light. “The Word became flesh and dwelt among us.” John the Baptist testifies: “Behold, the Lamb of God.” Andrew, Peter, Philip, and Nathanael begin following Jesus.",
+   "questions": [
+    "What does John 1:1–3 teach about Jesus?",
+    "What does it mean that the Word “dwelt” (tabernacled) among us?",
+    "How did the first disciples bring others to Jesus?"
+   ],
+   "crossRefs": [
+    "Genesis 1:1–3",
+    "Colossians 1:15–17",
+    "Hebrews 1:1–3"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Water to Wine and the Temple Cleansed",
+   "summary": "At a wedding in Cana, Jesus turns water into wine, the first sign, revealing His glory. He drives out the money changers: “Destroy this temple, and in three days I will raise it up,” speaking of His body.",
+   "questions": [
+    "What does the first sign reveal about Jesus?",
+    "What did Jesus mean by “destroy this temple” (2:19–21)?",
+    "Why did Jesus not entrust Himself to the crowds (2:24–25)?"
+   ],
+   "crossRefs": [
+    "Isaiah 25:6",
+    "Psalm 69:9",
+    "Mark 14:58"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "You Must Be Born Again",
+   "summary": "Nicodemus comes at night. Jesus says, “Unless one is born again he cannot see the kingdom of God.” As Moses lifted the serpent, the Son of Man must be lifted up. “For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.” John says, “He must increase, but I must decrease.”",
+   "questions": [
+    "What does it mean to be born again (3:3–8)?",
+    "How does the bronze serpent picture the cross (Numbers 21:8–9)?",
+    "How can you live out “He must increase, but I must decrease”?"
+   ],
+   "crossRefs": [
+    "Numbers 21:8–9",
+    "Ezekiel 36:25–27",
+    "Titus 3:5"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The Woman at the Well",
+   "summary": "At Jacob’s well in Samaria, Jesus offers a Samaritan woman living water. He knows her past, and reveals Himself as the Messiah. True worshipers worship in spirit and truth. She tells her town, and many believe. Jesus heals an official’s son from a distance.",
+   "questions": [
+    "What barriers did Jesus cross to speak with the woman?",
+    "What is the living water Jesus offers (4:14)?",
+    "What does it mean to worship in spirit and truth (4:24)?"
+   ],
+   "crossRefs": [
+    "Isaiah 55:1",
+    "Jeremiah 2:13",
+    "Revelation 22:17"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The Son’s Authority",
+   "summary": "Jesus heals a man at the pool of Bethesda on the Sabbath and calls God His Father, making Himself equal with God. The Son does what the Father does, gives life, and judges. Whoever hears and believes has eternal life. The Scriptures, John, the works, and the Father testify about Him.",
+   "questions": [
+    "Why does Jesus ask, “Do you want to be healed?” (5:6)?",
+    "What does 5:24 promise those who believe?",
+    "How do the Scriptures bear witness to Jesus (5:39)?"
+   ],
+   "crossRefs": [
+    "Daniel 7:13–14",
+    "Philippians 2:9–11",
+    "Luke 24:27"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The Bread of Life",
+   "summary": "Jesus feeds five thousand and walks on the sea. He declares, “I am the bread of life; whoever comes to me shall not hunger.” Many disciples turn away at His hard sayings. Peter says, “Lord, to whom shall we go? You have the words of eternal life.”",
+   "questions": [
+    "How is Jesus the true bread from heaven (6:32–35)?",
+    "What does 6:37 promise to all who come?",
+    "How would you answer Jesus’ question “Do you want to go away as well?”"
+   ],
+   "crossRefs": [
+    "Exodus 16",
+    "Deuteronomy 8:3",
+    "Matthew 14:13–33"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Rivers of Living Water",
+   "summary": "At the Feast of Booths, people debate whether Jesus is the Christ. On the last day, He cries, “If anyone thirsts, let him come to me and drink.” Rivers of living water will flow from the believer’s heart, speaking of the Spirit. Officers sent to arrest Him say, “No one ever spoke like this man!”",
+   "questions": [
+    "Why were people divided about Jesus?",
+    "What are the rivers of living water (7:38–39)?",
+    "How does 7:17 connect obedience and understanding?"
+   ],
+   "crossRefs": [
+    "Isaiah 55:1",
+    "Ezekiel 47:1–12",
+    "Zechariah 14:8"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "The Light of the World",
+   "summary": "A woman caught in adultery is brought to Jesus: “Let him who is without sin among you be the first to throw a stone.” He tells her, “Go, and from now on sin no more.” Jesus says, “I am the light of the world.” The truth will set you free. “Before Abraham was, I am.”",
+   "questions": [
+    "How does Jesus show both grace and truth to the woman?",
+    "What does it mean to walk in the light (8:12)?",
+    "Why did “Before Abraham was, I am” provoke stoning (8:58–59)?"
+   ],
+   "crossRefs": [
+    "Exodus 3:14",
+    "Isaiah 9:2",
+    "Romans 6:16–18"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The Man Born Blind",
+   "summary": "Jesus heals a man born blind, saying his blindness is so that God’s works might be displayed. The Pharisees interrogate the man and cast him out. He says, “One thing I do know, that though I was blind, now I see.” Jesus finds him, and he believes and worships.",
+   "questions": [
+    "How does Jesus reframe the question of suffering (9:3)?",
+    "How does the man’s understanding of Jesus grow through the chapter?",
+    "Who is truly blind in this story (9:39–41)?"
+   ],
+   "crossRefs": [
+    "Isaiah 35:5",
+    "Isaiah 42:6–7",
+    "2 Corinthians 4:4–6"
+   ]
+  },
+  {
+   "n": 10,
+   "title": "The Good Shepherd",
+   "summary": "Jesus is the door of the sheep and the good shepherd who lays down His life for the sheep. His sheep hear His voice, and no one can snatch them from His hand. “I and the Father are one.” Leaders try to stone Him.",
+   "questions": [
+    "How does a good shepherd differ from a hired hand?",
+    "What security does 10:27–29 give believers?",
+    "What does “I came that they may have life and have it abundantly” (10:10) mean?"
+   ],
+   "crossRefs": [
+    "Psalm 23",
+    "Ezekiel 34:11–16",
+    "Hebrews 13:20"
+   ]
+  },
+  {
+   "n": 11,
+   "title": "The Resurrection and the Life",
+   "summary": "Lazarus dies. Jesus tells Martha, “I am the resurrection and the life.” She confesses Him as the Christ. Jesus weeps at the tomb, then calls, “Lazarus, come out.” Many believe, but the leaders plot to kill Jesus; Caiaphas prophesies that one man should die for the people.",
+   "questions": [
+    "Why did Jesus delay coming (11:4–6)?",
+    "What does “Jesus wept” teach about Him?",
+    "How does Caiaphas unknowingly describe the gospel (11:50–52)?"
+   ],
+   "crossRefs": [
+    "1 Corinthians 15:20–22",
+    "Hebrews 2:14–15",
+    "1 Thessalonians 4:13–14"
+   ]
+  },
+  {
+   "n": 12,
+   "title": "The Hour Has Come",
+   "summary": "Mary anoints Jesus’ feet with costly nard. Jesus enters Jerusalem on a donkey. Greeks seek Him, and He says the hour has come: “Unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit.” Many believe secretly but love human glory.",
+   "questions": [
+    "How does Mary’s anointing show extravagant love?",
+    "What does the grain of wheat teach about Jesus’ death and our lives?",
+    "Why did some leaders hide their faith (12:42–43)?"
+   ],
+   "crossRefs": [
+    "Zechariah 9:9",
+    "Isaiah 53:1",
+    "Isaiah 6:10"
+   ]
+  },
+  {
+   "n": 13,
+   "title": "Jesus Washes Feet",
+   "summary": "Knowing He came from God and was going to God, Jesus washes the disciples’ feet. “I have given you an example.” He predicts Judas’s betrayal. He gives a new commandment: “Love one another: just as I have loved you.” He predicts Peter’s denial.",
+   "questions": [
+    "Why did Jesus wash His disciples’ feet?",
+    "What does it mean to love “as I have loved you” (13:34)?",
+    "How will people know we are Jesus’ disciples (13:35)?"
+   ],
+   "crossRefs": [
+    "Philippians 2:5–8",
+    "Luke 22:24–27",
+    "1 John 3:16–18"
+   ]
+  },
+  {
+   "n": 14,
+   "title": "The Way, the Truth, and the Life",
+   "summary": "“Let not your hearts be troubled.” Jesus goes to prepare a place. “I am the way, and the truth, and the life.” Whoever has seen Him has seen the Father. He promises another Helper, the Spirit of truth. “Peace I leave with you.”",
+   "questions": [
+    "What comfort does 14:1–3 offer?",
+    "Why is Jesus the only way to the Father?",
+    "What does the Holy Spirit do according to 14:16–26?"
+   ],
+   "crossRefs": [
+    "Acts 4:12",
+    "Hebrews 1:3",
+    "Philippians 4:7"
+   ]
+  },
+  {
+   "n": 15,
+   "title": "The Vine and the Branches",
+   "summary": "“I am the true vine... you are the branches.” Abide in Him to bear fruit; apart from Him we can do nothing. Abide in His love by keeping His commands. “Greater love has no one than this.” The world will hate His disciples, but the Spirit will testify.",
+   "questions": [
+    "What does abiding in Jesus look like practically?",
+    "How does the Father prune fruitful branches (15:2)?",
+    "What is the evidence that we are Jesus’ friends (15:14)?"
+   ],
+   "crossRefs": [
+    "Isaiah 5:1–7",
+    "Galatians 5:22–23",
+    "Psalm 1:3"
+   ]
+  },
+  {
+   "n": 16,
+   "title": "The Spirit and Sorrow Turned to Joy",
+   "summary": "Jesus says it is good that He goes, so the Helper will come to convict the world of sin, righteousness, and judgment and guide disciples into all truth. Their sorrow will turn to joy. “In the world you will have tribulation. But take heart; I have overcome the world.”",
+   "questions": [
+    "Why is it good for us that Jesus went away (16:7)?",
+    "How does the Spirit glorify Jesus (16:14)?",
+    "How does 16:33 encourage you in tribulation?"
+   ],
+   "crossRefs": [
+    "Acts 2:1–4",
+    "Romans 8:26–27",
+    "1 John 5:4–5"
+   ]
+  },
+  {
+   "n": 17,
+   "title": "Jesus’ Prayer",
+   "summary": "Jesus prays to be glorified as He glorified the Father. Eternal life is to know the only true God and Jesus Christ. He prays for His disciples’ protection and sanctification in truth, and for all future believers to be one, so the world may believe.",
+   "questions": [
+    "How does Jesus define eternal life (17:3)?",
+    "What does Jesus ask for His disciples (17:11–19)?",
+    "How can believers show unity so the world may believe (17:21)?"
+   ],
+   "crossRefs": [
+    "Hebrews 7:25",
+    "Ephesians 4:1–6",
+    "Romans 8:34"
+   ]
+  },
+  {
+   "n": 18,
+   "title": "Arrest and Trial",
+   "summary": "Jesus is arrested in a garden; at “I am he,” soldiers fall back. Peter cuts off an ear, and Jesus rebukes him. Peter denies Jesus three times. Jesus tells Pilate, “My kingdom is not of this world.” Pilate asks, “What is truth?” The crowd chooses Barabbas.",
+   "questions": [
+    "What does the soldiers’ falling back reveal (18:6)?",
+    "What kind of kingdom does Jesus have (18:36)?",
+    "How would you answer Pilate’s question about truth?"
+   ],
+   "crossRefs": [
+    "Matthew 26:47–75",
+    "Isaiah 53:7",
+    "1 Timothy 6:13"
+   ]
+  },
+  {
+   "n": 19,
+   "title": "It Is Finished",
+   "summary": "Jesus is flogged, crowned with thorns, and presented: “Behold the man!” He carries His own cross and is crucified as “King of the Jews.” He entrusts His mother to John, says, “I thirst,” and then, “It is finished,” and gives up His spirit. His side is pierced. Joseph and Nicodemus bury Him.",
+   "questions": [
+    "What does “It is finished” mean (19:30)?",
+    "What Scriptures are fulfilled in this chapter?",
+    "How does Jesus care for His mother even on the cross?"
+   ],
+   "crossRefs": [
+    "Psalm 22:18",
+    "Exodus 12:46",
+    "Zechariah 12:10"
+   ]
+  },
+  {
+   "n": 20,
+   "title": "He Is Risen",
+   "summary": "Mary Magdalene finds the tomb empty. Peter and John see the grave cloths. Jesus appears to Mary, calling her by name. He appears to the disciples: “Peace be with you... As the Father has sent me, even so I am sending you.” Thomas doubts, then confesses, “My Lord and my God!”",
+   "questions": [
+    "Why did Mary recognize Jesus when He spoke her name?",
+    "How does Jesus send His disciples (20:21–22)?",
+    "What does Jesus say to those who believe without seeing (20:29)?"
+   ],
+   "crossRefs": [
+    "1 Corinthians 15:3–8",
+    "Matthew 28",
+    "1 Peter 1:8"
+   ]
+  },
+  {
+   "n": 21,
+   "title": "Do You Love Me?",
+   "summary": "By the Sea of Tiberias, Jesus provides a miraculous catch and cooks breakfast. He asks Peter three times, “Do you love me?” and commissions him: “Feed my sheep.” He predicts Peter’s death and says, “Follow me.” John testifies that his account is true.",
+   "questions": [
+    "Why did Jesus ask Peter three times?",
+    "What does “Feed my sheep” mean for leaders and for all believers?",
+    "How does Jesus answer Peter’s comparison to John (21:21–22)?"
+   ],
+   "crossRefs": [
+    "Luke 5:1–11",
+    "1 Peter 5:1–4",
+    "2 Peter 1:14"
+   ]
+  }
+ ],
+ "tagline": "That you may believe that Jesus is the Christ, the Son of God, and have life",
+ "readingPlan": "21 chapters: one chapter a day takes 21 days; two a day takes about 11 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}
