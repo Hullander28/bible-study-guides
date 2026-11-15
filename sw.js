@@ -1,5 +1,5 @@
 // Network-first for app files and guides so updates show up; falls back to cache offline.
-const CACHE = "bsg-v1";
+const CACHE = "bsg-v2";
 const CORE = ["./", "index.html", "css/style.css", "js/books.js", "js/app.js", "manifest.webmanifest", "icons/icon-192.png", "data/genesis.json"];
 self.addEventListener("install", e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE))); self.skipWaiting(); });
 self.addEventListener("activate", e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k))))); self.clients.claim(); });
