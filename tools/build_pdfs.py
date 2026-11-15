@@ -30,7 +30,7 @@ ul.r li,ol li{margin:3pt 0}
 """
 def guide_html(g):
     o = g["overview"]; n = g["chapters"]
-    h = [f"<!doctype html><html><head><meta charset='utf-8'><style>{CSS}</style></head><body>"]
+    h = [f"<!doctype html><html><head><meta charset='utf-8'><title>{E(g['name'])}: Bible Study Guide (ESV)</title><style>{CSS}</style></head><body>"]
     h.append(f"<section class='cover'><div class='kicker'>Bible Study Guide · ESV</div><h1>{E(g['name'])}</h1><div class='tag'>{E(g['tagline'])}</div>"
              f"<div class='meta'>{n} chapter{'s' if n > 1 else ''} · Overview, outline, themes, key verses, Christ connections, and chapter-by-chapter discussion questions</div>"
              f"<div class='attr' style='margin-top:40pt'>{E(ATTR)}</div></section>")
