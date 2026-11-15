@@ -1,0 +1,1006 @@
+{
+ "id": "jeremiah",
+ "name": "Jeremiah",
+ "chapters": 52,
+ "overview": {
+  "author": "Jeremiah son of Hilkiah, a priest from Anathoth, who dictated much of his message to his scribe Baruch (36:4, 32).",
+  "date": "Jeremiah prophesied from about 627 BC (Josiah’s 13th year) until after Jerusalem’s fall in 586 BC, about 40 years.",
+  "audience": "Judah and Jerusalem in their final decades, the exiles in Babylon, and the nations.",
+  "setting": "Jerusalem under Kings Josiah, Jehoahaz, Jehoiakim, Jehoiachin, and Zedekiah, as Babylon rose to power, through the siege and destruction of the city, and afterward in Egypt.",
+  "purpose": "To call Judah to repent, announce that God would judge her through Babylon for persistent idolatry and injustice, and promise restoration after seventy years and a new covenant written on the heart.",
+  "structure": "Jeremiah’s call (1), warnings and pleas to Judah (2–25), conflicts and the book of consolation (26–36), the fall of Jerusalem and its aftermath (37–45), oracles against the nations (46–51), and a historical appendix (52)."
+ },
+ "outline": [
+  {
+   "title": "Jeremiah’s Call",
+   "range": "1:1–19",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "Appointed a prophet to the nations",
+     "range": "1:1–19"
+    }
+   ]
+  },
+  {
+   "title": "Judgment on Judah",
+   "range": "2:1–25:38",
+   "start": 2,
+   "end": 25,
+   "items": [
+    {
+     "title": "Israel’s unfaithfulness",
+     "range": "2:1–6:30"
+    },
+    {
+     "title": "The temple sermon and false worship",
+     "range": "7:1–10:25"
+    },
+    {
+     "title": "The broken covenant and Jeremiah’s laments",
+     "range": "11:1–20:18"
+    },
+    {
+     "title": "Messages to kings and false prophets",
+     "range": "21:1–25:38"
+    }
+   ]
+  },
+  {
+   "title": "Conflict and Consolation",
+   "range": "26:1–36:32",
+   "start": 26,
+   "end": 36,
+   "items": [
+    {
+     "title": "Jeremiah versus false prophets",
+     "range": "26:1–29:32"
+    },
+    {
+     "title": "The book of consolation: the new covenant",
+     "range": "30:1–33:26"
+    },
+    {
+     "title": "Faithlessness and the scroll burned",
+     "range": "34:1–36:32"
+    }
+   ]
+  },
+  {
+   "title": "The Fall of Jerusalem",
+   "range": "37:1–45:5",
+   "start": 37,
+   "end": 45,
+   "items": [
+    {
+     "title": "Jeremiah imprisoned during the siege",
+     "range": "37:1–38:28"
+    },
+    {
+     "title": "Jerusalem falls",
+     "range": "39:1–18"
+    },
+    {
+     "title": "Aftermath and flight to Egypt",
+     "range": "40:1–45:5"
+    }
+   ]
+  },
+  {
+   "title": "Oracles Against the Nations",
+   "range": "46:1–51:64",
+   "start": 46,
+   "end": 51,
+   "items": [
+    {
+     "title": "Egypt, Philistia, Moab, Ammon, Edom, and others",
+     "range": "46:1–49:39"
+    },
+    {
+     "title": "Babylon",
+     "range": "50:1–51:64"
+    }
+   ]
+  },
+  {
+   "title": "Historical Appendix",
+   "range": "52:1–34",
+   "start": 52,
+   "end": 52,
+   "items": [
+    {
+     "title": "The fall of Jerusalem recounted",
+     "range": "52:1–34"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Covenant Unfaithfulness",
+   "text": "Judah has forsaken God, “the fountain of living waters,” for broken cisterns (2:13)."
+  },
+  {
+   "title": "Judgment Through Babylon",
+   "text": "God uses Babylon as His instrument of discipline."
+  },
+  {
+   "title": "The Deceitful Heart",
+   "text": "“The heart is deceitful above all things” (17:9). Outward religion cannot fix inward corruption."
+  },
+  {
+   "title": "True and False Prophets",
+   "text": "Jeremiah’s hard message clashes with prophets who cry “Peace, peace” when there is no peace."
+  },
+  {
+   "title": "The Suffering Prophet",
+   "text": "Jeremiah is rejected, beaten, imprisoned, and weeps over his people."
+  },
+  {
+   "title": "The New Covenant",
+   "text": "God promises to write His law on hearts and forgive sin (31:31–34)."
+  },
+  {
+   "title": "Hope Beyond Exile",
+   "text": "After seventy years God will bring His people home (29:10–14)."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Jeremiah 1:5",
+   "quote": "Before I formed you in the womb I knew you."
+  },
+  {
+   "ref": "Jeremiah 2:13",
+   "quote": "They have forsaken me, the fountain of living waters."
+  },
+  {
+   "ref": "Jeremiah 17:9",
+   "quote": "The heart is deceitful above all things, and desperately sick; who can understand it?"
+  },
+  {
+   "ref": "Jeremiah 29:11",
+   "quote": "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope."
+  },
+  {
+   "ref": "Jeremiah 31:33",
+   "quote": "I will put my law within them, and I will write it on their hearts."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "23:5–6",
+   "text": "The righteous Branch from David’s line called “The LORD is our righteousness” (1 Corinthians 1:30)."
+  },
+  {
+   "ref": "31:31–34",
+   "text": "The new covenant is inaugurated by Jesus’ blood (Luke 22:20; Hebrews 8:8–12)."
+  },
+  {
+   "ref": "31:15",
+   "text": "Rachel weeping for her children is fulfilled at Jesus’ birth (Matthew 2:17–18)."
+  },
+  {
+   "ref": "7:11",
+   "text": "Jesus quotes “a den of robbers” when cleansing the temple (Matthew 21:13)."
+  },
+  {
+   "ref": "11:19",
+   "text": "Jeremiah “like a gentle lamb led to the slaughter” foreshadows Christ’s suffering."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Hebrews 8:6–13",
+   "note": "The new covenant quoted in full."
+  },
+  {
+   "ref": "2 Kings 22–25",
+   "note": "The history behind Jeremiah."
+  },
+  {
+   "ref": "Daniel 9:2",
+   "note": "Daniel reads Jeremiah’s seventy years."
+  },
+  {
+   "ref": "Lamentations",
+   "note": "Grief over Jerusalem’s fall."
+  },
+  {
+   "ref": "Matthew 16:14",
+   "note": "Some thought Jesus was Jeremiah."
+  }
+ ],
+ "reflection": [
+  "God knew and appointed Jeremiah before birth (1:5). How does it change your view of your life to know God formed you for a purpose?",
+  "What “broken cisterns” are you tempted to drink from instead of the fountain of living waters (2:13)?",
+  "Jeremiah was honest with God about his pain (20:7–18). What honest complaint do you need to bring to God?",
+  "Jeremiah 29:7 calls exiles to seek the welfare of their city. How can you seek the good of the place where God has put you?",
+  "How does the new covenant (31:31–34) give you confidence in God’s forgiveness and transforming work?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Jeremiah’s Call",
+   "summary": "God calls young Jeremiah: “Before I formed you in the womb I knew you... I appointed you a prophet to the nations.” Jeremiah protests that he is too young, but God touches his mouth and puts His words there. Visions of an almond branch and a boiling pot reveal that God watches over His word and that disaster is coming from the north.",
+   "questions": [
+    "What does 1:5 teach about God’s knowledge of us before birth?",
+    "How does God answer Jeremiah’s excuse (1:7–8)?",
+    "What did God promise Jeremiah (1:18–19)?"
+   ],
+   "crossRefs": [
+    "Psalm 139:13–16",
+    "Galatians 1:15",
+    "Exodus 4:10–12"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Israel Forsakes God",
+   "summary": "God remembers Israel’s early devotion, like a bride, but they have exchanged their glory for worthless idols. “They have forsaken me, the fountain of living waters, and hewed out cisterns... that can hold no water.” Like a wild donkey in heat, Israel runs after other gods.",
+   "questions": [
+    "What were Israel’s “two evils” (2:13)?",
+    "What broken cisterns do people drink from today?",
+    "How do people claim innocence while living in sin (2:35)?"
+   ],
+   "crossRefs": [
+    "John 4:13–14",
+    "John 7:37–38",
+    "Romans 1:22–23"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Return, Faithless Israel",
+   "summary": "Judah has played the harlot with many lovers, yet God says, “Return to me.” Judah saw Israel’s exile but did not learn. God promises shepherds after His own heart and a day when nations gather to Jerusalem.",
+   "questions": [
+    "Why was Judah’s sin worse than Israel’s (3:6–11)?",
+    "What does God promise if they return (3:14–18)?",
+    "What does genuine return to God involve (3:22–25)?"
+   ],
+   "crossRefs": [
+    "Hosea 2:14–20",
+    "Luke 15:18–20",
+    "Acts 3:19"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Break Up Your Fallow Ground",
+   "summary": "God calls for true repentance: “Break up your fallow ground, and sow not among thorns. Circumcise yourselves to the LORD.” A destroyer from the north is coming. Jeremiah writhes in anguish and sees the earth “without form and void.”",
+   "questions": [
+    "What does it mean to break up “fallow ground” in your heart (4:3)?",
+    "What is circumcision of the heart (4:4)?",
+    "How does 4:23 echo Genesis 1:2?"
+   ],
+   "crossRefs": [
+    "Hosea 10:12",
+    "Romans 2:28–29",
+    "Genesis 1:2"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Not One Who Does Justice",
+   "summary": "God challenges Jeremiah to search Jerusalem for one person who does justice. The poor and great alike have broken the yoke. The people have eyes but do not see. Prophets prophesy falsely, “and my people love to have it so.”",
+   "questions": [
+    "What does God look for in Jerusalem (5:1)?",
+    "Why did the people enjoy false prophets (5:31)?",
+    "How can you guard against wanting only comfortable messages?"
+   ],
+   "crossRefs": [
+    "Genesis 18:23–32",
+    "Ezekiel 22:30",
+    "2 Timothy 4:3–4"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Ask for the Ancient Paths",
+   "summary": "Disaster comes from the north. Prophets and priests say, “Peace, peace,” when there is no peace. God says, “Stand by the roads, and look, and ask for the ancient paths, where the good way is; and walk in it, and find rest for your souls.” But they refuse.",
+   "questions": [
+    "What is the danger of crying “Peace” when there is none (6:14)?",
+    "What are the “ancient paths” (6:16)?",
+    "How does Jesus offer rest for souls (Matthew 11:29)?"
+   ],
+   "crossRefs": [
+    "Matthew 11:28–30",
+    "Ezekiel 13:10",
+    "1 Thessalonians 5:3"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "The Temple Sermon",
+   "summary": "At the temple gate, Jeremiah warns against trusting in “the temple of the LORD” while practicing injustice and idolatry. Has this house become “a den of robbers”? God will do to it what He did to Shiloh. Even child sacrifice is practiced in the Valley of Hinnom.",
+   "questions": [
+    "Why did the people think the temple made them safe?",
+    "How did Jesus quote 7:11 (Matthew 21:13)?",
+    "What religious habits might give false security today?"
+   ],
+   "crossRefs": [
+    "Matthew 21:13",
+    "1 Samuel 4:3–11",
+    "Micah 3:11"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "No Balm in Gilead?",
+   "summary": "The people do not repent; they hold fast to deceit. “The harvest is past, the summer is ended, and we are not saved.” Jeremiah grieves: “Is there no balm in Gilead? Is there no physician there?”",
+   "questions": [
+    "What does 8:6–7 say about humans compared to birds?",
+    "Why is 8:20 such a sad verse?",
+    "Who is the true healer of God’s people?"
+   ],
+   "crossRefs": [
+    "Mark 2:17",
+    "Isaiah 53:5",
+    "Luke 19:41–44"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Let Him Who Boasts Boast in This",
+   "summary": "Jeremiah wishes his eyes were a fountain of tears. The people deceive one another. “Let not the wise man boast in his wisdom... but let him who boasts boast in this, that he understands and knows me, that I am the LORD who practices steadfast love, justice, and righteousness.”",
+   "questions": [
+    "Why does Jeremiah weep (9:1)?",
+    "What should we boast in (9:23–24)?",
+    "How does Paul quote this in 1 Corinthians 1:31?"
+   ],
+   "crossRefs": [
+    "1 Corinthians 1:31",
+    "2 Corinthians 10:17",
+    "Philippians 3:3–8"
+   ]
+  },
+  {
+   "n": 10,
+   "title": "The True God and Idols",
+   "summary": "Idols are like scarecrows in a cucumber field: they cannot speak or walk. “But the LORD is the true God; he is the living God and the everlasting King.” Jeremiah prays, “I know, O LORD, that the way of man is not in himself.”",
+   "questions": [
+    "How does Jeremiah mock idols (10:3–5)?",
+    "How is God different (10:10–13)?",
+    "What does 10:23 say about our need for God’s direction?"
+   ],
+   "crossRefs": [
+    "Isaiah 44:9–20",
+    "Psalm 115:4–8",
+    "Proverbs 16:9"
+   ]
+  },
+  {
+   "n": 11,
+   "title": "The Broken Covenant",
+   "summary": "God reminds Judah of the covenant made at the Exodus, which they have broken. Jeremiah discovers a plot by the men of his hometown Anathoth to kill him; he was “like a gentle lamb led to the slaughter.”",
+   "questions": [
+    "How had Judah broken the covenant?",
+    "How does Jeremiah respond to the plot against him (11:20)?",
+    "How does 11:19 foreshadow Jesus?"
+   ],
+   "crossRefs": [
+    "Isaiah 53:7",
+    "John 1:11",
+    "Deuteronomy 27:26"
+   ]
+  },
+  {
+   "n": 12,
+   "title": "Why Do the Wicked Prosper?",
+   "summary": "Jeremiah asks, “Why does the way of the wicked prosper?” God answers: “If you have raced with men on foot, and they have wearied you, how will you compete with horses?” Harder times are ahead. Yet God promises compassion even for the nations if they learn His ways.",
+   "questions": [
+    "What is Jeremiah’s complaint (12:1–4)?",
+    "What does God’s answer (12:5) mean?",
+    "How does God show mercy to the nations (12:15–16)?"
+   ],
+   "crossRefs": [
+    "Psalm 73",
+    "Habakkuk 1:2–4",
+    "Hebrews 12:1–3"
+   ]
+  },
+  {
+   "n": 13,
+   "title": "The Ruined Loincloth",
+   "summary": "God has Jeremiah bury a linen loincloth by the Euphrates; when he retrieves it, it is ruined. So God will ruin Judah’s pride, for they were meant to cling to Him. “Can the Ethiopian change his skin or the leopard his spots?”",
+   "questions": [
+    "What did the loincloth symbolize (13:11)?",
+    "Why did Judah become “good for nothing”?",
+    "How does 13:23 describe the human inability to change, and what is God’s solution?"
+   ],
+   "crossRefs": [
+    "Ezekiel 36:26",
+    "John 15:4–6",
+    "2 Corinthians 5:17"
+   ]
+  },
+  {
+   "n": 14,
+   "title": "Drought and False Prophets",
+   "summary": "A severe drought strikes. Jeremiah intercedes, but God tells him not to pray for this people. False prophets promise peace. Jeremiah confesses the people’s sin and pleads, “Do not break your covenant with us.”",
+   "questions": [
+    "Why would God tell Jeremiah not to pray for the people (14:11)?",
+    "How does Jeremiah still intercede (14:19–22)?",
+    "What do false prophets promise (14:13–15)?"
+   ],
+   "crossRefs": [
+    "1 John 5:16",
+    "Psalm 79:9",
+    "Ezekiel 13"
+   ]
+  },
+  {
+   "n": 15,
+   "title": "Your Words Became My Joy",
+   "summary": "God says that even Moses and Samuel could not turn His judgment. Jeremiah laments his birth, yet says, “Your words were found, and I ate them, and your words became to me a joy.” God promises, “If you return, I will restore you... I am with you to save you.”",
+   "questions": [
+    "Why is judgment now certain (15:1–4)?",
+    "What does it mean to “eat” God’s words (15:16)?",
+    "What does God call Jeremiah to do (15:19)?"
+   ],
+   "crossRefs": [
+    "Ezekiel 3:1–3",
+    "Psalm 119:103",
+    "Revelation 10:9–10"
+   ]
+  },
+  {
+   "n": 16,
+   "title": "Jeremiah Forbidden to Marry",
+   "summary": "God forbids Jeremiah to marry, mourn, or feast, as signs of the coming disaster. Yet a day will come when God brings Israel back from the north, and nations will confess that their fathers inherited lies.",
+   "questions": [
+    "What did Jeremiah’s lifestyle communicate?",
+    "What new exodus does 16:14–15 promise?",
+    "How does 16:19–21 anticipate the nations turning to God?"
+   ],
+   "crossRefs": [
+    "1 Corinthians 7:26–29",
+    "Isaiah 43:16–19",
+    "Acts 14:15"
+   ]
+  },
+  {
+   "n": 17,
+   "title": "The Deceitful Heart",
+   "summary": "Judah’s sin is engraved on their hearts. “Cursed is the man who trusts in man... Blessed is the man who trusts in the LORD.” He is like a tree planted by water. “The heart is deceitful above all things.” Jeremiah prays, “Heal me, O LORD, and I shall be healed.” He urges Sabbath-keeping.",
+   "questions": [
+    "Contrast the person who trusts man and the one who trusts God (17:5–8).",
+    "What does 17:9–10 teach about the human heart?",
+    "Pray Jeremiah’s prayer in 17:14."
+   ],
+   "crossRefs": [
+    "Psalm 1",
+    "Matthew 15:18–19",
+    "Hebrews 4:12"
+   ]
+  },
+  {
+   "n": 18,
+   "title": "The Potter’s House",
+   "summary": "At the potter’s house Jeremiah sees a spoiled vessel reworked into another. God says, “Like the clay in the potter’s hand, so are you in my hand.” He can relent if a nation repents. The people plot against Jeremiah.",
+   "questions": [
+    "What does the potter illustration teach about God’s sovereignty?",
+    "How does God respond to repentance (18:7–10)?",
+    "How does Paul use the potter image (Romans 9:20–21)?"
+   ],
+   "crossRefs": [
+    "Romans 9:20–21",
+    "Isaiah 64:8",
+    "Jonah 3:10"
+   ]
+  },
+  {
+   "n": 19,
+   "title": "The Broken Flask",
+   "summary": "Jeremiah buys a clay flask, takes elders to the Valley of Hinnom, and breaks it as a sign: God will break Jerusalem beyond repair because of their idolatry and child sacrifice.",
+   "questions": [
+    "How is the broken flask different from the clay in chapter 18?",
+    "Why was the Valley of Hinnom significant (19:4–6)?",
+    "How does Jesus use “Gehenna” (from Hinnom) in Matthew 10:28?"
+   ],
+   "crossRefs": [
+    "Matthew 10:28",
+    "2 Kings 23:10",
+    "Hebrews 3:15"
+   ]
+  },
+  {
+   "n": 20,
+   "title": "Jeremiah in the Stocks",
+   "summary": "The priest Pashhur beats Jeremiah and puts him in the stocks. Jeremiah complains bitterly to God, “You deceived me,” and curses his birth. Yet he cannot stop speaking: “There is in my heart as it were a burning fire shut up in my bones.”",
+   "questions": [
+    "How does Jeremiah express his frustration (20:7–10)?",
+    "What keeps him speaking (20:9)?",
+    "How does Jeremiah mix praise with lament (20:11–13)?"
+   ],
+   "crossRefs": [
+    "Acts 4:20",
+    "1 Corinthians 9:16",
+    "Job 3:1–3"
+   ]
+  },
+  {
+   "n": 21,
+   "title": "Zedekiah’s Request Rejected",
+   "summary": "King Zedekiah asks Jeremiah to inquire whether God will deliver Jerusalem from Babylon. God’s answer: He Himself will fight against the city. “Behold, I set before you the way of life and the way of death”: surrender to Babylon and live.",
+   "questions": [
+    "Why did Zedekiah hope for a miracle?",
+    "What is surprising about God’s answer (21:5)?",
+    "How does 21:8 echo Deuteronomy 30:19?"
+   ],
+   "crossRefs": [
+    "Deuteronomy 30:19",
+    "2 Kings 25:1–7",
+    "Matthew 7:13–14"
+   ]
+  },
+  {
+   "n": 22,
+   "title": "Messages to Judah’s Kings",
+   "summary": "Jeremiah warns the king to do justice and righteousness. He condemns Shallum (Jehoahaz), Jehoiakim, who built his palace with unpaid labor, and Jehoiachin (Coniah), none of whose offspring will sit on David’s throne.",
+   "questions": [
+    "What does God require of kings (22:3)?",
+    "How does 22:16 define knowing God?",
+    "How is 22:30 (no offspring on David’s throne) resolved in Jesus’ genealogy?"
+   ],
+   "crossRefs": [
+    "Micah 6:8",
+    "James 5:4",
+    "Matthew 1:11–16"
+   ]
+  },
+  {
+   "n": 23,
+   "title": "The Righteous Branch",
+   "summary": "God condemns shepherds who scatter His flock and promises to gather them. He will raise up for David a righteous Branch called “The LORD is our righteousness.” Jeremiah condemns false prophets who speak visions of their own minds. “Is not my word like fire... and like a hammer?”",
+   "questions": [
+    "Who is the righteous Branch (23:5–6)?",
+    "How can we tell false prophets from true ones (23:16–22)?",
+    "How is God’s word like fire and a hammer (23:29)?"
+   ],
+   "crossRefs": [
+    "John 10:11–16",
+    "1 Corinthians 1:30",
+    "Hebrews 4:12"
+   ]
+  },
+  {
+   "n": 24,
+   "title": "Two Baskets of Figs",
+   "summary": "God shows Jeremiah two baskets of figs: good figs represent the exiles in Babylon whom God will bring back with a new heart, and bad figs represent Zedekiah and those who remained.",
+   "questions": [
+    "Why were the exiles considered “good figs”?",
+    "What does God promise them (24:7)?",
+    "How can discipline be a sign of God’s care?"
+   ],
+   "crossRefs": [
+    "Ezekiel 11:16–20",
+    "Hebrews 12:6–11",
+    "Jeremiah 31:33"
+   ]
+  },
+  {
+   "n": 25,
+   "title": "Seventy Years",
+   "summary": "For 23 years Jeremiah has spoken, but Judah did not listen. Babylon will rule seventy years, and then Babylon will be judged. Jeremiah is told to make the nations drink the cup of God’s wrath.",
+   "questions": [
+    "Why does Jeremiah note his 23 years of preaching (25:3)?",
+    "How does Daniel use this prophecy (Daniel 9:2)?",
+    "What is the “cup of wrath” (25:15), and who drank it for us?"
+   ],
+   "crossRefs": [
+    "Daniel 9:2",
+    "2 Chronicles 36:21",
+    "Matthew 26:39"
+   ]
+  },
+  {
+   "n": 26,
+   "title": "Jeremiah Threatened with Death",
+   "summary": "Jeremiah warns at the temple that it will become like Shiloh. Priests and prophets demand his death. Elders recall that Micah prophesied similarly and was not killed. Jeremiah is spared, but the prophet Uriah is killed by Jehoiakim.",
+   "questions": [
+    "How does Jeremiah respond to the death threat (26:14–15)?",
+    "How does history (Micah) help the elders decide wisely?",
+    "Who protected Jeremiah (26:24)?"
+   ],
+   "crossRefs": [
+    "Micah 3:12",
+    "Acts 5:34–39",
+    "Matthew 23:37"
+   ]
+  },
+  {
+   "n": 27,
+   "title": "The Yoke of Babylon",
+   "summary": "Jeremiah wears a yoke to show that nations must serve Nebuchadnezzar, whom God calls “my servant.” He warns kings not to listen to false prophets who promise quick freedom.",
+   "questions": [
+    "Why does God call Nebuchadnezzar “my servant” (27:6)?",
+    "Why would submitting to Babylon be obedience to God?",
+    "How can we discern God’s will when it is unpopular?"
+   ],
+   "crossRefs": [
+    "Daniel 2:37–38",
+    "Romans 13:1",
+    "Isaiah 45:1"
+   ]
+  },
+  {
+   "n": 28,
+   "title": "Hananiah the False Prophet",
+   "summary": "The prophet Hananiah breaks Jeremiah’s wooden yoke and predicts Babylon’s fall in two years. God tells Jeremiah that an iron yoke will replace it, and Hananiah will die that year for preaching rebellion. He dies two months later.",
+   "questions": [
+    "What made Hananiah’s message attractive?",
+    "How does Jeremiah test a prophet’s word (28:8–9)?",
+    "What does Hananiah’s death teach about false teaching?"
+   ],
+   "crossRefs": [
+    "Deuteronomy 18:20–22",
+    "2 Peter 2:1",
+    "Galatians 1:8"
+   ]
+  },
+  {
+   "n": 29,
+   "title": "Letter to the Exiles",
+   "summary": "Jeremiah writes to the exiles: build houses, plant gardens, marry, and “seek the welfare of the city.” After seventy years God will bring them back: “For I know the plans I have for you... a future and a hope. You will seek me and find me, when you seek me with all your heart.”",
+   "questions": [
+    "What does God tell the exiles to do in Babylon?",
+    "How should 29:11 be read in context?",
+    "How can you seek the welfare of your city (29:7)?"
+   ],
+   "crossRefs": [
+    "1 Peter 2:11–12",
+    "1 Timothy 2:1–2",
+    "Deuteronomy 4:29"
+   ]
+  },
+  {
+   "n": 30,
+   "title": "Restoration Promised",
+   "summary": "God tells Jeremiah to write in a book that He will restore Israel and Judah. A time of distress for Jacob is coming, but he will be saved. God will break their yoke, and they will serve “David their king.” “You shall be my people, and I will be your God.”",
+   "questions": [
+    "Why begin a “book of consolation” in the middle of judgment?",
+    "Who is “David their king” (30:9)?",
+    "How does God heal incurable wounds (30:12–17)?"
+   ],
+   "crossRefs": [
+    "Ezekiel 34:23–24",
+    "Hosea 3:5",
+    "Revelation 21:3"
+   ]
+  },
+  {
+   "n": 31,
+   "title": "The New Covenant",
+   "summary": "“I have loved you with an everlasting love.” God will rebuild Israel and turn mourning into joy. Rachel weeps for her children, but they will return. “I will make a new covenant... I will put my law within them, and I will write it on their hearts... I will forgive their iniquity.”",
+   "questions": [
+    "How is the new covenant different from the old (31:32–34)?",
+    "How does Jesus establish it (Luke 22:20)?",
+    "What does 31:3 say about God’s love for you?"
+   ],
+   "crossRefs": [
+    "Hebrews 8:8–12",
+    "Luke 22:20",
+    "Matthew 2:17–18"
+   ]
+  },
+  {
+   "n": 32,
+   "title": "Jeremiah Buys a Field",
+   "summary": "During the siege, imprisoned Jeremiah buys a field in Anathoth as a sign that houses and fields will again be bought in the land. He prays, “Nothing is too hard for you,” and God answers, “Is anything too hard for me?” He promises an everlasting covenant.",
+   "questions": [
+    "Why was buying a field during a siege an act of faith?",
+    "How do Jeremiah’s prayer and God’s answer echo each other (32:17, 27)?",
+    "What does God promise in 32:38–41?"
+   ],
+   "crossRefs": [
+    "Genesis 18:14",
+    "Luke 1:37",
+    "Hebrews 11:1"
+   ]
+  },
+  {
+   "n": 33,
+   "title": "Call to Me and I Will Answer",
+   "summary": "God tells imprisoned Jeremiah, “Call to me and I will answer you, and will tell you great and hidden things.” He will restore Judah and Israel and raise up a righteous Branch for David. His covenant with David is as sure as day and night.",
+   "questions": [
+    "What does God invite in 33:3?",
+    "How does God guarantee His covenant (33:20–21, 25–26)?",
+    "Who is the righteous Branch (33:15)?"
+   ],
+   "crossRefs": [
+    "Psalm 91:15",
+    "Luke 1:32–33",
+    "Hebrews 7:22–25"
+   ]
+  },
+  {
+   "n": 34,
+   "title": "Freed Slaves Re-enslaved",
+   "summary": "During the siege, Zedekiah and the people free their Hebrew slaves, but then take them back. God condemns this broken covenant and proclaims “liberty” to the sword and famine.",
+   "questions": [
+    "What did the people do right and then wrong?",
+    "How seriously does God take broken promises?",
+    "How does God’s justice match their sin (34:17)?"
+   ],
+   "crossRefs": [
+    "Exodus 21:2",
+    "Deuteronomy 15:12",
+    "Galatians 5:1"
+   ]
+  },
+  {
+   "n": 35,
+   "title": "The Faithful Rechabites",
+   "summary": "Jeremiah offers wine to the Rechabites, who refuse because their ancestor commanded it. God contrasts their faithfulness to a human father with Judah’s disobedience to Him and blesses the Rechabites.",
+   "questions": [
+    "What point does God make with the Rechabites?",
+    "How faithful are you to God’s word compared to human traditions?",
+    "What promise does God give the Rechabites (35:19)?"
+   ],
+   "crossRefs": [
+    "Malachi 1:6",
+    "Exodus 20:12",
+    "Mark 7:8–9"
+   ]
+  },
+  {
+   "n": 36,
+   "title": "The King Burns the Scroll",
+   "summary": "Jeremiah dictates his prophecies to Baruch, who reads them at the temple. King Jehoiakim cuts the scroll with a knife and burns it in the fire, unafraid. God commands Jeremiah to write it again, adding more.",
+   "questions": [
+    "How do the officials and the king respond differently?",
+    "What does burning the scroll reveal about Jehoiakim?",
+    "What does it teach that God’s word cannot be destroyed?"
+   ],
+   "crossRefs": [
+    "Isaiah 40:8",
+    "Matthew 24:35",
+    "2 Kings 22:11–13"
+   ]
+  },
+  {
+   "n": 37,
+   "title": "Jeremiah Imprisoned",
+   "summary": "Babylon briefly withdraws to fight Egypt, and Zedekiah hopes for deliverance. Jeremiah says Babylon will return. As he leaves the city, he is accused of deserting, beaten, and imprisoned. Zedekiah secretly asks, “Is there any word from the LORD?”",
+   "questions": [
+    "Why did Zedekiah seek God’s word secretly?",
+    "How does Jeremiah remain faithful in prison?",
+    "Why is it dangerous to want God’s word but not obey it?"
+   ],
+   "crossRefs": [
+    "James 1:22",
+    "Acts 16:23–25",
+    "John 3:19–21"
+   ]
+  },
+  {
+   "n": 38,
+   "title": "Jeremiah in the Cistern",
+   "summary": "Officials throw Jeremiah into a muddy cistern to die. Ebed-melech, an Ethiopian, pleads with the king and rescues him with ropes and rags. Zedekiah again asks Jeremiah’s counsel but fears to obey.",
+   "questions": [
+    "What do you admire about Ebed-melech?",
+    "Why does Zedekiah fail to act on the truth?",
+    "How can fear of people keep us from obeying God (38:19)?"
+   ],
+   "crossRefs": [
+    "Proverbs 29:25",
+    "Matthew 25:36",
+    "Psalm 40:1–2"
+   ]
+  },
+  {
+   "n": 39,
+   "title": "The Fall of Jerusalem",
+   "summary": "After an 18-month siege, Babylon breaks through. Zedekiah flees, is captured, sees his sons killed, and is blinded. The city is burned. Nebuchadnezzar orders Jeremiah well treated, and God promises to save Ebed-melech “because you have put your trust in me.”",
+   "questions": [
+    "How were Jeremiah’s prophecies fulfilled?",
+    "Why was Zedekiah’s end so tragic?",
+    "Why does God protect Ebed-melech (39:18)?"
+   ],
+   "crossRefs": [
+    "2 Kings 25:1–12",
+    "Jeremiah 52:4–11",
+    "Psalm 37:39–40"
+   ]
+  },
+  {
+   "n": 40,
+   "title": "Gedaliah Governor",
+   "summary": "Jeremiah is freed and chooses to stay with the poor in the land under Gedaliah, the governor. Scattered Judeans gather. Gedaliah is warned of an assassination plot but does not believe it.",
+   "questions": [
+    "Why might Jeremiah have chosen to stay in the land?",
+    "How does Gedaliah try to rebuild?",
+    "What was Gedaliah’s mistake (40:13–16)?"
+   ],
+   "crossRefs": [
+    "Jeremiah 29:4–7",
+    "Proverbs 22:3",
+    "2 Kings 25:22–24"
+   ]
+  },
+  {
+   "n": 41,
+   "title": "Gedaliah Murdered",
+   "summary": "Ishmael murders Gedaliah and others, then takes captives. Johanan rescues them, but fearing Babylon’s revenge, the people plan to flee to Egypt.",
+   "questions": [
+    "How does violence follow violence in this chapter?",
+    "Why are the people afraid?",
+    "Where do people turn when they act from fear rather than faith?"
+   ],
+   "crossRefs": [
+    "2 Kings 25:25–26",
+    "Isaiah 30:1–3",
+    "Proverbs 29:25"
+   ]
+  },
+  {
+   "n": 42,
+   "title": "Do Not Go to Egypt",
+   "summary": "The people ask Jeremiah to pray and promise to obey whatever God says. Ten days later God answers: stay in the land and I will build you up; do not go to Egypt. Jeremiah warns them that they were not sincere.",
+   "questions": [
+    "Why did God answer after ten days?",
+    "Why were the people’s promises insincere (42:20–21)?",
+    "How can we be sincere when asking God for guidance?"
+   ],
+   "crossRefs": [
+    "James 1:6–8",
+    "Ezekiel 14:3–4",
+    "Isaiah 30:1–2"
+   ]
+  },
+  {
+   "n": 43,
+   "title": "Flight to Egypt",
+   "summary": "The leaders call Jeremiah a liar and take the remnant, including Jeremiah and Baruch, to Egypt. In Egypt, Jeremiah buries stones as a sign that Nebuchadnezzar will conquer Egypt too.",
+   "questions": [
+    "Why did the leaders reject God’s answer?",
+    "How does going back to Egypt reverse the Exodus?",
+    "What does the sign of the stones teach (43:8–13)?"
+   ],
+   "crossRefs": [
+    "Deuteronomy 17:16",
+    "Hosea 11:5",
+    "Psalm 106:13"
+   ]
+  },
+  {
+   "n": 44,
+   "title": "Idolatry in Egypt",
+   "summary": "Jeremiah confronts the Judeans in Egypt for burning incense to the queen of heaven. They insist life was better when they worshiped her. God says few will escape.",
+   "questions": [
+    "How do the people misread their history (44:17–18)?",
+    "Why do people sometimes blame God for consequences of their sin?",
+    "What lesson have the people refused to learn?"
+   ],
+   "crossRefs": [
+    "Jeremiah 7:18",
+    "Romans 1:21–25",
+    "1 Corinthians 10:14"
+   ]
+  },
+  {
+   "n": 45,
+   "title": "A Message to Baruch",
+   "summary": "Baruch laments his sorrow and pain. God tells him that He is tearing down what He built: “Do you seek great things for yourself? Seek them not.” But God will give Baruch his life as a prize of war.",
+   "questions": [
+    "What was Baruch’s complaint?",
+    "Why does God tell him not to seek great things?",
+    "How can you serve God without seeking your own greatness?"
+   ],
+   "crossRefs": [
+    "Matthew 6:33",
+    "Philippians 2:3–4",
+    "Mark 10:43–45"
+   ]
+  },
+  {
+   "n": 46,
+   "title": "Against Egypt",
+   "summary": "Egypt is defeated by Babylon at Carchemish. Egypt rises like the Nile but will fall, and Nebuchadnezzar will invade. Yet God tells Jacob not to fear, for He will save them.",
+   "questions": [
+    "How does God humble Egypt’s pride?",
+    "What comfort does God give Israel (46:27–28)?",
+    "How does this show God’s rule over all nations?"
+   ],
+   "crossRefs": [
+    "Ezekiel 29–30",
+    "Isaiah 19",
+    "Isaiah 43:1–5"
+   ]
+  },
+  {
+   "n": 47,
+   "title": "Against the Philistines",
+   "summary": "Waters rise from the north to overflow Philistia. Gaza and Ashkelon are destroyed. The sword of the LORD will not rest.",
+   "questions": [
+    "Why is the sword of the LORD described as restless?",
+    "How did God judge Israel’s long-time enemy?",
+    "What does this teach about God’s justice?"
+   ],
+   "crossRefs": [
+    "Amos 1:6–8",
+    "Zephaniah 2:4–7",
+    "Ezekiel 25:15–17"
+   ]
+  },
+  {
+   "n": 48,
+   "title": "Against Moab",
+   "summary": "Moab, complacent and settled like wine on its dregs, trusted in its works and treasures. Its god Chemosh will go into exile. Yet God promises to restore Moab’s fortunes in the latter days.",
+   "questions": [
+    "What does “settled on his dregs” (48:11) mean?",
+    "Why was Moab judged (48:29–30)?",
+    "What hope is given in 48:47?"
+   ],
+   "crossRefs": [
+    "Isaiah 15–16",
+    "Zephaniah 1:12",
+    "Ruth 1:4"
+   ]
+  },
+  {
+   "n": 49,
+   "title": "Against Ammon, Edom, Damascus, and Others",
+   "summary": "Judgments are pronounced on Ammon, Edom, Damascus, Kedar, Hazor, and Elam. Edom’s pride and confidence in its high rocks will not save it. Yet God will restore Ammon and Elam.",
+   "questions": [
+    "How does Edom’s pride resemble Obadiah’s message?",
+    "What does God’s promise to restore some nations show?",
+    "How does God care for orphans and widows even in judgment (49:11)?"
+   ],
+   "crossRefs": [
+    "Obadiah 1–4",
+    "Ezekiel 25",
+    "Acts 2:9"
+   ]
+  },
+  {
+   "n": 50,
+   "title": "Against Babylon (Part 1)",
+   "summary": "Babylon, the hammer of the whole earth, will fall. Israel and Judah will return weeping and seek the LORD, joining themselves in an everlasting covenant. Their Redeemer is strong.",
+   "questions": [
+    "Why is Babylon judged after being God’s instrument?",
+    "How will Israel return (50:4–5)?",
+    "What does 50:34 say about God as Redeemer?"
+   ],
+   "crossRefs": [
+    "Isaiah 47",
+    "Revelation 18",
+    "Isaiah 43:14"
+   ]
+  },
+  {
+   "n": 51,
+   "title": "Against Babylon (Part 2)",
+   "summary": "God will destroy Babylon, though it was a golden cup in His hand. “Go out of the midst of her! Let every one save his life.” Jeremiah’s words are written on a scroll and sunk in the Euphrates as a sign that Babylon will sink and not rise.",
+   "questions": [
+    "What does “Go out of the midst of her” (51:6, 45) mean for believers (Revelation 18:4)?",
+    "How does 51:15–19 contrast God and idols?",
+    "What does the sunken scroll symbolize?"
+   ],
+   "crossRefs": [
+    "Revelation 18:4, 21",
+    "Isaiah 48:20",
+    "2 Corinthians 6:17"
+   ]
+  },
+  {
+   "n": 52,
+   "title": "The Fall of Jerusalem Recounted",
+   "summary": "An appendix recounts the fall of Jerusalem: Zedekiah’s rebellion, the siege, the destruction of the temple, and the exiles taken. It ends with King Jehoiachin released from prison and given a seat at the king of Babylon’s table.",
+   "questions": [
+    "Why might this account be repeated at the end of Jeremiah?",
+    "How were Jeremiah’s prophecies vindicated?",
+    "What hope does the final scene (52:31–34) offer?"
+   ],
+   "crossRefs": [
+    "2 Kings 25",
+    "2 Samuel 7:16",
+    "Lamentations 3:22–24"
+   ]
+  }
+ ],
+ "tagline": "The weeping prophet: judgment, tears, and a new covenant",
+ "readingPlan": "52 chapters: one chapter a day takes 52 days; two a day takes about 26 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

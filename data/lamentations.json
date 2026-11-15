@@ -1,0 +1,233 @@
+{
+ "id": "lamentations",
+ "name": "Lamentations",
+ "chapters": 5,
+ "overview": {
+  "author": "Traditionally Jeremiah (2 Chronicles 35:25; the Septuagint’s introduction), though the book itself is anonymous.",
+  "date": "Shortly after Jerusalem’s destruction by Babylon in 586 BC.",
+  "audience": "The survivors of Jerusalem’s fall and the exiles, grieving the loss of city, temple, and king.",
+  "setting": "The ruins of Jerusalem after the Babylonian siege, famine, and burning of the temple.",
+  "purpose": "To give voice to grief, confess the sin that caused the catastrophe, and cling to God’s steadfast love and faithfulness in the darkest hour.",
+  "structure": "Five poems. Chapters 1, 2, and 4 are acrostics of 22 verses, chapter 3 is a triple acrostic of 66 verses, and chapter 5 has 22 verses as a closing prayer."
+ },
+ "outline": [
+  {
+   "title": "The City’s Sorrow",
+   "range": "1:1–2:22",
+   "start": 1,
+   "end": 2,
+   "items": [
+    {
+     "title": "Jerusalem weeps alone",
+     "range": "1:1–22"
+    },
+    {
+     "title": "The Lord’s anger poured out",
+     "range": "2:1–22"
+    }
+   ]
+  },
+  {
+   "title": "Hope in the Darkness",
+   "range": "3:1–66",
+   "start": 3,
+   "end": 3,
+   "items": [
+    {
+     "title": "The afflicted man and God’s faithfulness",
+     "range": "3:1–66"
+    }
+   ]
+  },
+  {
+   "title": "Suffering and a Final Prayer",
+   "range": "4:1–5:22",
+   "start": 4,
+   "end": 5,
+   "items": [
+    {
+     "title": "Before and after the siege",
+     "range": "4:1–22"
+    },
+    {
+     "title": "Restore us, O LORD",
+     "range": "5:1–22"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Honest Grief",
+   "text": "Lamentations gives God’s people permission and language to grieve before Him."
+  },
+  {
+   "title": "Sin and Judgment",
+   "text": "The destruction came because Jerusalem “sinned grievously” (1:8). God did what He warned."
+  },
+  {
+   "title": "God’s Sovereignty in Suffering",
+   "text": "The Lord Himself acted in judgment, yet He remains in control."
+  },
+  {
+   "title": "Steadfast Love and Faithfulness",
+   "text": "At the center of the book: “his mercies never come to an end; they are new every morning” (3:22–23)."
+  },
+  {
+   "title": "Waiting and Hope",
+   "text": "“It is good that one should wait quietly for the salvation of the LORD” (3:26)."
+  },
+  {
+   "title": "Prayer for Restoration",
+   "text": "The book ends by asking God to restore His people."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Lamentations 1:12",
+   "quote": "Is it nothing to you, all you who pass by?"
+  },
+  {
+   "ref": "Lamentations 3:22–23",
+   "quote": "The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness."
+  },
+  {
+   "ref": "Lamentations 3:24",
+   "quote": "The LORD is my portion, says my soul, therefore I will hope in him."
+  },
+  {
+   "ref": "Lamentations 3:40",
+   "quote": "Let us test and examine our ways, and return to the LORD!"
+  },
+  {
+   "ref": "Lamentations 5:21",
+   "quote": "Restore us to yourself, O LORD, that we may be restored!"
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1:12",
+   "text": "The sorrow of the one who suffers under God’s wrath foreshadows Jesus, who bore wrath for sinners."
+  },
+  {
+   "ref": "3:30",
+   "text": "Giving one’s cheek to the smiter is fulfilled in Christ (Isaiah 50:6; Matthew 26:67)."
+  },
+  {
+   "ref": "3:22–23",
+   "text": "God’s steadfast love is shown supremely in Christ (Romans 5:8)."
+  },
+  {
+   "ref": "4:20",
+   "text": "The “LORD’s anointed” captured points to the true Anointed One, rejected and yet victorious."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Jeremiah 39; 52",
+   "note": "The fall of Jerusalem described."
+  },
+  {
+   "ref": "2 Kings 25",
+   "note": "The historical account."
+  },
+  {
+   "ref": "Psalm 137",
+   "note": "Grief by the rivers of Babylon."
+  },
+  {
+   "ref": "Luke 19:41–44",
+   "note": "Jesus weeps over Jerusalem."
+  },
+  {
+   "ref": "Revelation 21:4",
+   "note": "God will wipe away every tear."
+  }
+ ],
+ "reflection": [
+  "Lamentations shows that grief can be brought to God. What sorrow do you need to bring honestly to Him?",
+  "How can 3:22–23 sustain you on hard mornings?",
+  "What would it mean to say “The LORD is my portion” (3:24) in your current situation?",
+  "Lamentations 3:40 calls us to examine our ways. What do you need to examine and turn from?",
+  "How does knowing Jesus wept over Jerusalem shape how you grieve over sin and brokenness?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "How Lonely Sits the City",
+   "summary": "“How lonely sits the city that was full of people!” Jerusalem is pictured as a widow weeping in the night with no one to comfort her. Her sin brought this disaster. She cries, “Is it nothing to you, all you who pass by? Look and see if there is any sorrow like my sorrow.”",
+   "questions": [
+    "What images describe Jerusalem’s condition?",
+    "How does the chapter connect suffering with sin (1:8, 18)?",
+    "How does 1:12 foreshadow the suffering of Christ?"
+   ],
+   "crossRefs": [
+    "Jeremiah 52:12–14",
+    "Luke 19:41–44",
+    "Matthew 23:37–38"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "The Lord’s Anger",
+   "summary": "The Lord has become like an enemy, swallowing up Israel and destroying His own sanctuary. Children faint in the streets from hunger. False prophets had seen “false and deceptive visions.” The poet urges the city to pour out her heart like water before the Lord.",
+   "questions": [
+    "Why is it shocking to see God act “like an enemy” (2:5)?",
+    "How did false prophets contribute to the disaster (2:14)?",
+    "What does it mean to pour out your heart like water (2:19)?"
+   ],
+   "crossRefs": [
+    "Jeremiah 14:13–16",
+    "Psalm 62:8",
+    "Hebrews 10:31"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Great Is Your Faithfulness",
+   "summary": "A man who has seen affliction describes God’s hand against him. Yet he calls to mind hope: “The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness.” It is good to wait quietly. “Let us test and examine our ways, and return to the LORD!”",
+   "questions": [
+    "What turns the man from despair to hope (3:21–24)?",
+    "Why is it good to wait quietly for the Lord (3:25–33)?",
+    "What does 3:33 reveal about God’s heart in discipline?"
+   ],
+   "crossRefs": [
+    "Psalm 30:5",
+    "Hebrews 12:10–11",
+    "Romans 8:28"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The Gold Has Grown Dim",
+   "summary": "The poet contrasts Jerusalem before and after the siege: precious sons now like clay pots, princes once radiant now blackened, compassionate women cooking their children. The Lord’s anointed is captured. Yet the punishment of Zion will end, while Edom’s will come.",
+   "questions": [
+    "What is most heartbreaking about this chapter?",
+    "How had prophets and priests failed (4:13)?",
+    "What hope is offered in 4:22?"
+   ],
+   "crossRefs": [
+    "Deuteronomy 28:53–57",
+    "Jeremiah 39:4–7",
+    "Obadiah 10–15"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Restore Us, O LORD",
+   "summary": "The people pray: “Remember, O LORD, what has befallen us.” They are orphans, working as slaves, and joy has ceased. “Woe to us, for we have sinned!” Yet “you, O LORD, reign forever.” They plead, “Restore us to yourself, O LORD, that we may be restored!”",
+   "questions": [
+    "What do the people ask God to remember?",
+    "How does 5:19 anchor their prayer?",
+    "Why does the book end with an open question (5:22)?"
+   ],
+   "crossRefs": [
+    "Psalm 80:3",
+    "Psalm 74",
+    "Revelation 21:3–5"
+   ]
+  }
+ ],
+ "tagline": "Grief over fallen Jerusalem, and mercies new every morning",
+ "readingPlan": "5 chapters: one chapter a day takes 5 days; two a day takes about 3 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}
