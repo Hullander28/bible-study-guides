@@ -1,0 +1,203 @@
+{
+ "id": "2-peter",
+ "name": "2 Peter",
+ "chapters": 3,
+ "overview": {
+  "author": "The apostle Peter (1:1), an eyewitness of the transfiguration (1:16–18).",
+  "date": "About AD 64–68, shortly before Peter’s martyrdom in Rome (1:14).",
+  "audience": "The same believers who received 1 Peter (3:1).",
+  "setting": "False teachers had arisen, promoting immorality, denying Christ’s authority, and scoffing at His promised return.",
+  "purpose": "To urge believers to grow in godly character, trust the reliable word of God, recognize and reject false teachers, and live holy lives while waiting for the day of the Lord.",
+  "structure": "Growing in godliness and the reliability of Scripture (1), the danger of false teachers (2), and the certainty of Christ’s return (3)."
+ },
+ "outline": [
+  {
+   "title": "Growth and Truth",
+   "range": "1:1–21",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "Add to your faith",
+     "range": "1:1–15"
+    },
+    {
+     "title": "Eyewitnesses and the prophetic word",
+     "range": "1:16–21"
+    }
+   ]
+  },
+  {
+   "title": "False Teachers",
+   "range": "2:1–22",
+   "start": 2,
+   "end": 2,
+   "items": [
+    {
+     "title": "Their judgment and character",
+     "range": "2:1–22"
+    }
+   ]
+  },
+  {
+   "title": "The Day of the Lord",
+   "range": "3:1–18",
+   "start": 3,
+   "end": 3,
+   "items": [
+    {
+     "title": "Scoffers and God’s patience",
+     "range": "3:1–18"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Growth in Godliness",
+   "text": "Add virtue, knowledge, self-control, steadfastness, godliness, brotherly affection, and love."
+  },
+  {
+   "title": "God’s Provision",
+   "text": "His divine power has granted all things for life and godliness."
+  },
+  {
+   "title": "The Reliable Word",
+   "text": "Scripture came as men spoke from God, carried along by the Spirit."
+  },
+  {
+   "title": "False Teachers",
+   "text": "They exploit with false words, indulge the flesh, and deny the Master."
+  },
+  {
+   "title": "God’s Judgment and Rescue",
+   "text": "God judged the ancient world and rescued Noah and Lot."
+  },
+  {
+   "title": "God’s Patience",
+   "text": "The Lord is not slow but patient, not wishing any to perish."
+  },
+  {
+   "title": "The Day of the Lord",
+   "text": "It will come like a thief; a new heavens and new earth await."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "2 Peter 1:3",
+   "quote": "His divine power has granted to us all things that pertain to life and godliness."
+  },
+  {
+   "ref": "2 Peter 1:21",
+   "quote": "Men spoke from God as they were carried along by the Holy Spirit."
+  },
+  {
+   "ref": "2 Peter 3:9",
+   "quote": "The Lord is not slow to fulfill his promise... but is patient toward you, not wishing that any should perish."
+  },
+  {
+   "ref": "2 Peter 3:13",
+   "quote": "We are waiting for new heavens and a new earth in which righteousness dwells."
+  },
+  {
+   "ref": "2 Peter 3:18",
+   "quote": "But grow in the grace and knowledge of our Lord and Savior Jesus Christ."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1:1",
+   "text": "Jesus Christ is “our God and Savior.”"
+  },
+  {
+   "ref": "1:16–18",
+   "text": "Peter saw Christ’s majesty at the transfiguration and heard the Father’s voice."
+  },
+  {
+   "ref": "2:1",
+   "text": "False teachers deny the Master who bought them."
+  },
+  {
+   "ref": "3:18",
+   "text": "To our Lord and Savior Jesus Christ be glory now and forever."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Jude",
+   "note": "Closely parallels 2 Peter 2."
+  },
+  {
+   "ref": "Matthew 17:1–8",
+   "note": "The transfiguration."
+  },
+  {
+   "ref": "2 Timothy 3:16",
+   "note": "All Scripture is God-breathed."
+  },
+  {
+   "ref": "Genesis 6–9; 19",
+   "note": "Noah and Lot."
+  },
+  {
+   "ref": "Revelation 21:1",
+   "note": "New heavens and new earth."
+  }
+ ],
+ "reflection": [
+  "Which quality in 1:5–7 do you most need to add to your faith right now?",
+  "How does 1:20–21 strengthen your trust in Scripture?",
+  "What signs of false teaching should you watch for today?",
+  "How does God’s patience (3:9) shape the way you think about unbelievers?",
+  "How should the coming day of the Lord affect how you live this week (3:11–14)?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Grow in Godliness",
+   "summary": "God’s divine power has granted all things for life and godliness and given precious promises. So make every effort to add to faith virtue, knowledge, self-control, steadfastness, godliness, brotherly affection, and love. Peter, soon to die, wants to remind them. He was an eyewitness of Christ’s majesty, and the prophetic word is more fully confirmed: no prophecy came by human will, but men spoke from God carried along by the Spirit.",
+   "questions": [
+    "What has God already given us (1:3–4)?",
+    "How do the qualities in 1:5–7 build on each other?",
+    "What does 1:20–21 teach about Scripture’s origin?"
+   ],
+   "crossRefs": [
+    "Matthew 17:1–8",
+    "2 Timothy 3:16–17",
+    "John 21:18–19"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "False Teachers",
+   "summary": "False teachers will secretly bring in destructive heresies, denying the Master who bought them. God judged angels, the ancient world, and Sodom and Gomorrah, but rescued Noah and Lot, so He knows how to rescue the godly. False teachers are arrogant, sensual, greedy, promising freedom while slaves of corruption. It would have been better never to have known the way of righteousness than to turn back.",
+   "questions": [
+    "How do false teachers operate (2:1–3)?",
+    "What comfort does 2:9 offer?",
+    "What does it mean to promise freedom while being enslaved (2:19)?"
+   ],
+   "crossRefs": [
+    "Jude 4–16",
+    "Genesis 6–8",
+    "Genesis 19"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The Day of the Lord",
+   "summary": "Scoffers will ask, “Where is the promise of his coming?” But God’s word created and judged the world. With the Lord one day is as a thousand years. He is patient, not wishing any to perish. The day of the Lord will come like a thief. “What sort of people ought you to be in lives of holiness and godliness?” Wait for new heavens and a new earth. Grow in grace and knowledge of Christ.",
+   "questions": [
+    "How does Peter answer the scoffers (3:5–9)?",
+    "Why does God delay the day of the Lord?",
+    "How should we live while waiting (3:11–14, 17–18)?"
+   ],
+   "crossRefs": [
+    "Psalm 90:4",
+    "Matthew 24:36–44",
+    "Isaiah 65:17"
+   ]
+  }
+ ],
+ "tagline": "Grow in grace and knowledge, and remember the Lord’s promise",
+ "readingPlan": "3 chapters: one chapter a day takes 3 days; two a day takes about 2 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

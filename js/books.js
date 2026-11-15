@@ -10,7 +10,7 @@ window.BOOKS = (function () {
     ...S("NT", "Gospels", [["matthew","Matthew",28,true],["mark","Mark",16,true],["luke","Luke",24,true],["john","John",21,true]]),
     ...S("NT", "History", [["acts","Acts",28,true]]),
     ...S("NT", "Paul's Letters", [["romans","Romans",16,true],["1-corinthians","1 Corinthians",16,true],["2-corinthians","2 Corinthians",13,true],["galatians","Galatians",6,true],["ephesians","Ephesians",6,true],["philippians","Philippians",4,true],["colossians","Colossians",4,true],["1-thessalonians","1 Thessalonians",5,true],["2-thessalonians","2 Thessalonians",3,true],["1-timothy","1 Timothy",6,true],["2-timothy","2 Timothy",4,true],["titus","Titus",3,true],["philemon","Philemon",1,true]]),
-    ...S("NT", "General Letters", [["hebrews","Hebrews",13],["james","James",5],["1-peter","1 Peter",5],["2-peter","2 Peter",3],["1-john","1 John",5],["2-john","2 John",1],["3-john","3 John",1],["jude","Jude",1]]),
+    ...S("NT", "General Letters", [["hebrews","Hebrews",13,true],["james","James",5,true],["1-peter","1 Peter",5,true],["2-peter","2 Peter",3,true],["1-john","1 John",5],["2-john","2 John",1],["3-john","3 John",1],["jude","Jude",1]]),
     ...S("NT", "Prophecy", [["revelation","Revelation",22]]),
   ];
 })();

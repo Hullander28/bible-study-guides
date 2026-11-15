@@ -1,0 +1,245 @@
+{
+ "id": "1-peter",
+ "name": "1 Peter",
+ "chapters": 5,
+ "overview": {
+  "author": "The apostle Peter (1:1), with the help of Silvanus (5:12).",
+  "date": "About AD 62–64, from Rome (“Babylon,” 5:13), shortly before Nero’s persecution.",
+  "audience": "Believers scattered as “elect exiles” throughout the Roman provinces of Asia Minor, largely Gentile converts.",
+  "setting": "These Christians faced slander, social rejection, and suffering for their faith in a hostile pagan culture.",
+  "purpose": "To encourage suffering believers with their living hope and identity in Christ, and to call them to holy, submissive, and good lives that commend the gospel, following Christ’s example in suffering.",
+  "structure": "Salvation and identity (1:1–2:10), living as exiles in society (2:11–4:11), and suffering faithfully (4:12–5:14)."
+ },
+ "outline": [
+  {
+   "title": "Our Salvation and Identity",
+   "range": "1:1–2:10",
+   "start": 1,
+   "end": 2,
+   "items": [
+    {
+     "title": "A living hope and a call to holiness",
+     "range": "1:1–25"
+    },
+    {
+     "title": "Living stones and a chosen people",
+     "range": "2:1–10"
+    }
+   ]
+  },
+  {
+   "title": "Living as Exiles",
+   "range": "2:11–4:11",
+   "start": 2,
+   "end": 4,
+   "items": [
+    {
+     "title": "Submission in society, work, and home",
+     "range": "2:11–3:7"
+    },
+    {
+     "title": "Suffering for righteousness",
+     "range": "3:8–4:11"
+    }
+   ]
+  },
+  {
+   "title": "Suffering Faithfully",
+   "range": "4:12–5:14",
+   "start": 4,
+   "end": 5,
+   "items": [
+    {
+     "title": "The fiery trial",
+     "range": "4:12–19"
+    },
+    {
+     "title": "Shepherds, humility, and the devil",
+     "range": "5:1–14"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Living Hope",
+   "text": "God caused us to be born again to a living hope through Christ’s resurrection."
+  },
+  {
+   "title": "Suffering",
+   "text": "Trials test and refine faith; suffering for doing good follows Christ’s example."
+  },
+  {
+   "title": "Holiness",
+   "text": "“You shall be holy, for I am holy” (1:16)."
+  },
+  {
+   "title": "Identity",
+   "text": "Believers are a chosen race, royal priesthood, holy nation, God’s own people."
+  },
+  {
+   "title": "Exiles and Sojourners",
+   "text": "Believers live as strangers in the world, with honorable conduct."
+  },
+  {
+   "title": "Submission",
+   "text": "To authorities, employers, and spouses, out of reverence for Christ."
+  },
+  {
+   "title": "Humility",
+   "text": "God opposes the proud; cast your anxieties on Him."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "1 Peter 1:3",
+   "quote": "He has caused us to be born again to a living hope through the resurrection of Jesus Christ."
+  },
+  {
+   "ref": "1 Peter 2:9",
+   "quote": "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession."
+  },
+  {
+   "ref": "1 Peter 2:24",
+   "quote": "He himself bore our sins in his body on the tree."
+  },
+  {
+   "ref": "1 Peter 3:15",
+   "quote": "Always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you."
+  },
+  {
+   "ref": "1 Peter 5:7",
+   "quote": "Casting all your anxieties on him, because he cares for you."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1:18–19",
+   "text": "Ransomed by the precious blood of Christ, like a lamb without blemish."
+  },
+  {
+   "ref": "2:21–24",
+   "text": "Christ suffered as our example and bore our sins in His body on the tree."
+  },
+  {
+   "ref": "2:25",
+   "text": "Christ is the Shepherd and Overseer of our souls."
+  },
+  {
+   "ref": "3:18",
+   "text": "Christ suffered once for sins, the righteous for the unrighteous, to bring us to God."
+  },
+  {
+   "ref": "5:4",
+   "text": "The chief Shepherd will appear and give the crown of glory."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Isaiah 53",
+   "note": "The suffering servant, quoted in 2:22–25."
+  },
+  {
+   "ref": "Exodus 19:5–6",
+   "note": "A kingdom of priests."
+  },
+  {
+   "ref": "2 Peter",
+   "note": "Peter’s second letter."
+  },
+  {
+   "ref": "James 1:2–4",
+   "note": "Joy in trials."
+  },
+  {
+   "ref": "Mark 10:45",
+   "note": "Jesus came to serve."
+  }
+ ],
+ "reflection": [
+  "How does your “living hope” (1:3) shape the way you face disappointment?",
+  "What does it mean to you to be part of a royal priesthood (2:9)?",
+  "How can your conduct among unbelievers point them to God (2:12)?",
+  "Are you prepared to explain the reason for your hope (3:15)? What would you say?",
+  "What anxiety can you cast on God today (5:7)?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "A Living Hope",
+   "summary": "Peter blesses God, who caused us to be born again to a living hope and an imperishable inheritance. Trials test faith like fire refines gold. Prophets and angels longed to understand this salvation. So set your hope fully on grace, be holy as God is holy, and remember you were ransomed by Christ’s precious blood. Love one another earnestly, born again through God’s enduring word.",
+   "questions": [
+    "What makes our hope “living” (1:3–5)?",
+    "How do trials refine faith (1:6–7)?",
+    "What motivates holiness in 1:13–19?"
+   ],
+   "crossRefs": [
+    "Romans 5:3–5",
+    "Leviticus 11:44",
+    "Isaiah 40:6–8"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Living Stones and Christ’s Example",
+   "summary": "Long for pure spiritual milk. Come to Christ, the living stone, and be built into a spiritual house. You are a chosen race, a royal priesthood, to proclaim His excellencies. As sojourners, keep your conduct honorable. Submit to authorities and to masters, even unjust ones. Christ suffered as our example; He bore our sins so we might die to sin and live to righteousness.",
+   "questions": [
+    "What does it mean to be “living stones” (2:4–5)?",
+    "How do the titles in 2:9–10 shape your identity?",
+    "How does Christ’s example help in unjust suffering (2:21–24)?"
+   ],
+   "crossRefs": [
+    "Exodus 19:5–6",
+    "Isaiah 53:4–9",
+    "Psalm 118:22"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Ready to Give an Answer",
+   "summary": "Wives can win unbelieving husbands by respectful conduct and inner beauty; husbands should live with their wives in an understanding way. All should have unity, sympathy, love, and humility, not repaying evil for evil. If you suffer for righteousness, you are blessed. In your hearts honor Christ as holy, always prepared to give a reason for your hope with gentleness and respect. Christ suffered once to bring us to God.",
+   "questions": [
+    "What kind of beauty does God value (3:3–4)?",
+    "How should we respond to evil done to us (3:9)?",
+    "How can you share your hope with gentleness and respect (3:15–16)?"
+   ],
+   "crossRefs": [
+    "Ephesians 5:22–33",
+    "Psalm 34:12–16",
+    "Romans 5:6–8"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The Fiery Trial",
+   "summary": "Since Christ suffered in the flesh, arm yourselves with the same mind and live for God’s will, not human passions. The end is near, so be sober-minded for prayer, love earnestly, show hospitality, and use your gifts as stewards of grace. Do not be surprised at the fiery trial; rejoice in sharing Christ’s sufferings. Entrust your soul to a faithful Creator while doing good.",
+   "questions": [
+    "Why does love cover a multitude of sins (4:8)?",
+    "How should we use our gifts (4:10–11)?",
+    "Why should suffering not surprise us (4:12–14)?"
+   ],
+   "crossRefs": [
+    "Romans 12:6–8",
+    "Proverbs 10:12",
+    "Matthew 5:11–12"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Humble Yourselves",
+   "summary": "Peter exhorts elders to shepherd God’s flock willingly, eagerly, and by example; the chief Shepherd will reward them. All should clothe themselves with humility. “Humble yourselves... casting all your anxieties on him, because he cares for you.” Be watchful: the devil prowls like a roaring lion; resist him, firm in faith. After a little while, God will restore and establish you.",
+   "questions": [
+    "What does good spiritual leadership look like (5:2–3)?",
+    "How are humility and casting anxieties connected (5:6–7)?",
+    "How do we resist the devil (5:8–9)?"
+   ],
+   "crossRefs": [
+    "John 21:15–17",
+    "James 4:6–10",
+    "Ephesians 6:10–13"
+   ]
+  }
+ ],
+ "tagline": "Living hope for exiles who suffer for doing good",
+ "readingPlan": "5 chapters: one chapter a day takes 5 days; two a day takes about 3 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

@@ -1,0 +1,249 @@
+{
+ "id": "james",
+ "name": "James",
+ "chapters": 5,
+ "overview": {
+  "author": "James, the brother of Jesus and leader of the Jerusalem church (1:1; Galatians 1:19; Acts 15:13).",
+  "date": "Probably about AD 45–49, possibly the earliest New Testament book. James was martyred about AD 62.",
+  "audience": "“The twelve tribes in the Dispersion,” Jewish Christians scattered outside Palestine.",
+  "setting": "These believers faced trials, poverty, and oppression by the rich, along with favoritism, harmful speech, and quarrels in their communities.",
+  "purpose": "To show that genuine faith produces a changed life, enduring trials, doing the word, caring for the poor, controlling the tongue, and humbly submitting to God.",
+  "structure": "A collection of practical teachings, similar to Proverbs and the Sermon on the Mount, on trials, faith and works, the tongue, wisdom, humility, wealth, patience, and prayer."
+ },
+ "outline": [
+  {
+   "title": "Trials and the Word",
+   "range": "1:1–27",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "Joy in trials, wisdom, and doing the word",
+     "range": "1:1–27"
+    }
+   ]
+  },
+  {
+   "title": "Faith in Action",
+   "range": "2:1–26",
+   "start": 2,
+   "end": 2,
+   "items": [
+    {
+     "title": "No partiality; faith without works is dead",
+     "range": "2:1–26"
+    }
+   ]
+  },
+  {
+   "title": "The Tongue and Wisdom",
+   "range": "3:1–18",
+   "start": 3,
+   "end": 3,
+   "items": [
+    {
+     "title": "Taming the tongue; wisdom from above",
+     "range": "3:1–18"
+    }
+   ]
+  },
+  {
+   "title": "Humility and Patience",
+   "range": "4:1–5:20",
+   "start": 4,
+   "end": 5,
+   "items": [
+    {
+     "title": "Submit to God; do not boast about tomorrow",
+     "range": "4:1–17"
+    },
+    {
+     "title": "Warning to the rich; patience and prayer",
+     "range": "5:1–20"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Trials",
+   "text": "Testing produces steadfastness and maturity."
+  },
+  {
+   "title": "Wisdom",
+   "text": "Ask God for wisdom; true wisdom is pure, peaceable, and gentle."
+  },
+  {
+   "title": "Hearing and Doing",
+   "text": "Be doers of the word, not hearers only."
+  },
+  {
+   "title": "Faith and Works",
+   "text": "Faith without works is dead."
+  },
+  {
+   "title": "The Tongue",
+   "text": "Small but powerful for blessing or destruction."
+  },
+  {
+   "title": "Humility",
+   "text": "God opposes the proud but gives grace to the humble."
+  },
+  {
+   "title": "Rich and Poor",
+   "text": "God chose the poor to be rich in faith; the oppressive rich will be judged."
+  },
+  {
+   "title": "Prayer",
+   "text": "The prayer of a righteous person has great power."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "James 1:2–3",
+   "quote": "Count it all joy, my brothers, when you meet trials of various kinds."
+  },
+  {
+   "ref": "James 1:5",
+   "quote": "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach."
+  },
+  {
+   "ref": "James 1:22",
+   "quote": "But be doers of the word, and not hearers only."
+  },
+  {
+   "ref": "James 2:17",
+   "quote": "So also faith by itself, if it does not have works, is dead."
+  },
+  {
+   "ref": "James 4:8",
+   "quote": "Draw near to God, and he will draw near to you."
+  },
+  {
+   "ref": "James 5:16",
+   "quote": "The prayer of a righteous person has great power as it is working."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1:1; 2:1",
+   "text": "James calls himself a servant of “the Lord Jesus Christ,” the Lord of glory, though he was Jesus’ brother."
+  },
+  {
+   "ref": "5:7–8",
+   "text": "Believers wait patiently for the coming of the Lord, which is at hand."
+  },
+  {
+   "ref": "1:22–25; 5:12",
+   "text": "James echoes Jesus’ Sermon on the Mount on doing the word and on oaths (Matthew 7:24; 5:37)."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Matthew 5–7",
+   "note": "The Sermon on the Mount."
+  },
+  {
+   "ref": "Galatians 2:16; Ephesians 2:8–10",
+   "note": "Faith and works in harmony."
+  },
+  {
+   "ref": "Proverbs 3:34",
+   "note": "God opposes the proud."
+  },
+  {
+   "ref": "1 Kings 17–18",
+   "note": "Elijah’s prayer."
+  },
+  {
+   "ref": "Acts 15:13–21",
+   "note": "James at the Jerusalem Council."
+  }
+ ],
+ "reflection": [
+  "What trial are you facing, and how might God be growing steadfastness in you through it?",
+  "Where are you hearing God’s word without doing it?",
+  "Do you show favoritism toward certain kinds of people?",
+  "What would change if you were “quick to hear, slow to speak, slow to anger” (1:19)?",
+  "How are you making plans without saying “If the Lord wills” (4:15)?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Trials and Doing the Word",
+   "summary": "“Count it all joy... when you meet trials,” for testing produces steadfastness. Ask God for wisdom in faith. The lowly should boast in exaltation, the rich in humiliation. God tempts no one; every good gift comes from the Father of lights. Be quick to hear, slow to speak, slow to anger. Be doers of the word. Pure religion is caring for orphans and widows and keeping oneself unstained.",
+   "questions": [
+    "How can trials be a cause for joy (1:2–4)?",
+    "Where does temptation come from (1:13–15)?",
+    "What does “pure religion” look like in your life (1:27)?"
+   ],
+   "crossRefs": [
+    "Romans 5:3–5",
+    "1 Peter 1:6–7",
+    "Matthew 7:24–27"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Faith That Works",
+   "summary": "Do not show partiality by favoring the rich over the poor. God chose the poor to be rich in faith. Fulfill the royal law: love your neighbor as yourself. What good is faith without works? Even demons believe and shudder. Abraham and Rahab showed their faith by their actions. “Faith apart from works is dead.”",
+   "questions": [
+    "Why is favoritism a sin (2:1–9)?",
+    "How do James and Paul agree about faith and works?",
+    "What actions show your faith is alive?"
+   ],
+   "crossRefs": [
+    "Leviticus 19:18",
+    "Genesis 22:1–18",
+    "Joshua 2"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Taming the Tongue",
+   "summary": "Not many should become teachers. The tongue is small, like a bit or a rudder, but it is a fire. No human can tame it; with it we bless God and curse people made in His image. Earthly wisdom shows itself in jealousy and selfish ambition, but wisdom from above is pure, peaceable, gentle, open to reason, full of mercy and good fruits.",
+   "questions": [
+    "Why is the tongue so powerful (3:3–6)?",
+    "How can blessing and cursing come from the same mouth?",
+    "What marks wisdom from above (3:17–18)?"
+   ],
+   "crossRefs": [
+    "Proverbs 18:21",
+    "Matthew 12:34–37",
+    "Ephesians 4:29"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Submit to God",
+   "summary": "Quarrels come from passions at war within. You do not have because you do not ask, or ask wrongly. Friendship with the world is enmity with God. “God opposes the proud but gives grace to the humble.” Submit to God, resist the devil, draw near to God. Do not speak evil against one another. Do not boast about tomorrow; say, “If the Lord wills.”",
+   "questions": [
+    "What is the root of conflict (4:1–3)?",
+    "What steps of repentance appear in 4:7–10?",
+    "How does 4:13–17 challenge the way you plan?"
+   ],
+   "crossRefs": [
+    "Proverbs 3:34",
+    "1 Peter 5:5–9",
+    "Luke 12:16–21"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Patience and Prayer",
+   "summary": "The rich who hoard and defraud workers will face judgment. Be patient until the coming of the Lord, like a farmer waiting for rain. Do not grumble against one another. Remember the steadfastness of Job. Let your yes be yes. Pray in suffering, sing in joy, call the elders to pray for the sick, confess sins to one another. Elijah prayed and God answered. Bring back a wanderer from the truth.",
+   "questions": [
+    "How does James warn the oppressive rich (5:1–6)?",
+    "What does patient waiting look like (5:7–11)?",
+    "How can you put 5:16 into practice?"
+   ],
+   "crossRefs": [
+    "Job 1–2; 42",
+    "1 Kings 17:1; 18:41–45",
+    "Matthew 5:37"
+   ]
+  }
+ ],
+ "tagline": "Faith that works: practical wisdom for genuine believers",
+ "readingPlan": "5 chapters: one chapter a day takes 5 days; two a day takes about 3 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

@@ -1,0 +1,401 @@
+{
+ "id": "hebrews",
+ "name": "Hebrews",
+ "chapters": 13,
+ "overview": {
+  "author": "Unknown. Suggestions include Paul, Barnabas, Apollos, and others. The author knew Timothy (13:23) and wrote with polished Greek and deep knowledge of the Old Testament.",
+  "date": "Probably before AD 70, since the temple sacrifices seem to be still ongoing (10:1–2).",
+  "audience": "Jewish Christians, possibly in or near Rome (13:24), who were tempted under persecution to drift back to Judaism.",
+  "setting": "The readers had endured earlier persecution but were growing weary, neglecting to meet, and in danger of falling away.",
+  "purpose": "To show the supremacy of Jesus over angels, Moses, the priesthood, and the old covenant sacrifices, and to urge believers to hold fast, draw near, and endure by faith.",
+  "structure": "Christ superior to angels and Moses (1–4), Christ’s superior priesthood (5–7), the better covenant and sacrifice (8–10), the life of faith and endurance (11–12), and final exhortations (13). Five warning passages run throughout."
+ },
+ "outline": [
+  {
+   "title": "The Superior Son",
+   "range": "1:1–4:13",
+   "start": 1,
+   "end": 4,
+   "items": [
+    {
+     "title": "Better than angels",
+     "range": "1:1–2:18"
+    },
+    {
+     "title": "Better than Moses; entering God’s rest",
+     "range": "3:1–4:13"
+    }
+   ]
+  },
+  {
+   "title": "The Superior Priest",
+   "range": "4:14–7:28",
+   "start": 4,
+   "end": 7,
+   "items": [
+    {
+     "title": "Our sympathetic high priest",
+     "range": "4:14–5:10"
+    },
+    {
+     "title": "Warning against falling away",
+     "range": "5:11–6:20"
+    },
+    {
+     "title": "After the order of Melchizedek",
+     "range": "7:1–28"
+    }
+   ]
+  },
+  {
+   "title": "The Superior Covenant and Sacrifice",
+   "range": "8:1–10:39",
+   "start": 8,
+   "end": 10,
+   "items": [
+    {
+     "title": "The new covenant",
+     "range": "8:1–13"
+    },
+    {
+     "title": "Once for all sacrifice",
+     "range": "9:1–10:18"
+    },
+    {
+     "title": "Draw near and hold fast",
+     "range": "10:19–39"
+    }
+   ]
+  },
+  {
+   "title": "The Superior Way of Faith",
+   "range": "11:1–13:25",
+   "start": 11,
+   "end": 13,
+   "items": [
+    {
+     "title": "The hall of faith",
+     "range": "11:1–40"
+    },
+    {
+     "title": "Run with endurance",
+     "range": "12:1–29"
+    },
+    {
+     "title": "Living as God’s people",
+     "range": "13:1–25"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "The Supremacy of Christ",
+   "text": "Jesus is greater than prophets, angels, Moses, Aaron, and the old covenant."
+  },
+  {
+   "title": "Christ Our High Priest",
+   "text": "He sympathizes with our weakness and always lives to intercede."
+  },
+  {
+   "title": "The Once-for-All Sacrifice",
+   "text": "Christ’s blood accomplishes what animal sacrifices never could."
+  },
+  {
+   "title": "The New Covenant",
+   "text": "God writes His laws on hearts and remembers sins no more."
+  },
+  {
+   "title": "Warnings Against Drifting",
+   "text": "Do not neglect so great a salvation or harden your heart."
+  },
+  {
+   "title": "Faith",
+   "text": "“Faith is the assurance of things hoped for, the conviction of things not seen” (11:1)."
+  },
+  {
+   "title": "Endurance",
+   "text": "Run the race looking to Jesus, accepting the Father’s discipline."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Hebrews 1:3",
+   "quote": "He is the radiance of the glory of God and the exact imprint of his nature."
+  },
+  {
+   "ref": "Hebrews 4:12",
+   "quote": "For the word of God is living and active, sharper than any two-edged sword."
+  },
+  {
+   "ref": "Hebrews 4:16",
+   "quote": "Let us then with confidence draw near to the throne of grace."
+  },
+  {
+   "ref": "Hebrews 11:1",
+   "quote": "Now faith is the assurance of things hoped for, the conviction of things not seen."
+  },
+  {
+   "ref": "Hebrews 12:1–2",
+   "quote": "Let us run with endurance the race that is set before us, looking to Jesus."
+  },
+  {
+   "ref": "Hebrews 13:8",
+   "quote": "Jesus Christ is the same yesterday and today and forever."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1:1–3",
+   "text": "The Son is heir of all, Creator, radiance of God’s glory, and purifier of sins."
+  },
+  {
+   "ref": "2:14–18",
+   "text": "Jesus shared our humanity to destroy the devil’s power and make propitiation."
+  },
+  {
+   "ref": "4:14–15",
+   "text": "Our high priest was tempted in every way, yet without sin."
+  },
+  {
+   "ref": "7:25",
+   "text": "He always lives to make intercession for those who draw near."
+  },
+  {
+   "ref": "9:12–14",
+   "text": "He entered the holy places once for all by His own blood."
+  },
+  {
+   "ref": "12:2",
+   "text": "Jesus is the founder and perfecter of our faith who endured the cross."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Leviticus 16",
+   "note": "The Day of Atonement."
+  },
+  {
+   "ref": "Psalm 110",
+   "note": "Priest forever after the order of Melchizedek."
+  },
+  {
+   "ref": "Jeremiah 31:31–34",
+   "note": "The new covenant."
+  },
+  {
+   "ref": "Genesis 14:18–20",
+   "note": "Melchizedek."
+  },
+  {
+   "ref": "Psalm 95:7–11",
+   "note": "Today, do not harden your hearts."
+  }
+ ],
+ "reflection": [
+  "In what area of life are you tempted to drift (2:1)?",
+  "How does knowing Jesus sympathizes with your weakness (4:15) change how you pray?",
+  "What does it mean to you that Christ’s sacrifice was “once for all”?",
+  "Which person in Hebrews 11 inspires your faith most, and why?",
+  "What “weight” or sin do you need to lay aside to run with endurance (12:1)?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "The Son Superior to Angels",
+   "summary": "Long ago God spoke through the prophets, but now He has spoken by His Son, heir of all things, through whom He made the world, the radiance of His glory and exact imprint of His nature, who upholds all things and made purification for sins. The Son is superior to angels: they worship Him, and He is enthroned forever.",
+   "questions": [
+    "How does God’s speaking through His Son differ from the prophets (1:1–2)?",
+    "What does 1:3 reveal about Jesus?",
+    "Why does it matter that Jesus is greater than angels?"
+   ],
+   "crossRefs": [
+    "John 1:1–3",
+    "Colossians 1:15–20",
+    "Psalm 2:7"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "So Great a Salvation",
+   "summary": "Pay closer attention lest we drift away; how shall we escape if we neglect so great a salvation? Jesus was made a little lower than the angels to taste death for everyone. He is not ashamed to call us brothers. He shared flesh and blood to destroy the devil and deliver those enslaved by fear of death, and to become a merciful high priest who helps those tempted.",
+   "questions": [
+    "How do people “drift” from the gospel (2:1–3)?",
+    "Why did Jesus become human (2:14–18)?",
+    "How does Jesus help us when we are tempted (2:18)?"
+   ],
+   "crossRefs": [
+    "Psalm 8:4–6",
+    "Philippians 2:6–8",
+    "1 Corinthians 10:13"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Greater Than Moses",
+   "summary": "Consider Jesus, faithful over God’s house as a Son, while Moses was faithful as a servant. Psalm 95 warns, “Today, if you hear his voice, do not harden your hearts,” as Israel did in the wilderness. Exhort one another every day so no one is hardened by sin’s deceitfulness.",
+   "questions": [
+    "Why is Jesus worthy of more glory than Moses?",
+    "How did unbelief keep Israel from entering God’s rest?",
+    "Why is daily mutual encouragement so important (3:13)?"
+   ],
+   "crossRefs": [
+    "Numbers 12:7",
+    "Psalm 95:7–11",
+    "Numbers 14:20–35"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "God’s Rest and the Word",
+   "summary": "A Sabbath rest remains for God’s people; strive to enter it. The word of God is living and active, discerning thoughts and intentions of the heart. We have a great high priest, Jesus, who sympathizes with our weaknesses and was tempted in every way, yet without sin. Let us draw near with confidence to the throne of grace.",
+   "questions": [
+    "What is the “rest” God offers (4:9–11)?",
+    "How does God’s word work in us (4:12–13)?",
+    "What encourages you to approach God’s throne (4:14–16)?"
+   ],
+   "crossRefs": [
+    "Genesis 2:2",
+    "Matthew 11:28–30",
+    "Psalm 139:1–4"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "A Priest Like Melchizedek",
+   "summary": "Every high priest is chosen to offer sacrifices and deal gently with the ignorant. Christ was appointed by God as a priest forever after the order of Melchizedek. In His earthly life He prayed with loud cries and tears and learned obedience through suffering. The readers have become dull and need milk instead of solid food.",
+   "questions": [
+    "What qualifies Jesus to be our high priest (5:5–10)?",
+    "What does it mean that Jesus “learned obedience” (5:8)?",
+    "What marks spiritual maturity (5:12–14)?"
+   ],
+   "crossRefs": [
+    "Psalm 110:4",
+    "Matthew 26:36–46",
+    "1 Corinthians 3:1–3"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Hope as an Anchor",
+   "summary": "Let us go on to maturity. The author warns that those who have tasted God’s goodness and fall away cannot be restored to repentance, yet he is confident of better things for his readers. God’s promise to Abraham was confirmed by an oath, giving us a hope that is a sure and steadfast anchor of the soul, where Jesus has gone as forerunner.",
+   "questions": [
+    "What is the purpose of this serious warning (6:4–8)?",
+    "Why is the author still confident (6:9–12)?",
+    "How is hope an anchor for your soul (6:19–20)?"
+   ],
+   "crossRefs": [
+    "Genesis 22:16–17",
+    "Matthew 13:20–21",
+    "2 Peter 1:10"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "A Permanent Priesthood",
+   "summary": "Melchizedek, king of righteousness and peace, blessed Abraham and received a tithe from him. Jesus’ priesthood is like his: not by descent, but by the power of an indestructible life. The law made nothing perfect, but Jesus is the guarantor of a better covenant. “He is able to save to the uttermost those who draw near to God through him, since he always lives to make intercession for them.”",
+   "questions": [
+    "Who was Melchizedek, and why is he important (7:1–3)?",
+    "Why is Jesus’ priesthood better than the Levitical priesthood?",
+    "What does 7:25 mean for your assurance?"
+   ],
+   "crossRefs": [
+    "Genesis 14:18–20",
+    "Psalm 110:4",
+    "Romans 8:34"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "A Better Covenant",
+   "summary": "Jesus is a minister in the true tent set up by the Lord, of which the earthly tabernacle was a copy and shadow. He mediates a better covenant enacted on better promises. The author quotes Jeremiah 31: God will write His laws on hearts and remember sins no more. The old covenant is becoming obsolete.",
+   "questions": [
+    "How was the earthly tabernacle a “shadow” (8:5)?",
+    "What does the new covenant promise (8:10–12)?",
+    "What does “I will remember their sins no more” mean to you?"
+   ],
+   "crossRefs": [
+    "Jeremiah 31:31–34",
+    "Exodus 25:40",
+    "Luke 22:20"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The Blood of Christ",
+   "summary": "The tabernacle’s arrangement showed that the way into the holy places was not yet open. Christ entered once for all by His own blood, securing eternal redemption. His blood purifies our conscience to serve the living God. “Without the shedding of blood there is no forgiveness of sins.” Christ will appear a second time to save those eagerly waiting for Him.",
+   "questions": [
+    "How does Christ’s blood accomplish more than animal blood (9:13–14)?",
+    "Why is the shedding of blood necessary for forgiveness (9:22)?",
+    "What does 9:27–28 teach about death and Christ’s return?"
+   ],
+   "crossRefs": [
+    "Leviticus 16",
+    "Leviticus 17:11",
+    "1 Peter 1:18–19"
+   ]
+  },
+  {
+   "n": 10,
+   "title": "Draw Near and Hold Fast",
+   "summary": "The law’s sacrifices could never take away sins, but by a single offering Christ has perfected forever those being sanctified. Therefore, let us draw near with a true heart, hold fast our confession, and stir one another to love and good works, not neglecting to meet together. A warning follows against deliberate sin. Remember your earlier endurance; do not throw away your confidence.",
+   "questions": [
+    "What does “by a single offering” (10:14) mean for your guilt?",
+    "What three “let us” commands appear in 10:22–25?",
+    "Why is meeting together so important?"
+   ],
+   "crossRefs": [
+    "Psalm 40:6–8",
+    "Matthew 27:51",
+    "Habakkuk 2:3–4"
+   ]
+  },
+  {
+   "n": 11,
+   "title": "The Hall of Faith",
+   "summary": "“Faith is the assurance of things hoped for, the conviction of things not seen.” Without faith it is impossible to please God. By faith Abel, Enoch, Noah, Abraham, Sarah, Isaac, Jacob, Joseph, Moses, Rahab, and many others obeyed God, some seeing deliverance and others suffering and dying, all looking forward to a better country.",
+   "questions": [
+    "How does 11:1 define faith?",
+    "What does 11:6 say about approaching God?",
+    "Which example of faith speaks most to your current situation?"
+   ],
+   "crossRefs": [
+    "Genesis 12:1–4",
+    "Genesis 22:1–18",
+    "Romans 4:18–21"
+   ]
+  },
+  {
+   "n": 12,
+   "title": "Run with Endurance",
+   "summary": "Surrounded by so great a cloud of witnesses, lay aside every weight and sin and run with endurance, looking to Jesus, the founder and perfecter of our faith, who endured the cross for the joy set before Him. God disciplines His children for our good. Strive for peace and holiness. We have come not to Mount Sinai but to Mount Zion. Our God is a consuming fire, and we receive an unshakable kingdom.",
+   "questions": [
+    "What “weights” might slow you down in the race (12:1)?",
+    "How should we view hardship as the Father’s discipline (12:5–11)?",
+    "How does 12:18–24 contrast Sinai and Zion?"
+   ],
+   "crossRefs": [
+    "Proverbs 3:11–12",
+    "Exodus 19:16–19",
+    "1 Corinthians 9:24–27"
+   ]
+  },
+  {
+   "n": 13,
+   "title": "Jesus the Same Forever",
+   "summary": "Let brotherly love continue; show hospitality, remember prisoners, honor marriage, and be free from the love of money, for God says, “I will never leave you nor forsake you.” Remember your leaders. “Jesus Christ is the same yesterday and today and forever.” Go to Him outside the camp, bearing His reproach. Offer a sacrifice of praise. The God of peace equip you with everything good.",
+   "questions": [
+    "Which practical command in 13:1–6 do you most need?",
+    "How does 13:5–6 help with contentment?",
+    "What does it mean to go to Jesus “outside the camp” (13:12–14)?"
+   ],
+   "crossRefs": [
+    "Deuteronomy 31:6",
+    "Psalm 118:6",
+    "1 Peter 5:1–4"
+   ]
+  }
+ ],
+ "tagline": "Jesus is better: the great high priest of a better covenant",
+ "readingPlan": "13 chapters: one chapter a day takes 13 days; two a day takes about 7 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}
