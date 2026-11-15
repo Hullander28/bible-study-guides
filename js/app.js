@@ -55,7 +55,7 @@
     const ready = BOOKS.filter(b => b.ready).length;
     let html = `<div class="card">
       <h1>Bible Study Guides</h1>
-      <p class="muted small">Book-by-book guides based on the ESV: overview, outline, themes, key verses, chapter questions, and your own notes. ${ready} of 66 guides are ready, and more are coming.</p>
+      <p class="muted small">Book-by-book guides based on the ESV: overview, outline, themes, key verses, chapter questions, and your own notes. ${ready === 66 ? "All 66 books are ready." : ready + " of 66 guides are ready, and more are coming."}</p>
       <div class="stat"><b>Whole Bible progress</b><span class="muted small">${done} / ${total} chapters</span></div>${bar(pct(done, total))}
       <div class="btnrow"><a class="btn" href="#/search">🔍 Search guides</a><a class="btn" href="#/settings">⚙️ Backup &amp; settings</a></div>
     </div>`;
