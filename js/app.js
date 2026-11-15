@@ -24,6 +24,7 @@
   const esvUrl = (book, ch) => `https://www.esv.org/${encodeURIComponent(book.name).replace(/%20/g, "+")}+${ch}/`;
   const bgUrl = ref => `https://www.biblegateway.com/passage/?search=${encodeURIComponent(ref)}&version=ESV`;
   const refLink = (ref, book) => {
+    if (!/[0-9]/.test(ref)) return esc(ref);
     const full = /^[0-9]+[:\u2013-]/.test(ref) && book ? `${book.name} ${ref}` : ref;
     return `<a href="${bgUrl(full)}" target="_blank" rel="noopener">${esc(ref)}</a>`;
   };

@@ -1,0 +1,345 @@
+{
+ "id": "nehemiah",
+ "name": "Nehemiah",
+ "chapters": 13,
+ "overview": {
+  "author": "Nehemiah, whose first-person memoirs make up much of the book (1:1). Ezra may have compiled the final form.",
+  "date": "The events take place 445-about 430 BC, under the Persian king Artaxerxes I. Written soon after.",
+  "audience": "The Jewish community in Jerusalem after the exile.",
+  "setting": "Susa, the Persian capital, and Jerusalem, whose walls lay in ruins about 90 years after the first return.",
+  "purpose": "To show how God used Nehemiah’s prayerful, courageous leadership to rebuild Jerusalem’s walls despite opposition, and how the people renewed their covenant with God through His word.",
+  "structure": "Rebuilding the walls (1–7) and renewing the people (8–13)."
+ },
+ "outline": [
+  {
+   "title": "Rebuilding the Walls",
+   "range": "1:1–7:73",
+   "start": 1,
+   "end": 7,
+   "items": [
+    {
+     "title": "Nehemiah’s prayer and commission",
+     "range": "1:1–2:20"
+    },
+    {
+     "title": "The builders and the opposition",
+     "range": "3:1–4:23"
+    },
+    {
+     "title": "Internal injustice addressed",
+     "range": "5:1–19"
+    },
+    {
+     "title": "The wall completed",
+     "range": "6:1–7:73"
+    }
+   ]
+  },
+  {
+   "title": "Renewing the People",
+   "range": "8:1–13:31",
+   "start": 8,
+   "end": 13,
+   "items": [
+    {
+     "title": "The law read and the people’s confession",
+     "range": "8:1–9:38"
+    },
+    {
+     "title": "The covenant signed",
+     "range": "10:1–39"
+    },
+    {
+     "title": "Jerusalem repopulated and the walls dedicated",
+     "range": "11:1–12:47"
+    },
+    {
+     "title": "Nehemiah’s final reforms",
+     "range": "13:1–31"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Prayer and Action",
+   "text": "Nehemiah prays constantly, even quick prayers before the king (2:4), and then works hard."
+  },
+  {
+   "title": "Leadership",
+   "text": "Nehemiah models vision, organization, courage, integrity, and care for the poor."
+  },
+  {
+   "title": "Opposition",
+   "text": "Mockery, threats, plots, and slander cannot stop God’s work when His people persevere."
+  },
+  {
+   "title": "The Word of God",
+   "text": "The people gather to hear the law and respond with weeping, joy, and covenant commitment."
+  },
+  {
+   "title": "Joy",
+   "text": "“The joy of the LORD is your strength” (8:10)."
+  },
+  {
+   "title": "Ongoing Reform",
+   "text": "Even after revival, the people drift, and Nehemiah must confront sin again."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Nehemiah 4:14",
+   "quote": "Remember the Lord, who is great and awesome."
+  },
+  {
+   "ref": "Nehemiah 6:3",
+   "quote": "I am doing a great work and I cannot come down."
+  },
+  {
+   "ref": "Nehemiah 8:10",
+   "quote": "The joy of the LORD is your strength."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "2",
+   "text": "Nehemiah leaves a royal palace to restore a ruined city, a picture of Christ leaving glory to rebuild His people."
+  },
+  {
+   "ref": "9",
+   "text": "The Levites’ prayer recounts God’s faithfulness despite Israel’s failure, pointing to the need for a new covenant fulfilled in Christ."
+  },
+  {
+   "ref": "13",
+   "text": "Nehemiah’s reforms fail to change hearts permanently, showing the need for the Spirit-given new heart that Christ provides (Ezekiel 36:26)."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Ezra 7–10",
+   "note": "Ezra’s ministry continues in Nehemiah 8."
+  },
+  {
+   "ref": "Malachi",
+   "note": "The prophet addressing the same sins as Nehemiah 13."
+  },
+  {
+   "ref": "Psalm 127:1",
+   "note": "Unless the LORD builds the house."
+  },
+  {
+   "ref": "Daniel 9:25",
+   "note": "The decree to rebuild Jerusalem."
+  },
+  {
+   "ref": "1 Corinthians 15:58",
+   "note": "Your labor is not in vain in the Lord."
+  }
+ ],
+ "reflection": [
+  "Nehemiah wept, fasted, and prayed before he acted. What broken thing burdens your heart enough to pray about it?",
+  "Nehemiah prayed a quick prayer in a crucial moment (2:4). How can you practice “arrow prayers” during your day?",
+  "Each family repaired the wall near their own house (ch. 3). What part of God’s work is near you?",
+  "Nehemiah refused to “come down” from his work. What distractions pull you away from what God has called you to?",
+  "The people wept and rejoiced at God’s word. When did Scripture last move you that way?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Nehemiah’s Prayer",
+   "summary": "Nehemiah, cupbearer to the Persian king in Susa, hears that Jerusalem’s walls are broken down and its gates burned. He weeps, mourns, fasts, and prays for days, confessing Israel’s sins and asking God to remember His promise and grant him favor with the king.",
+   "questions": [
+    "How does Nehemiah respond to bad news?",
+    "What elements make up his prayer (1:5–11)?",
+    "What does Nehemiah base his request on (1:8–9)?"
+   ],
+   "crossRefs": [
+    "Daniel 9:3–19",
+    "Deuteronomy 30:1–5",
+    "James 5:16"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Nehemiah Sent to Jerusalem",
+   "summary": "The king notices Nehemiah’s sadness. Nehemiah prays silently, then asks to rebuild Jerusalem. The king grants his requests “for the good hand of my God was upon me.” Nehemiah secretly inspects the walls by night and rallies the people: “Let us rise up and build.” Sanballat and Tobiah mock.",
+   "questions": [
+    "What does Nehemiah’s quick prayer (2:4) teach?",
+    "Why do you think he inspected the walls secretly?",
+    "How does Nehemiah answer mockery (2:20)?"
+   ],
+   "crossRefs": [
+    "Proverbs 21:1",
+    "Ezra 7:6",
+    "1 Thessalonians 5:17"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The Builders of the Wall",
+   "summary": "A list records who built each section of the wall and gate: priests, goldsmiths, perfumers, rulers, daughters, and families, often near their own homes. Some nobles “would not stoop to serve.”",
+   "questions": [
+    "What does this list teach about everyone’s role in God’s work?",
+    "Why build near their own houses?",
+    "Which builders stand out to you, and why?"
+   ],
+   "crossRefs": [
+    "1 Corinthians 12:12–27",
+    "Ephesians 4:16",
+    "Colossians 3:23"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Opposition and Protection",
+   "summary": "Sanballat and Tobiah mock: “If a fox goes up on it he will break down their stone wall!” The people pray and keep building, and the wall reaches half its height. When enemies plot to attack, Nehemiah posts guards and urges, “Remember the Lord, who is great and awesome.” Workers build with one hand and hold a weapon with the other.",
+   "questions": [
+    "How does Nehemiah respond to mockery and threats?",
+    "What is the balance between prayer and practical preparation (4:9)?",
+    "What spiritual “weapons” do you keep in hand (Ephesians 6:10–18)?"
+   ],
+   "crossRefs": [
+    "Ephesians 6:10–18",
+    "Psalm 127:1",
+    "2 Corinthians 10:4"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Injustice Among the People",
+   "summary": "The poor cry out because wealthy Jews are charging interest and enslaving their brothers’ children. Nehemiah is angry, confronts the nobles, and they promise to restore what they took. Nehemiah himself refuses the governor’s food allowance out of fear of God.",
+   "questions": [
+    "Why was the internal problem as dangerous as outside enemies?",
+    "How does Nehemiah’s personal example strengthen his rebuke?",
+    "Where might God call you to give up a right for others’ sake?"
+   ],
+   "crossRefs": [
+    "Exodus 22:25",
+    "Leviticus 25:35–38",
+    "1 Corinthians 9:12"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The Wall Completed",
+   "summary": "Enemies try to lure Nehemiah away, spread false rumors, and hire a prophet to frighten him into hiding in the temple. Nehemiah answers, “I am doing a great work and I cannot come down.” The wall is finished in 52 days, and the enemies realize the work was done with God’s help.",
+   "questions": [
+    "What tactics do the enemies use against Nehemiah personally?",
+    "How does Nehemiah discern the false prophet (6:12)?",
+    "How did the wall’s completion affect the surrounding nations (6:16)?"
+   ],
+   "crossRefs": [
+    "Psalm 118:23",
+    "1 Corinthians 15:58",
+    "Matthew 7:15"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Guards and the Genealogy",
+   "summary": "Nehemiah appoints his brother Hanani, “a more faithful and God-fearing man than many,” to govern Jerusalem and sets guards at the gates. The city is large but few people live in it. He finds the genealogy of the first returnees, which is repeated.",
+   "questions": [
+    "What qualities did Nehemiah seek in a leader (7:2)?",
+    "Why record the genealogy again here?",
+    "Why does a city need people, not just walls?"
+   ],
+   "crossRefs": [
+    "Ezra 2",
+    "Exodus 18:21",
+    "1 Timothy 3:1–7"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Ezra Reads the Law",
+   "summary": "All the people gather as one man at the Water Gate. Ezra reads the Law from morning until midday, and the Levites help the people understand it. The people weep, but Nehemiah says, “Do not be grieved, for the joy of the LORD is your strength.” They celebrate the Feast of Booths with great rejoicing.",
+   "questions": [
+    "How did the people show reverence for God’s word (8:3–6)?",
+    "Why did the Levites “give the sense” (8:8)?",
+    "What does “the joy of the LORD is your strength” mean to you?"
+   ],
+   "crossRefs": [
+    "2 Timothy 4:2",
+    "Luke 24:27, 32",
+    "Psalm 19:7–11"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The People Confess",
+   "summary": "The Israelites fast, confess their sins, and read the law. The Levites lead a long prayer recounting God’s faithfulness from creation to the exile and Israel’s repeated rebellion. “You are a God ready to forgive, gracious and merciful.” They make a firm covenant in writing.",
+   "questions": [
+    "What does this prayer reveal about God’s character?",
+    "How many times does the prayer mention Israel’s rebellion and God’s mercy?",
+    "Write your own short history of God’s faithfulness in your life."
+   ],
+   "crossRefs": [
+    "Psalm 106",
+    "Acts 7",
+    "Exodus 34:6–7"
+   ]
+  },
+  {
+   "n": 10,
+   "title": "The Covenant Signed",
+   "summary": "Leaders, Levites, and priests seal the covenant, and the people bind themselves with an oath to walk in God’s law: not to intermarry with idolaters, to keep the Sabbath, and to support the house of God with offerings and tithes. “We will not neglect the house of our God.”",
+   "questions": [
+    "What specific commitments did the people make?",
+    "Why include practical commitments like giving?",
+    "What specific commitments might God want from you?"
+   ],
+   "crossRefs": [
+    "Malachi 3:8–10",
+    "Hebrews 10:24–25",
+    "Joshua 24:24–25"
+   ]
+  },
+  {
+   "n": 11,
+   "title": "Jerusalem Repopulated",
+   "summary": "The leaders live in Jerusalem, and lots are cast to bring one of every ten people to live there. The people bless those who volunteer. Lists record the residents and those in surrounding towns.",
+   "questions": [
+    "Why would people be reluctant to live in Jerusalem?",
+    "Why did the people bless the volunteers (11:2)?",
+    "What sacrifice might strengthen God’s work where you are?"
+   ],
+   "crossRefs": [
+    "Isaiah 52:1",
+    "Romans 12:1",
+    "Philippians 2:3–4"
+   ]
+  },
+  {
+   "n": 12,
+   "title": "The Wall Dedicated",
+   "summary": "Lists of priests and Levites are given. At the wall’s dedication, two great choirs march on the walls in opposite directions, meeting at the temple with sacrifices and rejoicing, “and the joy of Jerusalem was heard far away.”",
+   "questions": [
+    "Why would worship be the climax of the building project?",
+    "How did the people celebrate (12:43)?",
+    "What would it look like for your joy in God to be “heard far away”?"
+   ],
+   "crossRefs": [
+    "Psalm 48:12–14",
+    "Psalm 100",
+    "Luke 19:37–40"
+   ]
+  },
+  {
+   "n": 13,
+   "title": "Nehemiah’s Final Reforms",
+   "summary": "After returning from Persia, Nehemiah finds that Tobiah has been given a room in the temple, the Levites have not been paid, the Sabbath is being broken, and Jews have married foreign wives. He throws out Tobiah’s belongings, restores the tithes, shuts the gates on the Sabbath, and confronts the mixed marriages. “Remember me, O my God, for good.”",
+   "questions": [
+    "How quickly did the people break their covenant (compare ch. 10)?",
+    "How does Nehemiah respond to each problem?",
+    "What does this chapter show about the need for a heart change only God can give?"
+   ],
+   "crossRefs": [
+    "Malachi 2:10–16",
+    "Jeremiah 31:31–34",
+    "Ezekiel 36:26–27"
+   ]
+  }
+ ],
+ "tagline": "Rebuilding the walls and renewing the people",
+ "readingPlan": "13 chapters: one chapter a day takes 13 days; two a day takes about 7 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

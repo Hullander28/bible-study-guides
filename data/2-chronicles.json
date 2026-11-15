@@ -1,0 +1,718 @@
+{
+ "id": "2-chronicles",
+ "name": "2 Chronicles",
+ "chapters": 36,
+ "overview": {
+  "author": "Not stated; traditionally Ezra, the same author as 1 Chronicles (the Chronicler).",
+  "date": "Written after the exile, around 450–400 BC. The narrative runs from Solomon (971 BC) to Cyrus’s decree (538 BC).",
+  "audience": "The returned exiles rebuilding Jerusalem and the temple, who needed to learn from Judah’s history how to seek God faithfully.",
+  "setting": "Jerusalem and Judah, centered on the temple, from Solomon’s reign to the Babylonian exile and the decree of return.",
+  "purpose": "To show that when Judah’s kings and people humbled themselves and sought God, He blessed them, and when they forsook Him, judgment came. It ends with hope as Cyrus permits the return to build the temple.",
+  "structure": "Solomon’s reign and the temple (1–9), and the kings of Judah from Rehoboam to the exile (10–36), with special attention to reforming kings such as Asa, Jehoshaphat, Hezekiah, and Josiah."
+ },
+ "outline": [
+  {
+   "title": "Solomon’s Reign",
+   "range": "1:1–9:31",
+   "start": 1,
+   "end": 9,
+   "items": [
+    {
+     "title": "Wisdom and wealth",
+     "range": "1:1–17"
+    },
+    {
+     "title": "Building and dedicating the temple",
+     "range": "2:1–7:22"
+    },
+    {
+     "title": "Solomon’s achievements and death",
+     "range": "8:1–9:31"
+    }
+   ]
+  },
+  {
+   "title": "Judah’s Kings: Division to Jehoshaphat",
+   "range": "10:1–20:37",
+   "start": 10,
+   "end": 20,
+   "items": [
+    {
+     "title": "Rehoboam, Abijah, and Asa",
+     "range": "10:1–16:14"
+    },
+    {
+     "title": "Jehoshaphat",
+     "range": "17:1–20:37"
+    }
+   ]
+  },
+  {
+   "title": "Judah’s Kings: Jehoram to Ahaz",
+   "range": "21:1–28:27",
+   "start": 21,
+   "end": 28,
+   "items": [
+    {
+     "title": "Decline and partial reform",
+     "range": "21:1–28:27"
+    }
+   ]
+  },
+  {
+   "title": "Revival and Fall",
+   "range": "29:1–36:23",
+   "start": 29,
+   "end": 36,
+   "items": [
+    {
+     "title": "Hezekiah’s reform",
+     "range": "29:1–32:33"
+    },
+    {
+     "title": "Manasseh, Amon, and Josiah",
+     "range": "33:1–35:27"
+    },
+    {
+     "title": "Exile and Cyrus’s decree",
+     "range": "36:1–23"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Seek the LORD",
+   "text": "“If my people... humble themselves, and pray and seek my face... then I will hear” (7:14)."
+  },
+  {
+   "title": "Retribution and Mercy",
+   "text": "Faithfulness brings blessing and unfaithfulness brings discipline, yet God answers repentance even from Manasseh."
+  },
+  {
+   "title": "The Temple",
+   "text": "The house of God is the center of national life, and reforms always involve restoring true worship."
+  },
+  {
+   "title": "Prayer",
+   "text": "Kings like Asa, Jehoshaphat, and Hezekiah cry out to God in crisis and are heard."
+  },
+  {
+   "title": "Trust Versus Alliances",
+   "text": "Relying on foreign powers rather than God brings trouble (16:7–9)."
+  },
+  {
+   "title": "Hope After Judgment",
+   "text": "The book ends with a call to “go up,” as Cyrus invites the exiles to rebuild (36:23)."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "2 Chronicles 7:14",
+   "quote": "If my people who are called by my name humble themselves, and pray and seek my face and turn from their wicked ways, then I will hear from heaven and will forgive their sin and heal their land."
+  },
+  {
+   "ref": "2 Chronicles 16:9",
+   "quote": "For the eyes of the LORD run to and fro throughout the whole earth, to give strong support to those whose heart is blameless toward him."
+  },
+  {
+   "ref": "2 Chronicles 20:12",
+   "quote": "We do not know what to do, but our eyes are on you."
+  },
+  {
+   "ref": "2 Chronicles 20:15",
+   "quote": "For the battle is not yours but God’s."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "3:1",
+   "text": "The temple is built on Mount Moriah, where Abraham offered Isaac and near where Jesus was crucified."
+  },
+  {
+   "ref": "5:13–14; 7:1–3",
+   "text": "God’s glory filling the temple is fulfilled in Jesus, in whom God’s glory dwells (John 1:14)."
+  },
+  {
+   "ref": "6:18",
+   "text": "Solomon asks, “Will God indeed dwell with man on the earth?” The answer is Immanuel, “God with us” (Matthew 1:23)."
+  },
+  {
+   "ref": "36:22–23",
+   "text": "The call to return and rebuild anticipates the greater restoration of God’s people in Christ."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "1 Kings; 2 Kings",
+   "note": "Parallel history of the kings."
+  },
+  {
+   "ref": "Matthew 23:35",
+   "note": "Jesus refers to the murder of Zechariah (24:20–22)."
+  },
+  {
+   "ref": "Ezra 1:1–4",
+   "note": "Cyrus’s decree continues the story."
+  },
+  {
+   "ref": "Isaiah 36–39",
+   "note": "Hezekiah’s story."
+  },
+  {
+   "ref": "Jeremiah 25:11–12",
+   "note": "Seventy years of exile."
+  }
+ ],
+ "reflection": [
+  "Read 7:14 as a personal invitation. What would humbling yourself and seeking God’s face look like this week?",
+  "Jehoshaphat prayed, “We do not know what to do, but our eyes are on you.” Where do you need to pray that?",
+  "Many kings started well and finished poorly (Asa, Joash, Uzziah). What helps a believer finish well?",
+  "Manasseh, the worst king, was forgiven when he humbled himself (33:12–13). Is there anyone you think is beyond God’s grace?",
+  "Hezekiah’s reform began with cleansing the temple. What needs cleaning out in your life of worship?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Solomon Asks for Wisdom",
+   "summary": "Solomon worships at Gibeon, and God says, “Ask what I shall give you.” Solomon asks for wisdom and knowledge to lead God’s people. God grants it along with riches, possessions, and honor. Solomon’s wealth and horses multiply.",
+   "questions": [
+    "Why was Solomon’s request pleasing to God?",
+    "How does God often give more than we ask (1:11–12)?",
+    "What wisdom do you need for your responsibilities?"
+   ],
+   "crossRefs": [
+    "1 Kings 3:4–15",
+    "James 1:5",
+    "Ephesians 3:20"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Preparing to Build the Temple",
+   "summary": "Solomon prepares to build a temple for the name of the LORD and asks Hiram of Tyre for skilled workers and materials. He acknowledges that no house can contain God, but it will be a place for offerings.",
+   "questions": [
+    "How does Solomon express humility about building God’s house (2:6)?",
+    "Why did Solomon seek skilled workers from a foreign king?",
+    "How does Hiram’s response (2:11–12) bless God?"
+   ],
+   "crossRefs": [
+    "1 Kings 5",
+    "Acts 7:48–50",
+    "Isaiah 66:1"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Building the Temple",
+   "summary": "Solomon builds the temple on Mount Moriah, where God appeared to David at Ornan’s threshing floor. The text describes the Most Holy Place covered in gold, the cherubim, the veil, and the two pillars.",
+   "questions": [
+    "What is the significance of building on Mount Moriah (Genesis 22:2)?",
+    "What did the veil represent?",
+    "How does the temple’s beauty reflect God’s glory?"
+   ],
+   "crossRefs": [
+    "Genesis 22:2",
+    "Hebrews 10:19–20",
+    "1 Kings 6"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The Temple Furnishings",
+   "summary": "Solomon makes the bronze altar, the great bronze sea, basins, golden lampstands, tables, and other furnishings for the temple.",
+   "questions": [
+    "What purposes did the basin and sea serve?",
+    "Why were there ten lampstands and tables?",
+    "How do these furnishings point to Christ’s work?"
+   ],
+   "crossRefs": [
+    "1 Kings 7:23–51",
+    "Hebrews 9:1–14",
+    "John 8:12"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The Ark Brought into the Temple",
+   "summary": "The ark is brought into the Most Holy Place. As the Levites and singers praise God in unison, “For he is good, for his steadfast love endures forever,” the house is filled with a cloud, and the priests cannot stand to minister because of God’s glory.",
+   "questions": [
+    "What preceded the glory filling the temple?",
+    "Why do you think unity in worship mattered (5:13)?",
+    "Have you experienced God’s presence in worship?"
+   ],
+   "crossRefs": [
+    "1 Kings 8:1–11",
+    "Psalm 136",
+    "Acts 2:1–4"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Solomon’s Prayer of Dedication",
+   "summary": "Solomon blesses God for keeping His promise to David and prays a long prayer of dedication, asking God to hear prayers made toward the temple in times of sin, drought, war, and exile, and to hear foreigners too.",
+   "questions": [
+    "What does Solomon acknowledge in 6:14 and 6:18?",
+    "Which of Solomon’s requests applies most to your life?",
+    "How does 6:36–39 anticipate the exile and return?"
+   ],
+   "crossRefs": [
+    "1 Kings 8:22–53",
+    "Daniel 6:10",
+    "1 John 1:9"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Fire from Heaven and God’s Answer",
+   "summary": "Fire comes down from heaven, the glory of the LORD fills the temple, and the people bow and worship. God appears to Solomon at night: “If my people who are called by my name humble themselves, and pray...” He also warns of judgment if they forsake Him.",
+   "questions": [
+    "What four things does God ask of His people in 7:14?",
+    "How does God’s warning (7:19–22) come true later?",
+    "What would revival look like in your life or church?"
+   ],
+   "crossRefs": [
+    "1 Kings 9:1–9",
+    "James 4:8–10",
+    "Leviticus 9:24"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Solomon’s Achievements",
+   "summary": "Solomon builds cities, organizes forced labor from the remaining Canaanites, moves Pharaoh’s daughter out of the City of David, and organizes worship according to David’s command.",
+   "questions": [
+    "Why did Solomon move Pharaoh’s daughter out (8:11)?",
+    "How did Solomon follow David’s instructions for worship?",
+    "What does completed work for God look like (8:16)?"
+   ],
+   "crossRefs": [
+    "1 Kings 9:10–28",
+    "1 Chronicles 23–26",
+    "Colossians 3:23"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The Queen of Sheba; Solomon’s Splendor and Death",
+   "summary": "The queen of Sheba visits and is overwhelmed by Solomon’s wisdom, blessing the LORD. Solomon’s wealth exceeds all kings of the earth. After forty years he dies.",
+   "questions": [
+    "What impressed the queen most?",
+    "Why does the Chronicler omit Solomon’s later sins (compare 1 Kings 11)?",
+    "How does Jesus surpass Solomon (Matthew 12:42)?"
+   ],
+   "crossRefs": [
+    "1 Kings 10",
+    "Matthew 12:42",
+    "Matthew 6:28–29"
+   ]
+  },
+  {
+   "n": 10,
+   "title": "The Kingdom Divided",
+   "summary": "Rehoboam follows the harsh advice of his young friends instead of the elders, and the northern tribes rebel under Jeroboam. “It was a turn of affairs brought about by God” to fulfill His word.",
+   "questions": [
+    "What was wrong with Rehoboam’s decision?",
+    "How does God’s sovereignty work through Rehoboam’s foolishness (10:15)?",
+    "Whose advice do you listen to most?"
+   ],
+   "crossRefs": [
+    "1 Kings 12:1–20",
+    "Proverbs 15:22",
+    "Proverbs 13:20"
+   ]
+  },
+  {
+   "n": 11,
+   "title": "Rehoboam Strengthens Judah",
+   "summary": "God forbids Rehoboam from fighting Israel. He fortifies Judah, and priests and Levites from the north move to Judah because Jeroboam rejected them, strengthening the kingdom for three years.",
+   "questions": [
+    "Why did Rehoboam obey God’s command not to fight?",
+    "Why did the faithful from Israel move to Judah (11:16)?",
+    "How does following God sometimes require leaving something behind?"
+   ],
+   "crossRefs": [
+    "1 Kings 12:21–24",
+    "Hebrews 11:8",
+    "Mark 10:29–30"
+   ]
+  },
+  {
+   "n": 12,
+   "title": "Shishak Invades",
+   "summary": "Rehoboam abandons God’s law, and Egypt’s King Shishak invades. The prophet Shemaiah says, “You abandoned me, so I have abandoned you.” The leaders humble themselves, and God grants some deliverance.",
+   "questions": [
+    "How did strength lead Rehoboam to abandon God (12:1)?",
+    "How does God respond to their humility (12:7)?",
+    "What does 12:14 say was the root problem?"
+   ],
+   "crossRefs": [
+    "1 Kings 14:25–28",
+    "Psalm 9:10",
+    "James 4:6"
+   ]
+  },
+  {
+   "n": 13,
+   "title": "Abijah’s Victory",
+   "summary": "Abijah of Judah confronts Jeroboam’s larger army, declaring that God is with Judah. Surrounded, Judah cries out to the LORD and the priests blow trumpets, and God defeats Israel. “The men of Judah prevailed, because they relied on the LORD.”",
+   "questions": [
+    "What is Abijah’s argument in his speech (13:4–12)?",
+    "Why did Judah prevail (13:18)?",
+    "What situation do you need to rely on God for?"
+   ],
+   "crossRefs": [
+    "1 Kings 15:1–8",
+    "Psalm 20:7",
+    "Zechariah 4:6"
+   ]
+  },
+  {
+   "n": 14,
+   "title": "Asa’s Reforms",
+   "summary": "Asa removes foreign altars and commands Judah to seek the LORD. When a million-man Ethiopian army attacks, Asa prays, “Help us, O LORD our God, for we rely on you,” and God strikes the Ethiopians.",
+   "questions": [
+    "What does Asa’s prayer (14:11) teach about relying on God?",
+    "How did Asa use times of peace (14:6–7)?",
+    "What “foreign altars” might need removing in your life?"
+   ],
+   "crossRefs": [
+    "1 Kings 15:9–15",
+    "Psalm 121",
+    "Isaiah 31:1"
+   ]
+  },
+  {
+   "n": 15,
+   "title": "Asa’s Covenant Renewal",
+   "summary": "The prophet Azariah tells Asa: “The LORD is with you while you are with him. If you seek him, he will be found by you.” Asa takes courage, removes idols, and the people make a covenant to seek God with all their heart. Asa even removes his grandmother as queen mother.",
+   "questions": [
+    "What does Azariah’s message (15:2) teach?",
+    "What did the people commit to (15:12–15)?",
+    "What did it cost Asa to remove Maacah?"
+   ],
+   "crossRefs": [
+    "Jeremiah 29:13",
+    "Hebrews 11:6",
+    "Deuteronomy 4:29"
+   ]
+  },
+  {
+   "n": 16,
+   "title": "Asa’s Final Years",
+   "summary": "Asa relies on Syria instead of the LORD. The seer Hanani rebukes him: “The eyes of the LORD run to and fro throughout the whole earth, to give strong support to those whose heart is blameless toward him.” Asa imprisons Hanani and later, diseased, does not seek the LORD.",
+   "questions": [
+    "How did Asa’s earlier faith turn into self-reliance?",
+    "What does 16:9 promise?",
+    "How can we stay faithful to the end?"
+   ],
+   "crossRefs": [
+    "1 Kings 15:16–24",
+    "Jeremiah 17:5–8",
+    "Hebrews 3:14"
+   ]
+  },
+  {
+   "n": 17,
+   "title": "Jehoshaphat Teaches the Law",
+   "summary": "Jehoshaphat walks in David’s early ways and seeks God. He sends officials and Levites throughout Judah to teach the Book of the Law. The fear of the LORD falls on surrounding kingdoms, and Jehoshaphat grows strong.",
+   "questions": [
+    "Why did Jehoshaphat send teachers throughout the land?",
+    "How does teaching God’s word strengthen a nation?",
+    "How are you being taught, and whom are you teaching?"
+   ],
+   "crossRefs": [
+    "Nehemiah 8:7–8",
+    "2 Timothy 2:2",
+    "Deuteronomy 6:6–9"
+   ]
+  },
+  {
+   "n": 18,
+   "title": "Micaiah Warns Ahab",
+   "summary": "Jehoshaphat allies with wicked Ahab. Four hundred prophets predict victory, but Micaiah faithfully warns of defeat. Ahab is killed by a random arrow, and Jehoshaphat narrowly escapes when he cries out to God.",
+   "questions": [
+    "Why was Jehoshaphat’s alliance with Ahab unwise?",
+    "What did Micaiah risk by telling the truth?",
+    "How did God rescue Jehoshaphat (18:31)?"
+   ],
+   "crossRefs": [
+    "1 Kings 22",
+    "2 Corinthians 6:14",
+    "2 Timothy 4:3–4"
+   ]
+  },
+  {
+   "n": 19,
+   "title": "Jehoshaphat Appoints Judges",
+   "summary": "The prophet Jehu rebukes Jehoshaphat for helping the wicked. Jehoshaphat appoints judges in every city, charging them to judge in the fear of the LORD without partiality or bribes. “Deal courageously, and may the LORD be with the upright!”",
+   "questions": [
+    "What does 19:2 say about loving those who hate the LORD?",
+    "What qualities should judges have (19:6–9)?",
+    "How can you act with integrity in your responsibilities?"
+   ],
+   "crossRefs": [
+    "Deuteronomy 16:18–20",
+    "Proverbs 17:15",
+    "James 2:1–4"
+   ]
+  },
+  {
+   "n": 20,
+   "title": "Jehoshaphat’s Prayer and Victory",
+   "summary": "A vast army attacks Judah. Jehoshaphat proclaims a fast and prays, “We do not know what to do, but our eyes are on you.” God answers: “The battle is not yours but God’s.” Judah goes out singing praise, and God sets ambushes against the enemy, who destroy each other.",
+   "questions": [
+    "What do you learn from the structure of Jehoshaphat’s prayer?",
+    "Why do the singers go before the army?",
+    "What battle do you need to hand to God?"
+   ],
+   "crossRefs": [
+    "Exodus 14:13–14",
+    "Psalm 46",
+    "Philippians 4:6–7"
+   ]
+  },
+  {
+   "n": 21,
+   "title": "Jehoram’s Evil Reign",
+   "summary": "Jehoram kills his brothers and walks in Ahab’s ways, married to Ahab’s daughter. Edom revolts, Elijah sends a letter of judgment, and Jehoram dies of a painful disease “to no one’s regret.” Yet God would not destroy David’s house.",
+   "questions": [
+    "How did Jehoram’s marriage influence him?",
+    "What does 21:7 reveal about God’s faithfulness?",
+    "What does “he departed with no one’s regret” (21:20) warn?"
+   ],
+   "crossRefs": [
+    "2 Kings 8:16–24",
+    "2 Samuel 7:12–16",
+    "Proverbs 10:7"
+   ]
+  },
+  {
+   "n": 22,
+   "title": "Ahaziah and Athaliah",
+   "summary": "Ahaziah follows his mother Athaliah’s wicked counsel and is killed by Jehu. Athaliah seizes the throne and kills the royal heirs, but Jehosheba hides baby Joash in the temple.",
+   "questions": [
+    "How did a mother’s counsel lead a king astray?",
+    "How does God preserve David’s line?",
+    "Who was Jehosheba, and what did she risk?"
+   ],
+   "crossRefs": [
+    "2 Kings 11:1–3",
+    "Matthew 2:13",
+    "Psalm 89:35–37"
+   ]
+  },
+  {
+   "n": 23,
+   "title": "Joash Crowned",
+   "summary": "After six years, Jehoiada the priest organizes the Levites and crowns Joash in the temple. Athaliah cries, “Treason!” and is executed. The people make a covenant to be the LORD’s people and tear down Baal’s temple.",
+   "questions": [
+    "How does Jehoiada show courage and wise leadership?",
+    "What does the covenant in 23:16 commit the people to?",
+    "Why did the city become quiet (23:21)?"
+   ],
+   "crossRefs": [
+    "2 Kings 11:4–21",
+    "Psalm 2",
+    "Joshua 24:25"
+   ]
+  },
+  {
+   "n": 24,
+   "title": "Joash’s Reign and Fall",
+   "summary": "Joash repairs the temple while Jehoiada lives. After Jehoiada’s death, Joash listens to Judah’s princes and turns to idols. When Jehoiada’s son Zechariah rebukes him, Joash has him stoned in the temple court. Syria attacks, and Joash is assassinated.",
+   "questions": [
+    "What happened to Joash after his mentor died?",
+    "How does Jesus refer to Zechariah’s murder (Matthew 23:35)?",
+    "Who influences your faith most, and what will remain if they are gone?"
+   ],
+   "crossRefs": [
+    "Matthew 23:35",
+    "2 Kings 12",
+    "2 Timothy 3:14"
+   ]
+  },
+  {
+   "n": 25,
+   "title": "Amaziah",
+   "summary": "Amaziah does right “but not with a whole heart.” Obeying a prophet, he sends away hired Israelite troops, trusting God, and defeats Edom. But he worships Edom’s gods, refuses correction, provokes Israel, and is defeated.",
+   "questions": [
+    "What does “not with a whole heart” (25:2) look like?",
+    "How does 25:9 answer worries about losing money by obeying God?",
+    "Why is it foolish to worship the gods of a defeated people?"
+   ],
+   "crossRefs": [
+    "2 Kings 14",
+    "Matthew 6:33",
+    "Proverbs 16:18"
+   ]
+  },
+  {
+   "n": 26,
+   "title": "Uzziah’s Pride",
+   "summary": "Uzziah seeks God in the days of Zechariah and prospers greatly. “But when he was strong, he grew proud.” He enters the temple to burn incense, which only priests may do, and is struck with leprosy until his death.",
+   "questions": [
+    "What was the link between Uzziah’s success and his fall?",
+    "Why was burning incense a serious violation?",
+    "How can you guard against pride in success?"
+   ],
+   "crossRefs": [
+    "2 Kings 15:1–7",
+    "Isaiah 6:1",
+    "Proverbs 16:18"
+   ]
+  },
+  {
+   "n": 27,
+   "title": "Jotham",
+   "summary": "Jotham does right and becomes mighty “because he ordered his ways before the LORD his God.” He builds and defeats the Ammonites, though the people still act corruptly.",
+   "questions": [
+    "What does it mean to “order your ways” before God (27:6)?",
+    "Why did the people remain corrupt despite a good king?",
+    "How does personal faithfulness matter in a corrupt culture?"
+   ],
+   "crossRefs": [
+    "2 Kings 15:32–38",
+    "Psalm 37:23",
+    "Proverbs 4:26"
+   ]
+  },
+  {
+   "n": 28,
+   "title": "Ahaz",
+   "summary": "Ahaz worships Baal and burns his sons. Judah suffers defeats, and Israel takes 200,000 captives, but the prophet Oded persuades Israel to return them with kindness. Ahaz turns to Assyria, closes the temple doors, and becomes even more unfaithful in his distress.",
+   "questions": [
+    "How does Ahaz respond to trouble (28:22)?",
+    "What do you admire about the Israelites in 28:12–15?",
+    "Why does trouble draw some people to God and drive others away?"
+   ],
+   "crossRefs": [
+    "2 Kings 16",
+    "Isaiah 7",
+    "Luke 10:30–37"
+   ]
+  },
+  {
+   "n": 29,
+   "title": "Hezekiah Cleanses the Temple",
+   "summary": "In his first month, Hezekiah opens and repairs the temple doors. The Levites remove all the uncleanness, and the temple is rededicated with sin offerings and joyful worship with David’s instruments and songs.",
+   "questions": [
+    "Why did Hezekiah start with the temple?",
+    "What did the cleansing involve?",
+    "What does 29:36 say about how quickly God brought this about?"
+   ],
+   "crossRefs": [
+    "2 Kings 18:1–8",
+    "2 Corinthians 7:1",
+    "Psalm 51:10–12"
+   ]
+  },
+  {
+   "n": 30,
+   "title": "Hezekiah’s Passover",
+   "summary": "Hezekiah invites all Israel and Judah, even the north, to celebrate Passover. Many mock, but some humble themselves and come. Some eat without being purified, and Hezekiah prays, “May the good LORD pardon everyone who sets his heart to seek God.” There is great joy.",
+   "questions": [
+    "How did Hezekiah reach out to the northern tribes?",
+    "What does Hezekiah’s prayer (30:18–20) teach about the heart vs. ritual?",
+    "Why was there such joy (30:26)?"
+   ],
+   "crossRefs": [
+    "1 Samuel 16:7",
+    "Luke 14:21–23",
+    "Isaiah 55:1–3"
+   ]
+  },
+  {
+   "n": 31,
+   "title": "Hezekiah Organizes Worship",
+   "summary": "After Passover, the people destroy idols throughout the land. Hezekiah organizes the priests and Levites, and the people give so generously that heaps of offerings are left over. Hezekiah did everything “with all his heart, and prospered.”",
+   "questions": [
+    "What happens when God’s people give generously?",
+    "What does 31:21 say about wholehearted service?",
+    "How does revival lead to practical change?"
+   ],
+   "crossRefs": [
+    "Exodus 36:5–7",
+    "Malachi 3:10",
+    "Colossians 3:23"
+   ]
+  },
+  {
+   "n": 32,
+   "title": "Sennacherib Invades",
+   "summary": "Assyria invades Judah. Hezekiah prepares the city and encourages the people: “With him is an arm of flesh, but with us is the LORD our God.” Sennacherib mocks God, Hezekiah and Isaiah pray, and an angel destroys the Assyrian army. Hezekiah later becomes proud but humbles himself.",
+   "questions": [
+    "What encouragement does Hezekiah give in 32:7–8?",
+    "How does God respond to the prayers of Hezekiah and Isaiah?",
+    "What test did God give Hezekiah (32:31)?"
+   ],
+   "crossRefs": [
+    "2 Kings 18–20",
+    "Isaiah 36–37",
+    "Jeremiah 17:5–8"
+   ]
+  },
+  {
+   "n": 33,
+   "title": "Manasseh’s Repentance",
+   "summary": "Manasseh leads Judah into worse evil than the Canaanites. Assyria captures him with hooks and takes him to Babylon. In distress he humbles himself greatly, God hears him and restores him, and Manasseh knows the LORD is God. He removes idols, but his son Amon is wicked.",
+   "questions": [
+    "What does Manasseh’s story teach about God’s grace?",
+    "How did his repentance show itself in action?",
+    "Is there someone you have written off as beyond hope?"
+   ],
+   "crossRefs": [
+    "2 Kings 21",
+    "1 Timothy 1:15–16",
+    "Luke 15:11–24"
+   ]
+  },
+  {
+   "n": 34,
+   "title": "Josiah’s Reform",
+   "summary": "Josiah begins seeking God at 16 and purges idolatry at 20. While repairing the temple, the Book of the Law is found. Josiah tears his clothes, Huldah prophesies, and Josiah leads the people in covenant renewal.",
+   "questions": [
+    "How did Josiah’s faith begin while he was young?",
+    "What does Josiah’s response to the law teach?",
+    "How can you respond more fully to God’s word?"
+   ],
+   "crossRefs": [
+    "2 Kings 22–23",
+    "Psalm 119:9–11",
+    "1 Timothy 4:12"
+   ]
+  },
+  {
+   "n": 35,
+   "title": "Josiah’s Passover and Death",
+   "summary": "Josiah keeps a great Passover, unmatched since Samuel’s day. Later, he insists on fighting Pharaoh Neco, ignoring God’s warning through Neco, and is fatally wounded. Jeremiah laments for him.",
+   "questions": [
+    "What made Josiah’s Passover so remarkable?",
+    "Why did Josiah ignore Neco’s warning?",
+    "What can we learn from the end of a good king?"
+   ],
+   "crossRefs": [
+    "2 Kings 23:21–30",
+    "Proverbs 26:17",
+    "Lamentations 4:20"
+   ]
+  },
+  {
+   "n": 36,
+   "title": "The Fall of Jerusalem",
+   "summary": "Judah’s last kings do evil. God sends messengers persistently “because he had compassion on his people,” but they mock them until there is no remedy. Babylon burns the temple and exiles the people for seventy years. Then Cyrus of Persia decrees: “Whoever is among you of all his people... let him go up.”",
+   "questions": [
+    "What does 36:15–16 reveal about God’s compassion and patience?",
+    "How does the land “enjoy its Sabbaths” (36:21)?",
+    "Why might the book end with Cyrus’s invitation?"
+   ],
+   "crossRefs": [
+    "Jeremiah 25:11–12",
+    "Ezra 1:1–4",
+    "Isaiah 44:28"
+   ]
+  }
+ ],
+ "tagline": "Judah’s kings, the temple, and the call to seek God",
+ "readingPlan": "36 chapters: one chapter a day takes 36 days; two a day takes about 18 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

@@ -1,0 +1,296 @@
+{
+ "id": "ezra",
+ "name": "Ezra",
+ "chapters": 10,
+ "overview": {
+  "author": "Ezra, a priest and scribe, is traditionally credited. Parts are written in the first person (7:27–9:15). Ezra and Nehemiah were originally one book.",
+  "date": "The events cover 538–457 BC. The book was likely completed around 440 BC.",
+  "audience": "The Jewish community restored to Judah after the Babylonian exile.",
+  "setting": "Persia and Jerusalem under the Persian kings Cyrus, Darius, and Artaxerxes.",
+  "purpose": "To show God faithfully keeping His promise to bring His people home, how they rebuilt the temple despite opposition, and how Ezra led them back to God’s law.",
+  "structure": "The return under Zerubbabel and the rebuilding of the temple (1–6), and Ezra’s return and reforms about sixty years later (7–10)."
+ },
+ "outline": [
+  {
+   "title": "The First Return and the Temple Rebuilt",
+   "range": "1:1–6:22",
+   "start": 1,
+   "end": 6,
+   "items": [
+    {
+     "title": "Cyrus’s decree and the returnees",
+     "range": "1:1–2:70"
+    },
+    {
+     "title": "The altar and foundation laid",
+     "range": "3:1–13"
+    },
+    {
+     "title": "Opposition and delay",
+     "range": "4:1–24"
+    },
+    {
+     "title": "Work resumed and the temple completed",
+     "range": "5:1–6:22"
+    }
+   ]
+  },
+  {
+   "title": "Ezra’s Return and Reforms",
+   "range": "7:1–10:44",
+   "start": 7,
+   "end": 10,
+   "items": [
+    {
+     "title": "Ezra’s journey to Jerusalem",
+     "range": "7:1–8:36"
+    },
+    {
+     "title": "Ezra’s prayer of confession",
+     "range": "9:1–15"
+    },
+    {
+     "title": "The people’s repentance",
+     "range": "10:1–44"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "God’s Faithfulness to His Word",
+   "text": "Cyrus’s decree fulfills Jeremiah’s prophecy of a seventy-year exile (1:1)."
+  },
+  {
+   "title": "God’s Sovereignty over Rulers",
+   "text": "God “stirred up the spirit” of pagan kings to accomplish His purposes."
+  },
+  {
+   "title": "Worship Restored",
+   "text": "The first priority is the altar and the temple, the place of God’s presence."
+  },
+  {
+   "title": "Opposition and Perseverance",
+   "text": "Enemies discourage and delay the work, but prophets encourage the people to finish."
+  },
+  {
+   "title": "The Word of God",
+   "text": "Ezra devotes himself to study, obey, and teach God’s law (7:10)."
+  },
+  {
+   "title": "Holiness and Repentance",
+   "text": "The community confronts its compromise through prayer, confession, and costly change."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Ezra 3:11",
+   "quote": "For he is good, for his steadfast love endures forever toward Israel."
+  },
+  {
+   "ref": "Ezra 7:10",
+   "quote": "For Ezra had set his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel."
+  },
+  {
+   "ref": "Ezra 8:22",
+   "quote": "The hand of our God is for good on all who seek him."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1–6",
+   "text": "The rebuilt temple prepares the place where Jesus would teach and declare Himself greater than the temple (Matthew 12:6)."
+  },
+  {
+   "ref": "3:2",
+   "text": "Zerubbabel, of David’s line, leads the return and appears in Jesus’ genealogy (Matthew 1:12–13)."
+  },
+  {
+   "ref": "9",
+   "text": "Ezra’s intercession, identifying with the people’s sin, points to Christ, who bore our sins (2 Corinthians 5:21)."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Jeremiah 29:10",
+   "note": "Seventy years and then return."
+  },
+  {
+   "ref": "Isaiah 44:28–45:1",
+   "note": "Cyrus named as God’s shepherd."
+  },
+  {
+   "ref": "Haggai 1–2; Zechariah 1–8",
+   "note": "The prophets who urged the rebuilding."
+  },
+  {
+   "ref": "Nehemiah 8",
+   "note": "Ezra reads the law to the people."
+  },
+  {
+   "ref": "2 Corinthians 6:14–7:1",
+   "note": "Separation from unfaithfulness."
+  }
+ ],
+ "reflection": [
+  "God kept His promise after seventy years. What long-awaited promise are you trusting God for?",
+  "The returnees built the altar first, even before the walls. What does it look like to put worship first?",
+  "When opposition came, the work stopped for years. What has God called you to that you have set aside?",
+  "Ezra set his heart to study, do, and teach God’s word. Which of those three is weakest for you?",
+  "Ezra’s prayer in chapter 9 identifies with others’ sin. How can you pray for your church and nation with that humility?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Cyrus’s Decree",
+   "summary": "In Cyrus’s first year, God stirs up the Persian king to fulfill Jeremiah’s word. Cyrus decrees that the Jews may return to rebuild the temple in Jerusalem, and he returns the temple vessels Nebuchadnezzar had taken. Those whose spirits God stirred prepare to go.",
+   "questions": [
+    "How does God work through a pagan king (1:1)?",
+    "Whose spirits did God stir (1:5)?",
+    "What does this chapter teach about God keeping His word?"
+   ],
+   "crossRefs": [
+    "Jeremiah 29:10",
+    "Isaiah 44:28",
+    "2 Chronicles 36:22–23"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "The List of Returning Exiles",
+   "summary": "A detailed list records the families, priests, Levites, singers, gatekeepers, and temple servants who returned, nearly 50,000 people. Some priests cannot prove their lineage. The people give freewill offerings for the house of God.",
+   "questions": [
+    "Why would such a careful list matter to the returnees?",
+    "Why was genealogy important for priests (2:61–63)?",
+    "What does the people’s giving (2:68–69) reveal?"
+   ],
+   "crossRefs": [
+    "Nehemiah 7:6–73",
+    "Luke 10:20",
+    "Revelation 21:27"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The Altar and Temple Foundation",
+   "summary": "The people gather as one and rebuild the altar to offer sacrifices, despite fear of their neighbors. They lay the temple’s foundation with music and praise, “For he is good, for his steadfast love endures forever.” Some shout for joy while old men who remembered the first temple weep.",
+   "questions": [
+    "Why did they build the altar first?",
+    "Why did some weep and others shout (3:12–13)?",
+    "How can we hold both joy and grief in worship?"
+   ],
+   "crossRefs": [
+    "Haggai 2:3–9",
+    "Psalm 126",
+    "Zechariah 4:10"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Opposition to Rebuilding",
+   "summary": "Enemies offer to help build but are refused. They then discourage and frighten the people and hire counselors against them. Letters to later kings stop work on the city. The temple work ceases until Darius’s reign.",
+   "questions": [
+    "Why did Zerubbabel refuse the enemies’ offer of help?",
+    "What tactics did the opponents use?",
+    "How does discouragement stop God’s work today?"
+   ],
+   "crossRefs": [
+    "Nehemiah 4",
+    "Haggai 1:2–4",
+    "Ephesians 6:12"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Work Resumes",
+   "summary": "The prophets Haggai and Zechariah encourage Zerubbabel and Jeshua to resume building. The governor Tattenai questions them and writes to Darius, but “the eye of their God was on the elders,” and the work continues.",
+   "questions": [
+    "How did the prophets restart the work?",
+    "What does “the eye of their God was on the elders” (5:5) mean?",
+    "How did the elders explain their history honestly (5:11–12)?"
+   ],
+   "crossRefs": [
+    "Haggai 1:12–15",
+    "Zechariah 4:6–9",
+    "Psalm 33:18"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The Temple Completed",
+   "summary": "Darius finds Cyrus’s decree and orders that the work continue, even funded from royal taxes. The temple is completed, dedicated with joy, and Passover is celebrated, for God had turned the king’s heart toward them.",
+   "questions": [
+    "How did the opponents’ letter end up helping the Jews?",
+    "What does 6:22 teach about God and the hearts of rulers?",
+    "How did the people celebrate the temple’s completion?"
+   ],
+   "crossRefs": [
+    "Proverbs 21:1",
+    "Genesis 50:20",
+    "Haggai 2:9"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Ezra Arrives",
+   "summary": "About sixty years later, Ezra, a priest and skilled scribe, travels from Babylon to Jerusalem with King Artaxerxes’ support. “The good hand of his God was on him,” for Ezra had set his heart to study, do, and teach God’s law. Ezra blesses God for moving the king’s heart.",
+   "questions": [
+    "What three commitments define Ezra (7:10)?",
+    "Why does the order (study, do, teach) matter?",
+    "How does Ezra respond to the king’s favor (7:27–28)?"
+   ],
+   "crossRefs": [
+    "Psalm 1:2",
+    "James 1:22",
+    "2 Timothy 2:15"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "The Journey to Jerusalem",
+   "summary": "Ezra gathers Levites for the journey. Ashamed to ask the king for soldiers after declaring God’s protection, he proclaims a fast and prays. God protects them, and they arrive safely with the temple treasures.",
+   "questions": [
+    "Why didn’t Ezra ask for a military escort (8:22)?",
+    "How does Ezra show careful stewardship of the treasures?",
+    "Where do you need to trust God for protection?"
+   ],
+   "crossRefs": [
+    "Psalm 91",
+    "Psalm 121:7–8",
+    "1 Corinthians 4:2"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Ezra’s Prayer of Confession",
+   "summary": "Ezra learns that many, including leaders, have intermarried with idolatrous peoples. He tears his garments and prays, confessing the people’s guilt as his own: “Our iniquities have risen higher than our heads,” while acknowledging God’s grace in leaving a remnant.",
+   "questions": [
+    "Why does Ezra say “our” sins, not “their” sins?",
+    "What does Ezra acknowledge about God’s grace (9:8–9, 13)?",
+    "Why was intermarriage with idolaters so dangerous (see Deuteronomy 7:3–4)?"
+   ],
+   "crossRefs": [
+    "Daniel 9:4–19",
+    "Nehemiah 9",
+    "2 Corinthians 6:14"
+   ]
+  },
+  {
+   "n": 10,
+   "title": "The People Repent",
+   "summary": "A great crowd gathers weeping. Shecaniah proposes a covenant to put away the foreign wives, and Ezra leads the assembly in this painful reform. A list of those involved is recorded.",
+   "questions": [
+    "What gave the people hope (10:2)?",
+    "Why was this reform so difficult?",
+    "What costly obedience might God be asking of you?"
+   ],
+   "crossRefs": [
+    "Nehemiah 13:23–27",
+    "Luke 14:26–33",
+    "2 Corinthians 7:10–11"
+   ]
+  }
+ ],
+ "tagline": "Return from exile: rebuilding the temple and renewing God’s people",
+ "readingPlan": "10 chapters: one chapter a day takes 10 days; two a day takes about 5 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

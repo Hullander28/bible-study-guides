@@ -1,0 +1,500 @@
+{
+ "id": "1-kings",
+ "name": "1 Kings",
+ "chapters": 22,
+ "overview": {
+  "author": "Not stated. Jewish tradition credits Jeremiah. The author used court records such as “the Book of the Acts of Solomon” (11:41). 1 and 2 Kings were originally one book.",
+  "date": "The events cover about 971–853 BC. The completed Kings was written during the exile, after 561 BC (2 Kings 25:27).",
+  "audience": "The exiles in Babylon, who needed to understand why the kingdom fell and that God was still faithful to His covenant with David.",
+  "setting": "Jerusalem and the united kingdom under Solomon, then the divided kingdoms of Israel (north, capital Samaria) and Judah (south, capital Jerusalem).",
+  "purpose": "To explain Israel’s decline as the result of idolatry and covenant unfaithfulness, measuring each king by his loyalty to the LORD, while showing God’s patience through His prophets.",
+  "structure": "Solomon’s reign (1–11), the divided kingdom (12–16), and Elijah’s ministry during Ahab’s reign (17–22)."
+ },
+ "outline": [
+  {
+   "title": "Solomon’s Reign",
+   "range": "1:1–11:43",
+   "start": 1,
+   "end": 11,
+   "items": [
+    {
+     "title": "Solomon becomes king",
+     "range": "1:1–2:46"
+    },
+    {
+     "title": "Solomon’s wisdom",
+     "range": "3:1–4:34"
+    },
+    {
+     "title": "The temple built and dedicated",
+     "range": "5:1–9:9"
+    },
+    {
+     "title": "Solomon’s splendor and fall",
+     "range": "9:10–11:43"
+    }
+   ]
+  },
+  {
+   "title": "The Kingdom Divided",
+   "range": "12:1–16:34",
+   "start": 12,
+   "end": 16,
+   "items": [
+    {
+     "title": "Rehoboam and Jeroboam",
+     "range": "12:1–14:31"
+    },
+    {
+     "title": "Kings of Judah and Israel",
+     "range": "15:1–16:34"
+    }
+   ]
+  },
+  {
+   "title": "Elijah and Ahab",
+   "range": "17:1–22:53",
+   "start": 17,
+   "end": 22,
+   "items": [
+    {
+     "title": "Elijah, the drought, and Mount Carmel",
+     "range": "17:1–18:46"
+    },
+    {
+     "title": "Elijah at Horeb",
+     "range": "19:1–21"
+    },
+    {
+     "title": "Ahab’s wars, Naboth’s vineyard, and death",
+     "range": "20:1–22:53"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Faithfulness Brings Blessing",
+   "text": "Kings are judged by whether they walk with God “as David his father” did."
+  },
+  {
+   "title": "The Temple and God’s Presence",
+   "text": "God’s name dwells in the temple, yet “heaven cannot contain” Him (8:27)."
+  },
+  {
+   "title": "Wisdom",
+   "text": "Solomon asks for wisdom and receives it, but later fails to live by it."
+  },
+  {
+   "title": "Idolatry Divides",
+   "text": "Solomon’s foreign wives turn his heart, leading to the kingdom’s division."
+  },
+  {
+   "title": "The Prophetic Word",
+   "text": "God’s word through prophets like Ahijah, Elijah, and Micaiah always comes true."
+  },
+  {
+   "title": "The LORD Versus Baal",
+   "text": "At Mount Carmel, Elijah shows that the LORD alone is God."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "1 Kings 3:9",
+   "quote": "Give your servant therefore an understanding mind to govern your people, that I may discern between good and evil."
+  },
+  {
+   "ref": "1 Kings 8:27",
+   "quote": "Behold, heaven and the highest heaven cannot contain you; how much less this house that I have built!"
+  },
+  {
+   "ref": "1 Kings 18:21",
+   "quote": "How long will you go limping between two different opinions? If the LORD is God, follow him."
+  },
+  {
+   "ref": "1 Kings 19:12",
+   "quote": "And after the fire the sound of a low whisper."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "3–4",
+   "text": "Solomon’s wisdom points to Jesus: “something greater than Solomon is here” (Matthew 12:42)."
+  },
+  {
+   "ref": "8",
+   "text": "The temple, where God dwells among His people, is fulfilled in Jesus’ body (John 2:19–21)."
+  },
+  {
+   "ref": "17:17–24",
+   "text": "Elijah raising the widow’s son foreshadows Jesus raising the widow’s son at Nain (Luke 7:11–17)."
+  },
+  {
+   "ref": "19:8",
+   "text": "Elijah’s forty days in the wilderness and his appearance at the transfiguration point to Jesus (Matthew 17:3)."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "2 Chronicles 1–18",
+   "note": "A parallel account focused on Judah."
+  },
+  {
+   "ref": "Matthew 6:29",
+   "note": "“Solomon in all his glory.”"
+  },
+  {
+   "ref": "Luke 4:25–26",
+   "note": "Jesus cites Elijah and the widow of Zarephath."
+  },
+  {
+   "ref": "James 5:17–18",
+   "note": "Elijah, a man like us, prayed earnestly."
+  },
+  {
+   "ref": "Romans 11:2–5",
+   "note": "God’s 7,000 who did not bow to Baal."
+  }
+ ],
+ "reflection": [
+  "Solomon asked for wisdom rather than riches. What would you ask God for, and why?",
+  "Solomon’s heart turned slowly through compromises. What relationships or influences could be turning your heart?",
+  "Elijah asked, “How long will you limp between two opinions?” Where are you trying to serve two masters?",
+  "After his great victory, Elijah fell into despair. How does God’s gentle care for him (rest, food, His presence) speak to you?",
+  "God spoke in a low whisper. How can you make space to hear Him?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Solomon Anointed King",
+   "summary": "King David is old and frail. His son Adonijah declares himself king, but Nathan and Bathsheba remind David of his promise that Solomon would reign. David orders Solomon anointed at Gihon, and the people rejoice. Adonijah’s supporters scatter.",
+   "questions": [
+    "How does Nathan act to protect God’s plan?",
+    "What does Adonijah’s presumption reveal about his character?",
+    "How does David keep his promise even in old age?"
+   ],
+   "crossRefs": [
+    "1 Chronicles 22:9–10",
+    "2 Samuel 7:12",
+    "Proverbs 16:18"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "David’s Charge to Solomon",
+   "summary": "David charges Solomon to be strong, walk in God’s ways, and keep His law. David dies, and Solomon secures his throne by dealing with Adonijah, Joab, and Shimei, and by banishing Abiathar.",
+   "questions": [
+    "What is the heart of David’s charge (2:2–4)?",
+    "How do past sins (Joab’s murders, Shimei’s curses) finally reach justice?",
+    "What spiritual charge would you want to pass on?"
+   ],
+   "crossRefs": [
+    "Joshua 1:7–9",
+    "Deuteronomy 17:18–20",
+    "Galatians 6:7"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Solomon Asks for Wisdom",
+   "summary": "Solomon loves the LORD. At Gibeon God says, “Ask what I shall give you.” Solomon humbly asks for an understanding mind to govern, and God gives him wisdom plus riches and honor. Solomon’s wisdom is shown when he settles two women’s dispute over a baby.",
+   "questions": [
+    "What does Solomon’s request reveal about his humility (3:7)?",
+    "How does James 1:5 encourage you to ask for wisdom?",
+    "How did Solomon’s ruling reveal the true mother?"
+   ],
+   "crossRefs": [
+    "James 1:5",
+    "Proverbs 2:6",
+    "Matthew 6:33"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Solomon’s Administration and Wisdom",
+   "summary": "Solomon organizes officials and districts, and Judah and Israel are as numerous as the sand, eating, drinking, and happy. God gives Solomon vast wisdom, and he speaks 3,000 proverbs and 1,005 songs. People come from all nations to hear him.",
+   "questions": [
+    "How does 4:20–25 show God’s promises to Abraham fulfilled?",
+    "What areas of knowledge did Solomon study (4:33)?",
+    "How can wisdom draw others to God?"
+   ],
+   "crossRefs": [
+    "Genesis 22:17",
+    "Proverbs 1:1–7",
+    "Matthew 12:42"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Preparations for the Temple",
+   "summary": "Solomon makes a treaty with King Hiram of Tyre for cedar and cypress and conscripts laborers. He builds the house David wanted to build for the name of the LORD.",
+   "questions": [
+    "Why was David not allowed to build the temple (5:3)?",
+    "How does God use a foreign king to help build His house?",
+    "What preparations does great work for God require?"
+   ],
+   "crossRefs": [
+    "1 Chronicles 22:6–10",
+    "2 Chronicles 2",
+    "Isaiah 60:10"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Building the Temple",
+   "summary": "In the 480th year after the Exodus, Solomon begins the temple. Stones are prepared at the quarry so no hammer is heard at the site. God promises to dwell among Israel if Solomon obeys. The temple, lined with gold and cedar, takes seven years to build.",
+   "questions": [
+    "Why might no tools be heard at the building site (6:7)?",
+    "What condition does God attach to His presence (6:11–13)?",
+    "How are believers now God’s temple (1 Peter 2:5)?"
+   ],
+   "crossRefs": [
+    "1 Peter 2:4–5",
+    "Ephesians 2:19–22",
+    "2 Chronicles 3"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Solomon’s Palace and the Temple Furnishings",
+   "summary": "Solomon builds his palace over thirteen years. Hiram the craftsman makes the bronze pillars Jachin and Boaz, the great bronze sea, the stands, and basins, and gold furnishings for the temple.",
+   "questions": [
+    "What might be significant about Solomon spending 13 years on his palace vs. 7 on the temple?",
+    "What do the pillar names “He establishes” and “In him is strength” proclaim?",
+    "How do you balance building your own “house” with God’s?"
+   ],
+   "crossRefs": [
+    "Haggai 1:4–9",
+    "2 Chronicles 4",
+    "Psalm 127:1"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "The Temple Dedicated",
+   "summary": "The ark is brought into the Most Holy Place, and the cloud of God’s glory fills the temple. Solomon blesses the people and prays a long prayer of dedication, asking God to hear prayers toward this house, forgive His people, and hear even foreigners, “that all the peoples of the earth may know your name.”",
+   "questions": [
+    "What does Solomon acknowledge about God in 8:23 and 8:27?",
+    "What situations does Solomon pray about (8:31–53)?",
+    "How does 8:41–43 show God’s heart for the nations?"
+   ],
+   "crossRefs": [
+    "2 Chronicles 6–7",
+    "John 2:19–21",
+    "Acts 17:24"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "God’s Response; Solomon’s Activities",
+   "summary": "God appears to Solomon again, promising to establish his throne if he walks in integrity, but warning that idolatry will bring the temple’s ruin. Solomon builds cities, uses forced labor, and builds a fleet.",
+   "questions": [
+    "What does God promise and warn in 9:3–9?",
+    "How do the warnings come true later (2 Kings 25:9)?",
+    "What early hints of trouble do you see in Solomon’s reign?"
+   ],
+   "crossRefs": [
+    "2 Chronicles 7:11–22",
+    "Deuteronomy 28:36–37",
+    "Jeremiah 7:12–14"
+   ]
+  },
+  {
+   "n": 10,
+   "title": "The Queen of Sheba; Solomon’s Wealth",
+   "summary": "The queen of Sheba tests Solomon with hard questions and is amazed: “The half was not told me.” She blesses the LORD. Solomon’s wealth grows immense, including silver as common as stones and many horses from Egypt.",
+   "questions": [
+    "How does the queen respond to Solomon’s wisdom?",
+    "How did Solomon’s wealth and horses conflict with Deuteronomy 17:16–17?",
+    "How does Jesus use the queen of Sheba (Matthew 12:42)?"
+   ],
+   "crossRefs": [
+    "Matthew 12:42",
+    "Deuteronomy 17:16–17",
+    "Psalm 72:10–11"
+   ]
+  },
+  {
+   "n": 11,
+   "title": "Solomon Turns from the LORD",
+   "summary": "Solomon loves many foreign women, who turn his heart after other gods in his old age. God is angry and says the kingdom will be torn away, except one tribe for David’s sake. Adversaries arise, and the prophet Ahijah tells Jeroboam he will rule ten tribes.",
+   "questions": [
+    "How did Solomon’s heart turn gradually (11:4)?",
+    "Why does God preserve one tribe (11:12–13, 32)?",
+    "What can the wisest man’s fall teach us?"
+   ],
+   "crossRefs": [
+    "Deuteronomy 17:17",
+    "Nehemiah 13:26",
+    "1 Corinthians 10:12"
+   ]
+  },
+  {
+   "n": 12,
+   "title": "The Kingdom Divided",
+   "summary": "Rehoboam rejects the elders’ advice to lighten the people’s burden and follows his young friends, threatening heavier yokes. The ten northern tribes rebel and make Jeroboam king. Jeroboam sets up golden calves at Bethel and Dan to keep people from going to Jerusalem.",
+   "questions": [
+    "Why did Rehoboam reject the elders’ advice?",
+    "How does Jeroboam’s fear lead to idolatry?",
+    "How does 12:15 show God’s sovereignty over human decisions?"
+   ],
+   "crossRefs": [
+    "Proverbs 15:1",
+    "Exodus 32:4",
+    "Proverbs 13:20"
+   ]
+  },
+  {
+   "n": 13,
+   "title": "The Man of God from Judah",
+   "summary": "A man of God condemns Jeroboam’s altar at Bethel, and the altar splits. But he is deceived by an old prophet into disobeying God’s command not to eat there, and a lion kills him on the way home.",
+   "questions": [
+    "Why was the man of God punished despite being deceived?",
+    "How can we guard against “spiritual” voices that contradict God’s word?",
+    "What does 13:33–34 say about Jeroboam’s response?"
+   ],
+   "crossRefs": [
+    "Galatians 1:8",
+    "1 John 4:1",
+    "2 Kings 23:15–18"
+   ]
+  },
+  {
+   "n": 14,
+   "title": "Judgment on Jeroboam; Rehoboam’s Reign",
+   "summary": "Jeroboam’s son falls ill, and his disguised wife visits Ahijah, who prophesies doom for Jeroboam’s house. In Judah, Rehoboam’s people also practice idolatry, and Egypt’s King Shishak plunders the temple.",
+   "questions": [
+    "Why did Jeroboam’s wife try to disguise herself?",
+    "How did Judah also fall into sin (14:22–24)?",
+    "What is lost when gold shields are replaced with bronze (14:26–27)?"
+   ],
+   "crossRefs": [
+    "2 Chronicles 12",
+    "Hosea 13:2",
+    "Revelation 2:4–5"
+   ]
+  },
+  {
+   "n": 15,
+   "title": "Abijam, Asa, Nadab, and Baasha",
+   "summary": "In Judah, Abijam walks in his father’s sins, but Asa does what is right, removing idols and even his idolatrous grandmother. In Israel, Baasha kills Nadab and destroys Jeroboam’s house, fulfilling the prophecy.",
+   "questions": [
+    "What reforms does Asa make, and what does it cost him (15:13)?",
+    "How is God’s prophetic word fulfilled (15:29)?",
+    "Why does God preserve Judah “for David’s sake” (15:4)?"
+   ],
+   "crossRefs": [
+    "2 Chronicles 14–16",
+    "1 Kings 14:10–11",
+    "2 Samuel 7:15–16"
+   ]
+  },
+  {
+   "n": 16,
+   "title": "Kings of Israel; Ahab Begins",
+   "summary": "Israel’s kings change rapidly through assassinations: Elah, Zimri, Omri. Omri builds Samaria. His son Ahab marries Jezebel of Sidon and does more evil than all before him, building a temple to Baal.",
+   "questions": [
+    "What pattern do you see in Israel’s kings?",
+    "Why was Ahab’s marriage to Jezebel so destructive?",
+    "What does 16:34 show about God’s word (see Joshua 6:26)?"
+   ],
+   "crossRefs": [
+    "Joshua 6:26",
+    "Micah 6:16",
+    "Revelation 2:20"
+   ]
+  },
+  {
+   "n": 17,
+   "title": "Elijah and the Widow of Zarephath",
+   "summary": "Elijah announces a drought to Ahab. God feeds Elijah by ravens at the brook Cherith, then sends him to a widow in Zarephath, where flour and oil never run out. When the widow’s son dies, Elijah prays and God restores him to life.",
+   "questions": [
+    "How does God provide in unexpected ways?",
+    "What did the widow’s faith require (17:13–15)?",
+    "How did Jesus use this story in Luke 4:25–26?"
+   ],
+   "crossRefs": [
+    "Luke 4:25–26",
+    "James 5:17",
+    "Luke 7:11–17"
+   ]
+  },
+  {
+   "n": 18,
+   "title": "Elijah on Mount Carmel",
+   "summary": "Elijah challenges 450 prophets of Baal on Mount Carmel: “How long will you go limping between two different opinions?” Baal’s prophets cry out all day with no answer. Elijah drenches his altar with water, prays simply, and fire falls from the LORD. The people cry, “The LORD, he is God!” Then Elijah prays, and rain returns.",
+   "questions": [
+    "What is the contrast between the prayers of Baal’s prophets and Elijah’s?",
+    "Why did Elijah soak the sacrifice with water?",
+    "What “opinions” are you limping between?"
+   ],
+   "crossRefs": [
+    "James 5:17–18",
+    "Joshua 24:15",
+    "Matthew 6:7–8"
+   ]
+  },
+  {
+   "n": 19,
+   "title": "Elijah at Horeb",
+   "summary": "Jezebel threatens Elijah, and he flees in fear, asking God to take his life. An angel gives him food and rest. At Horeb, God is not in the wind, earthquake, or fire, but in a low whisper. God gives Elijah new tasks and reveals 7,000 faithful in Israel. Elijah calls Elisha.",
+   "questions": [
+    "How does God care for Elijah’s body and spirit?",
+    "Why might God have spoken in a whisper rather than a spectacle?",
+    "How does knowing about the 7,000 (19:18) encourage you?"
+   ],
+   "crossRefs": [
+    "Romans 11:2–5",
+    "Psalm 46:10",
+    "2 Corinthians 1:8–10"
+   ]
+  },
+  {
+   "n": 20,
+   "title": "Ahab’s Wars with Syria",
+   "summary": "Ben-hadad of Syria besieges Samaria, and God gives Ahab victory twice so he will know that He is the LORD. But Ahab spares Ben-hadad and makes a treaty, and a prophet announces judgment.",
+   "questions": [
+    "Why does God grant victory to wicked Ahab?",
+    "How does God answer the Syrians’ claim that He is a “god of the hills” (20:28)?",
+    "What was wrong with Ahab’s mercy to Ben-hadad?"
+   ],
+   "crossRefs": [
+    "Psalm 2:1–4",
+    "Isaiah 46:9",
+    "1 Samuel 15:9"
+   ]
+  },
+  {
+   "n": 21,
+   "title": "Naboth’s Vineyard",
+   "summary": "Ahab covets Naboth’s vineyard, but Naboth will not sell his family inheritance. Jezebel arranges false witnesses, and Naboth is stoned. Elijah confronts Ahab with judgment. Ahab humbles himself, and God delays the disaster.",
+   "questions": [
+    "How does covetousness lead to murder?",
+    "How does Jezebel abuse law and religion?",
+    "What does God’s response to Ahab’s humility (21:29) reveal?"
+   ],
+   "crossRefs": [
+    "Exodus 20:16–17",
+    "James 4:1–2",
+    "2 Kings 9:30–37"
+   ]
+  },
+  {
+   "n": 22,
+   "title": "Micaiah’s Prophecy and Ahab’s Death",
+   "summary": "Ahab and Jehoshaphat of Judah plan war against Syria. Four hundred prophets predict victory, but Micaiah, the one prophet Ahab hates, foretells disaster. Ahab disguises himself, but a random arrow kills him, and dogs lick his blood as prophesied.",
+   "questions": [
+    "Why did Ahab hate Micaiah (22:8)?",
+    "Why are we tempted to listen to voices that tell us what we want to hear?",
+    "How does the “random” arrow show God’s sovereignty?"
+   ],
+   "crossRefs": [
+    "2 Timothy 4:3–4",
+    "2 Chronicles 18",
+    "Proverbs 21:1"
+   ]
+  }
+ ],
+ "tagline": "Solomon’s glory, a divided kingdom, and Elijah’s stand for God",
+ "readingPlan": "22 chapters: one chapter a day takes 22 days; two a day takes about 11 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

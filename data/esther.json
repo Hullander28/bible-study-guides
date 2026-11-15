@@ -1,0 +1,312 @@
+{
+ "id": "esther",
+ "name": "Esther",
+ "chapters": 10,
+ "overview": {
+  "author": "Unknown. Suggestions include Mordecai or a Jew in Persia familiar with court life.",
+  "date": "The events take place during the reign of Xerxes I (Ahasuerus), 486–465 BC, mostly 483–473 BC. It was written sometime after, perhaps around 460–350 BC.",
+  "audience": "Jews living in the Persian Empire after the exile, and later all Jews who celebrate Purim.",
+  "setting": "Susa, the Persian capital, among the Jews who did not return to Judah.",
+  "purpose": "To show God’s providential protection of His people even when He seems absent, and to explain the origin of the Feast of Purim.",
+  "structure": "Esther becomes queen (1–2), Haman’s plot (3–4), the reversal (5–7), and the Jews’ deliverance and Purim (8–10)."
+ },
+ "outline": [
+  {
+   "title": "Esther Becomes Queen",
+   "range": "1:1–2:23",
+   "start": 1,
+   "end": 2,
+   "items": [
+    {
+     "title": "Queen Vashti deposed",
+     "range": "1:1–22"
+    },
+    {
+     "title": "Esther chosen; Mordecai uncovers a plot",
+     "range": "2:1–23"
+    }
+   ]
+  },
+  {
+   "title": "Haman’s Plot",
+   "range": "3:1–4:17",
+   "start": 3,
+   "end": 4,
+   "items": [
+    {
+     "title": "The decree to destroy the Jews",
+     "range": "3:1–15"
+    },
+    {
+     "title": "“For such a time as this”",
+     "range": "4:1–17"
+    }
+   ]
+  },
+  {
+   "title": "The Great Reversal",
+   "range": "5:1–7:10",
+   "start": 5,
+   "end": 7,
+   "items": [
+    {
+     "title": "Esther’s banquets and the king’s sleepless night",
+     "range": "5:1–6:14"
+    },
+    {
+     "title": "Haman hanged",
+     "range": "7:1–10"
+    }
+   ]
+  },
+  {
+   "title": "Deliverance and Purim",
+   "range": "8:1–10:3",
+   "start": 8,
+   "end": 10,
+   "items": [
+    {
+     "title": "A counter-decree",
+     "range": "8:1–17"
+    },
+    {
+     "title": "Victory and the Feast of Purim",
+     "range": "9:1–10:3"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Providence",
+   "text": "God is never named in Esther, yet “coincidences” like a sleepless night reveal His hidden hand."
+  },
+  {
+   "title": "Courage",
+   "text": "Esther risks her life to plead for her people: “If I perish, I perish” (4:16)."
+  },
+  {
+   "title": "Reversal",
+   "text": "The gallows Haman builds for Mordecai is used for himself, and mourning turns into feasting (9:22)."
+  },
+  {
+   "title": "God’s Faithfulness to His People",
+   "text": "Despite exile, God protects the Jews, keeping His promises to Abraham."
+  },
+  {
+   "title": "Pride and Humility",
+   "text": "Haman’s pride brings his downfall, while Mordecai is exalted."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Esther 4:14",
+   "quote": "And who knows whether you have not come to the kingdom for such a time as this?"
+  },
+  {
+   "ref": "Esther 4:16",
+   "quote": "If I perish, I perish."
+  },
+  {
+   "ref": "Esther 9:22",
+   "quote": "The month that had been turned for them from sorrow into gladness and from mourning into a holiday."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "4–5",
+   "text": "Esther risks her life to approach the king on behalf of her people as a mediator; Christ gave His life as our Mediator (1 Timothy 2:5)."
+  },
+  {
+   "ref": "7",
+   "text": "The great reversal in which the enemy is defeated by his own scheme pictures the cross (Colossians 2:15)."
+  },
+  {
+   "ref": "3",
+   "text": "Haman the Agagite, descendant of Israel’s ancient enemy (1 Samuel 15), shows the long hostility toward God’s people that Christ ultimately overcomes."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Genesis 50:20",
+   "note": "God meant it for good."
+  },
+  {
+   "ref": "Proverbs 16:33; 21:1",
+   "note": "God’s control over lots and kings’ hearts."
+  },
+  {
+   "ref": "Romans 8:28",
+   "note": "All things work together for good."
+  },
+  {
+   "ref": "1 Samuel 15",
+   "note": "Saul and Agag, the background to Mordecai and Haman."
+  },
+  {
+   "ref": "Psalm 121:4",
+   "note": "He who keeps Israel will neither slumber nor sleep."
+  }
+ ],
+ "reflection": [
+  "God is not named in Esther, but He is everywhere in it. Where have you seen God’s hidden hand in your life?",
+  "Mordecai asked Esther, “Who knows whether you have come... for such a time as this?” What position or opportunity has God placed you in for His purposes?",
+  "Esther prepared with fasting before acting. How do you prepare spiritually for hard conversations?",
+  "Haman’s pride ruined him. Where does wounded pride drive your emotions?",
+  "The Jews celebrated their deliverance yearly. How do you remember and celebrate what God has done for you?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Queen Vashti Deposed",
+   "summary": "King Ahasuerus (Xerxes) holds a lavish 180-day display of wealth followed by a feast. When he summons Queen Vashti to show off her beauty, she refuses. On his advisers’ counsel, Vashti is deposed, and a decree goes out that every man be master of his household.",
+   "questions": [
+    "What does this chapter reveal about the Persian court?",
+    "Why do you think Vashti refused?",
+    "How does God set up His plan even through a king’s anger?"
+   ],
+   "crossRefs": [
+    "Proverbs 21:1",
+    "Daniel 4:30",
+    "Proverbs 16:9"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Esther Becomes Queen",
+   "summary": "Young women are gathered for the king, including Esther (Hadassah), an orphan raised by her cousin Mordecai. She wins favor and becomes queen but keeps her Jewish identity secret. Mordecai uncovers a plot to kill the king, and it is recorded in the chronicles.",
+   "questions": [
+    "How does Esther win the favor of everyone who sees her?",
+    "Why might Mordecai have told her to hide her identity?",
+    "How might Mordecai’s unrewarded good deed matter later?"
+   ],
+   "crossRefs": [
+    "Genesis 39:21",
+    "Daniel 1:9",
+    "Galatians 6:9"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Haman’s Plot",
+   "summary": "Haman is promoted, and all bow to him except Mordecai, a Jew. Enraged, Haman casts lots (pur) and persuades the king to issue a decree to destroy all Jews on a single day. The king and Haman sit down to drink, but the city of Susa is thrown into confusion.",
+   "questions": [
+    "Why might Mordecai have refused to bow?",
+    "How does Haman’s anger toward one man grow into genocide?",
+    "What contrast is drawn in 3:15?"
+   ],
+   "crossRefs": [
+    "1 Samuel 15:8–9",
+    "Daniel 3:12–18",
+    "Proverbs 16:33"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Mordecai’s Appeal",
+   "summary": "Mordecai and the Jews mourn in sackcloth. Mordecai urges Esther to plead with the king, but anyone approaching uninvited may be put to death. Mordecai says, “Who knows whether you have not come to the kingdom for such a time as this?” Esther asks the Jews to fast and resolves, “If I perish, I perish.”",
+   "questions": [
+    "What does 4:14 reveal about Mordecai’s confidence in deliverance?",
+    "What does Esther’s response show about courage and dependence?",
+    "What “such a time as this” might God be calling you to?"
+   ],
+   "crossRefs": [
+    "Hebrews 4:16",
+    "Philippians 1:20",
+    "John 15:13"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Esther’s First Banquet; Haman’s Gallows",
+   "summary": "Esther approaches the king, who extends his golden scepter. She invites the king and Haman to a banquet, then to a second one. Haman leaves joyful but is enraged by Mordecai again. At his wife’s suggestion, he builds a 75-foot gallows for Mordecai.",
+   "questions": [
+    "Why do you think Esther delayed her request?",
+    "Why did one man’s refusal spoil all of Haman’s joy (5:13)?",
+    "How does pride make people miserable?"
+   ],
+   "crossRefs": [
+    "Proverbs 16:18",
+    "Proverbs 14:30",
+    "James 3:16"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The King Honors Mordecai",
+   "summary": "That night the king cannot sleep and has the chronicles read to him. He learns Mordecai was never rewarded for saving his life. Haman arrives to ask for Mordecai’s death, and the king asks how to honor a man. Thinking it is himself, Haman suggests a royal parade, and he must lead Mordecai through the city.",
+   "questions": [
+    "How is the king’s sleepless night an example of God’s providence?",
+    "What irony do you see in Haman’s suggestion?",
+    "What do Haman’s advisers recognize (6:13)?"
+   ],
+   "crossRefs": [
+    "Psalm 121:4",
+    "Proverbs 29:23",
+    "Luke 14:11"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Haman Hanged",
+   "summary": "At the second banquet, Esther reveals her identity and pleads for her people, naming Haman as the enemy. The furious king goes out. Haman begs Esther for his life, and the king returns to find him on her couch. Haman is hanged on the gallows he built for Mordecai.",
+   "questions": [
+    "How does Esther finally make her plea?",
+    "What reversal happens in this chapter?",
+    "What does Psalm 7:15–16 say about this kind of justice?"
+   ],
+   "crossRefs": [
+    "Psalm 7:15–16",
+    "Proverbs 26:27",
+    "Galatians 6:7"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "The King’s Edict for the Jews",
+   "summary": "Esther receives Haman’s house, and Mordecai is given the king’s signet ring. Esther pleads again, and since a Persian law cannot be revoked, a new decree allows the Jews to defend themselves. The Jews rejoice, and many people declare themselves Jews.",
+   "questions": [
+    "Why couldn’t the first decree simply be canceled?",
+    "How does the second decree save the Jews?",
+    "Why did many people become Jews (8:17)?"
+   ],
+   "crossRefs": [
+    "Daniel 6:8",
+    "Romans 8:1–2",
+    "Psalm 30:11"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The Jews Triumph; Purim Established",
+   "summary": "On the day their enemies hoped to destroy them, “the reverse occurred,” and the Jews defeat those who attack them, but take no plunder. Mordecai establishes the Feast of Purim to celebrate their deliverance with feasting, gifts, and gifts to the poor.",
+   "questions": [
+    "Why might the Jews have refused plunder (9:10, 15–16)?",
+    "What practices were part of Purim (9:22)?",
+    "How do you remember God’s deliverance?"
+   ],
+   "crossRefs": [
+    "1 Samuel 15:3, 9",
+    "Psalm 30:11",
+    "Exodus 12:14"
+   ]
+  },
+  {
+   "n": 10,
+   "title": "Mordecai’s Greatness",
+   "summary": "Mordecai becomes second to the king, great among the Jews, and popular because “he sought the welfare of his people and spoke peace to all his people.”",
+   "questions": [
+    "How is Mordecai’s exaltation a reversal of Haman’s plans?",
+    "What kind of leader is Mordecai (10:3)?",
+    "How can you seek the welfare of the people around you?"
+   ],
+   "crossRefs": [
+    "Genesis 41:40",
+    "Daniel 2:48",
+    "Jeremiah 29:7"
+   ]
+  }
+ ],
+ "tagline": "God’s hidden hand preserves His people",
+ "readingPlan": "10 chapters: one chapter a day takes 10 days; two a day takes about 5 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

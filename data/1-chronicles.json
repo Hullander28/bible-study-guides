@@ -1,0 +1,597 @@
+{
+ "id": "1-chronicles",
+ "name": "1 Chronicles",
+ "chapters": 29,
+ "overview": {
+  "author": "Not stated. Jewish tradition credits Ezra, and the style matches Ezra-Nehemiah. The writer is often called “the Chronicler.” 1 and 2 Chronicles were originally one book.",
+  "date": "Written after the return from exile, probably around 450–400 BC. The genealogies extend several generations past Zerubbabel (3:19–24).",
+  "audience": "The Jews who returned from Babylon to rebuild Jerusalem, who needed to know they were still God’s people, connected to Adam, Abraham, and David.",
+  "setting": "The narrative focuses on David’s reign in Jerusalem (about 1010–970 BC), but it was written for a small, struggling post-exilic community.",
+  "purpose": "To reassure the returned exiles of their identity and God’s covenant with David, and to center their life on the temple and true worship of the LORD.",
+  "structure": "Genealogies from Adam to the returned exiles (1–9), and the reign of David with special focus on the ark, the covenant, and preparations for the temple (10–29)."
+ },
+ "outline": [
+  {
+   "title": "Genealogies: The People of God",
+   "range": "1:1–9:44",
+   "start": 1,
+   "end": 9,
+   "items": [
+    {
+     "title": "From Adam to Israel",
+     "range": "1:1–2:2"
+    },
+    {
+     "title": "Judah and David’s line",
+     "range": "2:3–4:23"
+    },
+    {
+     "title": "The other tribes",
+     "range": "4:24–8:40"
+    },
+    {
+     "title": "The returned exiles",
+     "range": "9:1–44"
+    }
+   ]
+  },
+  {
+   "title": "David’s Reign",
+   "range": "10:1–29:30",
+   "start": 10,
+   "end": 29,
+   "items": [
+    {
+     "title": "Saul’s death and David’s rise",
+     "range": "10:1–12:40"
+    },
+    {
+     "title": "The ark brought to Jerusalem",
+     "range": "13:1–16:43"
+    },
+    {
+     "title": "God’s covenant with David",
+     "range": "17:1–27"
+    },
+    {
+     "title": "David’s victories",
+     "range": "18:1–20:8"
+    },
+    {
+     "title": "The census and the temple site",
+     "range": "21:1–22:1"
+    },
+    {
+     "title": "Preparations for the temple",
+     "range": "22:2–29:30"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Identity and Continuity",
+   "text": "The genealogies connect the returned exiles to all of God’s history, from Adam onward."
+  },
+  {
+   "title": "The Davidic Covenant",
+   "text": "God’s promise of an everlasting throne to David’s offspring gives hope for the future (17:11–14)."
+  },
+  {
+   "title": "Worship at the Center",
+   "text": "The ark, the Levites, music, and temple preparations dominate David’s story."
+  },
+  {
+   "title": "Seeking God",
+   "text": "Those who seek the LORD find Him; those who forsake Him are cast off (28:9)."
+  },
+  {
+   "title": "All Israel",
+   "text": "The writer emphasizes the unity of all twelve tribes as God’s people."
+  },
+  {
+   "title": "God’s Sovereignty and Generosity",
+   "text": "Everything belongs to God, and our giving simply returns what is His (29:11–14)."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "1 Chronicles 4:10",
+   "quote": "Oh that you would bless me and enlarge my border."
+  },
+  {
+   "ref": "1 Chronicles 16:34",
+   "quote": "Oh give thanks to the LORD, for he is good; for his steadfast love endures forever!"
+  },
+  {
+   "ref": "1 Chronicles 28:9",
+   "quote": "If you seek him, he will be found by you."
+  },
+  {
+   "ref": "1 Chronicles 29:11",
+   "quote": "Yours, O LORD, is the greatness and the power and the glory and the victory and the majesty."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1–3",
+   "text": "The genealogy from Adam through Judah to David is continued in Matthew 1 and Luke 3, leading to Jesus."
+  },
+  {
+   "ref": "17:11–14",
+   "text": "God’s promise to establish the throne of David’s son forever is fulfilled in Christ (Luke 1:32–33; Hebrews 1:5)."
+  },
+  {
+   "ref": "21:26",
+   "text": "Fire from heaven accepting David’s sacrifice on the future temple mount anticipates the once-for-all sacrifice of Christ."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "2 Samuel 5–24",
+   "note": "The parallel account of David’s reign."
+  },
+  {
+   "ref": "Psalm 96; 105; 106",
+   "note": "Psalms quoted in 1 Chronicles 16."
+  },
+  {
+   "ref": "Matthew 1:1–17; Luke 3:23–38",
+   "note": "Jesus’ genealogies."
+  },
+  {
+   "ref": "Acts 15:16–17",
+   "note": "Rebuilding David’s fallen tent."
+  },
+  {
+   "ref": "2 Corinthians 9:7",
+   "note": "Cheerful, willing giving."
+  }
+ ],
+ "reflection": [
+  "The genealogies remind us that God knows people by name. How does it feel to know you are known by God?",
+  "Jabez asked God boldly for blessing (4:10). What do you need to ask God for?",
+  "David learned to move the ark God’s way after Uzzah’s death. Are you doing God’s work God’s way?",
+  "David gave generously and said, “All things come from you” (29:14). How does that perspective change your giving?",
+  "David prepared materials for a temple he would never see. What could you prepare now for the next generation?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "From Adam to Israel",
+   "summary": "The genealogy begins with Adam and traces humanity through Noah’s sons to the nations, then through Abraham to Isaac, Esau’s descendants, and Edom’s kings.",
+   "questions": [
+    "Why might the Chronicler begin with Adam rather than Abraham?",
+    "How does this remind the returning exiles of God’s purpose for all nations?",
+    "How does Luke 3:23–38 also go back to Adam?"
+   ],
+   "crossRefs": [
+    "Genesis 5; 10–11",
+    "Luke 3:23–38",
+    "Acts 17:26"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "The Line of Judah",
+   "summary": "The sons of Israel are listed, beginning with Judah’s family, including Perez, Boaz’s ancestors, and Jesse’s sons, among them David, the seventh.",
+   "questions": [
+    "Why does Judah’s line come first?",
+    "What do you notice about the honesty of the record (2:3, Er’s wickedness)?",
+    "How does God work through imperfect family lines?"
+   ],
+   "crossRefs": [
+    "Genesis 49:10",
+    "Ruth 4:18–22",
+    "Matthew 1:3–6"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The Descendants of David",
+   "summary": "David’s sons born in Hebron and Jerusalem are listed, followed by the kings of Judah from Solomon to Josiah, and David’s line through the exile to Zerubbabel and beyond.",
+   "questions": [
+    "Why would this list encourage the returned exiles?",
+    "How does this line continue in Matthew 1:12–16?",
+    "What does it show about God’s faithfulness to 2 Samuel 7?"
+   ],
+   "crossRefs": [
+    "2 Samuel 7:12–16",
+    "Matthew 1:6–16",
+    "Haggai 2:23"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "More of Judah and Simeon; the Prayer of Jabez",
+   "summary": "Judah’s clans are listed, along with the brief story of Jabez, “more honorable than his brothers,” who prays, “Oh that you would bless me and enlarge my border,” and God grants his request. Simeon’s descendants are also listed.",
+   "questions": [
+    "Why do you think Jabez’s prayer is included in a genealogy?",
+    "What is good and godly about Jabez’s request?",
+    "How can you pray boldly for God’s blessing for His purposes?"
+   ],
+   "crossRefs": [
+    "Matthew 7:7–11",
+    "James 4:2–3",
+    "Psalm 16:5–6"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Reuben, Gad, and Half of Manasseh",
+   "summary": "The tribes east of the Jordan are listed. They cried out to God in battle and He answered them “because they trusted in him.” But later they were unfaithful, and God stirred up Assyria to exile them.",
+   "questions": [
+    "What does 5:20 teach about prayer in battle?",
+    "Why did these tribes go into exile (5:25–26)?",
+    "How can faithfulness in one season give way to compromise in another?"
+   ],
+   "crossRefs": [
+    "Psalm 20:7",
+    "2 Kings 15:29",
+    "Hebrews 3:12–13"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Levi and the Temple Musicians",
+   "summary": "The descendants of Levi are listed, including the high priests and the musicians David appointed, such as Heman, Asaph, and Ethan. The Levites’ cities are recorded.",
+   "questions": [
+    "Why is Levi given such careful attention?",
+    "What role did music play in Israel’s worship?",
+    "How might the names of Asaph and Heman connect to the Psalms?"
+   ],
+   "crossRefs": [
+    "Psalm 73",
+    "Psalm 88–89",
+    "Numbers 3"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Issachar, Benjamin, Naphtali, Manasseh, Ephraim, and Asher",
+   "summary": "More northern tribes are listed, with their mighty warriors and chiefs. Ephraim’s line includes Joshua the son of Nun.",
+   "questions": [
+    "What do you notice about the emphasis on “mighty warriors”?",
+    "Why might Joshua’s ancestry be mentioned?",
+    "How does God remember people from every tribe?"
+   ],
+   "crossRefs": [
+    "Numbers 1:20–46",
+    "Joshua 1:1",
+    "Revelation 7:4–8"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "The Line of Benjamin and Saul",
+   "summary": "Benjamin’s genealogy is given, including the family of Saul, Israel’s first king, and his son Jonathan.",
+   "questions": [
+    "Why might the Chronicler record Saul’s line before David’s reign?",
+    "How is Mephibosheth (Merib-baal) remembered here?",
+    "What does it mean that God remembers even the house of a failed king?"
+   ],
+   "crossRefs": [
+    "1 Samuel 9:1–2",
+    "2 Samuel 9",
+    "Romans 11:1"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The Returned Exiles",
+   "summary": "All Israel is recorded in genealogies, and Judah was exiled for unfaithfulness. The first to return to their cities, including priests, Levites, and gatekeepers, are listed with their duties in the house of God. Saul’s genealogy is repeated as a bridge to the narrative.",
+   "questions": [
+    "Why would the returned exiles cherish this list?",
+    "What jobs did the gatekeepers and Levites do?",
+    "How does God restore a people after discipline?"
+   ],
+   "crossRefs": [
+    "Nehemiah 11",
+    "Ezra 2",
+    "Jeremiah 29:10–14"
+   ]
+  },
+  {
+   "n": 10,
+   "title": "The Death of Saul",
+   "summary": "The Philistines defeat Israel on Mount Gilboa, and Saul and his sons die. Saul died for his unfaithfulness: he did not keep God’s command, consulted a medium, and did not seek the LORD. So God turned the kingdom over to David.",
+   "questions": [
+    "What reasons for Saul’s death are given (10:13–14)?",
+    "Why does the Chronicler skip most of Saul’s story?",
+    "What does “did not seek guidance from the LORD” mean for us?"
+   ],
+   "crossRefs": [
+    "1 Samuel 31",
+    "1 Samuel 28",
+    "Jeremiah 29:13"
+   ]
+  },
+  {
+   "n": 11,
+   "title": "David King; Jerusalem Captured; the Mighty Men",
+   "summary": "All Israel anoints David king at Hebron. He captures Jerusalem, and the LORD of hosts is with him. A list of David’s mighty men and their heroic deeds follows.",
+   "questions": [
+    "Why does the Chronicler emphasize “all Israel”?",
+    "What made David’s mighty men loyal?",
+    "How does God’s presence explain David’s success (11:9)?"
+   ],
+   "crossRefs": [
+    "2 Samuel 5:1–10",
+    "2 Samuel 23:8–39",
+    "Psalm 18:29"
+   ]
+  },
+  {
+   "n": 12,
+   "title": "David’s Supporters",
+   "summary": "Men from every tribe join David, from his time in Ziklag to his coronation at Hebron. The Issacharites “had understanding of the times, to know what Israel ought to do.” Great joy fills Israel.",
+   "questions": [
+    "What did Amasai’s Spirit-inspired words express (12:18)?",
+    "What does it mean to “understand the times” today?",
+    "Why was there “joy in Israel” (12:40)?"
+   ],
+   "crossRefs": [
+    "Matthew 16:3",
+    "Ephesians 5:15–17",
+    "Psalm 133"
+   ]
+  },
+  {
+   "n": 13,
+   "title": "The Ark Moved and Uzzah’s Death",
+   "summary": "David consults leaders and moves the ark from Kiriath-jearim on a new cart with celebration. When the oxen stumble, Uzzah touches the ark and dies. David is afraid, and the ark stays with Obed-edom, whose household is blessed.",
+   "questions": [
+    "What was wrong with how David moved the ark?",
+    "How should God’s holiness affect our enthusiasm?",
+    "Why might God bless Obed-edom’s house?"
+   ],
+   "crossRefs": [
+    "2 Samuel 6:1–11",
+    "Numbers 4:15",
+    "Hebrews 12:28–29"
+   ]
+  },
+  {
+   "n": 14,
+   "title": "David’s Household and Victories",
+   "summary": "David’s household grows in Jerusalem, and Hiram of Tyre sends materials for his palace. David inquires of God and defeats the Philistines twice, and his fame spreads.",
+   "questions": [
+    "How does David know his kingdom is established (14:2)?",
+    "What do you notice about David inquiring of God before each battle?",
+    "Why did God give a different strategy the second time?"
+   ],
+   "crossRefs": [
+    "2 Samuel 5:11–25",
+    "Proverbs 3:5–6",
+    "Isaiah 30:21"
+   ]
+  },
+  {
+   "n": 15,
+   "title": "The Ark Brought to Jerusalem",
+   "summary": "David prepares a place and commands that only the Levites carry the ark, as Moses commanded, because “we did not seek him according to the rule.” With music, singing, and joy, the ark comes to Jerusalem. Michal despises David as he dances.",
+   "questions": [
+    "What lesson had David learned from Uzzah’s death (15:13)?",
+    "How does the Chronicler highlight music and worship?",
+    "What does true joy in worship look like?"
+   ],
+   "crossRefs": [
+    "2 Samuel 6:12–23",
+    "Psalm 24",
+    "Psalm 132"
+   ]
+  },
+  {
+   "n": 16,
+   "title": "David’s Psalm of Thanks",
+   "summary": "David appoints Levites to minister before the ark with thanksgiving and praise. He gives Asaph a psalm: “Oh give thanks to the LORD; call upon his name; make known his deeds among the peoples!” The psalm celebrates God’s covenant, His glory among the nations, and His steadfast love.",
+   "questions": [
+    "What parts of this psalm (16:8–36) stand out to you?",
+    "Why does David’s psalm call the nations to worship?",
+    "How could you make thanksgiving a daily habit?"
+   ],
+   "crossRefs": [
+    "Psalm 105:1–15",
+    "Psalm 96",
+    "Psalm 106:1, 47–48"
+   ]
+  },
+  {
+   "n": 17,
+   "title": "God’s Covenant with David",
+   "summary": "David wants to build God a house, but God promises instead to build David a house and to establish his son’s throne forever: “I will be his father, and he shall be my son.” David prays in awe at God’s grace.",
+   "questions": [
+    "What promises does God make (17:10–14)?",
+    "How is “I will establish his throne forever” fulfilled in Jesus?",
+    "What can we learn from David’s prayer (17:16–27)?"
+   ],
+   "crossRefs": [
+    "2 Samuel 7",
+    "Luke 1:32–33",
+    "Hebrews 1:5"
+   ]
+  },
+  {
+   "n": 18,
+   "title": "David’s Victories",
+   "summary": "David defeats the Philistines, Moab, Zobah, Syria, and Edom. He dedicates the plunder to the LORD and administers justice and equity to all his people.",
+   "questions": [
+    "How does God give victory “wherever he went” (18:6, 13)?",
+    "Why did David dedicate the spoils to God?",
+    "What does righteous leadership look like?"
+   ],
+   "crossRefs": [
+    "2 Samuel 8",
+    "Psalm 72:1–2",
+    "Proverbs 29:4"
+   ]
+  },
+  {
+   "n": 19,
+   "title": "War with the Ammonites",
+   "summary": "David’s envoys are humiliated by the Ammonite king, leading to war. Joab and Abishai defeat the Ammonites and their Syrian allies. Joab says, “Be strong, and let us use our strength for our people... and may the LORD do what seems good to him.”",
+   "questions": [
+    "How did an insult lead to war?",
+    "What does Joab’s charge in 19:13 teach about courage and trust?",
+    "How can you act faithfully while leaving outcomes to God?"
+   ],
+   "crossRefs": [
+    "2 Samuel 10",
+    "Daniel 3:17–18",
+    "Proverbs 21:31"
+   ]
+  },
+  {
+   "n": 20,
+   "title": "Rabbah Captured; Giants Defeated",
+   "summary": "Joab captures Rabbah, the Ammonite capital, and David takes its crown. David’s men defeat several Philistine giants.",
+   "questions": [
+    "Notice what the Chronicler leaves out here (see 2 Samuel 11–12). Why might he focus elsewhere?",
+    "How does God give victory over “giants”?",
+    "What giants are you facing that God can overcome?"
+   ],
+   "crossRefs": [
+    "2 Samuel 11:1; 12:26–31",
+    "2 Samuel 21:15–22",
+    "1 John 4:4"
+   ]
+  },
+  {
+   "n": 21,
+   "title": "David’s Census",
+   "summary": "Satan incites David to number Israel, and Joab protests. God is displeased and sends a plague. David repents, buys Ornan’s threshing floor, builds an altar, and refuses to offer something that costs nothing. God answers with fire from heaven, and the plague stops.",
+   "questions": [
+    "Why was the census wrong?",
+    "How does David take responsibility (21:17)?",
+    "What does it mean to offer God something costly (21:24)?"
+   ],
+   "crossRefs": [
+    "2 Samuel 24",
+    "2 Chronicles 3:1",
+    "Job 1:6–12"
+   ]
+  },
+  {
+   "n": 22,
+   "title": "Preparations for the Temple",
+   "summary": "David declares that the threshing floor will be the site of the house of God. He gathers materials and charges Solomon to build the temple, explaining that God chose Solomon, a man of peace, rather than David, who shed much blood.",
+   "questions": [
+    "Why did David prepare so much for something he would not build?",
+    "Why was Solomon chosen to build (22:8–10)?",
+    "What does David’s charge in 22:13 and 22:19 call Solomon to?"
+   ],
+   "crossRefs": [
+    "1 Kings 5",
+    "Psalm 132:1–5",
+    "2 Timothy 2:1–2"
+   ]
+  },
+  {
+   "n": 23,
+   "title": "Organization of the Levites",
+   "summary": "David makes Solomon king and organizes the Levites by their families for service: overseeing the temple, serving as officers and judges, gatekeepers, and musicians who praise God every morning and evening.",
+   "questions": [
+    "How were Levites’ duties adjusted now that the tabernacle no longer needed carrying (23:25–26)?",
+    "Why are praise and thanks part of their daily duty (23:30)?",
+    "How can daily rhythms of praise shape your life?"
+   ],
+   "crossRefs": [
+    "Numbers 4",
+    "Psalm 134",
+    "Hebrews 13:15"
+   ]
+  },
+  {
+   "n": 24,
+   "title": "Divisions of the Priests",
+   "summary": "The priests, descendants of Aaron, are divided by lot into 24 divisions to serve in rotation. The rest of the Levites are also organized.",
+   "questions": [
+    "Why use lots to assign duties?",
+    "Which division did Zechariah, father of John the Baptist, belong to (Luke 1:5)?",
+    "How does fair organization protect a community?"
+   ],
+   "crossRefs": [
+    "Luke 1:5–9",
+    "Proverbs 16:33",
+    "1 Corinthians 14:40"
+   ]
+  },
+  {
+   "n": 25,
+   "title": "The Musicians",
+   "summary": "David sets apart the sons of Asaph, Heman, and Jeduthun to prophesy with lyres, harps, and cymbals. They are organized into 24 divisions, both small and great, teacher and pupil alike.",
+   "questions": [
+    "What does it mean that musicians “prophesied” (25:1)?",
+    "Why did both teacher and pupil cast lots alike (25:8)?",
+    "How can you use music to worship God?"
+   ],
+   "crossRefs": [
+    "Colossians 3:16",
+    "Ephesians 5:19",
+    "Psalm 33:1–3"
+   ]
+  },
+  {
+   "n": 26,
+   "title": "Gatekeepers and Treasurers",
+   "summary": "Gatekeepers are assigned to the temple gates by lot, and Levites are placed over the treasuries, including dedicated spoils of war. Other officials serve as judges and administrators throughout Israel.",
+   "questions": [
+    "Why were gatekeepers important? (See Psalm 84:10.)",
+    "What does it mean to be a faithful steward of God’s resources?",
+    "How is every role in God’s house valuable?"
+   ],
+   "crossRefs": [
+    "Psalm 84:10",
+    "1 Corinthians 4:1–2",
+    "1 Corinthians 12:18–22"
+   ]
+  },
+  {
+   "n": 27,
+   "title": "Military and Civil Leaders",
+   "summary": "The army is organized into twelve divisions, one for each month, and leaders of the tribes and officials over the king’s property are listed.",
+   "questions": [
+    "What does careful organization of the kingdom reveal about David’s leadership?",
+    "Why might it note that David did not count those under twenty (27:23)?",
+    "How does good administration serve God’s people?"
+   ],
+   "crossRefs": [
+    "Romans 12:8",
+    "Exodus 18:21",
+    "Genesis 15:5"
+   ]
+  },
+  {
+   "n": 28,
+   "title": "David’s Charge to Solomon",
+   "summary": "David assembles Israel’s leaders and declares that God chose Solomon to build the temple. He charges Solomon: “Know the God of your father and serve him with a whole heart and with a willing mind... If you seek him, he will be found by you.” He gives Solomon the plans that God gave him.",
+   "questions": [
+    "What does it mean to serve God with “a whole heart and a willing mind” (28:9)?",
+    "Where did David’s plans for the temple come from (28:12, 19)?",
+    "Which of David’s words to Solomon (28:20) do you need to hear?"
+   ],
+   "crossRefs": [
+    "Jeremiah 29:13",
+    "Joshua 1:9",
+    "Hebrews 8:5"
+   ]
+  },
+  {
+   "n": 29,
+   "title": "Offerings for the Temple and David’s Prayer",
+   "summary": "David gives his own treasures, and the leaders and people give willingly with great joy. David prays: “Yours, O LORD, is the greatness... All things come from you, and of your own have we given you.” Solomon is made king, and David dies full of days, riches, and honor.",
+   "questions": [
+    "How did David’s example inspire the people’s giving?",
+    "What does 29:14 teach about the source of what we give?",
+    "Which parts of David’s prayer (29:10–19) can you pray today?"
+   ],
+   "crossRefs": [
+    "2 Corinthians 9:7",
+    "Matthew 6:13",
+    "James 1:17"
+   ]
+  }
+ ],
+ "tagline": "Israel’s story retold: David, worship, and God’s covenant people",
+ "readingPlan": "29 chapters: one chapter a day takes 29 days; two a day takes about 15 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

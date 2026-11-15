@@ -1,0 +1,206 @@
+{
+ "id": "ruth",
+ "name": "Ruth",
+ "chapters": 4,
+ "overview": {
+  "author": "Not stated. Jewish tradition credits Samuel. The genealogy ending with David suggests it was written during or after David’s reign.",
+  "date": "The events took place “in the days when the judges ruled” (1:1), probably around 1100 BC. It was written down perhaps around 1000 BC or later.",
+  "audience": "Israel under the monarchy, showing how God’s providence brought about King David through a faithful Moabite woman.",
+  "setting": "Moab and Bethlehem in Judah, during the time of the judges, at the barley harvest.",
+  "purpose": "To show God’s hidden providence and steadfast love (hesed) at work in ordinary lives, bringing a foreigner into His people and preparing the line of David.",
+  "structure": "Four scenes: emptiness in Moab (1), meeting in Boaz’s field (2), the threshing floor (3), and redemption at the city gate (4)."
+ },
+ "outline": [
+  {
+   "title": "Naomi’s Emptiness",
+   "range": "1:1–22",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "Loss in Moab and Ruth’s loyalty",
+     "range": "1:1–22"
+    }
+   ]
+  },
+  {
+   "title": "Ruth Gleans in Boaz’s Field",
+   "range": "2:1–23",
+   "start": 2,
+   "end": 2,
+   "items": [
+    {
+     "title": "Kindness at the harvest",
+     "range": "2:1–23"
+    }
+   ]
+  },
+  {
+   "title": "Ruth at the Threshing Floor",
+   "range": "3:1–18",
+   "start": 3,
+   "end": 3,
+   "items": [
+    {
+     "title": "A request for redemption",
+     "range": "3:1–18"
+    }
+   ]
+  },
+  {
+   "title": "Boaz Redeems Ruth",
+   "range": "4:1–22",
+   "start": 4,
+   "end": 4,
+   "items": [
+    {
+     "title": "The redeemer at the gate and the line of David",
+     "range": "4:1–22"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Steadfast Love (Hesed)",
+   "text": "Ruth, Naomi, and Boaz show loyal, covenant kindness that reflects God’s own love."
+  },
+  {
+   "title": "Providence",
+   "text": "God is rarely mentioned acting directly, yet He is behind every “chance” event (2:3)."
+  },
+  {
+   "title": "Redemption",
+   "text": "Boaz, as kinsman-redeemer, buys back the land and marries Ruth, restoring Naomi’s family."
+  },
+  {
+   "title": "Gentiles Welcomed",
+   "text": "A Moabite woman takes refuge under the wings of Israel’s God and becomes David’s great-grandmother."
+  },
+  {
+   "title": "From Emptiness to Fullness",
+   "text": "Naomi returns “empty” and ends with a grandson on her lap."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Ruth 1:16",
+   "quote": "Where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God."
+  },
+  {
+   "ref": "Ruth 2:12",
+   "quote": "The LORD repay you for what you have done... under whose wings you have come to take refuge!"
+  },
+  {
+   "ref": "Ruth 4:14",
+   "quote": "Blessed be the LORD, who has not left you this day without a redeemer."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "3–4",
+   "text": "Boaz the kinsman-redeemer, who willingly pays the price to redeem, points to Christ our Redeemer (Galatians 4:4–5; 1 Peter 1:18–19)."
+  },
+  {
+   "ref": "4:17–22",
+   "text": "Ruth’s son Obed is the grandfather of David, from whose line Jesus comes (Matthew 1:5–6)."
+  },
+  {
+   "ref": "1:16; 2:12",
+   "text": "A Gentile finding refuge under God’s wings foreshadows the nations brought into God’s people through Christ (Ephesians 2:11–13)."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Matthew 1:5",
+   "note": "Ruth in Jesus’ genealogy."
+  },
+  {
+   "ref": "Leviticus 25:25–28",
+   "note": "The law of redemption."
+  },
+  {
+   "ref": "Deuteronomy 25:5–10",
+   "note": "Levirate marriage."
+  },
+  {
+   "ref": "Psalm 91:4",
+   "note": "Refuge under His wings."
+  },
+  {
+   "ref": "Ephesians 2:11–19",
+   "note": "Gentiles brought near."
+  }
+ ],
+ "reflection": [
+  "Ruth chose loyalty to Naomi and Naomi’s God when it cost her everything. Where is God calling you to loyal love?",
+  "Naomi said, “Call me Mara (bitter).” Have you felt that God was against you? How does the end of the story speak to that season?",
+  "Ruth “happened” to come to Boaz’s field (2:3). Where have you seen God’s quiet providence?",
+  "Boaz went beyond the minimum the law required. How can you show generous kindness this week?",
+  "How does Boaz as redeemer help you appreciate what Christ paid to redeem you?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Naomi and Ruth",
+   "summary": "During a famine, Elimelech takes his wife Naomi and two sons to Moab, where the sons marry Moabite women, Orpah and Ruth. All three men die. Naomi decides to return to Bethlehem. Orpah turns back, but Ruth clings to Naomi: “Your people shall be my people, and your God my God.” Naomi arrives home saying, “Call me Mara.”",
+   "questions": [
+    "What did Ruth give up by going with Naomi?",
+    "How does Naomi interpret her suffering (1:20–21)? Is she right?",
+    "Notice the timing in 1:22, the beginning of barley harvest. What hint of hope does it give?"
+   ],
+   "crossRefs": [
+    "Psalm 34:18",
+    "Matthew 1:5",
+    "Job 1:21"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ruth Meets Boaz",
+   "summary": "Ruth gleans in a field that “happened” to belong to Boaz, a relative of Elimelech. Boaz shows her great kindness: protection, water, food, and extra grain, blessing her for taking refuge under God’s wings. Naomi recognizes Boaz as one of their redeemers.",
+   "questions": [
+    "Where do you see God’s providence in 2:3?",
+    "What do Boaz’s actions reveal about his character?",
+    "How does Naomi’s outlook begin to change (2:20)?"
+   ],
+   "crossRefs": [
+    "Leviticus 19:9–10",
+    "Psalm 91:4",
+    "Proverbs 31:10–31"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Ruth at the Threshing Floor",
+   "summary": "Naomi plans for Ruth to approach Boaz at night on the threshing floor. Ruth asks him to spread his wings (the corner of his garment) over her, a request for marriage and redemption. Boaz praises her kindness and promises to act, but notes there is a nearer redeemer.",
+   "questions": [
+    "How does Ruth’s request in 3:9 echo Boaz’s blessing in 2:12?",
+    "How does Boaz show integrity in this delicate situation?",
+    "What does Naomi mean by “the man will not rest” (3:18)?"
+   ],
+   "crossRefs": [
+    "Ezekiel 16:8",
+    "Proverbs 31:10",
+    "Psalm 37:5"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Boaz Redeems Ruth",
+   "summary": "At the city gate Boaz offers the nearer redeemer the chance to buy Naomi’s land. He declines when he learns Ruth comes with it. Boaz redeems the land and marries Ruth. Their son Obed is born, the women praise God for giving Naomi a redeemer, and Obed becomes the grandfather of David.",
+   "questions": [
+    "Why did the nearer redeemer refuse?",
+    "How is Naomi’s emptiness turned to fullness?",
+    "How does the genealogy (4:18–22) reveal God’s bigger plan?"
+   ],
+   "crossRefs": [
+    "Matthew 1:5–6",
+    "Galatians 4:4–5",
+    "Deuteronomy 25:5–10"
+   ]
+  }
+ ],
+ "tagline": "Loyal love and a kinsman-redeemer in dark days",
+ "readingPlan": "4 chapters: one chapter a day takes 4 days; two a day takes about 2 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}
