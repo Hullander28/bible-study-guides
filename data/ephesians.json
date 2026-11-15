@@ -1,0 +1,256 @@
+{
+ "id": "ephesians",
+ "name": "Ephesians",
+ "chapters": 6,
+ "overview": {
+  "author": "The apostle Paul (1:1; 3:1), writing as a prisoner.",
+  "date": "About AD 60–62, during Paul’s first Roman imprisonment.",
+  "audience": "The saints in Ephesus and likely other churches in Asia Minor (some early manuscripts lack “in Ephesus”).",
+  "setting": "Paul had spent three years in Ephesus (Acts 19–20). The church included Jews and Gentiles in a city devoted to Artemis and the occult.",
+  "purpose": "To reveal God’s eternal plan to unite all things in Christ, describe the believer’s riches in Him, and show how the church lives out its new identity in unity, holiness, family life, and spiritual warfare.",
+  "structure": "Doctrine, who we are in Christ (1–3), and practice, how we walk in Christ (4–6)."
+ },
+ "outline": [
+  {
+   "title": "Our Riches in Christ",
+   "range": "1:1–3:21",
+   "start": 1,
+   "end": 3,
+   "items": [
+    {
+     "title": "Spiritual blessings and a prayer for understanding",
+     "range": "1:1–23"
+    },
+    {
+     "title": "Saved by grace; one new humanity",
+     "range": "2:1–22"
+    },
+    {
+     "title": "The mystery revealed and a prayer for strength",
+     "range": "3:1–21"
+    }
+   ]
+  },
+  {
+   "title": "Our Walk in Christ",
+   "range": "4:1–6:24",
+   "start": 4,
+   "end": 6,
+   "items": [
+    {
+     "title": "Unity, maturity, and the new self",
+     "range": "4:1–32"
+    },
+    {
+     "title": "Walking in love, light, and wisdom; marriage",
+     "range": "5:1–33"
+    },
+    {
+     "title": "Family, work, and the armor of God",
+     "range": "6:1–24"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "In Christ",
+   "text": "Paul repeatedly emphasizes what believers have “in Christ.”"
+  },
+  {
+   "title": "God’s Eternal Plan",
+   "text": "God chose us before the foundation of the world to unite all things in Christ."
+  },
+  {
+   "title": "Grace",
+   "text": "“By grace you have been saved through faith” (2:8)."
+  },
+  {
+   "title": "The Church",
+   "text": "Christ’s body, God’s temple, and His bride, uniting Jew and Gentile."
+  },
+  {
+   "title": "Unity and Maturity",
+   "text": "Gifts are given to build up the body in love."
+  },
+  {
+   "title": "The New Life",
+   "text": "Put off the old self and put on the new."
+  },
+  {
+   "title": "Spiritual Warfare",
+   "text": "Stand firm in the armor of God."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Ephesians 1:3",
+   "quote": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing."
+  },
+  {
+   "ref": "Ephesians 2:8–9",
+   "quote": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God."
+  },
+  {
+   "ref": "Ephesians 2:10",
+   "quote": "For we are his workmanship, created in Christ Jesus for good works."
+  },
+  {
+   "ref": "Ephesians 3:20",
+   "quote": "Now to him who is able to do far more abundantly than all that we ask or think."
+  },
+  {
+   "ref": "Ephesians 4:32",
+   "quote": "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you."
+  },
+  {
+   "ref": "Ephesians 6:10",
+   "quote": "Be strong in the Lord and in the strength of his might."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1:7",
+   "text": "In Christ we have redemption through His blood, the forgiveness of sins."
+  },
+  {
+   "ref": "1:20–23",
+   "text": "Christ is raised and seated far above all rule, head over all things for the church."
+  },
+  {
+   "ref": "2:14–16",
+   "text": "Christ is our peace who broke down the dividing wall."
+  },
+  {
+   "ref": "4:8–10",
+   "text": "The ascended Christ gives gifts to His people."
+  },
+  {
+   "ref": "5:25",
+   "text": "Christ loved the church and gave Himself up for her."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Colossians",
+   "note": "A companion letter with similar themes."
+  },
+  {
+   "ref": "Acts 19–20",
+   "note": "Paul’s ministry in Ephesus."
+  },
+  {
+   "ref": "Romans 3:21–26",
+   "note": "Righteousness by grace through faith."
+  },
+  {
+   "ref": "1 Corinthians 12",
+   "note": "The body and its gifts."
+  },
+  {
+   "ref": "Revelation 2:1–7",
+   "note": "Jesus’ later letter to Ephesus."
+  }
+ ],
+ "reflection": [
+  "Which spiritual blessing in 1:3–14 do you most need to remember today?",
+  "How does “by grace... not your own doing” (2:8–9) free you from performance?",
+  "What good works might God have prepared for you (2:10)?",
+  "What “old self” habit do you need to put off, and what new habit to put on?",
+  "Which piece of the armor of God (6:10–18) do you most need right now?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Every Spiritual Blessing",
+   "summary": "Paul praises God, who has blessed us in Christ with every spiritual blessing: chosen before creation, adopted, redeemed by His blood, forgiven, made heirs, and sealed with the Holy Spirit. He prays that believers would know the hope of their calling, the riches of their inheritance, and the greatness of God’s power shown in raising Christ.",
+   "questions": [
+    "Which blessings in 1:3–14 stand out to you?",
+    "What does it mean to be “sealed” with the Spirit (1:13–14)?",
+    "What does Paul pray believers would know (1:17–19)?"
+   ],
+   "crossRefs": [
+    "Romans 8:29–30",
+    "2 Corinthians 1:22",
+    "Colossians 1:9–12"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Saved by Grace, Made One",
+   "summary": "We were dead in trespasses and sins, “But God, being rich in mercy,” made us alive with Christ. “By grace you have been saved through faith... not a result of works.” We are His workmanship. Christ has broken down the wall between Jew and Gentile, making one new man, reconciled through the cross and built into a holy temple.",
+   "questions": [
+    "What was our condition without Christ (2:1–3)?",
+    "How do “But God” (2:4) and grace change everything?",
+    "How does Christ unite people who were enemies (2:14–16)?"
+   ],
+   "crossRefs": [
+    "Romans 5:8",
+    "Titus 3:4–7",
+    "Galatians 3:28"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The Mystery Revealed",
+   "summary": "Paul explains the mystery: Gentiles are fellow heirs and members of the same body through the gospel. He was made a minister of this grace. He prays that believers would be strengthened by the Spirit, that Christ would dwell in their hearts, and that they would grasp the breadth, length, height, and depth of Christ’s love.",
+   "questions": [
+    "What is the “mystery” Paul describes (3:6)?",
+    "What does Paul pray in 3:14–19?",
+    "How does 3:20–21 encourage your prayer life?"
+   ],
+   "crossRefs": [
+    "Colossians 1:25–27",
+    "Romans 16:25–26",
+    "Romans 8:38–39"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Unity and the New Self",
+   "summary": "Walk worthy of your calling with humility, gentleness, and patience, maintaining unity: one body, one Spirit, one Lord, one faith. Christ gave leaders to equip the saints for ministry so the body grows to maturity, speaking the truth in love. Put off the old self, be renewed, and put on the new self. Be kind and forgiving.",
+   "questions": [
+    "What attitudes preserve unity (4:2–3)?",
+    "Why do leaders equip the saints (4:11–16)?",
+    "Which “put off/put on” command (4:25–32) do you need most?"
+   ],
+   "crossRefs": [
+    "Colossians 3:5–14",
+    "1 Corinthians 12:4–27",
+    "Romans 12:2"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Walk in Love, Light, and Wisdom",
+   "summary": "Be imitators of God and walk in love, as Christ loved us. Avoid sexual immorality and impurity. Walk as children of light. Make the best use of time. Be filled with the Spirit, singing and giving thanks. Submit to one another. Wives submit to husbands as to the Lord; husbands love wives as Christ loved the church.",
+   "questions": [
+    "What does it mean to imitate God (5:1–2)?",
+    "How does being filled with the Spirit show up (5:18–21)?",
+    "How does Christ’s love for the church shape marriage (5:25–33)?"
+   ],
+   "crossRefs": [
+    "Galatians 5:16–25",
+    "Colossians 3:16–19",
+    "Genesis 2:24"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The Armor of God",
+   "summary": "Children obey parents; fathers do not provoke children. Servants work as to the Lord; masters treat servants fairly. Be strong in the Lord and put on the whole armor of God: the belt of truth, breastplate of righteousness, gospel shoes, shield of faith, helmet of salvation, and sword of the Spirit, the word of God, praying at all times.",
+   "questions": [
+    "How does serving “as to the Lord” change your work (6:5–8)?",
+    "Who is our real enemy (6:12)?",
+    "How can you put on each piece of the armor daily?"
+   ],
+   "crossRefs": [
+    "Isaiah 59:17",
+    "2 Corinthians 10:3–5",
+    "1 Thessalonians 5:8"
+   ]
+  }
+ ],
+ "tagline": "Every spiritual blessing in Christ, and a life worthy of the calling",
+ "readingPlan": "6 chapters: one chapter a day takes 6 days; two a day takes about 3 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

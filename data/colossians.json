@@ -1,0 +1,230 @@
+{
+ "id": "colossians",
+ "name": "Colossians",
+ "chapters": 4,
+ "overview": {
+  "author": "The apostle Paul, with Timothy (1:1).",
+  "date": "About AD 60–62, during Paul’s imprisonment, sent with Ephesians and Philemon by Tychicus (4:7–9).",
+  "audience": "The church in Colossae, a small town in Asia Minor, founded by Epaphras, whom Paul had not visited.",
+  "setting": "A false teaching threatened the church, mixing Jewish rules, angel worship, mystical visions, and human philosophy, implying that Christ was not enough.",
+  "purpose": "To show that Christ is supreme over all creation and the church, sufficient for salvation and growth, and to call believers to live their new life in Him.",
+  "structure": "Christ’s supremacy (1), warning against false teaching (2), the new life in Christ (3), and final instructions (4)."
+ },
+ "outline": [
+  {
+   "title": "The Supremacy of Christ",
+   "range": "1:1–29",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "Thanksgiving, prayer, and the hymn to Christ",
+     "range": "1:1–23"
+    },
+    {
+     "title": "Paul’s ministry",
+     "range": "1:24–29"
+    }
+   ]
+  },
+  {
+   "title": "The Sufficiency of Christ",
+   "range": "2:1–23",
+   "start": 2,
+   "end": 2,
+   "items": [
+    {
+     "title": "Complete in Christ; freedom from rules",
+     "range": "2:1–23"
+    }
+   ]
+  },
+  {
+   "title": "The New Life in Christ",
+   "range": "3:1–4:18",
+   "start": 3,
+   "end": 4,
+   "items": [
+    {
+     "title": "Seek things above; put on the new self",
+     "range": "3:1–17"
+    },
+    {
+     "title": "Household relationships",
+     "range": "3:18–4:1"
+    },
+    {
+     "title": "Prayer, witness, and greetings",
+     "range": "4:2–18"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "The Supremacy of Christ",
+   "text": "He is the image of the invisible God, Creator, sustainer, and head of the church."
+  },
+  {
+   "title": "The Sufficiency of Christ",
+   "text": "In Him dwells all the fullness of God, and we are filled in Him."
+  },
+  {
+   "title": "Warning Against False Teaching",
+   "text": "Philosophy, legalism, and mysticism cannot add to Christ."
+  },
+  {
+   "title": "Union with Christ",
+   "text": "Believers died, were raised, and are hidden with Christ in God."
+  },
+  {
+   "title": "The New Self",
+   "text": "Put off sin and put on compassion, kindness, humility, and love."
+  },
+  {
+   "title": "Thankfulness",
+   "text": "Gratitude appears in every chapter."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Colossians 1:15",
+   "quote": "He is the image of the invisible God, the firstborn of all creation."
+  },
+  {
+   "ref": "Colossians 1:17",
+   "quote": "And he is before all things, and in him all things hold together."
+  },
+  {
+   "ref": "Colossians 2:9",
+   "quote": "For in him the whole fullness of deity dwells bodily."
+  },
+  {
+   "ref": "Colossians 3:2",
+   "quote": "Set your minds on things that are above, not on things that are on earth."
+  },
+  {
+   "ref": "Colossians 3:17",
+   "quote": "Do everything in the name of the Lord Jesus, giving thanks to God the Father through him."
+  },
+  {
+   "ref": "Colossians 3:23",
+   "quote": "Whatever you do, work heartily, as for the Lord and not for men."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1:15–20",
+   "text": "Christ is Creator, sustainer, head of the church, firstborn from the dead, and reconciler of all things."
+  },
+  {
+   "ref": "1:27",
+   "text": "“Christ in you, the hope of glory.”"
+  },
+  {
+   "ref": "2:13–15",
+   "text": "Christ canceled our debt by nailing it to the cross and triumphed over the powers."
+  },
+  {
+   "ref": "3:4",
+   "text": "Christ is our life and will appear in glory."
+  },
+  {
+   "ref": "3:11",
+   "text": "“Christ is all, and in all.”"
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Ephesians",
+   "note": "A companion letter."
+  },
+  {
+   "ref": "Philemon",
+   "note": "Sent at the same time to a Colossian believer."
+  },
+  {
+   "ref": "John 1:1–3",
+   "note": "The Word through whom all things were made."
+  },
+  {
+   "ref": "Hebrews 1:1–4",
+   "note": "The Son, radiance of God’s glory."
+  },
+  {
+   "ref": "Galatians 4:9–11",
+   "note": "Not returning to weak elemental principles."
+  }
+ ],
+ "reflection": [
+  "How does Christ’s supremacy (1:15–20) affect how you view your problems?",
+  "What might you be adding to Christ, as if He were not enough?",
+  "What does it mean that your life is “hidden with Christ in God” (3:3)?",
+  "Which virtue in 3:12–14 do you most need to “put on”?",
+  "How can you “work heartily, as for the Lord” in your daily job (3:23)?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "The Supremacy of Christ",
+   "summary": "Paul thanks God for the Colossians’ faith, love, and hope and prays they would be filled with knowledge of God’s will and walk worthy of the Lord. God delivered us from darkness into the kingdom of His beloved Son. Christ is the image of the invisible God, Creator and sustainer of all, head of the church, and reconciler through the blood of His cross. Paul rejoices in suffering for the mystery: “Christ in you, the hope of glory.”",
+   "questions": [
+    "What does Paul pray for the Colossians (1:9–12)?",
+    "What does 1:15–20 say about who Jesus is?",
+    "What does “Christ in you, the hope of glory” mean (1:27)?"
+   ],
+   "crossRefs": [
+    "John 1:1–3",
+    "Hebrews 1:1–3",
+    "Ephesians 1:20–23"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Complete in Christ",
+   "summary": "Paul wants believers to be rooted and built up in Christ, “in whom are hidden all the treasures of wisdom.” Beware of empty philosophy. In Christ the fullness of deity dwells bodily, and you have been filled in Him. God canceled the record of debt, nailing it to the cross. Do not let anyone judge you on food or festivals; these are shadows. Human rules have no value against the flesh.",
+   "questions": [
+    "How can believers avoid being taken captive by philosophy (2:8)?",
+    "What did Christ accomplish at the cross (2:13–15)?",
+    "Why are rules alone unable to stop the flesh (2:20–23)?"
+   ],
+   "crossRefs": [
+    "Galatians 4:9–11",
+    "Hebrews 10:1",
+    "Romans 6:4"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Seek the Things Above",
+   "summary": "Since you have been raised with Christ, seek things above. Put to death earthly sins and put off anger and lies. Put on the new self, where “Christ is all, and in all.” Put on compassion, kindness, humility, meekness, patience, forgiveness, and above all love. Let the word of Christ dwell richly. Instructions for wives, husbands, children, fathers, and servants follow: work heartily as for the Lord.",
+   "questions": [
+    "What does setting your mind on things above look like (3:1–4)?",
+    "How do you “put to death” sinful habits (3:5)?",
+    "How does serving the Lord change your attitude toward work (3:23–24)?"
+   ],
+   "crossRefs": [
+    "Ephesians 4:22–32",
+    "Ephesians 5:18–6:9",
+    "Galatians 3:28"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Prayer and Gracious Speech",
+   "summary": "Masters must treat servants justly. Continue steadfastly in prayer with thanksgiving, praying for open doors for the gospel. Walk wisely toward outsiders, making the best use of time; let your speech be gracious, seasoned with salt. Paul sends greetings from Tychicus, Onesimus, Aristarchus, Mark, Luke, Demas, and Epaphras, who struggles in prayer for them.",
+   "questions": [
+    "What should we pray for in gospel work (4:3–4)?",
+    "How can your speech be “seasoned with salt” (4:6)?",
+    "What does Epaphras model about prayer (4:12)?"
+   ],
+   "crossRefs": [
+    "Ephesians 6:18–20",
+    "1 Peter 3:15",
+    "Philemon 1–25"
+   ]
+  }
+ ],
+ "tagline": "Christ is all: the supremacy and sufficiency of Christ",
+ "readingPlan": "4 chapters: one chapter a day takes 4 days; two a day takes about 2 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

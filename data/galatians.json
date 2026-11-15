@@ -1,0 +1,264 @@
+{
+ "id": "galatians",
+ "name": "Galatians",
+ "chapters": 6,
+ "overview": {
+  "author": "The apostle Paul (1:1).",
+  "date": "About AD 48–49 (before the Jerusalem Council) if to southern Galatia, or the mid-50s if to northern Galatia.",
+  "audience": "The churches of Galatia, likely the cities Paul founded on his first journey (Acts 13–14).",
+  "setting": "Teachers (“Judaizers”) insisted Gentile believers must be circumcised and keep the law of Moses to be fully accepted by God.",
+  "purpose": "To defend the one true gospel of justification by faith in Christ alone, Paul’s apostolic authority, and the freedom of believers who walk by the Spirit.",
+  "structure": "Personal history defending Paul’s gospel (1–2), doctrinal arguments for justification by faith (3–4), and practical life in freedom and the Spirit (5–6)."
+ },
+ "outline": [
+  {
+   "title": "The Gospel Defended",
+   "range": "1:1–2:21",
+   "start": 1,
+   "end": 2,
+   "items": [
+    {
+     "title": "No other gospel",
+     "range": "1:1–24"
+    },
+    {
+     "title": "Paul and the apostles; Peter confronted",
+     "range": "2:1–21"
+    }
+   ]
+  },
+  {
+   "title": "Justification by Faith",
+   "range": "3:1–4:31",
+   "start": 3,
+   "end": 4,
+   "items": [
+    {
+     "title": "Abraham, the law, and the promise",
+     "range": "3:1–29"
+    },
+    {
+     "title": "Sons, not slaves",
+     "range": "4:1–31"
+    }
+   ]
+  },
+  {
+   "title": "Freedom and the Spirit",
+   "range": "5:1–6:18",
+   "start": 5,
+   "end": 6,
+   "items": [
+    {
+     "title": "Stand firm in freedom; walk by the Spirit",
+     "range": "5:1–26"
+    },
+    {
+     "title": "Bear one another’s burdens",
+     "range": "6:1–18"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "One Gospel",
+   "text": "Any other gospel is accursed."
+  },
+  {
+   "title": "Justification by Faith",
+   "text": "“A person is not justified by works of the law but through faith in Jesus Christ” (2:16)."
+  },
+  {
+   "title": "Union with Christ",
+   "text": "“It is no longer I who live, but Christ who lives in me” (2:20)."
+  },
+  {
+   "title": "Adoption",
+   "text": "Believers are sons and heirs, crying “Abba! Father!”"
+  },
+  {
+   "title": "Freedom",
+   "text": "“For freedom Christ has set us free” (5:1)."
+  },
+  {
+   "title": "The Spirit and the Flesh",
+   "text": "Walking by the Spirit produces fruit and overcomes the flesh."
+  },
+  {
+   "title": "New Creation",
+   "text": "Circumcision means nothing; what counts is new creation (6:15)."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Galatians 2:16",
+   "quote": "A person is not justified by works of the law but through faith in Jesus Christ."
+  },
+  {
+   "ref": "Galatians 2:20",
+   "quote": "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me."
+  },
+  {
+   "ref": "Galatians 3:28",
+   "quote": "There is neither Jew nor Greek... for you are all one in Christ Jesus."
+  },
+  {
+   "ref": "Galatians 5:1",
+   "quote": "For freedom Christ has set us free."
+  },
+  {
+   "ref": "Galatians 5:22–23",
+   "quote": "The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control."
+  },
+  {
+   "ref": "Galatians 6:9",
+   "quote": "Let us not grow weary of doing good."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1:4",
+   "text": "Christ gave Himself for our sins to deliver us from this evil age."
+  },
+  {
+   "ref": "3:13",
+   "text": "Christ redeemed us from the curse by becoming a curse for us."
+  },
+  {
+   "ref": "3:16",
+   "text": "Christ is the singular offspring of Abraham to whom the promises were made."
+  },
+  {
+   "ref": "4:4–5",
+   "text": "God sent His Son, born of a woman, born under the law, to redeem and adopt us."
+  },
+  {
+   "ref": "6:14",
+   "text": "Paul boasts only in the cross of Christ."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Acts 15",
+   "note": "The Jerusalem Council."
+  },
+  {
+   "ref": "Romans 3–4",
+   "note": "Justification by faith."
+  },
+  {
+   "ref": "Genesis 15:6",
+   "note": "Abraham’s faith counted as righteousness."
+  },
+  {
+   "ref": "Habakkuk 2:4",
+   "note": "The righteous live by faith."
+  },
+  {
+   "ref": "Romans 8:1–17",
+   "note": "Life in the Spirit and adoption."
+  }
+ ],
+ "reflection": [
+  "Where are you tempted to add your performance to the gospel to feel accepted by God?",
+  "What does “Christ who lives in me” (2:20) mean in your daily life?",
+  "How does being a son or daughter, not a slave, change how you relate to God?",
+  "Which fruit of the Spirit (5:22–23) do you most want God to grow in you?",
+  "Whose burden can you help carry this week (6:2)?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "No Other Gospel",
+   "summary": "Paul, an apostle sent by Jesus Christ, marvels that the Galatians are deserting the gospel for a different one. Even if an angel preached another gospel, let him be accursed. Paul received his gospel by revelation from Jesus, not from men. He recounts his past persecuting the church and his calling by grace.",
+   "questions": [
+    "Why is Paul so strong in his warning (1:8–9)?",
+    "Why does Paul stress that his gospel came from Christ?",
+    "How does Paul’s story display God’s grace?"
+   ],
+   "crossRefs": [
+    "Acts 9:1–22",
+    "2 Corinthians 11:4",
+    "1 Timothy 1:12–16"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Justified by Faith, Not Works",
+   "summary": "Fourteen years later, the Jerusalem apostles affirmed Paul’s gospel and did not compel Titus to be circumcised. At Antioch, Paul opposed Peter to his face for withdrawing from eating with Gentiles. “A person is not justified by works of the law but through faith in Jesus Christ... I have been crucified with Christ.”",
+   "questions": [
+    "Why did Paul confront Peter publicly?",
+    "How can fear of others compromise the gospel (2:12)?",
+    "What does 2:20 mean for your identity?"
+   ],
+   "crossRefs": [
+    "Acts 15:1–21",
+    "Romans 3:20–28",
+    "Romans 6:6"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Abraham and the Promise",
+   "summary": "“O foolish Galatians!” Did you receive the Spirit by works or by faith? Abraham believed, and those of faith are his sons. The law brings a curse, but “Christ redeemed us from the curse of the law by becoming a curse for us.” The law was a guardian until Christ came. In Christ all are sons of God through faith and one in Him.",
+   "questions": [
+    "How did the Galatians first receive the Spirit (3:2–5)?",
+    "How did Christ become a curse for us (3:13)?",
+    "What does 3:28 teach about unity in Christ?"
+   ],
+   "crossRefs": [
+    "Genesis 15:6",
+    "Deuteronomy 21:23",
+    "Habakkuk 2:4"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Sons and Heirs",
+   "summary": "Before Christ we were like children under guardians. In the fullness of time God sent His Son to redeem us and adopt us, and sent His Spirit crying “Abba! Father!” Paul pleads with the Galatians not to return to slavery. He contrasts Hagar and Sarah: we are children of promise, of the free woman.",
+   "questions": [
+    "What does it mean to be adopted as God’s son (4:4–7)?",
+    "Why would anyone return to slavery (4:9)?",
+    "What does the Hagar and Sarah allegory teach?"
+   ],
+   "crossRefs": [
+    "Romans 8:14–17",
+    "Genesis 16; 21",
+    "John 8:34–36"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Freedom and the Fruit of the Spirit",
+   "summary": "“For freedom Christ has set us free; stand firm therefore.” Accepting circumcision to be justified means falling away from grace. Faith works through love. Do not use freedom for the flesh but serve one another. Walk by the Spirit: the works of the flesh are evident, but the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control.",
+   "questions": [
+    "What is the purpose of Christian freedom (5:13)?",
+    "How does the Spirit war against the flesh (5:16–17)?",
+    "How can you “keep in step with the Spirit” (5:25)?"
+   ],
+   "crossRefs": [
+    "Romans 8:1–14",
+    "John 15:1–8",
+    "Romans 13:8–10"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Bear One Another’s Burdens",
+   "summary": "Restore anyone caught in sin gently. “Bear one another’s burdens, and so fulfill the law of Christ.” Whatever one sows, he will reap. “Let us not grow weary of doing good.” Paul writes with large letters: “Far be it from me to boast except in the cross.” What counts is a new creation.",
+   "questions": [
+    "How should we restore someone caught in sin (6:1)?",
+    "What does sowing to the Spirit look like (6:8)?",
+    "What does it mean to boast only in the cross (6:14)?"
+   ],
+   "crossRefs": [
+    "Matthew 18:15",
+    "2 Corinthians 5:17",
+    "Hosea 10:12"
+   ]
+  }
+ ],
+ "tagline": "Freedom in Christ: justified by faith, led by the Spirit",
+ "readingPlan": "6 chapters: one chapter a day takes 6 days; two a day takes about 3 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

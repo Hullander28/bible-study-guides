@@ -1,0 +1,369 @@
+{
+ "id": "2-corinthians",
+ "name": "2 Corinthians",
+ "chapters": 13,
+ "overview": {
+  "author": "The apostle Paul, with Timothy (1:1).",
+  "date": "About AD 55–56, from Macedonia, after Titus brought news from Corinth (7:5–7).",
+  "audience": "The church in Corinth and believers throughout Achaia.",
+  "setting": "After a painful visit and a severe letter, many Corinthians repented, but “super-apostles” were undermining Paul’s authority by boasting in eloquence, credentials, and visions.",
+  "purpose": "To express joy at the church’s repentance, explain the nature of true gospel ministry, urge generosity in the collection for Jerusalem, and defend Paul’s apostleship by boasting in weakness.",
+  "structure": "Paul’s ministry and reconciliation (1–7), the collection for Jerusalem (8–9), and Paul’s defense against false apostles (10–13)."
+ },
+ "outline": [
+  {
+   "title": "Paul’s Ministry Explained",
+   "range": "1:1–7:16",
+   "start": 1,
+   "end": 7,
+   "items": [
+    {
+     "title": "Comfort in affliction and changed plans",
+     "range": "1:1–2:17"
+    },
+    {
+     "title": "Ministers of the new covenant",
+     "range": "3:1–4:18"
+    },
+    {
+     "title": "Ambassadors of reconciliation",
+     "range": "5:1–7:16"
+    }
+   ]
+  },
+  {
+   "title": "The Collection",
+   "range": "8:1–9:15",
+   "start": 8,
+   "end": 9,
+   "items": [
+    {
+     "title": "Generous giving",
+     "range": "8:1–9:15"
+    }
+   ]
+  },
+  {
+   "title": "Paul’s Defense",
+   "range": "10:1–13:14",
+   "start": 10,
+   "end": 13,
+   "items": [
+    {
+     "title": "Spiritual warfare and false apostles",
+     "range": "10:1–11:33"
+    },
+    {
+     "title": "The thorn and strength in weakness",
+     "range": "12:1–13:14"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Comfort in Suffering",
+   "text": "The God of all comfort comforts us so we can comfort others."
+  },
+  {
+   "title": "The New Covenant",
+   "text": "A ministry of the Spirit and righteousness, far more glorious than the old."
+  },
+  {
+   "title": "Treasure in Jars of Clay",
+   "text": "God’s power is shown through human weakness."
+  },
+  {
+   "title": "Reconciliation",
+   "text": "God reconciled us through Christ and gives us the ministry of reconciliation."
+  },
+  {
+   "title": "Generosity",
+   "text": "Christ became poor so we might become rich; God loves a cheerful giver."
+  },
+  {
+   "title": "True vs. False Ministry",
+   "text": "Paul’s integrity, suffering, and love versus self-promoting false apostles."
+  },
+  {
+   "title": "Power in Weakness",
+   "text": "“My grace is sufficient for you, for my power is made perfect in weakness” (12:9)."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "2 Corinthians 1:3–4",
+   "quote": "The God of all comfort, who comforts us in all our affliction."
+  },
+  {
+   "ref": "2 Corinthians 4:7",
+   "quote": "But we have this treasure in jars of clay."
+  },
+  {
+   "ref": "2 Corinthians 5:17",
+   "quote": "If anyone is in Christ, he is a new creation."
+  },
+  {
+   "ref": "2 Corinthians 5:21",
+   "quote": "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God."
+  },
+  {
+   "ref": "2 Corinthians 9:7",
+   "quote": "God loves a cheerful giver."
+  },
+  {
+   "ref": "2 Corinthians 12:9",
+   "quote": "My grace is sufficient for you, for my power is made perfect in weakness."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1:20",
+   "text": "All the promises of God find their Yes in Christ."
+  },
+  {
+   "ref": "4:4–6",
+   "text": "Christ is the image of God, and His face reveals God’s glory."
+  },
+  {
+   "ref": "5:21",
+   "text": "The sinless Christ became sin so we might become God’s righteousness."
+  },
+  {
+   "ref": "8:9",
+   "text": "Though rich, Christ became poor so we might become rich."
+  },
+  {
+   "ref": "13:4",
+   "text": "Christ was crucified in weakness but lives by God’s power."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "1 Corinthians",
+   "note": "Paul’s earlier letter."
+  },
+  {
+   "ref": "Acts 18–20",
+   "note": "Paul’s ministry in Corinth and Ephesus."
+  },
+  {
+   "ref": "Exodus 34:29–35",
+   "note": "Moses’ veil."
+  },
+  {
+   "ref": "Romans 15:25–27",
+   "note": "The collection for Jerusalem."
+  },
+  {
+   "ref": "Philippians 4:11–13",
+   "note": "Strength in Christ."
+  }
+ ],
+ "reflection": [
+  "How has God comforted you in a way you can now pass on to others (1:4)?",
+  "What “jar of clay” weaknesses might God want to use to display His power?",
+  "With whom do you need to pursue reconciliation, or share the message of reconciliation?",
+  "How do 8:9 and 9:7 reshape your attitude toward giving?",
+  "What “thorn” in your life might be a place to experience God’s sufficient grace?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "The God of All Comfort",
+   "summary": "Paul blesses “the God of all comfort,” who comforts us in affliction so we can comfort others. He shares that in Asia he despaired of life, learning to rely on God who raises the dead. He explains his changed travel plans: all God’s promises are “Yes” in Christ.",
+   "questions": [
+    "How does God’s comfort equip us to comfort others?",
+    "What did Paul learn from his near-death experience (1:9)?",
+    "What does it mean that God’s promises are “Yes” in Christ (1:20)?"
+   ],
+   "crossRefs": [
+    "Isaiah 40:1",
+    "Romans 8:28",
+    "Acts 19:23–41"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Forgiveness and the Aroma of Christ",
+   "summary": "Paul wrote a painful letter in tears. Now he urges them to forgive and comfort the repentant offender, so Satan won’t outwit them. God leads believers in triumphal procession and spreads the fragrance of Christ, life to some and death to others.",
+   "questions": [
+    "Why is restoring a repentant person important (2:7–8)?",
+    "How can unforgiveness give Satan an opening (2:11)?",
+    "What does it mean to be the aroma of Christ (2:15)?"
+   ],
+   "crossRefs": [
+    "Galatians 6:1",
+    "Ephesians 4:26–27",
+    "Colossians 2:15"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Ministers of a New Covenant",
+   "summary": "The Corinthians are Paul’s letter of recommendation, written by the Spirit on hearts. The new covenant is of the Spirit, not the letter; the old came with fading glory, the new with surpassing glory. Where the Spirit of the Lord is, there is freedom, and we are transformed from one degree of glory to another.",
+   "questions": [
+    "How are believers a “letter from Christ” (3:3)?",
+    "How is the new covenant more glorious than the old?",
+    "How are we transformed into Christ’s image (3:18)?"
+   ],
+   "crossRefs": [
+    "Jeremiah 31:31–34",
+    "Exodus 34:29–35",
+    "Ezekiel 36:26"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Treasure in Jars of Clay",
+   "summary": "Paul does not lose heart or tamper with God’s word. The god of this world blinds unbelievers, but God has shone in our hearts. “We have this treasure in jars of clay.” Afflicted but not crushed; struck down but not destroyed. Our light momentary affliction prepares an eternal weight of glory.",
+   "questions": [
+    "Why does God put treasure in fragile jars?",
+    "How do 4:8–9 describe resilience in Christ?",
+    "How can you look to the unseen (4:16–18)?"
+   ],
+   "crossRefs": [
+    "Genesis 1:3",
+    "Romans 8:18",
+    "Psalm 116:10"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Ambassadors for Christ",
+   "summary": "Our earthly tent will be replaced with an eternal building from God. We walk by faith, not sight, and all must appear before Christ’s judgment seat. Christ’s love compels us. “If anyone is in Christ, he is a new creation.” God reconciled us and made us ambassadors: “Be reconciled to God.”",
+   "questions": [
+    "What gives Paul confidence about death (5:1–8)?",
+    "What does it mean to be a new creation (5:17)?",
+    "How does 5:21 explain the exchange at the cross?"
+   ],
+   "crossRefs": [
+    "Romans 5:10",
+    "Isaiah 53:4–6",
+    "Galatians 6:15"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Commending Ourselves as Servants",
+   "summary": "Now is the day of salvation. Paul commends himself through endurance, hardships, purity, and love. He urges the Corinthians to open their hearts. Do not be unequally yoked with unbelievers; “we are the temple of the living God.”",
+   "questions": [
+    "What marks Paul’s ministry (6:4–10)?",
+    "What does being unequally yoked mean (6:14)?",
+    "How do God’s promises motivate holiness (6:16–7:1)?"
+   ],
+   "crossRefs": [
+    "Isaiah 49:8",
+    "Leviticus 26:12",
+    "Isaiah 52:11"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Godly Grief",
+   "summary": "Paul was comforted by Titus’s report of their repentance. His letter grieved them, but “godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death.” Their earnestness and zeal bring him joy.",
+   "questions": [
+    "What is the difference between godly and worldly grief (7:10)?",
+    "What fruits of true repentance appear in 7:11?",
+    "How does Paul show love in confrontation?"
+   ],
+   "crossRefs": [
+    "Psalm 51",
+    "Matthew 26:75; 27:3–5",
+    "Hebrews 12:11"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "The Grace of Giving",
+   "summary": "The Macedonian churches, in extreme poverty, gave generously, first giving themselves to the Lord. Paul urges the Corinthians to complete their gift. “For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor.” Titus and others will handle the gift with integrity.",
+   "questions": [
+    "What made the Macedonians’ giving remarkable?",
+    "How does Christ’s example motivate generosity (8:9)?",
+    "Why does Paul care about integrity in handling money (8:20–21)?"
+   ],
+   "crossRefs": [
+    "Philippians 2:5–8",
+    "Acts 4:32–35",
+    "Exodus 16:18"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The Cheerful Giver",
+   "summary": "Paul urges readiness. Whoever sows sparingly reaps sparingly. “Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.” God supplies abundance for good works, and generosity overflows in thanksgiving. “Thanks be to God for his inexpressible gift!”",
+   "questions": [
+    "What principles of giving appear in 9:6–8?",
+    "How does generosity produce thanksgiving to God (9:11–13)?",
+    "What is God’s “inexpressible gift” (9:15)?"
+   ],
+   "crossRefs": [
+    "Proverbs 11:24–25",
+    "Luke 6:38",
+    "Malachi 3:10"
+   ]
+  },
+  {
+   "n": 10,
+   "title": "Spiritual Weapons",
+   "summary": "Paul answers critics who say he is bold in letters but weak in person. “The weapons of our warfare are not of the flesh but have divine power to destroy strongholds.” We take every thought captive to obey Christ. Paul refuses to compare himself with others. “Let the one who boasts, boast in the Lord.”",
+   "questions": [
+    "What strongholds might need to be torn down in your thinking?",
+    "How do you take thoughts captive to Christ (10:5)?",
+    "Why is comparing ourselves with others unwise (10:12)?"
+   ],
+   "crossRefs": [
+    "Ephesians 6:10–18",
+    "Jeremiah 9:23–24",
+    "Romans 12:2"
+   ]
+  },
+  {
+   "n": 11,
+   "title": "False Apostles and Paul’s Sufferings",
+   "summary": "Paul fears they are being led astray by false apostles who disguise themselves as servants of righteousness, as Satan disguises himself as an angel of light. Forced to boast, Paul lists his sufferings: beatings, shipwrecks, dangers, sleeplessness, hunger, and daily anxiety for the churches.",
+   "questions": [
+    "Why are false teachers hard to recognize (11:13–15)?",
+    "What does Paul choose to boast about?",
+    "How does Paul’s suffering give credibility to his ministry?"
+   ],
+   "crossRefs": [
+    "Acts 14:19",
+    "Galatians 1:6–9",
+    "2 Peter 2:1–3"
+   ]
+  },
+  {
+   "n": 12,
+   "title": "The Thorn in the Flesh",
+   "summary": "Paul describes a man caught up to the third heaven. To keep him from conceit, he was given a thorn in the flesh. He pleaded three times for its removal, but the Lord said, “My grace is sufficient for you, for my power is made perfect in weakness.” Paul boasts in weakness: “When I am weak, then I am strong.”",
+   "questions": [
+    "Why did God not remove Paul’s thorn?",
+    "How is God’s power perfected in weakness?",
+    "What weakness can you bring to God for His strength?"
+   ],
+   "crossRefs": [
+    "Philippians 4:13",
+    "Hebrews 4:15–16",
+    "Isaiah 40:29–31"
+   ]
+  },
+  {
+   "n": 13,
+   "title": "Examine Yourselves",
+   "summary": "Paul warns he will not spare unrepentant sinners on his third visit. Christ was crucified in weakness but lives by God’s power. “Examine yourselves, to see whether you are in the faith.” He closes: aim for restoration, agree, live in peace, and the grace, love, and fellowship of the Trinity be with them.",
+   "questions": [
+    "Why should believers examine themselves (13:5)?",
+    "What goal does Paul have for his authority (13:10)?",
+    "What does the benediction (13:14) teach about God?"
+   ],
+   "crossRefs": [
+    "Matthew 18:16",
+    "1 Corinthians 11:28",
+    "Matthew 28:19"
+   ]
+  }
+ ],
+ "tagline": "Power in weakness: the ministry of a new covenant",
+ "readingPlan": "13 chapters: one chapter a day takes 13 days; two a day takes about 7 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}
