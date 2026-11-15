@@ -1,0 +1,158 @@
+{
+ "id": "jude",
+ "name": "Jude",
+ "chapters": 1,
+ "overview": {
+  "author": "Jude (Judas), “a servant of Jesus Christ and brother of James” (1), and thus a half-brother of Jesus (Mark 6:3).",
+  "date": "Probably about AD 65–80.",
+  "audience": "Believers who are “called, beloved in God the Father and kept for Jesus Christ” (1), likely Jewish Christians.",
+  "setting": "Ungodly people had crept into the church unnoticed, turning God’s grace into a license for immorality and denying Jesus Christ.",
+  "purpose": "To urge believers to contend for the faith once for all delivered, to expose and warn about false teachers, and to call believers to build themselves up, keep in God’s love, and show mercy.",
+  "structure": "Greeting and purpose (1–4), examples of judgment and description of false teachers (5–16), exhortations to believers (17–23), and a doxology (24–25)."
+ },
+ "outline": [
+  {
+   "title": "Contend for the Faith",
+   "range": "1–16",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "Purpose of the letter",
+     "range": "1–4"
+    },
+    {
+     "title": "Judgment on the ungodly",
+     "range": "5–16"
+    }
+   ]
+  },
+  {
+   "title": "Keep Yourselves in God’s Love",
+   "range": "17–25",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "Build up, pray, keep, wait, show mercy",
+     "range": "17–23"
+    },
+    {
+     "title": "Doxology",
+     "range": "24–25"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Contending for the Faith",
+   "text": "The faith was “once for all delivered to the saints” (3)."
+  },
+  {
+   "title": "False Teachers",
+   "text": "They pervert grace into sensuality and deny Christ."
+  },
+  {
+   "title": "God’s Judgment",
+   "text": "Examples include Israel in the wilderness, rebellious angels, and Sodom and Gomorrah."
+  },
+  {
+   "title": "Kept by God",
+   "text": "Believers are kept for Jesus Christ, and God is able to keep them from stumbling."
+  },
+  {
+   "title": "Perseverance",
+   "text": "Build yourselves up, pray in the Spirit, keep in God’s love."
+  },
+  {
+   "title": "Mercy",
+   "text": "Have mercy on those who doubt and rescue others."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Jude 3",
+   "quote": "Contend for the faith that was once for all delivered to the saints."
+  },
+  {
+   "ref": "Jude 21",
+   "quote": "Keep yourselves in the love of God, waiting for the mercy of our Lord Jesus Christ."
+  },
+  {
+   "ref": "Jude 22",
+   "quote": "And have mercy on those who doubt."
+  },
+  {
+   "ref": "Jude 24",
+   "quote": "Now to him who is able to keep you from stumbling and to present you blameless before the presence of his glory with great joy."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1",
+   "text": "Believers are kept for Jesus Christ."
+  },
+  {
+   "ref": "4",
+   "text": "False teachers deny our only Master and Lord, Jesus Christ."
+  },
+  {
+   "ref": "21",
+   "text": "We wait for the mercy of our Lord Jesus Christ that leads to eternal life."
+  },
+  {
+   "ref": "25",
+   "text": "Glory comes to the only God our Savior through Jesus Christ our Lord."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "2 Peter 2",
+   "note": "A close parallel."
+  },
+  {
+   "ref": "Numbers 14; 16",
+   "note": "Wilderness rebellion and Korah."
+  },
+  {
+   "ref": "Genesis 19",
+   "note": "Sodom and Gomorrah."
+  },
+  {
+   "ref": "Genesis 4",
+   "note": "The way of Cain."
+  },
+  {
+   "ref": "Romans 16:25–27",
+   "note": "A similar doxology."
+  }
+ ],
+ "reflection": [
+  "What does it look like to “contend for the faith” with grace and humility?",
+  "How can grace be wrongly used as an excuse for sin?",
+  "What are you doing to build yourself up in the faith (20)?",
+  "Who around you is doubting and needs your mercy (22)?",
+  "How does the doxology (24–25) give you confidence in God’s keeping power?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Contend for the Faith",
+   "summary": "Jude intended to write about salvation but felt compelled to urge believers to contend for the faith, because ungodly people had crept in, perverting grace into sensuality and denying Jesus Christ. He recalls God’s judgment on unbelieving Israel, rebellious angels, and Sodom and Gomorrah. These false teachers are like Cain, Balaam, and Korah: hidden reefs, waterless clouds, fruitless trees, wild waves, wandering stars. But believers should remember the apostles’ warnings, build themselves up in faith, pray in the Holy Spirit, keep in God’s love, and have mercy on doubters. Jude closes praising God, who is able to keep them from stumbling.",
+   "questions": [
+    "Why did Jude change the topic of his letter (3–4)?",
+    "What do the images in 12–13 reveal about false teachers?",
+    "What four things does 20–21 tell believers to do?",
+    "How does the doxology (24–25) comfort you?"
+   ],
+   "crossRefs": [
+    "2 Peter 2:1–22",
+    "Genesis 4:3–8",
+    "Numbers 16"
+   ]
+  }
+ ],
+ "tagline": "Contend for the faith, and keep yourselves in God’s love",
+ "readingPlan": "1 chapter: a short book you can read in one sitting, then work through the questions over a few days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

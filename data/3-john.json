@@ -1,0 +1,146 @@
+{
+ "id": "3-john",
+ "name": "3 John",
+ "chapters": 1,
+ "overview": {
+  "author": "“The elder” (1), traditionally identified as John the apostle.",
+  "date": "About AD 85–95, from Ephesus.",
+  "audience": "Gaius, a beloved believer known for his hospitality.",
+  "setting": "Traveling missionaries depended on churches for support. A domineering church leader, Diotrephes, refused to welcome them and opposed John’s authority.",
+  "purpose": "To commend Gaius for his faithfulness and hospitality, rebuke Diotrephes’s pride, and recommend Demetrius.",
+  "structure": "Commendation of Gaius (1–8), rebuke of Diotrephes (9–10), commendation of Demetrius (11–12), and closing (13–15)."
+ },
+ "outline": [
+  {
+   "title": "Commendation of Gaius",
+   "range": "1–8",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "Walking in truth and supporting missionaries",
+     "range": "1–8"
+    }
+   ]
+  },
+  {
+   "title": "Two Examples",
+   "range": "9–15",
+   "start": 1,
+   "end": 1,
+   "items": [
+    {
+     "title": "Diotrephes and Demetrius",
+     "range": "9–12"
+    },
+    {
+     "title": "Farewell",
+     "range": "13–15"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Walking in Truth",
+   "text": "John’s greatest joy is to hear his children walk in the truth."
+  },
+  {
+   "title": "Hospitality",
+   "text": "Supporting traveling believers makes us fellow workers for the truth."
+  },
+  {
+   "title": "Pride in Leadership",
+   "text": "Diotrephes “likes to put himself first.”"
+  },
+  {
+   "title": "Imitation",
+   "text": "“Do not imitate evil but imitate good.”"
+  },
+  {
+   "title": "Good Testimony",
+   "text": "Demetrius has a good testimony from everyone."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "3 John 2",
+   "quote": "I pray that all may go well with you and that you may be in good health, as it goes well with your soul."
+  },
+  {
+   "ref": "3 John 4",
+   "quote": "I have no greater joy than to hear that my children are walking in the truth."
+  },
+  {
+   "ref": "3 John 8",
+   "quote": "Therefore we ought to support people like these, that we may be fellow workers for the truth."
+  },
+  {
+   "ref": "3 John 11",
+   "quote": "Do not imitate evil but imitate good."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "7",
+   "text": "The missionaries went out “for the sake of the name,” that is, the name of Jesus Christ."
+  },
+  {
+   "ref": "8",
+   "text": "Supporting gospel workers makes believers fellow workers for the truth that is in Christ."
+  },
+  {
+   "ref": "11",
+   "text": "Doing good shows that a person is from God, the God revealed in Christ."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "2 John",
+   "note": "The elder’s companion letter."
+  },
+  {
+   "ref": "Romans 12:13",
+   "note": "Practice hospitality."
+  },
+  {
+   "ref": "Hebrews 13:2",
+   "note": "Show hospitality to strangers."
+  },
+  {
+   "ref": "Philippians 2:3–4",
+   "note": "Count others more significant."
+  },
+  {
+   "ref": "Matthew 20:25–28",
+   "note": "Servant leadership."
+  }
+ ],
+ "reflection": [
+  "Who in your life brings you joy by walking in the truth?",
+  "How could you support missionaries or gospel workers this year?",
+  "Where might pride make you want to “put yourself first”?",
+  "Whose good example are you imitating?",
+  "What kind of testimony do you have among those who know you (12)?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Fellow Workers for the Truth",
+   "summary": "The elder prays for Gaius’s health, as his soul is well. He rejoices that Gaius walks in the truth and has faithfully welcomed traveling brothers, even strangers, who went out for the sake of the Name; supporting them makes us fellow workers for the truth. But Diotrephes, who loves to be first, refuses to acknowledge John, spreads wicked talk, and puts out those who welcome the brothers. “Do not imitate evil but imitate good.” Demetrius has a good testimony from everyone. John hopes to see Gaius soon.",
+   "questions": [
+    "What does John pray for Gaius (2)?",
+    "Why is supporting gospel workers so important (5–8)?",
+    "How did Diotrephes’s pride harm the church (9–10)?",
+    "What does it mean to imitate good (11)?"
+   ],
+   "crossRefs": [
+    "Romans 12:13",
+    "Matthew 20:25–28",
+    "Philippians 3:17"
+   ]
+  }
+ ],
+ "tagline": "Support those who work for the truth; imitate good, not evil",
+ "readingPlan": "1 chapter: a short book you can read in one sitting, then work through the questions over a few days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}

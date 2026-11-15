@@ -1,0 +1,249 @@
+{
+ "id": "1-john",
+ "name": "1 John",
+ "chapters": 5,
+ "overview": {
+  "author": "John the apostle, an eyewitness of Jesus (1:1–3), according to early church tradition.",
+  "date": "About AD 85–95, probably from Ephesus.",
+  "audience": "Churches in Asia Minor that John cared for as “little children.”",
+  "setting": "False teachers had left the church (2:19), denying that Jesus came in the flesh and claiming that sin did not matter, which unsettled believers.",
+  "purpose": "To give believers assurance of eternal life and to show the marks of true faith: right belief about Jesus, obedience to God’s commands, and love for one another.",
+  "structure": "A spiraling meditation that returns repeatedly to three tests (truth, obedience, and love), arranged around the themes of God as light (1–2), God’s children (3), God as love (4), and assurance through faith (5)."
+ },
+ "outline": [
+  {
+   "title": "God Is Light",
+   "range": "1:1–2:29",
+   "start": 1,
+   "end": 2,
+   "items": [
+    {
+     "title": "The Word of life and walking in the light",
+     "range": "1:1–2:14"
+    },
+    {
+     "title": "Do not love the world; antichrists",
+     "range": "2:15–29"
+    }
+   ]
+  },
+  {
+   "title": "Children of God",
+   "range": "3:1–24",
+   "start": 3,
+   "end": 3,
+   "items": [
+    {
+     "title": "Purity, righteousness, and love",
+     "range": "3:1–24"
+    }
+   ]
+  },
+  {
+   "title": "God Is Love",
+   "range": "4:1–21",
+   "start": 4,
+   "end": 4,
+   "items": [
+    {
+     "title": "Test the spirits; love one another",
+     "range": "4:1–21"
+    }
+   ]
+  },
+  {
+   "title": "Assurance",
+   "range": "5:1–21",
+   "start": 5,
+   "end": 5,
+   "items": [
+    {
+     "title": "Faith that overcomes and eternal life",
+     "range": "5:1–21"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Fellowship",
+   "text": "Fellowship with the Father, the Son, and one another."
+  },
+  {
+   "title": "Light and Confession",
+   "text": "God is light; if we confess our sins, He is faithful to forgive."
+  },
+  {
+   "title": "Obedience",
+   "text": "Those who know God keep His commandments."
+  },
+  {
+   "title": "Love",
+   "text": "“God is love” (4:8); those born of God love one another."
+  },
+  {
+   "title": "The Incarnation",
+   "text": "Jesus Christ has come in the flesh; denying this is the spirit of antichrist."
+  },
+  {
+   "title": "Children of God",
+   "text": "“See what kind of love the Father has given to us” (3:1)."
+  },
+  {
+   "title": "Assurance",
+   "text": "“That you may know that you have eternal life” (5:13)."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "1 John 1:9",
+   "quote": "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness."
+  },
+  {
+   "ref": "1 John 3:1",
+   "quote": "See what kind of love the Father has given to us, that we should be called children of God."
+  },
+  {
+   "ref": "1 John 4:8",
+   "quote": "Anyone who does not love does not know God, because God is love."
+  },
+  {
+   "ref": "1 John 4:19",
+   "quote": "We love because he first loved us."
+  },
+  {
+   "ref": "1 John 5:13",
+   "quote": "That you may know that you have eternal life."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1:1–3",
+   "text": "The Word of life was heard, seen, and touched."
+  },
+  {
+   "ref": "2:1–2",
+   "text": "Jesus Christ the righteous is our advocate and the propitiation for our sins."
+  },
+  {
+   "ref": "3:8",
+   "text": "The Son of God appeared to destroy the works of the devil."
+  },
+  {
+   "ref": "4:9–10",
+   "text": "God sent His only Son as the propitiation for our sins."
+  },
+  {
+   "ref": "5:11–12",
+   "text": "Whoever has the Son has life."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "John 1:1–14",
+   "note": "The Word made flesh."
+  },
+  {
+   "ref": "John 13:34–35",
+   "note": "Love one another."
+  },
+  {
+   "ref": "John 20:31",
+   "note": "Written that you may believe."
+  },
+  {
+   "ref": "2 John; 3 John",
+   "note": "John’s shorter letters."
+  },
+  {
+   "ref": "James 2:14–17",
+   "note": "Faith shown in action."
+  }
+ ],
+ "reflection": [
+  "Is there sin you need to bring into the light and confess (1:9)?",
+  "In what ways are you tempted to love “the world” (2:15–17)?",
+  "How does being called God’s child (3:1) shape your identity?",
+  "Who in your life needs practical love “in deed and in truth” (3:18)?",
+  "What gives you assurance of eternal life (5:11–13)?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "Walking in the Light",
+   "summary": "John proclaims the Word of life, which he heard, saw, and touched, so that his readers may have fellowship with the Father and the Son. God is light, and in Him is no darkness. If we walk in the light, the blood of Jesus cleanses us. If we say we have no sin, we deceive ourselves, but if we confess our sins, He is faithful and just to forgive.",
+   "questions": [
+    "Why does John stress that he touched and saw Jesus (1:1–3)?",
+    "What does it mean to walk in the light (1:7)?",
+    "How does 1:8–10 balance honesty about sin with hope?"
+   ],
+   "crossRefs": [
+    "John 1:1–14",
+    "Psalm 32:3–5",
+    "Proverbs 28:13"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Our Advocate and the Danger of the World",
+   "summary": "If anyone sins, we have an advocate, Jesus Christ the righteous, the propitiation for our sins. Whoever says he knows God must keep His commands and walk as Jesus walked. Whoever hates his brother is in darkness. Do not love the world: the desires of the flesh, the desires of the eyes, and the pride of life. Antichrists have gone out from us. Abide in Him.",
+   "questions": [
+    "What comfort is in 2:1–2?",
+    "How do we know we know God (2:3–6)?",
+    "What three worldly desires does 2:16 name?"
+   ],
+   "crossRefs": [
+    "Hebrews 7:25",
+    "John 13:34",
+    "James 4:4"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Children of God",
+   "summary": "“See what kind of love the Father has given to us, that we should be called children of God.” When He appears we shall be like Him. Everyone who is born of God does not keep on sinning. The Son came to destroy the devil’s works. We know love because Jesus laid down His life for us; we ought to love “in deed and in truth.” When our heart condemns us, God is greater than our heart.",
+   "questions": [
+    "What does it mean to be called God’s children (3:1–2)?",
+    "How does a person born of God relate to sin (3:6–9)?",
+    "What does love “in deed and in truth” look like (3:16–18)?"
+   ],
+   "crossRefs": [
+    "John 1:12",
+    "Romans 8:15–17",
+    "James 2:15–16"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "God Is Love",
+   "summary": "Test the spirits: every spirit that confesses Jesus Christ has come in the flesh is from God. “He who is in you is greater than he who is in the world.” Love one another, for love is from God; God is love. God showed His love by sending His Son as a propitiation. Perfect love casts out fear. “We love because he first loved us.” Whoever loves God must love his brother.",
+   "questions": [
+    "How do we test teaching (4:1–3)?",
+    "How did God show His love (4:9–10)?",
+    "How does perfect love cast out fear (4:18)?"
+   ],
+   "crossRefs": [
+    "John 3:16",
+    "Romans 5:8",
+    "1 Corinthians 13"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Faith That Overcomes",
+   "summary": "Everyone who believes that Jesus is the Christ is born of God, and faith overcomes the world. God has testified about His Son. “Whoever has the Son has life.” John writes so that believers may know they have eternal life. God hears us when we ask according to His will. Keep yourselves from idols.",
+   "questions": [
+    "How does faith overcome the world (5:4–5)?",
+    "What does 5:11–13 teach about assurance?",
+    "What confidence do we have in prayer (5:14–15)?"
+   ],
+   "crossRefs": [
+    "John 3:36",
+    "John 20:31",
+    "John 14:13–14"
+   ]
+  }
+ ],
+ "tagline": "That you may know you have eternal life: walking in light, love, and truth",
+ "readingPlan": "5 chapters: one chapter a day takes 5 days; two a day takes about 3 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}
