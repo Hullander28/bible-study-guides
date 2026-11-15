@@ -1,0 +1,556 @@
+{
+ "id": "revelation",
+ "name": "Revelation",
+ "chapters": 22,
+ "overview": {
+  "author": "John (1:1, 4, 9), traditionally identified as the apostle John, exiled on the island of Patmos.",
+  "date": "Most likely about AD 95, near the end of Emperor Domitian’s reign; some scholars prefer the late 60s.",
+  "audience": "Seven churches in the Roman province of Asia (1:4, 11), and through them the whole church.",
+  "setting": "Christians faced pressure to take part in emperor worship and pagan trade guilds, and some were persecuted or tempted toward compromise.",
+  "purpose": "To reveal Jesus Christ, encourage faithful endurance, warn against compromise, and show that God reigns, that evil will be judged, and that Christ will return to make all things new.",
+  "structure": "Vision of Christ (1), letters to seven churches (2–3), the heavenly throne room and the Lamb (4–5), cycles of judgment in seals, trumpets, and bowls with interludes (6–16), the fall of Babylon (17–19:10), Christ’s return, final victory and judgment (19:11–20:15), and the new creation (21–22)."
+ },
+ "outline": [
+  {
+   "title": "The Risen Christ and His Churches",
+   "range": "1:1–3:22",
+   "start": 1,
+   "end": 3,
+   "items": [
+    {
+     "title": "Vision of the Son of Man",
+     "range": "1:1–20"
+    },
+    {
+     "title": "Letters to seven churches",
+     "range": "2:1–3:22"
+    }
+   ]
+  },
+  {
+   "title": "The Throne and the Lamb",
+   "range": "4:1–5:14",
+   "start": 4,
+   "end": 5,
+   "items": [
+    {
+     "title": "Worship in heaven; the scroll and the Lamb",
+     "range": "4:1–5:14"
+    }
+   ]
+  },
+  {
+   "title": "Seals and Trumpets",
+   "range": "6:1–11:19",
+   "start": 6,
+   "end": 11,
+   "items": [
+    {
+     "title": "Seven seals and the sealed multitude",
+     "range": "6:1–8:5"
+    },
+    {
+     "title": "Seven trumpets and two witnesses",
+     "range": "8:6–11:19"
+    }
+   ]
+  },
+  {
+   "title": "The Great Conflict",
+   "range": "12:1–16:21",
+   "start": 12,
+   "end": 16,
+   "items": [
+    {
+     "title": "The dragon and the beasts",
+     "range": "12:1–13:18"
+    },
+    {
+     "title": "The Lamb’s people and the harvest",
+     "range": "14:1–20"
+    },
+    {
+     "title": "Seven bowls of wrath",
+     "range": "15:1–16:21"
+    }
+   ]
+  },
+  {
+   "title": "Final Victory",
+   "range": "17:1–20:15",
+   "start": 17,
+   "end": 20,
+   "items": [
+    {
+     "title": "The fall of Babylon",
+     "range": "17:1–19:10"
+    },
+    {
+     "title": "The rider on the white horse and the final judgment",
+     "range": "19:11–20:15"
+    }
+   ]
+  },
+  {
+   "title": "All Things New",
+   "range": "21:1–22:21",
+   "start": 21,
+   "end": 22,
+   "items": [
+    {
+     "title": "The new heaven, new earth, and new Jerusalem",
+     "range": "21:1–22:5"
+    },
+    {
+     "title": "“Surely I am coming soon”",
+     "range": "22:6–21"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "The Sovereignty of God",
+   "text": "God sits on the throne over all history."
+  },
+  {
+   "title": "The Lamb Who Was Slain",
+   "text": "Christ conquers through His sacrificial death."
+  },
+  {
+   "title": "Worship",
+   "text": "Heaven is filled with worship of God and the Lamb."
+  },
+  {
+   "title": "Faithful Endurance",
+   "text": "Believers overcome by the blood of the Lamb and their testimony."
+  },
+  {
+   "title": "Judgment",
+   "text": "God judges evil justly in seals, trumpets, and bowls."
+  },
+  {
+   "title": "Spiritual Conflict",
+   "text": "The dragon and the beasts wage war against God’s people."
+  },
+  {
+   "title": "Babylon vs. the New Jerusalem",
+   "text": "The seductive, corrupt world system versus God’s holy city."
+  },
+  {
+   "title": "New Creation",
+   "text": "God will dwell with His people and wipe away every tear."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Revelation 1:8",
+   "quote": "I am the Alpha and the Omega, says the Lord God, who is and who was and who is to come, the Almighty."
+  },
+  {
+   "ref": "Revelation 3:20",
+   "quote": "Behold, I stand at the door and knock."
+  },
+  {
+   "ref": "Revelation 5:12",
+   "quote": "Worthy is the Lamb who was slain."
+  },
+  {
+   "ref": "Revelation 12:11",
+   "quote": "And they have conquered him by the blood of the Lamb and by the word of their testimony."
+  },
+  {
+   "ref": "Revelation 21:4",
+   "quote": "He will wipe away every tear from their eyes, and death shall be no more."
+  },
+  {
+   "ref": "Revelation 22:20",
+   "quote": "Surely I am coming soon. Amen. Come, Lord Jesus!"
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "1:12–18",
+   "text": "The glorified Son of Man holds the keys of Death and Hades."
+  },
+  {
+   "ref": "5:5–6",
+   "text": "The Lion of the tribe of Judah is revealed as a Lamb standing as though slain."
+  },
+  {
+   "ref": "7:17",
+   "text": "The Lamb will be their shepherd and guide them to springs of living water."
+  },
+  {
+   "ref": "19:11–16",
+   "text": "Christ returns as Faithful and True, King of kings and Lord of lords."
+  },
+  {
+   "ref": "22:13, 16",
+   "text": "Jesus is the Alpha and Omega, the root and descendant of David, the bright morning star."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "Daniel 7",
+   "note": "Beasts and the Son of Man."
+  },
+  {
+   "ref": "Ezekiel 1; 40–48",
+   "note": "Throne visions and the new temple."
+  },
+  {
+   "ref": "Isaiah 65:17–25",
+   "note": "New heavens and new earth."
+  },
+  {
+   "ref": "Zechariah 4; 12:10",
+   "note": "Lampstands; the pierced one."
+  },
+  {
+   "ref": "Genesis 1–3",
+   "note": "Creation and the tree of life restored."
+  }
+ ],
+ "reflection": [
+  "Which of the seven churches is most like you or your church, and what does Jesus say to it?",
+  "How does the vision of God on His throne (chapters 4–5) shape your view of current events?",
+  "How does Revelation call you to resist compromise with “Babylon”?",
+  "What does it mean to conquer “by the blood of the Lamb and by the word of their testimony” (12:11)?",
+  "Which promise of the new creation (21–22) are you most looking forward to?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "The Son of Man",
+   "summary": "This is the revelation of Jesus Christ, with a blessing for those who read and keep it. John greets the seven churches from the eternal God and from Jesus, the faithful witness, who loves us and freed us by His blood. On Patmos, on the Lord’s day, John sees one like a son of man among seven lampstands, with eyes like fire and a face like the sun. John falls as though dead, but Jesus says, “Fear not, I am the first and the last... I have the keys of Death and Hades.”",
+   "questions": [
+    "What blessing is promised in 1:3?",
+    "What does each detail of the vision reveal about Jesus (1:13–16)?",
+    "How do Jesus’ words in 1:17–18 speak to your fears?"
+   ],
+   "crossRefs": [
+    "Daniel 7:9–14",
+    "Daniel 10:5–6",
+    "Isaiah 44:6"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Letters to Ephesus, Smyrna, Pergamum, and Thyatira",
+   "summary": "Jesus praises Ephesus for doctrine and endurance but rebukes it: “You have abandoned the love you had at first.” Smyrna, poor and persecuted, is told, “Be faithful unto death, and I will give you the crown of life.” Pergamum holds fast but tolerates false teaching. Thyatira is loving and serving but tolerates “Jezebel.” To each who conquers, Christ gives a promise.",
+   "questions": [
+    "How can a church be doctrinally sound yet lose its first love?",
+    "What encouragement does Smyrna receive (2:10)?",
+    "What promises are given to those who conquer?"
+   ],
+   "crossRefs": [
+    "Ephesians 1:15–16",
+    "James 1:12",
+    "Numbers 25:1–3"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Letters to Sardis, Philadelphia, and Laodicea",
+   "summary": "Sardis has a reputation for being alive but is dead: “Wake up.” Philadelphia has little power but has kept His word; Jesus sets before it an open door. Laodicea is lukewarm, saying “I am rich” but blind to its poverty. Jesus counsels them to buy true riches and says, “Behold, I stand at the door and knock.”",
+   "questions": [
+    "What does it mean to have a reputation for life but be dead (3:1)?",
+    "What open door has Jesus set before Philadelphia (3:8)?",
+    "How does Jesus respond to the lukewarm church (3:19–20)?"
+   ],
+   "crossRefs": [
+    "Matthew 24:42–44",
+    "Isaiah 22:22",
+    "Hosea 12:8"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The Throne in Heaven",
+   "summary": "A door opens in heaven, and John sees a throne with one seated on it, surrounded by a rainbow, twenty-four elders, and four living creatures. Day and night they never cease to say, “Holy, holy, holy, is the Lord God Almighty.” The elders cast their crowns before the throne: “Worthy are you, our Lord and God... for you created all things.”",
+   "questions": [
+    "Why does Revelation show the throne room before the judgments?",
+    "What do the living creatures and elders praise God for?",
+    "What does casting crowns before the throne picture?"
+   ],
+   "crossRefs": [
+    "Isaiah 6:1–3",
+    "Ezekiel 1:4–28",
+    "Psalm 47:8"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The Lamb Who Was Slain",
+   "summary": "A scroll sealed with seven seals is in God’s hand, and no one is worthy to open it. John weeps, but an elder says the Lion of the tribe of Judah has conquered. John looks and sees a Lamb standing as though slain. The heavenly beings sing a new song: “By your blood you ransomed people for God from every tribe and language.” All creation praises the Lamb.",
+   "questions": [
+    "Why is the image of a Lion revealed as a Lamb so significant?",
+    "What makes the Lamb worthy (5:9–10)?",
+    "How does 5:13 picture the scope of Christ’s worship?"
+   ],
+   "crossRefs": [
+    "Genesis 49:9–10",
+    "Isaiah 53:7",
+    "John 1:29"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The Six Seals",
+   "summary": "The Lamb opens the seals: four horsemen bring conquest, war, famine, and death. Martyrs under the altar cry, “How long?” and are told to rest a little longer. The sixth seal brings cosmic upheaval; people hide from “the wrath of the Lamb,” asking, “Who can stand?”",
+   "questions": [
+    "What do the four horsemen represent?",
+    "How does God answer the martyrs’ cry (6:9–11)?",
+    "What is the answer to “Who can stand?” (see chapter 7)?"
+   ],
+   "crossRefs": [
+    "Zechariah 1:8–11; 6:1–8",
+    "Matthew 24:6–8",
+    "Luke 23:30"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "The Great Multitude",
+   "summary": "Before judgment continues, 144,000 from the tribes of Israel are sealed as God’s servants. Then John sees a great multitude no one can number, from every nation, standing before the throne in white robes, crying, “Salvation belongs to our God... and to the Lamb!” They have washed their robes in the Lamb’s blood. God will shelter them and wipe away every tear.",
+   "questions": [
+    "Why are God’s servants sealed before judgment?",
+    "How does the great multitude fulfill God’s promise to Abraham?",
+    "What comfort does 7:15–17 give to suffering believers?"
+   ],
+   "crossRefs": [
+    "Genesis 12:3",
+    "Isaiah 25:8",
+    "Ezekiel 9:4"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "The Seventh Seal and First Trumpets",
+   "summary": "When the seventh seal is opened, there is silence in heaven for about half an hour. The prayers of the saints rise like incense, and fire is thrown on the earth. Seven angels blow trumpets: hail and fire, a burning mountain into the sea, a star called Wormwood poisoning waters, and darkness on a third of the sun, moon, and stars.",
+   "questions": [
+    "Why might there be silence in heaven (8:1)?",
+    "What role do the saints’ prayers play (8:3–5)?",
+    "How do the trumpets echo the plagues of Egypt?"
+   ],
+   "crossRefs": [
+    "Exodus 7–10",
+    "Psalm 141:2",
+    "Joel 2:1"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The Fifth and Sixth Trumpets",
+   "summary": "The fifth trumpet releases locust-like creatures from the bottomless pit that torment those without God’s seal. The sixth releases an army of horsemen that kill a third of mankind. Yet the survivors do not repent of their idols, murders, sorceries, immorality, or thefts.",
+   "questions": [
+    "Who is protected from the locusts (9:4)?",
+    "Why do people refuse to repent despite judgment (9:20–21)?",
+    "What does this teach about the hardness of the human heart?"
+   ],
+   "crossRefs": [
+    "Joel 1:4–2:11",
+    "Exodus 10:12–15",
+    "Romans 2:4–5"
+   ]
+  },
+  {
+   "n": 10,
+   "title": "The Little Scroll",
+   "summary": "A mighty angel with a little scroll declares there will be no more delay. John is told to eat the scroll; it is sweet as honey in his mouth but bitter in his stomach. He must prophesy again about many peoples and nations.",
+   "questions": [
+    "What does eating the scroll symbolize?",
+    "Why would God’s word be both sweet and bitter?",
+    "How does this echo Ezekiel’s call?"
+   ],
+   "crossRefs": [
+    "Ezekiel 2:8–3:3",
+    "Jeremiah 15:16",
+    "Psalm 119:103"
+   ]
+  },
+  {
+   "n": 11,
+   "title": "The Two Witnesses",
+   "summary": "John measures the temple. Two witnesses prophesy for 1,260 days with power like Moses and Elijah. The beast kills them, and the world rejoices, but after three and a half days God raises them and they ascend. The seventh trumpet sounds: “The kingdom of the world has become the kingdom of our Lord and of his Christ, and he shall reign forever and ever.”",
+   "questions": [
+    "What do the two witnesses represent?",
+    "How does their story mirror Jesus’ death and resurrection?",
+    "Why is 11:15 such a climactic declaration?"
+   ],
+   "crossRefs": [
+    "Zechariah 4:1–14",
+    "Exodus 7:17–20",
+    "Daniel 7:14"
+   ]
+  },
+  {
+   "n": 12,
+   "title": "The Woman and the Dragon",
+   "summary": "A woman clothed with the sun gives birth to a male child who will rule the nations; a great red dragon seeks to devour Him, but the child is caught up to God. Michael defeats the dragon, the devil, who is thrown down to earth. Believers “have conquered him by the blood of the Lamb and by the word of their testimony.” The dragon pursues the woman and makes war on her offspring.",
+   "questions": [
+    "Who is the male child, and what does His story summarize (12:5)?",
+    "How do believers overcome Satan (12:11)?",
+    "Why is the devil so furious (12:12)?"
+   ],
+   "crossRefs": [
+    "Genesis 3:15",
+    "Psalm 2:9",
+    "Luke 10:18"
+   ]
+  },
+  {
+   "n": 13,
+   "title": "The Two Beasts",
+   "summary": "A beast rises from the sea with ten horns and seven heads, given authority by the dragon. The world marvels and worships it. It blasphemes and makes war on the saints. A second beast from the earth performs signs and forces all to worship the first beast and receive its mark, 666, to buy or sell. This calls for endurance and wisdom.",
+   "questions": [
+    "How does the first beast imitate Christ?",
+    "What pressures did the mark of the beast represent for early believers?",
+    "Where do you feel pressure today to give loyalty to something other than Christ?"
+   ],
+   "crossRefs": [
+    "Daniel 7:1–8",
+    "2 Thessalonians 2:3–12",
+    "Matthew 24:24"
+   ]
+  },
+  {
+   "n": 14,
+   "title": "The Lamb and the Harvest",
+   "summary": "The Lamb stands on Mount Zion with the 144,000 who follow Him wherever He goes. Three angels proclaim the eternal gospel, the fall of Babylon, and the judgment of those who worship the beast. “Blessed are the dead who die in the Lord.” The Son of Man reaps the earth, and the grapes of wrath are trampled.",
+   "questions": [
+    "What is the eternal gospel the angel proclaims (14:6–7)?",
+    "What does 14:12–13 offer to faithful believers?",
+    "What do the two harvests represent?"
+   ],
+   "crossRefs": [
+    "Joel 3:13",
+    "Isaiah 63:1–6",
+    "Matthew 13:39–43"
+   ]
+  },
+  {
+   "n": 15,
+   "title": "The Song of Moses and the Lamb",
+   "summary": "John sees seven angels with seven last plagues. Those who conquered the beast stand beside a sea of glass, singing the song of Moses and the Lamb: “Great and amazing are your deeds, O Lord God the Almighty! Just and true are your ways, O King of the nations!” The temple fills with smoke from God’s glory.",
+   "questions": [
+    "Why is this called the song of Moses and the Lamb?",
+    "What does the song praise about God (15:3–4)?",
+    "How do God’s justice and truth go together?"
+   ],
+   "crossRefs": [
+    "Exodus 15:1–18",
+    "Psalm 86:9",
+    "Deuteronomy 32:4"
+   ]
+  },
+  {
+   "n": 16,
+   "title": "The Seven Bowls",
+   "summary": "Seven bowls of God’s wrath are poured out: sores, seas and rivers turned to blood, scorching sun, darkness, the drying of the Euphrates, and a great earthquake. An angel declares God’s judgments just. People curse God and do not repent. Demonic spirits gather the kings for battle at Armageddon. “It is done!”",
+   "questions": [
+    "Why does the angel call God’s judgments just (16:5–7)?",
+    "What warning does Jesus give in 16:15?",
+    "How do people respond to the bowls, and what does that reveal?"
+   ],
+   "crossRefs": [
+    "Exodus 7–11",
+    "Psalm 119:137",
+    "Matthew 24:43–44"
+   ]
+  },
+  {
+   "n": 17,
+   "title": "The Great Prostitute",
+   "summary": "An angel shows John a woman, “Babylon the great,” sitting on a scarlet beast, clothed in luxury and drunk with the blood of the saints. The beast and its kings will make war on the Lamb, “and the Lamb will conquer them, for he is Lord of lords and King of kings.” The beast and kings will turn against the prostitute and destroy her.",
+   "questions": [
+    "What does Babylon represent?",
+    "Why is the Lamb sure to win (17:14)?",
+    "How does evil eventually destroy itself (17:16–17)?"
+   ],
+   "crossRefs": [
+    "Jeremiah 51:7–13",
+    "Daniel 7:23–25",
+    "Isaiah 47"
+   ]
+  },
+  {
+   "n": 18,
+   "title": "The Fall of Babylon",
+   "summary": "An angel announces, “Fallen, fallen is Babylon the great!” A voice calls, “Come out of her, my people.” Kings, merchants, and sailors mourn the city’s sudden destruction and lost luxury. Heaven rejoices, for God has judged her for the blood of prophets and saints.",
+   "questions": [
+    "What does “Come out of her, my people” (18:4) mean for believers today?",
+    "Why do the merchants mourn?",
+    "What does Babylon’s fall teach about the fragility of wealth?"
+   ],
+   "crossRefs": [
+    "Isaiah 21:9",
+    "Jeremiah 51:6, 45",
+    "Ezekiel 27"
+   ]
+  },
+  {
+   "n": 19,
+   "title": "The Rider on the White Horse",
+   "summary": "A great multitude shouts “Hallelujah!” because the marriage of the Lamb has come, and His bride is clothed in fine linen, the righteous deeds of the saints. Heaven opens, and a rider on a white horse, called Faithful and True and the Word of God, comes to judge and make war. His robe reads, “King of kings and Lord of lords.” The beast and false prophet are captured and thrown into the lake of fire.",
+   "questions": [
+    "What does the marriage supper of the Lamb picture (19:7–9)?",
+    "What names are given to the rider (19:11–16)?",
+    "How is Christ’s victory accomplished (19:15, 21)?"
+   ],
+   "crossRefs": [
+    "Matthew 22:1–14",
+    "Isaiah 11:4",
+    "Psalm 2:9"
+   ]
+  },
+  {
+   "n": 20,
+   "title": "The Thousand Years and Final Judgment",
+   "summary": "Satan is bound for a thousand years, and the faithful reign with Christ. Afterward Satan is released, gathers Gog and Magog, and is defeated and thrown into the lake of fire forever. The dead stand before a great white throne and are judged by what is written in the books. Death and Hades are thrown into the lake of fire; anyone not found in the book of life is thrown in too.",
+   "questions": [
+    "What do you learn about Satan’s final end (20:10)?",
+    "What does the great white throne judgment teach about accountability?",
+    "Why does the book of life matter so much (20:15)?"
+   ],
+   "crossRefs": [
+    "Ezekiel 38–39",
+    "Daniel 7:9–10",
+    "John 5:28–29"
+   ]
+  },
+  {
+   "n": 21,
+   "title": "All Things New",
+   "summary": "John sees a new heaven and a new earth and the holy city, new Jerusalem, coming down from God like a bride. “Behold, the dwelling place of God is with man.” God will wipe away every tear; death, mourning, and pain will be no more. “Behold, I am making all things new.” The city shines with God’s glory, with gates of pearl and streets of gold; it has no temple, for God and the Lamb are its temple.",
+   "questions": [
+    "What does God’s dwelling with humanity mean for you (21:3)?",
+    "What will no longer exist in the new creation (21:4)?",
+    "Why does the city need no temple or sun (21:22–23)?"
+   ],
+   "crossRefs": [
+    "Isaiah 65:17–19",
+    "Isaiah 25:8",
+    "Ezekiel 48:35"
+   ]
+  },
+  {
+   "n": 22,
+   "title": "Come, Lord Jesus",
+   "summary": "The river of the water of life flows from God’s throne, and the tree of life bears fruit, its leaves for the healing of the nations. There is no more curse; God’s servants will see His face. Jesus says, “Behold, I am coming soon.” He is the Alpha and Omega, the bright morning star. The Spirit and the Bride say, “Come.” “Surely I am coming soon.” “Amen. Come, Lord Jesus!”",
+   "questions": [
+    "How does 22:1–5 reverse the curse of Genesis 3?",
+    "What invitation is given in 22:17?",
+    "How does the promise “I am coming soon” shape your life today?"
+   ],
+   "crossRefs": [
+    "Genesis 2:9; 3:22–24",
+    "Ezekiel 47:1–12",
+    "1 Corinthians 16:22"
+   ]
+  }
+ ],
+ "tagline": "The Lamb who was slain reigns, and He is making all things new",
+ "readingPlan": "22 chapters: one chapter a day takes 22 days; two a day takes about 11 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}
