@@ -1,0 +1,305 @@
+tagline: God rescues His people, gives His law, and comes to dwell among them
+author: Traditionally Moses, who is the central human figure of the book. Exodus itself records that Moses wrote down the LORD's words (17:14; 24:4; 34:27), and Jesus refers to "the book of Moses" (Mark 12:26).
+date: Written during the wilderness period, roughly 1446-1406 BC on the traditional early date of the Exodus (or the 13th century BC on a later date). It covers about 80 years, from Moses' birth to the building of the tabernacle at Sinai.
+audience: The generation of Israel freed from Egypt and their children, who needed to understand their redemption, their covenant with God, and how to worship Him.
+setting: Egypt (Goshen and Pharaoh's court), the wilderness, and Mount Sinai, where Israel camps from chapter 19 to the end of the book.
+purpose: To show the LORD as the faithful, powerful God who remembers His covenant with Abraham, redeems His people from slavery, binds them to Himself by covenant at Sinai, and comes to live among them in the tabernacle.
+structure: Three movements: deliverance from Egypt (1-18), covenant and law at Sinai (19-24), and the tabernacle, with the golden-calf crisis in the middle (25-40).
+## outline
+* Israel in Egypt and the Call of Moses | 1:1-6:27 | 1 | 6
+- Oppression and Moses' birth | 1:1-2:25
+- The burning bush and Moses' call | 3:1-4:31
+- First confrontation with Pharaoh | 5:1-6:27
+* The Plagues and the Passover | 6:28-13:16 | 6 | 13
+- The first nine plagues | 6:28-10:29
+- The final plague and the Passover | 11:1-13:16
+* The Exodus and the Wilderness Journey | 13:17-18:27 | 13 | 18
+- Crossing the Red Sea and the song of Moses | 13:17-15:21
+- Bread, water, and battle in the wilderness | 15:22-17:16
+- Jethro's visit | 18:1-27
+* The Covenant at Sinai | 19:1-24:18 | 19 | 24
+- God appears on the mountain | 19:1-25
+- The Ten Commandments | 20:1-21
+- The Book of the Covenant | 20:22-23:33
+- The covenant confirmed with blood | 24:1-18
+* The Tabernacle and the Golden Calf | 25:1-40:38 | 25 | 40
+- Instructions for the tabernacle and priesthood | 25:1-31:18
+- The golden calf and covenant renewal | 32:1-34:35
+- The tabernacle built and filled with glory | 35:1-40:38
+## themes
+- Redemption | God hears His people's cry and redeems them from slavery "with an outstretched arm" (6:6). The Exodus becomes the Old Testament's great picture of salvation.
+- The Name and Character of God | God reveals Himself as "I AM" (3:14) and proclaims His name as merciful, gracious, and just (34:6-7).
+- Covenant | At Sinai, the redeemed people are bound to God as "a kingdom of priests and a holy nation" (19:6).
+- Law as a Gift | The law comes after rescue (20:2). It shows Israel how a redeemed people should live with God and with each other.
+- God's Presence | The book moves from God appearing in a bush to God filling the tabernacle with His glory in the midst of His people (40:34).
+- Worship and Idolatry | True worship follows God's pattern, while the golden calf shows how quickly people make gods in their own image.
+- Mediation | Moses stands between God and the people, interceding for them and pointing ahead to a greater Mediator.
+## verses
+- Exodus 3:14 | God said to Moses, 'I AM WHO I AM.'
+- Exodus 12:13 | And when I see the blood, I will pass over you.
+- Exodus 14:14 | The LORD will fight for you, and you have only to be silent.
+- Exodus 20:2-3 | I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. You shall have no other gods before me.
+- Exodus 34:6 | The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness.
+## christ
+- 3:14 | Jesus applies God's name "I am" to Himself (John 8:58).
+- 12:1-13 | The Passover lamb whose blood saves points to Christ, "our Passover lamb" (1 Corinthians 5:7).
+- 16:4 | The manna from heaven anticipates Jesus, the true bread from heaven (John 6:32-35).
+- 17:6 | The struck rock that gives water: "the Rock was Christ" (1 Corinthians 10:4).
+- 25-40 | The tabernacle, where God dwells among His people, is fulfilled when "the Word became flesh and dwelt among us" (John 1:14).
+- 32:30-32 | Moses offering himself for the people's sin foreshadows Christ, the one Mediator (Hebrews 3:1-6).
+## xrefs
+- Acts 7:17-44 | Stephen retells Moses' life and the Exodus.
+- 1 Corinthians 10:1-13 | The wilderness generation as a warning for believers.
+- Hebrews 3:1-6 | Jesus is worthy of more glory than Moses.
+- Hebrews 8-10 | The tabernacle and its sacrifices as shadows fulfilled in Christ.
+- Psalm 78; Psalm 105-106 | Israel's songs remembering the Exodus.
+- Revelation 15:3 | The redeemed sing "the song of Moses... and the song of the Lamb."
+## reflect
+- What "Egypt" has God brought you out of? Take time to thank Him specifically for your redemption.
+- God gave the law after He saved Israel (20:2). How does obeying God out of gratitude differ from obeying to earn His favor?
+- Which of the Ten Commandments do you find most challenging right now, and why?
+- Israel grumbled soon after seeing miracles. Where are you tempted to forget God's past faithfulness?
+- What "golden calves" (substitutes for the true God) are you tempted to make or trust?
+- Moses longed to see God's glory (33:18). How can you seek God's presence more deliberately this week?
+- The tabernacle was built by willing hearts and skilled hands (35:21; 36:1). How can you offer your gifts to God's work?
+## chapters
+@ Israel Oppressed in Egypt
+Jacob's descendants multiply greatly in Egypt, and a new Pharaoh who did not know Joseph enslaves them out of fear. When harsh labor fails to stop their growth, he orders the Hebrew midwives to kill the baby boys, but the midwives fear God and refuse. Pharaoh then commands that every Hebrew son be thrown into the Nile.
+? How does Israel's growth fulfill God's promises to Abraham (Genesis 15:5; 46:3)?
+? What can we learn from the midwives' courage (1:17)?
+? Where do you see God at work even though He is barely mentioned in this chapter?
+> Genesis 15:13-14 | Acts 7:17-19 | Acts 5:29
+@ The Birth of Moses
+A Levite mother hides her baby and places him in a basket among the reeds. Pharaoh's daughter finds him, his sister arranges for his own mother to nurse him, and he is raised as Moses. As an adult Moses kills an Egyptian who was beating a Hebrew and flees to Midian, where he marries Zipporah. Meanwhile, God hears Israel's groaning and remembers His covenant.
+? How does God use Pharaoh's own household to preserve the future deliverer?
+? What was right and wrong about Moses' attempt to deliver his people by his own hand (2:11-15)?
+? What do the four verbs in 2:24-25 (heard, remembered, saw, knew) reveal about God?
+> Acts 7:20-29 | Hebrews 11:23-27 | Genesis 50:24
+@ The Burning Bush
+While shepherding in the wilderness, Moses sees a bush that burns but is not consumed. God calls to him, declares that He has seen His people's affliction, and sends Moses to Pharaoh. When Moses asks God's name, God answers, "I AM WHO I AM," and promises that Egypt will be plundered as Israel leaves.
+? Why do you think God revealed Himself in a bush that was not consumed?
+? What does the name "I AM WHO I AM" teach about God?
+? Moses asks, "Who am I?" (3:11). How does God's answer ("I will be with you") speak to your own fears?
+> John 8:58 | Acts 7:30-34 | Matthew 22:31-32
+@ Moses' Excuses and God's Signs
+God gives Moses signs (a staff that becomes a serpent, a hand made leprous and restored, and water turned to blood). Moses still pleads that he is not eloquent, and God, angered, appoints Aaron as his spokesman. On the way back to Egypt, Zipporah circumcises their son. Moses and Aaron show the signs to Israel's elders, and the people believe and worship.
+? What do Moses' excuses reveal about him, and how does God answer each one?
+? What does 4:11-12 teach about God's sovereignty over our weaknesses?
+? Why is the strange episode in 4:24-26 important for a covenant leader?
+> 2 Corinthians 12:9 | Jeremiah 1:6-9 | Genesis 17:14
+@ Bricks Without Straw
+Moses and Aaron tell Pharaoh, "Let my people go," but Pharaoh answers, "Who is the LORD?" and increases the people's burdens by making them gather their own straw. The Israelite foremen blame Moses, and Moses complains to God.
+? Pharaoh asks, "Who is the LORD, that I should obey his voice?" (5:2). How will the rest of the book answer him?
+? Why do things sometimes get worse right after we obey God?
+? What can we learn from Moses bringing his frustration directly to God (5:22-23)?
+> Psalm 2:1-4 | 2 Corinthians 4:8-9 | Psalm 13:1-2
+@ God Promises Deliverance
+God reassures Moses with seven "I will" promises: to bring Israel out, deliver them, redeem them, take them as His people, be their God, bring them to the land, and give it to them. The people are too discouraged to listen. A genealogy of Moses and Aaron establishes their Levite line.
+? List the "I will" statements in 6:6-8. Which one encourages you most?
+? Why couldn't the people listen (6:9)? How does broken spirit affect our ability to hear God?
+? Why include a genealogy at this point in the story?
+> Jeremiah 31:33 | 2 Corinthians 6:16 | Revelation 21:3
+@ The First Plague: Water to Blood
+God tells Moses that He will harden Pharaoh's heart so that Egypt will know that He is the LORD. Aaron's staff becomes a serpent that swallows the magicians' staffs. Then Aaron strikes the Nile, Egypt's lifeline and an object of worship, and its water turns to blood. The magicians imitate it, and Pharaoh's heart remains hard.
+? What is the stated purpose of the plagues (7:5)?
+? How does turning the Nile to blood challenge Egypt's gods?
+? What do you learn from the way Pharaoh's heart is hardened, both by himself and by God?
+> Romans 9:17-18 | Revelation 16:3-4 | Psalm 78:44
+@ Frogs, Gnats, and Flies
+Frogs cover the land, and Pharaoh promises to let the people go but changes his mind once relief comes. Gnats follow, and the magicians admit, "This is the finger of God." Flies swarm Egypt, but God sets apart the land of Goshen where Israel lives. Again Pharaoh bargains and then refuses.
+? Why does Pharaoh keep making and breaking promises?
+? What does it mean that the magicians recognize "the finger of God" (8:19)?
+? How does God's distinction between Egypt and Goshen (8:22-23) show His care for His people?
+> Luke 11:20 | Psalm 105:30-31 | Hebrews 3:13
+@ Livestock, Boils, and Hail
+A plague strikes Egypt's livestock, then boils break out on people and animals, and finally a severe hailstorm destroys crops and anyone left outside. Some of Pharaoh's servants who fear the word of the LORD bring their livestock in and are spared. Pharaoh confesses, "I have sinned," but hardens his heart again once the hail stops.
+? What does God say in 9:16 about why He raised up Pharaoh?
+? Why is it significant that some Egyptians feared the LORD and were spared (9:20)?
+? How can a confession like Pharaoh's (9:27) be shallow? What does true repentance look like?
+> Romans 9:17 | 2 Corinthians 7:10 | Revelation 16:21
+@ Locusts and Darkness
+Locusts devour whatever the hail left, and Pharaoh's officials beg him to let Israel go. Then thick darkness covers Egypt for three days, while Israel has light where they live. Pharaoh offers to let the people go without their livestock, but Moses refuses to compromise, and Pharaoh threatens his life.
+? Why does God want this story told to children and grandchildren (10:2)?
+? What compromises does Pharaoh offer, and why does Moses refuse them?
+? How does the darkness plague confront Ra, Egypt's sun god?
+> Joel 2:1-11 | John 8:12 | 2 Corinthians 6:14
+@ The Final Plague Announced
+God announces one last plague: every firstborn in Egypt will die at midnight, from Pharaoh's son to the livestock, but not a dog will growl against Israel. The Israelites are to ask their neighbors for silver and gold. Moses leaves Pharaoh in hot anger.
+? Why does the final plague target the firstborn? (See 4:22-23.)
+? How does God keep His promise from Genesis 15:14 in 11:2-3?
+? What does God's distinction between Egypt and Israel (11:7) teach about grace?
+> Genesis 15:14 | Exodus 4:22-23 | Psalm 105:36-37
+@ The Passover
+God establishes the Passover: each household is to kill an unblemished lamb and put its blood on the doorposts, and the LORD will pass over the houses marked by blood. At midnight the firstborn of Egypt die, Pharaoh urges Israel to leave, and about 600,000 men plus families depart after 430 years. The Feast of Unleavened Bread is established as a lasting memorial.
+? Why did the Israelites need the blood on their doors even though they were God's people?
+? List the connections between the Passover lamb and Jesus.
+? Why does God give Israel a yearly meal to remember their deliverance? How does the Lord's Supper do the same for us?
+> 1 Corinthians 5:7 | John 1:29 | 1 Peter 1:18-19 | Luke 22:7-20
+@ Consecration of the Firstborn; Pillar of Cloud and Fire
+God claims every firstborn in Israel as His, to be redeemed as a reminder of the Exodus. He leads the people by the longer wilderness route, not the short road through Philistine land. Moses carries Joseph's bones, and the LORD goes before them in a pillar of cloud by day and fire by night.
+? Why does God claim the firstborn as His own?
+? Why might God lead us by a longer route (13:17-18)?
+? What does the pillar of cloud and fire teach about God's guidance?
+> Genesis 50:25 | Luke 2:22-23 | Nehemiah 9:12
+@ Crossing the Red Sea
+Pharaoh changes his mind and pursues Israel with chariots, trapping them at the sea. The terrified people cry out, and Moses says, "Fear not, stand firm, and see the salvation of the LORD." God parts the sea, Israel crosses on dry ground, and the waters return on the Egyptian army. The people fear the LORD and believe in Him and in Moses.
+? How do the people's fear (14:10-12) and Moses' response (14:13-14) compare?
+? What does it mean to "stand firm and see the salvation of the LORD" in your situation?
+? How does the New Testament use the Red Sea crossing (1 Corinthians 10:1-2)?
+> 1 Corinthians 10:1-2 | Hebrews 11:29 | Isaiah 43:16-19
+@ The Song of Moses; Bitter Water Made Sweet
+Moses and Israel sing a victory song praising the LORD as a warrior who has triumphed gloriously, and Miriam leads the women in dance. Three days later at Marah the water is bitter, the people grumble, and God makes it sweet, revealing Himself as "the LORD, your healer." They then camp at the oasis of Elim.
+? What does the song in 15:1-18 celebrate about God?
+? How quickly does praise turn to grumbling (15:22-24)? Why?
+? What does the name "the LORD, your healer" (15:26) mean to you?
+> Revelation 15:3-4 | Psalm 106:9-13 | Psalm 103:2-3
+@ Manna and Quail
+The whole congregation grumbles about food, wishing they had died in Egypt. God sends quail in the evening and manna each morning, with instructions to gather only enough for each day and a double portion before the Sabbath. Some disobey, and their extra manna rots. A jar of manna is kept as a memorial.
+? What was God teaching His people through daily manna (16:4; Deuteronomy 8:3)?
+? How does Jesus connect Himself to the manna in John 6?
+? What does the Sabbath instruction reveal about rest and trust?
+> John 6:30-35 | Deuteronomy 8:3 | Matthew 6:11
+@ Water from the Rock; Victory over Amalek
+At Rephidim the people quarrel with Moses over water and test the LORD. God tells Moses to strike the rock at Horeb, and water flows. Amalek attacks, and Israel prevails while Moses' hands are lifted up, held by Aaron and Hur when he grows tired. Moses builds an altar called "The LORD Is My Banner."
+? What does it mean to "test the LORD" (17:2, 7)?
+? How does Paul see Christ in the rock (1 Corinthians 10:4)?
+? Who are the "Aaron and Hur" in your life, and whom could you support that way?
+> 1 Corinthians 10:4 | Psalm 95:8-9 | Galatians 6:2
+@ Jethro's Advice
+Moses' father-in-law Jethro brings Zipporah and Moses' sons. Hearing all that God has done, Jethro rejoices and offers sacrifices. Seeing Moses judging the people from morning till evening, Jethro advises him to appoint capable, God-fearing men to share the load. Moses listens and does it.
+? How does Jethro respond to hearing the testimony of God's deliverance?
+? What does Jethro's advice teach about delegation and burnout?
+? What can we learn from Moses' humility in accepting counsel?
+> Acts 6:1-4 | Proverbs 15:22 | Numbers 11:16-17
+@ Israel at Mount Sinai
+Three months after leaving Egypt, Israel camps at Sinai. God says, "I bore you on eagles' wings and brought you to myself," and calls them to be His treasured possession, "a kingdom of priests and a holy nation." The people consecrate themselves, and on the third day God descends on the mountain in fire, smoke, thunder, and trumpet blast.
+? What do God's words in 19:4-6 reveal about why He saved Israel?
+? How does Peter apply 19:6 to the church (1 Peter 2:9)?
+? Why were boundaries placed around the mountain? Compare Hebrews 12:18-24.
+> 1 Peter 2:9 | Hebrews 12:18-24 | Deuteronomy 4:10-13
+@ The Ten Commandments
+God speaks the Ten Commandments, beginning with "I am the LORD your God, who brought you out... of the house of slavery." The commands cover loyalty to God (no other gods, no idols, honoring His name, the Sabbath) and love for neighbor (honoring parents, and no murder, adultery, theft, false witness, or coveting). The people are afraid, and Moses draws near to the thick darkness where God is.
+? Why does God begin with His act of rescue before giving commands?
+? How does Jesus summarize these commands (Matthew 22:37-40)?
+? Which commandment does Jesus deepen in Matthew 5, and how?
+> Deuteronomy 5:6-21 | Matthew 22:37-40 | Matthew 5:17-30 | Romans 13:8-10
+@ Laws About Slaves and Personal Injury
+The Book of the Covenant begins with laws about Hebrew servants, then about violence, injury, and responsibility for animals. The principle "eye for eye" limits punishment so that it fits the crime.
+? How do these laws protect vulnerable people compared to other ancient cultures?
+? What was the purpose of "eye for eye" (21:23-25) in a court setting, and how does Jesus speak to personal revenge (Matthew 5:38-39)?
+? What do these laws teach about the value of human life?
+> Matthew 5:38-42 | Deuteronomy 15:12-18 | Genesis 9:6
+@ Laws About Property and Social Justice
+Laws cover restitution for theft and damage, then turn to moral and social duties: care for sojourners, widows, and orphans; lending without interest to the poor; honoring God and leaders; and giving God the firstfruits.
+? Why does God repeatedly remind Israel, "you were sojourners in the land of Egypt" (22:21)?
+? What does God promise to do when the vulnerable cry out to Him (22:23, 27)?
+? How might these principles shape the way you treat people with less power?
+> James 1:27 | Deuteronomy 24:17-22 | Luke 19:8
+@ Justice, Sabbath, and Festivals
+Laws call for honest testimony and impartial justice, even helping an enemy's donkey. God establishes the Sabbath year, the weekly Sabbath, and three annual feasts. He promises to send an angel before Israel and to drive out the nations gradually, warning against making covenants with their gods.
+? How does 23:4-5 anticipate Jesus' command to love your enemies?
+? What was the purpose of the three annual feasts?
+? Why would God drive out the nations "little by little" (23:29-30)?
+> Matthew 5:44 | Leviticus 23 | Deuteronomy 7:22
+@ The Covenant Confirmed
+Moses reads the Book of the Covenant, and the people promise, "All that the LORD has spoken we will do." He sprinkles the blood of the covenant on the altar and the people. Moses, Aaron, and seventy elders see the God of Israel and eat and drink in His presence. Moses then goes up the mountain for forty days.
+? Why was the covenant sealed with blood?
+? How does Jesus echo 24:8 at the Last Supper (Matthew 26:28)?
+? What is remarkable about the elders eating and drinking in God's presence (24:11)?
+> Hebrews 9:18-22 | Matthew 26:28 | Hebrews 12:24
+@ The Ark, Table, and Lampstand
+God asks for willing offerings to build a sanctuary "that I may dwell in their midst." He gives detailed patterns for the ark of the covenant with its mercy seat and cherubim, the table for the bread of the Presence, and the golden lampstand.
+? Why did God want a sanctuary built "that I may dwell in their midst" (25:8)?
+? What did the mercy seat on the ark represent? (See Romans 3:25.)
+? Why do you think God cared about such detailed patterns?
+> Hebrews 8:5 | Hebrews 9:1-5 | Romans 3:25 | John 1:14
+@ The Tabernacle
+God gives instructions for the tabernacle's curtains, coverings, frames, and the veil that separates the Holy Place from the Most Holy Place.
+? What did the veil teach Israel about access to God?
+? What happened to the temple veil when Jesus died (Matthew 27:51), and what does that mean?
+? Why might God have chosen a portable tent as His dwelling?
+> Hebrews 10:19-22 | Matthew 27:51 | John 1:14
+@ The Bronze Altar and the Courtyard
+God describes the bronze altar for burnt offerings, the courtyard with its hangings, and the instruction to keep the lampstand burning continually with pure olive oil.
+? Why was the altar of sacrifice the first thing a worshiper encountered?
+? What does the ever-burning lamp suggest about God's presence and our worship?
+? How does Hebrews 13:10-12 connect the altar to Christ?
+> Hebrews 13:10-12 | Leviticus 6:12-13 | Matthew 5:14-16
+@ The Priests' Garments
+God commands holy garments for Aaron and his sons "for glory and for beauty": the ephod with engraved stones bearing the tribes' names, the breastpiece with twelve stones, the robe, and the gold plate inscribed "Holy to the LORD."
+? Why did the high priest carry Israel's names on his shoulders and over his heart (28:12, 29)?
+? What does "Holy to the LORD" (28:36) mean for every believer today?
+? How is Jesus our great High Priest (Hebrews 4:14-16)?
+> Hebrews 4:14-16 | Hebrews 7:26-28 | 1 Peter 2:5
+@ Consecration of the Priests
+God gives a seven-day ceremony to ordain Aaron and his sons: washing, clothing, anointing, and sacrifices, with blood placed on the ear, thumb, and toe. Daily morning and evening offerings are established, and God promises to dwell among Israel and be their God.
+? What is the significance of blood on the ear, thumb, and big toe?
+? Why did the priests need atonement themselves before serving?
+? How does God's promise in 29:45-46 summarize the purpose of the Exodus?
+> Leviticus 8 | Hebrews 7:27 | Hebrews 10:11-14
+@ Altar of Incense, Atonement Money, and the Basin
+God describes the golden altar of incense, the half-shekel atonement money paid equally by rich and poor, the bronze basin for washing, and the sacred anointing oil and incense.
+? Why did rich and poor pay the same ransom (30:15)?
+? What does the incense represent? (See Psalm 141:2; Revelation 5:8.)
+? Why were the priests required to wash before serving?
+> Psalm 141:2 | Revelation 8:3-4 | Hebrews 10:22
+@ Skilled Workers and the Sabbath Sign
+God fills Bezalel with His Spirit, with skill, intelligence, and craftsmanship, and appoints Oholiab to help him. He reaffirms the Sabbath as a covenant sign and gives Moses the two tablets written with the finger of God.
+? What does it mean that Bezalel was filled with the Spirit for artistic skill?
+? How can your work and creativity be offered to God?
+? Why is the Sabbath called a "sign" between God and Israel (31:13)?
+> 1 Corinthians 12:4-7 | Colossians 3:23 | Ezekiel 20:12
+@ The Golden Calf
+Tired of waiting for Moses, the people demand gods, and Aaron makes a golden calf. They worship it, saying, "These are your gods, O Israel." God threatens judgment, but Moses intercedes. Moses breaks the tablets, destroys the calf, and the Levites carry out judgment. Moses offers to be blotted out of God's book for the people.
+? How did impatience lead to idolatry? Where do you see that pattern today?
+? How does Aaron excuse himself (32:22-24)?
+? What does Moses' intercession (32:11-14, 30-32) reveal about prayer and about Christ?
+> 1 Corinthians 10:7 | Psalm 106:19-23 | Acts 7:39-41 | Romans 9:3
+@ God's Presence and Glory
+God says He will send an angel but not go with the stiff-necked people Himself. The people mourn. Moses meets with God face to face in the tent of meeting and pleads, "If your presence will not go with me, do not bring us up from here." God agrees. Moses asks to see His glory, and God hides him in a cleft of the rock as His goodness passes by.
+? Why is God's presence more important to Moses than the promised land?
+? What does it mean that the LORD spoke to Moses "as a man speaks to his friend" (33:11)?
+? How does God reveal His glory in Jesus (John 1:14, 18; 2 Corinthians 4:6)?
+> John 1:14-18 | 2 Corinthians 4:6 | Psalm 27:4
+@ The Covenant Renewed
+God tells Moses to cut new tablets and proclaims His name: "The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness." The covenant is renewed with warnings against idolatry. Moses' face shines after speaking with God, so he wears a veil.
+? Read 34:6-7 slowly. Which description of God means the most to you today?
+? How is this self-description of God repeated throughout Scripture (e.g., Psalm 103:8; Jonah 4:2)?
+? How does Paul use Moses' shining face and veil (2 Corinthians 3:7-18)?
+> Psalm 103:8 | Jonah 4:2 | 2 Corinthians 3:7-18 | Numbers 14:18
+@ Generous Offerings for the Tabernacle
+Moses repeats the Sabbath command and invites everyone with a willing heart to bring offerings. Men and women give so generously, from gold to yarn to skilled work, and Bezalel and Oholiab are commissioned to lead and teach.
+? What do you notice about the motive for giving in 35:5, 21-22, 29?
+? How did both men and women contribute?
+? What would it look like for you to give with a "willing heart"?
+> 2 Corinthians 9:7 | 1 Chronicles 29:9 | Romans 12:6-8
+@ Building the Tabernacle
+The people bring so much that Moses must tell them to stop giving. The craftsmen make the curtains, coverings, frames, and veil exactly as God commanded.
+? When have you seen God's people respond with overflowing generosity?
+? Why does Scripture repeat the tabernacle details in the building account?
+? How does careful obedience honor God?
+> 2 Corinthians 8:1-5 | Hebrews 8:5 | Luke 16:10
+@ Making the Ark and Furnishings
+Bezalel makes the ark with its mercy seat and cherubim, the table, the lampstand, the altar of incense, the anointing oil, and the incense.
+? How does the mercy seat point to atonement through Christ?
+? What does the lampstand teach about light in God's presence?
+? How do these furnishings show the way of approach to God?
+> Romans 3:24-25 | Hebrews 9:1-14 | Revelation 1:12-13
+@ The Altar, Basin, and Courtyard
+The bronze altar, the basin (made from the women's bronze mirrors), and the courtyard are completed. An accounting of the precious metals used is given.
+? What is significant about the basin being made from the mirrors of the serving women (38:8)?
+? Why record an exact accounting of the materials?
+? What does the courtyard teach about God's holiness and accessibility?
+> 2 Corinthians 8:20-21 | James 1:23-25 | Psalm 100:4
+@ The Priestly Garments and the Work Completed
+The priestly garments are made, and the finished tabernacle and all its parts are brought to Moses. Seven times the text says it was done "as the LORD had commanded Moses." Moses inspects the work and blesses the people.
+? Why does the phrase "as the LORD had commanded Moses" repeat so often?
+? Compare 39:43 with Genesis 1:31 and 2:1-3. What parallels do you see?
+? What finished work for God could you dedicate to Him?
+> Genesis 1:31 | John 17:4 | John 19:30
+@ The Glory of the LORD Fills the Tabernacle
+On the first day of the second year, Moses sets up the tabernacle and consecrates the priests. Then the cloud covers the tent, and the glory of the LORD fills the tabernacle so that even Moses cannot enter. From then on, the cloud leads Israel's journeys.
+? How does the book end compared to how it began (oppressed slaves vs. God dwelling with His people)?
+? Why couldn't Moses enter the tent (40:35)? How has Jesus opened the way (Hebrews 10:19-22)?
+? How is God's presence with His people today (1 Corinthians 3:16; John 14:23)?
+> 1 Kings 8:10-11 | John 1:14 | 1 Corinthians 3:16 | Revelation 21:3

@@ -2,7 +2,7 @@
 window.BOOKS = (function () {
   const S = (testament, section, list) => list.map(([id, name, chapters, ready]) => ({ id, name, chapters, testament, section, ready: !!ready }));
   return [
-    ...S("OT", "Law", [["genesis","Genesis",50,true],["exodus","Exodus",40],["leviticus","Leviticus",27],["numbers","Numbers",36],["deuteronomy","Deuteronomy",34]]),
+    ...S("OT", "Law", [["genesis","Genesis",50,true],["exodus","Exodus",40,true],["leviticus","Leviticus",27,true],["numbers","Numbers",36,true],["deuteronomy","Deuteronomy",34,true]]),
     ...S("OT", "History", [["joshua","Joshua",24],["judges","Judges",21],["ruth","Ruth",4],["1-samuel","1 Samuel",31],["2-samuel","2 Samuel",24],["1-kings","1 Kings",22],["2-kings","2 Kings",25],["1-chronicles","1 Chronicles",29],["2-chronicles","2 Chronicles",36],["ezra","Ezra",10],["nehemiah","Nehemiah",13],["esther","Esther",10]]),
     ...S("OT", "Wisdom & Poetry", [["job","Job",42],["psalms","Psalms",150],["proverbs","Proverbs",31],["ecclesiastes","Ecclesiastes",12],["song-of-solomon","Song of Solomon",8]]),
     ...S("OT", "Major Prophets", [["isaiah","Isaiah",66],["jeremiah","Jeremiah",52],["lamentations","Lamentations",5],["ezekiel","Ezekiel",48],["daniel","Daniel",12]]),

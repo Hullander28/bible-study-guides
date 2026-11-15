@@ -1,0 +1,742 @@
+{
+ "id": "numbers",
+ "name": "Numbers",
+ "chapters": 36,
+ "overview": {
+  "author": "Traditionally Moses. Numbers 33:2 says Moses recorded the stages of the journey at the LORD’s command.",
+  "date": "Written near the end of the wilderness period, around 1406 BC on the traditional date. It covers about 39 years, from the second year after the Exodus to the plains of Moab.",
+  "audience": "The new generation of Israel poised to enter Canaan, who needed to learn from their parents’ failure and trust God’s promises.",
+  "setting": "It begins at Mount Sinai, moves through the wilderness of Paran and Kadesh, and ends on the plains of Moab across the Jordan from Jericho.",
+  "purpose": "To record how the generation that refused to trust God died in the wilderness, while God remained faithful to His promise and prepared a new generation to inherit the land.",
+  "structure": "Two censuses mark two generations: the old generation at Sinai and in the wilderness (1–25), and the new generation preparing to enter the land (26–36)."
+ },
+ "outline": [
+  {
+   "title": "Preparing to Leave Sinai",
+   "range": "1:1–10:10",
+   "start": 1,
+   "end": 10,
+   "items": [
+    {
+     "title": "The first census and the camp’s arrangement",
+     "range": "1:1–4:49"
+    },
+    {
+     "title": "Purity, vows, and the priestly blessing",
+     "range": "5:1–6:27"
+    },
+    {
+     "title": "Offerings, Levites, Passover, and the cloud",
+     "range": "7:1–10:10"
+    }
+   ]
+  },
+  {
+   "title": "From Sinai to Kadesh: Complaint and Rebellion",
+   "range": "10:11–14:45",
+   "start": 10,
+   "end": 14,
+   "items": [
+    {
+     "title": "Complaints, quail, and Miriam and Aaron",
+     "range": "10:11–12:16"
+    },
+    {
+     "title": "The spies and the people’s refusal",
+     "range": "13:1–14:45"
+    }
+   ]
+  },
+  {
+   "title": "The Wilderness Years",
+   "range": "15:1–25:18",
+   "start": 15,
+   "end": 25,
+   "items": [
+    {
+     "title": "Korah’s rebellion and Aaron’s staff",
+     "range": "15:1–19:22"
+    },
+    {
+     "title": "Water from the rock and the bronze serpent",
+     "range": "20:1–21:35"
+    },
+    {
+     "title": "Balaam and Balak",
+     "range": "22:1–24:25"
+    },
+    {
+     "title": "Sin at Peor",
+     "range": "25:1–18"
+    }
+   ]
+  },
+  {
+   "title": "The New Generation on the Plains of Moab",
+   "range": "26:1–36:13",
+   "start": 26,
+   "end": 36,
+   "items": [
+    {
+     "title": "The second census and Joshua commissioned",
+     "range": "26:1–27:23"
+    },
+    {
+     "title": "Offerings and vows",
+     "range": "28:1–30:16"
+    },
+    {
+     "title": "Victory over Midian and the Transjordan tribes",
+     "range": "31:1–32:42"
+    },
+    {
+     "title": "The journey reviewed and the land divided",
+     "range": "33:1–36:13"
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "title": "Unbelief and Its Cost",
+   "text": "The generation that saw God’s wonders refused to trust Him at Kadesh, and they died in the wilderness (14:22–23)."
+  },
+  {
+   "title": "God’s Faithfulness",
+   "text": "Despite rebellion, God continues to provide manna, water, guidance, and protection, and He keeps His promise to bring Israel into the land."
+  },
+  {
+   "title": "God’s Presence in the Camp",
+   "text": "The tabernacle stands at the center of the camp, and the cloud leads every move (9:15–23)."
+  },
+  {
+   "title": "Holiness and Leadership",
+   "text": "Challenges to God’s appointed leaders (Miriam, Aaron, Korah) show that God defends the order He establishes."
+  },
+  {
+   "title": "Blessing That Cannot Be Reversed",
+   "text": "Balaam is hired to curse Israel but can only bless them (23:19–20)."
+  },
+  {
+   "title": "A New Generation",
+   "text": "God raises up Joshua and a new generation to inherit what their parents forfeited."
+  }
+ ],
+ "keyVerses": [
+  {
+   "ref": "Numbers 6:24–26",
+   "quote": "The LORD bless you and keep you; the LORD make his face to shine upon you and be gracious to you; the LORD lift up his countenance upon you and give you peace."
+  },
+  {
+   "ref": "Numbers 14:18",
+   "quote": "The LORD is slow to anger and abounding in steadfast love, forgiving iniquity and transgression."
+  },
+  {
+   "ref": "Numbers 23:19",
+   "quote": "God is not man, that he should lie, or a son of man, that he should change his mind."
+  },
+  {
+   "ref": "Numbers 32:23",
+   "quote": "Be sure your sin will find you out."
+  }
+ ],
+ "christInBook": [
+  {
+   "ref": "21:8–9",
+   "text": "The bronze serpent lifted up so the dying could look and live: “So must the Son of Man be lifted up” (John 3:14–15)."
+  },
+  {
+   "ref": "20:11",
+   "text": "The rock that gave water: “the Rock was Christ” (1 Corinthians 10:4)."
+  },
+  {
+   "ref": "11:7–9",
+   "text": "The manna anticipates Jesus, the bread of life (John 6:48–51)."
+  },
+  {
+   "ref": "24:17",
+   "text": "“A star shall come out of Jacob, and a scepter shall rise out of Israel” points to the Messiah (Matthew 2:2; Revelation 22:16)."
+  },
+  {
+   "ref": "35:25",
+   "text": "The death of the high priest frees the manslayer, a picture of Christ’s death setting us free."
+  }
+ ],
+ "crossReferences": [
+  {
+   "ref": "1 Corinthians 10:1–13",
+   "note": "The wilderness failures written down as examples for us."
+  },
+  {
+   "ref": "Hebrews 3:7–4:11",
+   "note": "Do not harden your hearts as in the rebellion; enter God’s rest by faith."
+  },
+  {
+   "ref": "John 3:14–15",
+   "note": "The serpent lifted up and the Son of Man lifted up."
+  },
+  {
+   "ref": "2 Peter 2:15–16; Jude 11; Revelation 2:14",
+   "note": "Balaam as a warning example."
+  },
+  {
+   "ref": "Psalm 95",
+   "note": "“Today, if you hear his voice, do not harden your hearts.”"
+  }
+ ],
+ "reflection": [
+  "The spies saw the same land, but Caleb and Joshua saw it through faith (14:6–9). What “giants” are making you forget God’s promises?",
+  "Israel grumbled repeatedly despite daily provision. What is one thing you tend to complain about, and how could you replace it with thanksgiving?",
+  "The cloud told Israel when to move and when to stay (9:15–23). How do you seek God’s timing instead of your own?",
+  "Pray the priestly blessing (6:24–26) over someone in your family this week.",
+  "Like the bronze serpent, salvation comes by looking to Christ in faith. Is there an area where you are trying to heal yourself instead of looking to Him?",
+  "“Be sure your sin will find you out” (32:23). Is there anything hidden you need to bring into the light?"
+ ],
+ "chapterList": [
+  {
+   "n": 1,
+   "title": "The First Census",
+   "summary": "At Sinai God commands Moses to count the fighting men of Israel by tribe, from twenty years old and up. They number 603,550. The Levites are not counted with them because they are set apart to care for the tabernacle.",
+   "questions": [
+    "Why might God want Israel counted and organized before the journey?",
+    "What does it mean that each person was counted by name and family?",
+    "Why were the Levites set apart from military service?"
+   ],
+   "crossRefs": [
+    "Exodus 38:26",
+    "Luke 12:7",
+    "1 Corinthians 14:40"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "The Arrangement of the Camp",
+   "summary": "God arranges the twelve tribes around the tabernacle, three on each side, each under its own banner. Judah camps on the east and leads the march. The tabernacle and Levites are at the center.",
+   "questions": [
+    "What does placing the tabernacle at the center of the camp teach about Israel’s priorities?",
+    "What would it look like for God to be at the center of your life?",
+    "Why might Judah have been given the lead position?"
+   ],
+   "crossRefs": [
+    "Genesis 49:10",
+    "Revelation 7:4–9",
+    "Colossians 1:18"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The Levites and the Firstborn",
+   "summary": "The sons of Aaron serve as priests, and the Levites are given to assist them and guard the tabernacle. God takes the Levites in place of Israel’s firstborn, and the extra firstborn are redeemed with money.",
+   "questions": [
+    "How does God claiming the Levites instead of the firstborn connect to the Passover?",
+    "What does substitution teach us here about redemption?",
+    "How can you serve in support roles in God’s work?"
+   ],
+   "crossRefs": [
+    "Exodus 13:1–2, 11–15",
+    "1 Peter 1:18–19",
+    "Romans 12:6–8"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Duties of the Levite Clans",
+   "summary": "The Kohathites, Gershonites, and Merarites each receive specific duties for carrying the tabernacle when Israel moves. The Kohathites carry the holy furniture only after the priests cover it, lest they die. The men aged 30–50 are counted.",
+   "questions": [
+    "Why must the holy things be covered before the Kohathites carry them?",
+    "What does this chapter teach about orderly and reverent service?",
+    "How does every task, even carrying poles and curtains, matter to God?"
+   ],
+   "crossRefs": [
+    "2 Samuel 6:6–7",
+    "1 Corinthians 12:14–22",
+    "Colossians 3:23"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Purity in the Camp; the Test for Jealousy",
+   "summary": "Unclean persons are put outside the camp, wrongs against others require confession and restitution, and a ritual addresses a husband’s suspicion of his wife’s unfaithfulness, leaving the verdict to God rather than mob justice.",
+   "questions": [
+    "Why does God care so much about purity in the camp where He dwells?",
+    "How does 5:6–7 link confession with making things right?",
+    "How does the jealousy ritual protect a wife from a husband’s unfounded suspicion?"
+   ],
+   "crossRefs": [
+    "Matthew 5:23–24",
+    "1 Corinthians 5:6–7",
+    "Hebrews 13:4"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The Nazirite Vow and the Priestly Blessing",
+   "summary": "Any man or woman may take a Nazirite vow of special dedication: no wine or grapes, no haircut, and no contact with the dead. The chapter ends with the priestly blessing: “The LORD bless you and keep you...”",
+   "questions": [
+    "What was the purpose of the Nazirite vow?",
+    "Which famous figures were Nazirites (Samson, Samuel, John the Baptist)?",
+    "Read 6:24–26 slowly. What does it mean for God to make His face shine upon you?"
+   ],
+   "crossRefs": [
+    "Judges 13:5",
+    "Luke 1:15",
+    "Acts 21:23–26",
+    "Psalm 67:1"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Offerings for the Tabernacle’s Dedication",
+   "summary": "Over twelve days, the leaders of each tribe bring identical offerings for the dedication of the altar. Then Moses enters the tent and hears God’s voice speaking from above the mercy seat.",
+   "questions": [
+    "Why do you think each tribe’s identical gift is recorded in full?",
+    "What does this chapter teach about everyone having an equal share in worship?",
+    "How does God respond after the offerings (7:89)?"
+   ],
+   "crossRefs": [
+    "2 Corinthians 8:12–15",
+    "Exodus 25:22",
+    "Hebrews 4:16"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "The Lampstand and the Levites’ Consecration",
+   "summary": "Aaron sets up the lamps to shine in front of the lampstand. The Levites are cleansed, shaved, washed, and presented as a wave offering to serve at the tabernacle from age 25 to 50.",
+   "questions": [
+    "What does it mean for the Levites to be presented as an offering to God?",
+    "How is this a picture of Romans 12:1?",
+    "What does a “retirement” from duty (8:25–26) teach about serving at every stage of life?"
+   ],
+   "crossRefs": [
+    "Romans 12:1",
+    "Matthew 5:14–16",
+    "Titus 2:2–5"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The Second Passover and the Cloud",
+   "summary": "Israel celebrates Passover at Sinai, and God makes provision for those who were unclean to keep it a month later. The cloud over the tabernacle directs the people: when it lifts, they move, and when it settles, they camp, whether for days or a year.",
+   "questions": [
+    "What does the second-month Passover teach about God’s grace?",
+    "How did Israel know when to move? How does God guide you?",
+    "How hard is it for you to wait when God’s “cloud” doesn’t move?"
+   ],
+   "crossRefs": [
+    "Psalm 32:8",
+    "Proverbs 3:5–6",
+    "John 10:27"
+   ]
+  },
+  {
+   "n": 10,
+   "title": "Silver Trumpets and Leaving Sinai",
+   "summary": "God commands two silver trumpets to call the people and signal moves, battles, and feasts. In the second year, the cloud lifts and Israel sets out from Sinai in order. Moses invites his brother-in-law Hobab to come along, and the ark goes before them.",
+   "questions": [
+    "What did the trumpets remind Israel of (10:9–10)?",
+    "Why do you think Moses asked Hobab to be their “eyes” (10:31)?",
+    "Pray Moses’ words in 10:35–36 as your own."
+   ],
+   "crossRefs": [
+    "Psalm 68:1",
+    "1 Thessalonians 4:16",
+    "Joel 2:1"
+   ]
+  },
+  {
+   "n": 11,
+   "title": "Complaints and Quail",
+   "summary": "The people complain, and fire breaks out. Then the rabble craves meat and wishes for Egypt. Overwhelmed, Moses asks God to kill him. God appoints seventy elders to share the burden and pours His Spirit on them, and then sends so much quail that the people are struck with a plague.",
+   "questions": [
+    "Why is complaining against God’s provision so serious?",
+    "How does God answer Moses’ despair (11:16–17)?",
+    "Moses says, “Would that all the LORD’s people were prophets” (11:29). How was this fulfilled at Pentecost?"
+   ],
+   "crossRefs": [
+    "Psalm 78:18–31",
+    "1 Corinthians 10:10",
+    "Acts 2:17–18",
+    "Philippians 2:14"
+   ]
+  },
+  {
+   "n": 12,
+   "title": "Miriam and Aaron Oppose Moses",
+   "summary": "Miriam and Aaron criticize Moses because of his Cushite wife and claim equal authority. Moses is described as very meek. God defends him as His faithful servant with whom He speaks “mouth to mouth.” Miriam is struck with leprosy, Moses prays for her, and she is healed after seven days.",
+   "questions": [
+    "What was really behind Miriam and Aaron’s complaint?",
+    "How does Moses respond to criticism?",
+    "How does Hebrews 3:2–6 compare Moses to Christ?"
+   ],
+   "crossRefs": [
+    "Hebrews 3:2–6",
+    "James 4:11",
+    "Matthew 5:5"
+   ]
+  },
+  {
+   "n": 13,
+   "title": "The Twelve Spies",
+   "summary": "Twelve spies explore Canaan for forty days and return with grapes so large two men carry them. They report a rich land, but ten say the cities are fortified and the people giants: “we seemed to ourselves like grasshoppers.” Caleb urges, “Let us go up at once.”",
+   "questions": [
+    "What was the difference between the ten spies and Caleb?",
+    "How does seeing yourself as a “grasshopper” (13:33) reflect forgetting God?",
+    "What promise of God do you need to trust instead of your fears?"
+   ],
+   "crossRefs": [
+    "Deuteronomy 1:19–33",
+    "Hebrews 3:16–19",
+    "Romans 8:31"
+   ]
+  },
+  {
+   "n": 14,
+   "title": "Israel Refuses to Enter",
+   "summary": "The people weep all night and want to choose a leader to return to Egypt. Joshua and Caleb plead with them to trust God, and the people try to stone them. God declares that the generation will die in the wilderness over forty years, except Caleb and Joshua. The ten spies die, and the people’s presumptuous attack fails.",
+   "questions": [
+    "How does Moses intercede, and on what basis (14:13–19)?",
+    "What made Caleb different: “he has a different spirit and has followed me fully” (14:24)?",
+    "Why did their attack the next day fail (14:40–45)?"
+   ],
+   "crossRefs": [
+    "Hebrews 3:7–19",
+    "Psalm 95:8–11",
+    "Joshua 14:6–14"
+   ]
+  },
+  {
+   "n": 15,
+   "title": "Laws for the Land and the Tassels",
+   "summary": "God gives laws for offerings “when you come into the land,” a gracious hint that the next generation will enter. Unintentional sins are atoned for, but defiant sin is judged. A Sabbath-breaker is put to death, and Israelites are to wear tassels to remember God’s commandments.",
+   "questions": [
+    "Why is it significant that these laws assume Israel will enter the land?",
+    "What is the difference between unintentional and “high-handed” sin?",
+    "What “tassels” help you remember God’s word?"
+   ],
+   "crossRefs": [
+    "Hebrews 10:26–27",
+    "Deuteronomy 6:6–9",
+    "Matthew 9:20"
+   ]
+  },
+  {
+   "n": 16,
+   "title": "Korah’s Rebellion",
+   "summary": "Korah, a Levite, joins with Dathan, Abiram, and 250 leaders to challenge Moses and Aaron. The earth swallows the rebels’ households, and fire consumes the 250. The next day the people grumble, a plague begins, and Aaron stands between the living and the dead with incense until it stops.",
+   "questions": [
+    "What was Korah really seeking (16:8–11)?",
+    "What does Aaron’s action in 16:46–48 picture about Christ?",
+    "How can jealousy over position harm a church?"
+   ],
+   "crossRefs": [
+    "Jude 11",
+    "Hebrews 7:25",
+    "1 Peter 5:2–6"
+   ]
+  },
+  {
+   "n": 17,
+   "title": "Aaron’s Staff Buds",
+   "summary": "To end the grumbling, each tribe leader’s staff is placed before the LORD. Aaron’s staff sprouts, buds, blossoms, and bears almonds overnight, confirming his priesthood. It is kept before the ark as a sign.",
+   "questions": [
+    "Why does God use a dead staff coming to life as His sign?",
+    "How might this picture resurrection life?",
+    "How does God settle disputes about leadership in His way?"
+   ],
+   "crossRefs": [
+    "Hebrews 9:4",
+    "Hebrews 5:4–6",
+    "Romans 1:4"
+   ]
+  },
+  {
+   "n": 18,
+   "title": "Duties and Support for Priests and Levites",
+   "summary": "Priests and Levites bear responsibility for the sanctuary. Their support comes from the people’s offerings and tithes, because “I am your portion and your inheritance.” The Levites also tithe from what they receive.",
+   "questions": [
+    "What does it mean that the LORD Himself was the priests’ inheritance (18:20)?",
+    "How should God’s people support those in ministry (1 Corinthians 9:13–14)?",
+    "Why must even the Levites give a tithe?"
+   ],
+   "crossRefs": [
+    "1 Corinthians 9:13–14",
+    "Psalm 16:5–6",
+    "Galatians 6:6"
+   ]
+  },
+  {
+   "n": 19,
+   "title": "The Red Heifer",
+   "summary": "A red heifer without blemish is burned outside the camp, and its ashes are mixed with water for cleansing anyone who touches a dead body.",
+   "questions": [
+    "Why is contact with death so defiling in Israel’s law?",
+    "How does Hebrews 9:13–14 contrast the heifer’s ashes with Christ’s blood?",
+    "What does it mean to have a conscience cleansed “from dead works”?"
+   ],
+   "crossRefs": [
+    "Hebrews 9:13–14",
+    "Hebrews 13:11–12",
+    "1 John 1:7"
+   ]
+  },
+  {
+   "n": 20,
+   "title": "Water from the Rock; Aaron’s Death",
+   "summary": "Miriam dies. At Meribah the people quarrel over water. God tells Moses to speak to the rock, but Moses angrily strikes it twice. Water flows, but God says Moses and Aaron will not enter the land because they did not uphold Him as holy. Edom refuses passage, and Aaron dies on Mount Hor.",
+   "questions": [
+    "What exactly was Moses’ sin, and why was it serious?",
+    "How does God still provide water despite Moses’ failure?",
+    "What does this teach about leaders and accountability?"
+   ],
+   "crossRefs": [
+    "Psalm 106:32–33",
+    "Deuteronomy 32:48–52",
+    "1 Corinthians 10:4"
+   ]
+  },
+  {
+   "n": 21,
+   "title": "The Bronze Serpent",
+   "summary": "Israel defeats the Canaanite king of Arad. The people grow impatient and speak against God and Moses, and fiery serpents bite them. God tells Moses to make a bronze serpent on a pole, and anyone bitten who looks at it lives. Israel then defeats Sihon and Og east of the Jordan.",
+   "questions": [
+    "Why did God provide healing through looking at the serpent rather than another way?",
+    "How does Jesus use this story in John 3:14–15?",
+    "What does it mean to “look” to Jesus in faith today?"
+   ],
+   "crossRefs": [
+    "John 3:14–15",
+    "2 Kings 18:4",
+    "Isaiah 45:22"
+   ]
+  },
+  {
+   "n": 22,
+   "title": "Balak Summons Balaam",
+   "summary": "Afraid of Israel, Moab’s King Balak hires the prophet Balaam to curse them. God tells Balaam not to go, then permits him to go but speak only what God says. On the way, Balaam’s donkey sees the angel of the LORD and refuses to go forward, and then she speaks.",
+   "questions": [
+    "What does Balaam’s behavior reveal about his heart (see 2 Peter 2:15)?",
+    "Why is it ironic that a donkey saw more clearly than the prophet?",
+    "How does God protect His people even when they don’t know about the threat?"
+   ],
+   "crossRefs": [
+    "2 Peter 2:15–16",
+    "Jude 11",
+    "Revelation 2:14"
+   ]
+  },
+  {
+   "n": 23,
+   "title": "Balaam’s First Two Oracles",
+   "summary": "Balaam offers sacrifices with Balak, but instead of cursing Israel he blesses them. In the second oracle he declares, “God is not man, that he should lie... he has blessed, and I cannot revoke it.”",
+   "questions": [
+    "What does 23:19 teach about God’s promises?",
+    "How does this chapter reassure believers who face spiritual opposition?",
+    "Why couldn’t Balaam curse those whom God has blessed?"
+   ],
+   "crossRefs": [
+    "Romans 8:31–39",
+    "Titus 1:2",
+    "Hebrews 6:17–18"
+   ]
+  },
+  {
+   "n": 24,
+   "title": "Balaam’s Third and Fourth Oracles",
+   "summary": "The Spirit of God comes on Balaam, and he blesses Israel again, to Balak’s fury. Then he prophesies, “A star shall come out of Jacob, and a scepter shall rise out of Israel,” foretelling a ruler who will crush Israel’s enemies.",
+   "questions": [
+    "How does 24:9 echo God’s promise to Abraham (Genesis 12:3)?",
+    "Who is the star and scepter of 24:17?",
+    "What does it teach that God speaks His truth even through an unwilling prophet?"
+   ],
+   "crossRefs": [
+    "Genesis 12:3",
+    "Matthew 2:1–2",
+    "Revelation 22:16"
+   ]
+  },
+  {
+   "n": 25,
+   "title": "Baal Worship at Peor",
+   "summary": "Where Balaam’s curses failed, temptation succeeds: Israelite men indulge in sexual immorality with Moabite women and worship Baal of Peor. A plague kills 24,000. Phinehas, zealous for God, stops the plague, and God gives him a covenant of peace.",
+   "questions": [
+    "How did Balaam’s counsel lead to this disaster (31:16; Revelation 2:14)?",
+    "Why is sexual sin and idolatry often linked in Scripture?",
+    "What does Phinehas’s zeal teach, and how should zeal be expressed for Christians?"
+   ],
+   "crossRefs": [
+    "Revelation 2:14",
+    "1 Corinthians 10:8",
+    "Psalm 106:28–31"
+   ]
+  },
+  {
+   "n": 26,
+   "title": "The Second Census",
+   "summary": "After the plague, God commands a new census of the generation that will enter the land. They number 601,730. None of those counted at Sinai remain except Caleb and Joshua.",
+   "questions": [
+    "How does this census mark a turning point in the book?",
+    "What does 26:64–65 teach about God keeping His word, in judgment and promise?",
+    "How is a new generation a sign of hope?"
+   ],
+   "crossRefs": [
+    "Hebrews 3:17–19",
+    "Psalm 90",
+    "Deuteronomy 2:14–15"
+   ]
+  },
+  {
+   "n": 27,
+   "title": "The Daughters of Zelophehad; Joshua Commissioned",
+   "summary": "Five daughters of Zelophehad ask for an inheritance since their father had no sons. God says they are right and makes a new law. Moses asks God to appoint a shepherd for the people, and Joshua is commissioned.",
+   "questions": [
+    "What do you admire about the daughters’ faith and courage?",
+    "How does God show justice for women here?",
+    "Why did Moses ask that the people not be “as sheep that have no shepherd” (27:17), and how does Jesus fulfill this (Matthew 9:36)?"
+   ],
+   "crossRefs": [
+    "Matthew 9:36",
+    "John 10:11",
+    "Joshua 17:3–6",
+    "Deuteronomy 31:7–8"
+   ]
+  },
+  {
+   "n": 28,
+   "title": "Daily, Sabbath, and Festival Offerings",
+   "summary": "God sets the regular offerings for Israel’s worship in the land: daily morning and evening offerings, Sabbath offerings, monthly offerings, Passover, and the Feast of Weeks.",
+   "questions": [
+    "What does a daily rhythm of worship look like in your life?",
+    "Why did God schedule worship so regularly?",
+    "How does Hebrews 10:11–12 contrast these repeated offerings with Christ’s sacrifice?"
+   ],
+   "crossRefs": [
+    "Hebrews 10:11–12",
+    "Psalm 92:1–2",
+    "Hebrews 13:15"
+   ]
+  },
+  {
+   "n": 29,
+   "title": "Offerings for the Fall Festivals",
+   "summary": "Offerings are specified for the Feast of Trumpets, the Day of Atonement, and the eight-day Feast of Booths.",
+   "questions": [
+    "Why might the Feast of Booths include so many offerings?",
+    "What did these festivals celebrate about God?",
+    "How can you celebrate God’s faithfulness in your seasons?"
+   ],
+   "crossRefs": [
+    "Leviticus 23:23–43",
+    "John 7:37–39",
+    "Nehemiah 8:13–18"
+   ]
+  },
+  {
+   "n": 30,
+   "title": "Vows",
+   "summary": "Men must keep their vows to the LORD. A woman’s vow may be annulled by her father or husband on the day he hears of it, but otherwise it stands.",
+   "questions": [
+    "Why does God take vows so seriously?",
+    "How does Jesus teach about oaths (Matthew 5:33–37)?",
+    "Is there a promise you made to God that you need to keep?"
+   ],
+   "crossRefs": [
+    "Deuteronomy 23:21–23",
+    "Ecclesiastes 5:4–6",
+    "Matthew 5:33–37"
+   ]
+  },
+  {
+   "n": 31,
+   "title": "Vengeance on Midian",
+   "summary": "God commands Israel to execute judgment on Midian for leading them into sin at Peor. Balaam is killed, the plunder is divided, and not a single Israelite soldier is lost. The commanders bring an offering of gratitude.",
+   "questions": [
+    "Why was Midian judged (31:16)?",
+    "What happened to Balaam in the end?",
+    "How does the officers’ offering (31:48–54) show gratitude?"
+   ],
+   "crossRefs": [
+    "Revelation 2:14",
+    "Joshua 13:22",
+    "Psalm 116:12"
+   ]
+  },
+  {
+   "n": 32,
+   "title": "The Transjordan Tribes",
+   "summary": "Reuben and Gad, seeing good pasture east of the Jordan, ask to settle there. Moses fears a repeat of Kadesh, but they agree to fight alongside their brothers first. Moses warns: “Be sure your sin will find you out.”",
+   "questions": [
+    "Why did Moses at first see their request as a repeat of the spies’ sin?",
+    "What does it mean to fulfill commitments to the wider community of faith?",
+    "How does 32:23 apply to hidden sin today?"
+   ],
+   "crossRefs": [
+    "Joshua 22:1–6",
+    "Galatians 6:2",
+    "Luke 12:2–3"
+   ]
+  },
+  {
+   "n": 33,
+   "title": "Israel’s Journey Reviewed",
+   "summary": "Moses records the stages of Israel’s journey from Egypt to the plains of Moab. God commands them to drive out the Canaanites and destroy their idols, or those nations will become “barbs in your eyes.”",
+   "questions": [
+    "Why might God want the whole journey written down?",
+    "Look back on your own journey with God. What stages stand out?",
+    "What happens if we tolerate what God says to remove (33:55)?"
+   ],
+   "crossRefs": [
+    "Psalm 107",
+    "Deuteronomy 8:2",
+    "Hebrews 12:1"
+   ]
+  },
+  {
+   "n": 34,
+   "title": "The Boundaries of Canaan",
+   "summary": "God describes the borders of the promised land and appoints leaders from each tribe to divide it.",
+   "questions": [
+    "How does this chapter show God’s promise becoming concrete?",
+    "Why name specific leaders for distribution?",
+    "What promise of God are you waiting to see become concrete?"
+   ],
+   "crossRefs": [
+    "Genesis 15:18–21",
+    "Joshua 14:1–5",
+    "Hebrews 11:13–16"
+   ]
+  },
+  {
+   "n": 35,
+   "title": "Cities for the Levites and Cities of Refuge",
+   "summary": "The Levites receive 48 cities throughout the land. Six of these are cities of refuge, where someone who kills accidentally can flee from the avenger of blood. The manslayer is safe there until the death of the high priest.",
+   "questions": [
+    "Why scatter the Levites throughout the land?",
+    "How are the cities of refuge a picture of Christ (Hebrews 6:18)?",
+    "What is significant about freedom coming at the death of the high priest?"
+   ],
+   "crossRefs": [
+    "Joshua 20",
+    "Hebrews 6:18",
+    "Deuteronomy 19:1–13"
+   ]
+  },
+  {
+   "n": 36,
+   "title": "Inheritance of Zelophehad’s Daughters",
+   "summary": "Leaders of Manasseh raise a concern that the daughters’ land could pass to other tribes if they marry outside it. God rules that they should marry within their tribe, preserving each tribe’s inheritance. The daughters obey.",
+   "questions": [
+    "How does God balance individual and community concerns?",
+    "What does the daughters’ obedience show?",
+    "Why does the book end with a focus on inheritance?"
+   ],
+   "crossRefs": [
+    "Joshua 17:3–6",
+    "1 Peter 1:3–4",
+    "Ephesians 1:11–14"
+   ]
+  }
+ ],
+ "tagline": "Forty years in the wilderness: unbelief, discipline, and God’s faithfulness",
+ "readingPlan": "36 chapters: one chapter a day takes 36 days; two a day takes about 18 days. For each chapter, read it on ESV.org, then come back here for the summary, questions, and your notes."
+}
