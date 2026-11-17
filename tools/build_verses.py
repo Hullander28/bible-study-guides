@@ -9,8 +9,9 @@ Usage:
   python3 tools/build_verses.py --bible /path/to/bible-memory-v2/public/bible
 
 Writes:
-  data/verses.json       — quoted text in BSB, KJV, WEB, MSB, LSV, FBV, ASV,
-                           RV, YLT, DBY, WBS, BBE, GNV (no ESV)
+  data/verses.json       — quoted text in BSB, NIV, KJV, WEB, MSB, LSV, FBV, ASV,
+                           RV, YLT, DBY, WBS, BBE, GNV (no ESV). NIV is merged
+                           from tools/niv-quotes.json.
   data/verses-esv.json   — existing short ESV quotations (for web builds)
   tools/esv-quotes.json  — same ESV quotations, kept as the source for
                            tools/set_esv.py --on
@@ -219,6 +220,28 @@ def main() -> int:
             continue
         verses[ref] = row
         converted += 1
+
+    niv_path = ROOT / "tools" / "niv-quotes.json"
+    if niv_path.is_file():
+        niv = json.loads(niv_path.read_text())
+        niv_missing = []
+        for ref, row in verses.items():
+            text = (niv.get(ref) or "").strip()
+            if not text:
+                niv_missing.append(ref)
+                continue
+            # Keep BSB first, then NIV, then the other bundled translations.
+            ordered = {"BSB": row["BSB"], "NIV": text}
+            for k, v in row.items():
+                if k not in ordered:
+                    ordered[k] = v
+            verses[ref] = ordered
+        if niv_missing:
+            print(f"WARNING: {len(niv_missing)} refs have no NIV text in {niv_path}")
+        else:
+            print(f"Merged NIV quotations for {len(verses)} refs from {niv_path}.")
+    else:
+        print(f"No {niv_path}; verses.json will not include NIV.")
 
     DATA.mkdir(exist_ok=True)
     (DATA / "verses.json").write_text(json.dumps(verses, ensure_ascii=False, separators=(",", ":")))

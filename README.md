@@ -1,6 +1,6 @@
 # Bible Study Guides
 
-A mobile-friendly, installable (PWA) web app with book-by-book Bible study guides. You can read quoted verses in the same translations as Hidden Word (BSB by default, plus KJV, WEB, MSB, LSV, FBV, ASV, RV, YLT, DBY, WBS, BBE, GNV, and ESV when enabled).
+A mobile-friendly, installable (PWA) web app with book-by-book Bible study guides. You can read quoted verses in the Berean Standard Bible (default), the NIV, KJV, WEB, MSB, LSV, FBV, ASV, RV, YLT, DBY, WBS, BBE, GNV, and ESV when enabled.
 It's a static site with no backend. Reading progress and notes are saved in the browser's localStorage.
 
 ## Adding a book
@@ -10,7 +10,7 @@ It's a static site with no backend. Reading progress and notes are saved in the 
 
 ## Translations
 
-Quoted verse text (key verses, memory verses, flashcards, and the verse of the day) comes from `data/verses.json`, which stores only the verses this app actually quotes. The text is copied, unmodified, from Hidden Word's bundled Bible files (public domain, or CC BY-SA 4.0 for LSV and FBV). The default translation is the Berean Standard Bible (BSB). Pick a translation in the header or under Backup & settings; the choice is saved in localStorage. Full-chapter links open BibleGateway in the chosen version (or ESV.org when ESV is selected). Attribution in the footer follows the selected translation. LSV and FBV show their CC BY-SA 4.0 notices when they are selected.
+Quoted verse text (key verses, memory verses, flashcards, and the verse of the day) comes from `data/verses.json`, which stores only the verses this app actually quotes. The text is copied, unmodified, from Hidden Word's bundled Bible files (public domain, or CC BY-SA 4.0 for LSV and FBV). The default translation is the Berean Standard Bible (BSB). The NIV (2011) is also included for these quoted verses, under Biblica’s general-use rule (310 verses, not a complete book, about 6% of the product’s text by word count (well under the 25% limit), with the required copyright notice). Pick a translation in the header or under Backup & settings; the choice is saved in localStorage. Full-chapter links open BibleGateway in the chosen version (or ESV.org when ESV is selected). Attribution in the footer follows the selected translation. NIV shows Biblica’s required notice; LSV and FBV show their CC BY-SA 4.0 notices. NIV is included in store builds; ESV is not.
 
 ### ESV flag (store builds)
 
@@ -20,7 +20,7 @@ Quoted verse text (key verses, memory verses, flashcards, and the verse of the d
 python3 tools/set_esv.py --off
 ```
 
-That sets `ESV_ENABLED` to `false`, removes `data/verses-esv.json` from the service-worker cache list, and deletes `data/verses-esv.json` so no ESV text is shipped. The picker then matches Hidden Word's 13 bundled translations, still defaulting to BSB.
+That sets `ESV_ENABLED` to `false`, removes `data/verses-esv.json` from the service-worker cache list, and deletes `data/verses-esv.json` so no ESV text is shipped. The picker then offers BSB (default), NIV, and the other bundled public-domain / CC translations — not ESV.
 
 Do not run `--off` on the git checkout if you are going to commit. Store packages use `python3 tools/build_store_www.py`, which runs `--off` on a temporary copy and writes `mobile/www` (gitignored). `js/config.js` in the repo stays `ESV_ENABLED: true` for GitHub Pages.
 
