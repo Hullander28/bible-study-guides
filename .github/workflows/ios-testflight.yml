@@ -16,7 +16,10 @@ on:
     tags: ["ios-v*"]
 jobs:
   build:
-    runs-on: macos-15
+    # macos-15 (arm64) hosted runners are capacity-constrained and often
+    # cancel public-repo jobs after 15 minutes with "not acquired by Runner".
+    # macos-15-intel is a separate pool; Xcode still builds the arm64 iOS app.
+    runs-on: macos-15-intel
     defaults: { run: { working-directory: mobile } }
     steps:
       - uses: actions/checkout@v4
