@@ -22,6 +22,8 @@ python3 tools/set_esv.py --off
 
 That sets `ESV_ENABLED` to `false`, removes `data/verses-esv.json` from the service-worker cache list, and deletes `data/verses-esv.json` so no ESV text is shipped. The picker then matches Hidden Word's 13 bundled translations, still defaulting to BSB.
 
+Do not run `--off` on the git checkout if you are going to commit. Store packages use `python3 tools/build_store_www.py`, which runs `--off` on a temporary copy and writes `mobile/www` (gitignored). `js/config.js` in the repo stays `ESV_ENABLED: true` for GitHub Pages.
+
 Turn it back on for the web build with `python3 tools/set_esv.py --on` (restores `data/verses-esv.json` from `tools/esv-quotes.json`).
 
 Short ESV quotations used on the web build live in `data/verses-esv.json`. To regenerate verse text from Hidden Word's bundled Bibles:
@@ -43,3 +45,21 @@ python3 test/test_translations.py
 ```
 
 Runs the translation picker and offline checks in iPhone and Android viewports (Playwright). Screenshots are written to `test/screenshots/`.
+
+## Store packaging (Android / iOS)
+
+Capacitor 8 wrapper in `mobile/`, app id `org.thecreedofink.studyguides`, display name **Bible Study Guides**. This is a native package of the same static app. The web / GitHub Pages build is unchanged and keeps ESV enabled.
+
+```
+cd mobile
+npm ci
+npm run build:web    # ESV off, on a copy, into mobile/www
+npx cap sync
+```
+
+- Android: `minSdk` 24, `targetSdk` / `compileSdk` 36. A signed release AAB is built with an upload keystore stored outside the repo (never committed). `mobile/android/keystore.properties` is gitignored. The Android Gradle build needs JDK 21.
+- iOS: iOS 15+, iPhone only, portrait. `PrivacyInfo.xcprivacy` and `ITSAppUsesNonExemptEncryption` are set. `.github/workflows/ios-testflight.yml` uploads to TestFlight on `workflow_dispatch` or a tag `ios-v*`, using the same App Store Connect secret names as Hidden Word. Do not run that workflow until an App ID and App Store Connect record exist; the workflow does not create them.
+- Backup export on a device uses the Capacitor Share / Filesystem plugins; the website still downloads a JSON file.
+- `mobile/assets/` holds the 1024×1024 no-alpha App Store icon (`icon-only.png`), adaptive icon layers, and cream/brown splash images.
+
+App Store Connect and Google Play listings are created separately; this repo only contains the project and CI workflow.

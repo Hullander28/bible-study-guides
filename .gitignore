@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+mobile/node_modules/
+mobile/www/
+mobile/android/keystore.properties
+mobile/android/local.properties
+mobile/android/*.jks
+mobile/android/*.keystore
+*.jks
+*.keystore
+keystore.properties
