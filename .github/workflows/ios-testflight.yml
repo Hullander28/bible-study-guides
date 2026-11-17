@@ -10,8 +10,8 @@
 # Signing is manual with an Apple Distribution certificate and the
 # "Study Guides App Store" profile.
 #
-# The web copy in mobile/www is built on the runner with tools/build_store_www.py,
-# which turns ESV off on a temporary copy only. The committed tree stays ESV-on.
+# The web copy in mobile/www is built on the runner with tools/build_store_www.py:
+# ESV + NIV verse text included, pdf/ omitted, Download PDF button off.
 name: iOS TestFlight
 on:
   workflow_dispatch:
@@ -33,14 +33,16 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: npm ci
-      - name: Build store www (ESV off) and sync iOS
+      - name: Build store www (no pdf/) and sync iOS
         run: npm run build:web && npx cap sync ios
-      - name: Confirm ESV is off in www and still on in the checkout
+      - name: Confirm www has ESV + NIV verse text, no pdf/, PDF button off
         run: |
-          test ! -f www/data/verses-esv.json
-          grep -q 'ESV_ENABLED: false' www/js/config.js
-          grep -q 'ESV_ENABLED: true' ../js/config.js
-          test -f ../data/verses-esv.json
+          test -f www/data/verses-esv.json
+          test -f www/data/verses.json
+          grep -q 'ESV_ENABLED: true' www/js/config.js
+          grep -q 'PDF_ENABLED: false' www/js/config.js
+          test ! -e www/pdf
+          grep -q 'PDF_ENABLED: true' ../js/config.js
       - name: Write App Store Connect API key
         run: |
           mkdir -p ~/private_keys
