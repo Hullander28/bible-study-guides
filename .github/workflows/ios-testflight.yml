@@ -1,0 +1,59 @@
+# Builds Bible Study Guides for iOS on a GitHub macOS runner and uploads it to TestFlight.
+# Do not run until an App ID and App Store Connect app record exist. This workflow
+# does not create those. Signing uses Xcode automatic signing with the App Store
+# Connect API key (same secret names as Hidden Word).
+#
+# Repository secrets:
+#   APP_STORE_CONNECT_KEY_ID, APP_STORE_CONNECT_ISSUER_ID,
+#   APP_STORE_CONNECT_API_KEY (the .p8 contents), APPLE_TEAM_ID.
+#
+# The web copy in mobile/www is built on the runner with tools/build_store_www.py,
+# which turns ESV off on a temporary copy only. The committed tree stays ESV-on.
+name: iOS TestFlight
+on:
+  workflow_dispatch:
+  push:
+    tags: ["ios-v*"]
+jobs:
+  build:
+    runs-on: macos-15
+    defaults: { run: { working-directory: mobile } }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: maxim-lobanov/setup-xcode@v1
+        with: { xcode-version: latest-stable }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: npm ci
+      - name: Build store www (ESV off) and sync iOS
+        run: npm run build:web && npx cap sync ios
+      - name: Confirm ESV is off in www and still on in the checkout
+        run: |
+          test ! -f www/data/verses-esv.json
+          grep -q 'ESV_ENABLED: false' www/js/config.js
+          grep -q 'ESV_ENABLED: true' ../js/config.js
+          test -f ../data/verses-esv.json
+      - name: Write App Store Connect API key
+        run: |
+          mkdir -p ~/private_keys
+          echo "${{ secrets.APP_STORE_CONNECT_API_KEY }}" > ~/private_keys/AuthKey_${{ secrets.APP_STORE_CONNECT_KEY_ID }}.p8
+          chmod 600 ~/private_keys/AuthKey_${{ secrets.APP_STORE_CONNECT_KEY_ID }}.p8
+      - name: Archive
+        run: |
+          xcodebuild -project ios/App/App.xcodeproj -scheme App -configuration Release -destination 'generic/platform=iOS' \
+            -archivePath $RUNNER_TEMP/StudyGuides.xcarchive archive \
+            CURRENT_PROJECT_VERSION=$((100 + ${{ github.run_number }})) DEVELOPMENT_TEAM=${{ secrets.APPLE_TEAM_ID }} CODE_SIGN_STYLE=Automatic \
+            -allowProvisioningUpdates -authenticationKeyPath ~/private_keys/AuthKey_${{ secrets.APP_STORE_CONNECT_KEY_ID }}.p8 \
+            -authenticationKeyID ${{ secrets.APP_STORE_CONNECT_KEY_ID }} -authenticationKeyIssuerID ${{ secrets.APP_STORE_CONNECT_ISSUER_ID }}
+      - name: Export and upload to TestFlight
+        run: |
+          cat > $RUNNER_TEMP/export.plist <<PLIST
+          <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+          <plist version="1.0"><dict><key>method</key><string>app-store-connect</string><key>destination</key><string>upload</string>
+          <key>teamID</key><string>${{ secrets.APPLE_TEAM_ID }}</string><key>signingStyle</key><string>automatic</string></dict></plist>
+          PLIST
+          xcodebuild -exportArchive -archivePath $RUNNER_TEMP/StudyGuides.xcarchive -exportOptionsPlist $RUNNER_TEMP/export.plist \
+            -exportPath $RUNNER_TEMP/export -allowProvisioningUpdates -authenticationKeyPath ~/private_keys/AuthKey_${{ secrets.APP_STORE_CONNECT_KEY_ID }}.p8 \
+            -authenticationKeyID ${{ secrets.APP_STORE_CONNECT_KEY_ID }} -authenticationKeyIssuerID ${{ secrets.APP_STORE_CONNECT_ISSUER_ID }}

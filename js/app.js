@@ -19,6 +19,11 @@
   const readCount = b => Object.keys(state.read[b] || {}).length;
 
   // ---------- helpers ----------
+  function isNative() {
+    try { if (window.BSGNative && window.BSGNative.isNative) return true; } catch (e) {}
+    try { if (window.Capacitor && typeof window.Capacitor.isNativePlatform === "function") return window.Capacitor.isNativePlatform(); } catch (e) {}
+    return false;
+  }
   const esc = s => String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const pct = (a, b) => b ? Math.round(a / b * 100) : 0;
   const bar = p => `<div class="progress" role="progressbar" aria-valuenow="${p}" aria-valuemin="0" aria-valuemax="100"><i style="width:${p}%"></i></div>`;
@@ -377,13 +382,22 @@
       <p class="muted small">Your read checkmarks, notes, reading plan, and memorized verses are saved only on this device, in this browser. Export a backup now and then so you don't lose them.</p>
       <div class="btnrow"><button class="btn primary" id="exp">⬇️ Export backup</button><label class="btn">⬆️ Import backup<input type="file" id="imp" accept="application/json" hidden></label></div>
       <p class="saved" id="savedMsg"></p>
-      <h3>Install on your phone</h3>
-      <p class="small">In Chrome or Samsung Internet, open the menu (⋮ or ≡) and tap <b>Add to Home screen</b> or <b>Install app</b>. Once installed, it opens full screen and works offline.</p>
+      ${isNative() ? "" : `<h3>Install on your phone</h3>
+      <p class="small">In Chrome or Samsung Internet, open the menu (⋮ or ≡) and tap <b>Add to Home screen</b> or <b>Install app</b>. Once installed, it opens full screen and works offline.</p>`}
       <h3>Reset</h3><button class="btn" id="reset">Clear all progress, notes, plan &amp; memory verses</button></div>`;
     paintTrPicks(); wireTrPicks();
-    document.getElementById("exp").onclick = () => {
-      const blob = new Blob([JSON.stringify(state, null, 1)], { type: "application/json" });
-      const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = `bible-study-backup-${new Date().toISOString().slice(0, 10)}.json`; a.click();
+    document.getElementById("exp").onclick = async () => {
+      const name = `bible-study-backup-${new Date().toISOString().slice(0, 10)}.json`;
+      const text = JSON.stringify(state, null, 1);
+      if (window.BSGNative && window.BSGNative.shareFile) {
+        try {
+          await window.BSGNative.shareFile({ name, text, title: "Bible Study Guides backup", body: "Study Guides backup" });
+          document.getElementById("savedMsg").textContent = "✓ Backup ready to share";
+          return;
+        } catch (err) { /* fall back to a download */ }
+      }
+      const blob = new Blob([text], { type: "application/json" });
+      const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = name; a.click();
     };
     document.getElementById("imp").onchange = async e => {
       try { const d = JSON.parse(await e.target.files[0].text()); state = { read: d.read || {}, notes: d.notes || {}, mem: d.mem || {}, plan: d.plan, theme: state.theme, tr: window.BSG_TR.valid(d.tr || state.tr) }; save(); document.getElementById("savedMsg").textContent = "✓ Backup restored"; }
@@ -424,5 +438,6 @@
     app.innerHTML = `<div class="card"><h1>Couldn't load</h1><p class="muted">${esc(e.message)}. Check your connection and try again.</p></div>`;
   });
 
-  if ("serviceWorker" in navigator) window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+  if ("serviceWorker" in navigator && !isNative()) window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+  if (window.BSGNative && window.BSGNative.hideSplash) window.BSGNative.hideSplash();
 })();

@@ -3,6 +3,10 @@
 
   python3 tools/set_esv.py --off   # store builds: hide ESV, do not ship ESV text
   python3 tools/set_esv.py --on    # web / GitHub Pages: include ESV
+
+Pass --root DIR to operate on a copy (used by the store www build). Never point
+--off at the git checkout if you intend to commit; the store build script uses
+a temporary copy.
 """
 from __future__ import annotations
 
@@ -11,43 +15,69 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-CONFIG = ROOT / "js" / "config.js"
-SW = ROOT / "sw.js"
-ESV_DATA = ROOT / "data" / "verses-esv.json"
-ESV_SRC = ROOT / "tools" / "esv-quotes.json"
+DEFAULT_ROOT = Path(__file__).resolve().parents[1]
 ESV_SW_ENTRY = '"data/verses-esv.json"'
 
 
-def set_flag(on: bool) -> None:
-    text = CONFIG.read_text()
+def paths(root: Path) -> dict[str, Path]:
+    return {
+        "root": root,
+        "config": root / "js" / "config.js",
+        "sw": root / "sw.js",
+        "esv_data": root / "data" / "verses-esv.json",
+        "esv_src": root / "tools" / "esv-quotes.json",
+    }
+
+
+def set_flag(config: Path, on: bool) -> None:
+    text = config.read_text()
     new, n = re.subn(
         r"ESV_ENABLED:\s*(true|false)",
         f"ESV_ENABLED: {'true' if on else 'false'}",
         text,
     )
     if n != 1:
-        raise SystemExit("Could not find a single ESV_ENABLED flag in js/config.js")
-    CONFIG.write_text(new)
+        raise SystemExit(f"Could not find a single ESV_ENABLED flag in {config}")
+    config.write_text(new)
 
 
 def sw_has_esv(text: str) -> bool:
     return ESV_SW_ENTRY in text
 
 
-def set_sw(on: bool) -> None:
-    text = SW.read_text()
+def set_sw(sw: Path, on: bool) -> None:
+    if not sw.is_file():
+        if on:
+            raise SystemExit(f"Missing {sw}")
+        return
+    text = sw.read_text()
     has = sw_has_esv(text)
     if on and not has:
-        # Insert after data/verses.json if present, otherwise before the closing ]; of CORE
         if '"data/verses.json"' in text:
             text = text.replace('"data/verses.json"', '"data/verses.json", "data/verses-esv.json"', 1)
         else:
             raise SystemExit("sw.js CORE is missing data/verses.json")
-        SW.write_text(text)
+        sw.write_text(text)
     elif (not on) and has:
         text = text.replace(', "data/verses-esv.json"', "").replace('"data/verses-esv.json", ', "")
-        SW.write_text(text)
+        sw.write_text(text)
+
+
+def apply(root: Path, on: bool) -> None:
+    p = paths(root)
+    set_flag(p["config"], on)
+    set_sw(p["sw"], on)
+    if on:
+        if not p["esv_src"].is_file():
+            raise SystemExit(f"Missing {p['esv_src']}")
+        p["esv_data"].parent.mkdir(parents=True, exist_ok=True)
+        p["esv_data"].write_text(p["esv_src"].read_text())
+        print("ESV_ENABLED is true. data/verses-esv.json is in the bundle and in sw.js CORE.")
+    else:
+        if p["esv_data"].exists():
+            p["esv_data"].unlink()
+        print("ESV_ENABLED is false. data/verses-esv.json was removed and dropped from sw.js CORE.")
+        print("The picker now shows Hidden Word's 13 translations only. Default is BSB.")
 
 
 def main() -> int:
@@ -55,20 +85,15 @@ def main() -> int:
     g = p.add_mutually_exclusive_group(required=True)
     g.add_argument("--on", action="store_true", help="Enable ESV for the web build")
     g.add_argument("--off", action="store_true", help="Disable ESV for store builds")
+    p.add_argument(
+        "--root",
+        type=Path,
+        default=None,
+        help="Project root to modify (default: the repo that contains this script)",
+    )
     args = p.parse_args()
-    on = args.on
-    set_flag(on)
-    set_sw(on)
-    if on:
-        if not ESV_SRC.is_file():
-            raise SystemExit(f"Missing {ESV_SRC}")
-        ESV_DATA.write_text(ESV_SRC.read_text())
-        print("ESV_ENABLED is true. data/verses-esv.json is in the bundle and in sw.js CORE.")
-    else:
-        if ESV_DATA.exists():
-            ESV_DATA.unlink()
-        print("ESV_ENABLED is false. data/verses-esv.json was removed and dropped from sw.js CORE.")
-        print("The picker now shows Hidden Word's 13 translations only. Default is BSB.")
+    root = (args.root or DEFAULT_ROOT).resolve()
+    apply(root, on=args.on)
     return 0
 
 

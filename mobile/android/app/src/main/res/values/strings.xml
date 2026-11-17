@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bible Study Guides</string>
+    <string name="title_activity_main">Bible Study Guides</string>
+    <string name="package_name">org.thecreedofink.studyguides</string>
+    <string name="custom_url_scheme">org.thecreedofink.studyguides</string>
+</resources>
