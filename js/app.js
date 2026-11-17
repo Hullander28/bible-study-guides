@@ -384,6 +384,8 @@
       <p class="saved" id="savedMsg"></p>
       ${isNative() ? "" : `<h3>Install on your phone</h3>
       <p class="small">In Chrome or Samsung Internet, open the menu (⋮ or ≡) and tap <b>Add to Home screen</b> or <b>Install app</b>. Once installed, it opens full screen and works offline.</p>`}
+      <h3>Privacy</h3>
+      <p class="small">This app does not collect your data. Progress and notes stay on this device. Read the <a href="https://hullander28.github.io/bible-study-guides/privacy.html" target="_blank" rel="noopener">privacy policy</a>.</p>
       <h3>Reset</h3><button class="btn" id="reset">Clear all progress, notes, plan &amp; memory verses</button></div>`;
     paintTrPicks(); wireTrPicks();
     document.getElementById("exp").onclick = async () => {

@@ -23,6 +23,7 @@ SET_ESV = ROOT / "tools" / "set_esv.py"
 COPY_FILES = [
     "index.html",
     "manifest.webmanifest",
+    "privacy.html",
     ".nojekyll",
 ]
 COPY_DIRS = [
