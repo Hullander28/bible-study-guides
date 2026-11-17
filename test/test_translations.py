@@ -23,10 +23,12 @@ BASE = None
 # Known texts for Genesis 1:1
 TEXTS = {
     "BSB": "In the beginning God created the heavens and the earth.",
+    "NIV": "In the beginning God created the heavens and the earth.",
     "KJV": "In the beginning God created the heaven and the earth.",
     "ESV": "In the beginning, God created the heavens and the earth.",
 }
 LSV_NOTICE = "Literal Standard Version (LSV) © 2020 Covenant Press"
+NIV_NOTICE = "Biblica, Inc."
 ESV_NOTICE = "English Standard Version®"
 VIEWPORTS = {
     "iphone": {
@@ -88,7 +90,7 @@ def collect_errors(page):
 
 def wait_ready(page):
     page.goto(BASE + "/", wait_until="domcontentloaded")
-    page.wait_for_function("() => document.querySelectorAll('#trPick option').length >= 13", timeout=15000)
+    page.wait_for_function("() => document.querySelectorAll('#trPick option').length >= 14", timeout=15000)
     page.wait_for_selector(".votd, .today, h1", timeout=15000)
 
 
@@ -114,8 +116,9 @@ def test_device(pw, browser, key, results):
     # Default is BSB
     assert page.locator("#trPick").input_value() == "BSB", f"{label}: default is not BSB"
     opts = page.locator("#trPick option").evaluate_all("els => els.map(e => e.value)")
-    assert opts[0] == "ESV" and "BSB" in opts and "KJV" in opts and "WEB" in opts, f"{label}: picker options {opts}"
-    assert len(opts) == 14, f"{label}: expected 14 options (ESV + 13), got {len(opts)} {opts}"
+    assert opts[0] == "ESV" and "BSB" in opts and "NIV" in opts and "KJV" in opts and "WEB" in opts, f"{label}: picker options {opts}"
+    assert opts[1] == "BSB" and opts[2] == "NIV", f"{label}: expected BSB then NIV after ESV, got {opts}"
+    assert len(opts) == 15, f"{label}: expected 15 options (ESV + BSB + NIV + 12), got {len(opts)} {opts}"
 
     # Header picker is visible and inside the viewport
     box = page.locator("#trPick").bounding_box()
@@ -139,6 +142,14 @@ def test_device(pw, browser, key, results):
     assert TEXTS["KJV"] in body, f"{label}: KJV Genesis 1:1 missing in {body!r}"
     assert "BibleGateway (KJV)" in page.content() or "version=KJV" in page.content()
 
+    set_header_tr(page, "NIV")
+    page.wait_for_selector("blockquote", timeout=10000)
+    body = genesis_quote(page)
+    assert TEXTS["NIV"] in body, f"{label}: NIV Genesis 1:1 missing in {body!r}"
+    foot = page.locator(".foot").inner_text()
+    assert NIV_NOTICE in foot and "New International Version" in foot, f"{label}: NIV footer missing: {foot!r}"
+    assert "BibleGateway (NIV)" in page.content() or "version=NIV" in page.content()
+
     set_header_tr(page, "ESV")
     page.wait_for_selector("blockquote", timeout=10000)
     body = genesis_quote(page)
@@ -160,6 +171,8 @@ def test_device(pw, browser, key, results):
     assert page.locator("#trSel").input_value() == "BSB"
     note = page.locator("#trNote").inner_text()
     assert "Berean Standard Bible" in note
+    settings_opts = page.locator("#trSel option").evaluate_all("els => els.map(e => e.value)")
+    assert "NIV" in settings_opts and settings_opts[0] == "ESV"
     page.screenshot(path=str(SHOTS / f"picker-{key}-settings.png"), full_page=False)
 
     # No console/page errors

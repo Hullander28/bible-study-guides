@@ -1,11 +1,16 @@
-// Translation catalog matches Hidden Word (public/app.js TRANSLATIONS).
-// Bundled texts are public domain, or CC BY-SA 4.0 (LSV, FBV) with attribution.
+// Translation catalog: Hidden Word's public-domain / CC BY-SA texts, plus NIV
+// (2011) for the 310 quoted verses, under Biblica's general-use quotation rule.
 // ESV is optional and is only offered when BSG_CONFIG.ESV_ENABLED is true.
 (function () {
   "use strict";
 
   const TRANSLATIONS = {
     BSB: { n: "Berean Standard Bible", l: "Modern • public domain" },
+    NIV: {
+      n: "New International Version",
+      l: "2011 • used by permission",
+      a: "Scripture quotations taken from The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide."
+    },
     KJV: { n: "King James Version", l: "1611/1769 • public domain" },
     WEB: { n: "World English Bible", l: "Modern • public domain" },
     MSB: { n: "Majority Standard Bible", l: "Modern • public domain" },
@@ -36,7 +41,7 @@
 
   // BibleGateway version parameters. DBY and WBS use this site's codes.
   const BG_VERSION = {
-    BSB: "BSB", KJV: "KJV", WEB: "WEB", MSB: "MSB", LSV: "LSV", FBV: "FBV",
+    BSB: "BSB", NIV: "NIV", KJV: "KJV", WEB: "WEB", MSB: "MSB", LSV: "LSV", FBV: "FBV",
     ASV: "ASV", RV: "RV", YLT: "YLT", DBY: "DARBY", WBS: "WBT", BBE: "BBE",
     GNV: "GNV", ESV: "ESV"
   };
