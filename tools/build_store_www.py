@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """Build mobile/www for App Store / Google Play.
 
-Copies the site into a temporary directory, runs `tools/set_esv.py --off` on
-that copy only, then writes the result to mobile/www. The git checkout (and
-GitHub Pages / main) is never modified. mobile/www is gitignored and must not
-be committed.
+Copies the site into a temporary directory, turns off the website-only PDF
+download on that copy (pdf/ is never copied), then writes the result to
+mobile/www. Verse text for all 15 translations, including NIV and ESV
+quotations (data/verses.json, data/verses-esv.json), is bundled. The git
+checkout (and GitHub Pages / main) is never modified. mobile/www is gitignored
+and must not be committed.
 """
 from __future__ import annotations
 
+import re
 import shutil
 import subprocess
 import sys
@@ -17,7 +20,6 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 MOBILE = ROOT / "mobile"
 WWW = MOBILE / "www"
-SET_ESV = ROOT / "tools" / "set_esv.py"
 
 # Paths to copy into the store bundle (relative to repo root).
 COPY_FILES = [
@@ -26,8 +28,8 @@ COPY_FILES = [
     "privacy.html",
     ".nojekyll",
 ]
-# Do not copy pdf/. Those printable guides still quote ESV, and Crossway
-# has not licensed ESV for store builds. The website keeps the existing PDFs.
+# Do not copy pdf/. The printable guides are website-only; store builds ship
+# only the quoted verse text.
 COPY_DIRS = [
     "css",
     "js",
@@ -62,23 +64,28 @@ def inject_native_script(index: Path) -> None:
     index.write_text(text.replace(needle, tag + needle, 1))
 
 
-def assert_esv_off(www: Path) -> None:
+def disable_pdf(www: Path) -> None:
+    cfg = www / "js" / "config.js"
+    text = cfg.read_text()
+    new, n = re.subn(r"PDF_ENABLED:\s*(true|false)", "PDF_ENABLED: false", text)
+    if n != 1:
+        raise SystemExit("Could not find a single PDF_ENABLED flag in js/config.js")
+    cfg.write_text(new)
+
+
+def assert_store_www(www: Path) -> None:
     cfg = (www / "js" / "config.js").read_text()
-    if "ESV_ENABLED: false" not in cfg:
-        raise SystemExit("Store www still has ESV enabled")
-    if (www / "data" / "verses-esv.json").exists():
-        raise SystemExit("Store www still contains data/verses-esv.json")
+    if "ESV_ENABLED: true" not in cfg:
+        raise SystemExit("Store www has ESV disabled; expected ESV quotations on")
+    if "PDF_ENABLED: false" not in cfg:
+        raise SystemExit("Store www still shows the Download PDF button")
     if (www / "pdf").exists():
-        raise SystemExit("Store www still contains pdf/ (ESV printable guides)")
-    sw = www / "sw.js"
-    if sw.is_file() and "verses-esv.json" in sw.read_text():
-        raise SystemExit("Store www sw.js still lists verses-esv.json")
-    # Safety: the source checkout must still be the web (ESV-on) build.
-    src_cfg = (ROOT / "js" / "config.js").read_text()
-    if "ESV_ENABLED: true" not in src_cfg:
-        raise SystemExit("Repo js/config.js is not ESV-on; aborting so main is not left off")
-    if not (ROOT / "data" / "verses-esv.json").is_file():
-        raise SystemExit("Repo data/verses-esv.json is missing; aborting")
+        raise SystemExit("Store www contains pdf/ (website-only printable guides)")
+    for rel in ("data/verses.json", "data/verses-esv.json"):
+        if not (www / rel).is_file():
+            raise SystemExit(f"Store www is missing {rel}")
+    if (www / "tools").exists():
+        raise SystemExit("Store www contains tools/")
 
 
 def bundle_native(www: Path) -> None:
@@ -99,11 +106,9 @@ def bundle_native(www: Path) -> None:
 
 
 def main() -> int:
-    if not SET_ESV.is_file():
-        raise SystemExit(f"Missing {SET_ESV}")
     with tempfile.TemporaryDirectory(prefix="bsg-store-www-") as tmp:
         tmp_path = Path(tmp)
-        for rel in COPY_FILES:
+        for rel in COPY_FILES + ["sw.js"]:
             src = ROOT / rel
             if src.is_file():
                 dest = tmp_path / rel
@@ -113,24 +118,7 @@ def main() -> int:
             src = ROOT / rel
             if src.is_dir():
                 copy_tree(src, tmp_path / rel)
-        # set_esv.py --on needs tools/esv-quotes.json; --off only deletes data and edits js/sw.
-        # Copy set_esv + quotes so --root is sufficient and the script can be run standalone.
-        tools = tmp_path / "tools"
-        tools.mkdir(parents=True, exist_ok=True)
-        shutil.copy2(SET_ESV, tools / "set_esv.py")
-        quotes = ROOT / "tools" / "esv-quotes.json"
-        if quotes.is_file():
-            shutil.copy2(quotes, tools / "esv-quotes.json")
-        if (ROOT / "sw.js").is_file():
-            shutil.copy2(ROOT / "sw.js", tmp_path / "sw.js")
-
-        subprocess.run(
-            [sys.executable, str(SET_ESV), "--off", "--root", str(tmp_path)],
-            check=True,
-        )
-        # Do not copy tools/ into www.
-        if tools.exists():
-            shutil.rmtree(tools)
+        disable_pdf(tmp_path)
 
         if WWW.exists():
             shutil.rmtree(WWW)
@@ -138,8 +126,8 @@ def main() -> int:
 
     inject_native_script(WWW / "index.html")
     bundle_native(WWW)
-    assert_esv_off(WWW)
-    print(f"Wrote store www to {WWW} (ESV off, source checkout unchanged).")
+    assert_store_www(WWW)
+    print(f"Wrote store www to {WWW} (ESV + NIV quotations, no pdf/, source checkout unchanged).")
     return 0
 
 

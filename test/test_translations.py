@@ -255,6 +255,30 @@ def test_set_esv_script(results):
     results.append("set_esv.py --off/--on: ok")
 
 
+def test_store_www_flags(results):
+    """Store copy: ESV + NIV verse text bundled, pdf/ omitted, PDF button flag off."""
+    import importlib.util, tempfile, shutil
+    spec = importlib.util.spec_from_file_location("bsw", ROOT / "tools" / "build_store_www.py")
+    bsw = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(bsw)
+    assert "pdf" not in bsw.COPY_DIRS
+    tmp = Path(tempfile.mkdtemp(prefix="bsg-www-"))
+    try:
+        for rel in bsw.COPY_DIRS:
+            shutil.copytree(ROOT / rel, tmp / rel)
+        bsw.disable_pdf(tmp)
+        bsw.assert_store_www(tmp)
+        import json
+        esv = json.loads((tmp / "data/verses-esv.json").read_text())
+        ver = json.loads((tmp / "data/verses.json").read_text())
+        assert set(esv) == set(ver), "ESV keys differ from verses.json keys"
+        assert all(row.get("NIV") for row in ver.values()), "NIV missing for some verses"
+        assert "PDF_ENABLED: true" in (ROOT / "js/config.js").read_text(), "repo config must keep PDFs on for the website"
+    finally:
+        shutil.rmtree(tmp, ignore_errors=True)
+    results.append("store www: ESV + NIV bundled, no pdf/, PDF button off: ok")
+
+
 def main():
     httpd = start_server()
     time.sleep(0.2)
@@ -262,6 +286,7 @@ def main():
     failed = []
     try:
         test_set_esv_script(results)
+        test_store_www_flags(results)
         with sync_playwright() as pw:
             browser = pw.chromium.launch(headless=True, channel='chrome')
             for key in ("iphone", "android"):

@@ -1,6 +1,6 @@
 {
   "name": "bible-study-guides-mobile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "build:web": "python3 ../tools/build_store_www.py",

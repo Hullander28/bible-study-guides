@@ -3,8 +3,8 @@ import json, os, re, html, sys
 from playwright.sync_api import sync_playwright
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 E = lambda s: html.escape(str(s))
-ATTR = ("Scripture quotations are from the ESV® Bible (The Holy Bible, English Standard Version®), © 2001 by Crossway, "
-        "a publishing ministry of Good News Publishers. Used by permission. All rights reserved.")
+ATTR = ("Scripture quotations marked (ESV) are from the ESV® Bible (The Holy Bible, English Standard Version®), © 2001 by Crosswa"
+        "y, a publishing ministry of Good News Publishers. ESV Text Edition: 2025. The ESV text may not be quoted in any publication made available to the public by a Creative Commons license. The ESV may not be translated in whole or in part into any other language. Used by permission. All rights reserved.")
 CSS = """
 @page{size:Letter;margin:0.7in 0.75in 0.8in}
 body{font:10.5pt/1.5 Georgia,'Times New Roman',serif;color:#1d1712}
@@ -28,6 +28,24 @@ ul.r li,ol li{margin:3pt 0}
 .attr{font:8pt Helvetica,Arial,sans-serif;color:#6f6254;margin-top:18pt;border-top:.5pt solid #cdbfa8;padding-top:6pt}
 .newpage{break-before:page}
 """
+_ESV = None
+
+
+def esv_quote(v, occ=0):
+    """ESV text for a key verse: data/verses-esv.json (same text the app shows)."""
+    global _ESV
+    if v.get("quote"):
+        return v["quote"]
+    if _ESV is None:
+        _ESV = json.load(open(os.path.join(ROOT, "data/verses-esv.json")))
+    t = _ESV.get(v["ref"], "")
+    if isinstance(t, list):
+        t = t[occ] if occ < len(t) else t[0]
+    if not t:
+        raise SystemExit(f"No ESV text for {v['ref']}")
+    return t
+
+
 def guide_html(g):
     o = g["overview"]; n = g["chapters"]
     h = [f"<!doctype html><html><head><meta charset='utf-8'><title>{E(g['name'])}: Bible Study Guide (ESV)</title><style>{CSS}</style></head><body>"]
@@ -38,7 +56,7 @@ def guide_html(g):
     if g.get("readingPlan"): h.append(f"<h3>Reading plan</h3><p>{E(g['readingPlan'])}</p>")
     h.append("<h2>Outline</h2>" + "".join(f"<div class='part'><b>{E(p['title'])}</b> <span class='rng'>({E(p['range'])})</span><ul>" + "".join(f"<li>{E(i['title'])} <span class='rng'>({E(i['range'])})</span></li>" for i in p["items"]) + "</ul></div>" for p in g["outline"]))
     h.append("<h2>Key Themes</h2>" + "".join(f"<div class='theme'><b>{E(t['title'])}.</b> {E(t['text'])}</div>" for t in g["themes"]))
-    h.append("<h2>Key Verses</h2>" + "".join(f"<blockquote>“{E(v['quote'])}”<cite>{E(v['ref'])} (ESV)</cite></blockquote>" for v in g["keyVerses"]))
+    h.append("<h2>Key Verses</h2>" + "".join(f"<blockquote>“{E(esv_quote(v, i))}”<cite>{E(v['ref'])} (ESV)</cite></blockquote>" for i, v in enumerate(g["keyVerses"])))
     h.append(f"<h2>Christ in {E(g['name'])}</h2><ul class='r'>" + "".join(f"<li><b>{E(x['ref'])}</b>: {E(x['text'])}</li>" for x in g["christInBook"]) + "</ul>")
     h.append("<h2>Cross-References</h2><ul class='r'>" + "".join(f"<li><b>{E(x['ref'])}</b>: {E(x['note'])}</li>" for x in g["crossReferences"]) + "</ul>")
     h.append("<h2 class='newpage'>Chapter by Chapter</h2>")

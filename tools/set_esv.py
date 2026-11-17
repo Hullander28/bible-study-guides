@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
-"""Turn the ESV_ENABLED build flag on (web) or off (App Store / Google Play).
+"""Turn the ESV_ENABLED build flag on or off.
 
-  python3 tools/set_esv.py --off   # store builds: hide ESV, do not ship ESV text
-  python3 tools/set_esv.py --on    # web / GitHub Pages: include ESV
+ESV is on for the website and for store builds (Crossway standard-use rule).
+Use --off only if ESV ever has to be pulled from a build.
 
-Pass --root DIR to operate on a copy (used by the store www build). Never point
---off at the git checkout if you intend to commit; the store build script uses
-a temporary copy.
+  python3 tools/set_esv.py --off   # hide ESV, do not ship ESV text
+  python3 tools/set_esv.py --on    # include ESV (default)
+
+Pass --root DIR to operate on a copy. Do not point --off at the git checkout
+if you intend to commit.
 """
 from __future__ import annotations
 
@@ -77,14 +79,14 @@ def apply(root: Path, on: bool) -> None:
         if p["esv_data"].exists():
             p["esv_data"].unlink()
         print("ESV_ENABLED is false. data/verses-esv.json was removed and dropped from sw.js CORE.")
-        print("The picker now shows Hidden Word's 13 translations only. Default is BSB.")
+        print("The picker now shows the other 14 translations (BSB default, NIV included).")
 
 
 def main() -> int:
     p = argparse.ArgumentParser(description=__doc__)
     g = p.add_mutually_exclusive_group(required=True)
-    g.add_argument("--on", action="store_true", help="Enable ESV for the web build")
-    g.add_argument("--off", action="store_true", help="Disable ESV for store builds")
+    g.add_argument("--on", action="store_true", help="Enable ESV (default for web and store builds)")
+    g.add_argument("--off", action="store_true", help="Disable ESV")
     p.add_argument(
         "--root",
         type=Path,
