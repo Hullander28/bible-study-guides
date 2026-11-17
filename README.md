@@ -36,7 +36,7 @@ python3 tools/build_verses.py --bible /path/to/bible-memory-v2/public/bible
 
 - `js/plans.js` builds the reading plans (whole Bible in a year, in Bible order or historical order; New Testament in 90 days; Gospels in 30 days) from the book catalog. Days are saved as chapter checkmarks, so the plan and the guides stay in sync.
 - `js/memory.js` lists 154 memory-verse references for the Memory Verses page, flashcards, and verse of the day. The text is looked up in the chosen translation.
-- `pdf/<id>.pdf` are printable guides rendered from `data/<id>.json` by `python3 tools/build_pdfs.py [ids...]` (Playwright + Chrome). Existing PDFs were generated before the translation picker and may still show earlier ESV quotations.
+- `pdf/<id>.pdf` are printable guides rendered from `data/<id>.json` by `python3 tools/build_pdfs.py [ids...]` (Playwright + Chrome). Existing PDFs were generated before the translation picker and still quote ESV. The website keeps them, and the Download PDF button is shown only when ESV is enabled. Store packages omit `pdf/` so no ESV text is shipped.
 
 ## Tests
 

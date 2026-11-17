@@ -26,12 +26,13 @@ COPY_FILES = [
     "privacy.html",
     ".nojekyll",
 ]
+# Do not copy pdf/. Those printable guides still quote ESV, and Crossway
+# has not licensed ESV for store builds. The website keeps the existing PDFs.
 COPY_DIRS = [
     "css",
     "js",
     "data",
     "icons",
-    "pdf",
 ]
 
 # Never ship these in the native www folder.
@@ -67,6 +68,8 @@ def assert_esv_off(www: Path) -> None:
         raise SystemExit("Store www still has ESV enabled")
     if (www / "data" / "verses-esv.json").exists():
         raise SystemExit("Store www still contains data/verses-esv.json")
+    if (www / "pdf").exists():
+        raise SystemExit("Store www still contains pdf/ (ESV printable guides)")
     sw = www / "sw.js"
     if sw.is_file() and "verses-esv.json" in sw.read_text():
         raise SystemExit("Store www sw.js still lists verses-esv.json")
