@@ -310,7 +310,7 @@
     app.innerHTML = `<a class="back" href="#/">← All books</a>
       <div class="card"><h1>${esc(b.name)}</h1><p class="muted">${esc(g.tagline)}</p>
       <div class="stat"><b>Progress</b><span class="muted small">${rc} / ${b.chapters} chapters read</span></div>${bar(pct(rc, b.chapters))}
-      <div class="btnrow noprint">${window.BSG_TR.esvEnabled() ? `<a class="btn" href="pdf/${id}.pdf" target="_blank" rel="noopener" download="${esc(b.name)} Study Guide.pdf">⬇️ Download PDF</a>` : ""}<button class="btn" onclick="window.print()">🖨️ Print this page</button></div></div>
+      <div class="btnrow noprint">${(window.BSG_CONFIG && window.BSG_CONFIG.PDF_ENABLED) ? `<a class="btn" href="pdf/${id}.pdf" target="_blank" rel="noopener" download="${esc(b.name)} Study Guide.pdf">⬇️ Download PDF</a>` : ""}<button class="btn" onclick="window.print()">🖨️ Print this page</button></div></div>
       <nav class="tabs">${tabs}</nav>${body}`;
     app.querySelectorAll("input[data-ch]").forEach(cb => cb.onchange = () => { setRead(id, +cb.dataset.ch, cb.checked); bookView(id, tab).then(keepTab); });
     const bn = document.getElementById("bookNote");
