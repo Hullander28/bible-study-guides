@@ -10,6 +10,7 @@
   function load() { try { return JSON.parse(localStorage.getItem(KEY) || "{}"); } catch (e) { return {}; } }
   let state = load();
   state.read = state.read || {}; state.notes = state.notes || {}; state.mem = state.mem || {};
+  state.tr = window.BSG_TR.valid(state.tr);
   function save() { localStorage.setItem(KEY, JSON.stringify(state)); }
   const isRead = (b, c) => !!(state.read[b] && state.read[b][c]);
   function setRead(b, c, v) { state.read[b] = state.read[b] || {}; if (v) state.read[b][c] = 1; else delete state.read[b][c]; save(); }
@@ -21,13 +22,43 @@
   const esc = s => String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const pct = (a, b) => b ? Math.round(a / b * 100) : 0;
   const bar = p => `<div class="progress" role="progressbar" aria-valuenow="${p}" aria-valuemin="0" aria-valuemax="100"><i style="width:${p}%"></i></div>`;
-  const esvUrl = (book, ch) => `https://www.esv.org/${encodeURIComponent(book.name).replace(/%20/g, "+")}+${ch}/`;
-  const bgUrl = ref => `https://www.biblegateway.com/passage/?search=${encodeURIComponent(ref)}&version=ESV`;
+  const tr = () => window.BSG_TR.valid(state.tr);
+  const bgUrl = ref => window.BSG_TR.bgUrl(tr(), ref);
   const refLink = (ref, book) => {
     if (!/[0-9]/.test(ref)) return esc(ref);
     const full = /^[0-9]+[:\u2013-]/.test(ref) && book ? `${book.name} ${ref}` : ref;
     return `<a href="${bgUrl(full)}" target="_blank" rel="noopener">${esc(ref)}</a>`;
   };
+  function setTr(t) {
+    state.tr = window.BSG_TR.valid(t);
+    save();
+    paintTrPicks();
+    updateFooter();
+    route();
+  }
+  function paintTrPicks() {
+    const cur = tr();
+    const head = document.getElementById("trPick");
+    if (head) head.innerHTML = window.BSG_TR.shortOptionHtml(cur);
+    const sel = document.getElementById("trSel");
+    if (sel) sel.innerHTML = window.BSG_TR.optionHtml(cur);
+    const note = document.getElementById("trNote");
+    if (note) note.innerHTML = window.BSG_TR.noteHtml(cur);
+  }
+  function updateFooter() {
+    const el = document.querySelector(".foot");
+    if (el) el.innerHTML = window.BSG_TR.footerHtml(tr());
+  }
+  function verseQuote(ref, occ) { return window.BSG_TR.text(tr(), ref, occ || 0); }
+  function wireTrPicks() {
+    const head = document.getElementById("trPick");
+    if (head && !head.dataset.wired) {
+      head.dataset.wired = "1";
+      head.addEventListener("change", e => setTr(e.target.value));
+    }
+    const sel = document.getElementById("trSel");
+    if (sel) sel.onchange = e => setTr(e.target.value);
+  }
   async function getGuide(id) {
     if (cache[id]) return cache[id];
     const r = await fetch(`data/${id}.json`);
@@ -62,9 +93,9 @@
     return { raw, today, doneDays, firstUndone, behind, streak };
   }
   const dayLinks = (p, d) => dayChapters(p, d).map(([b, c]) => `<a class="chip ${isRead(b, c) ? "done" : ""}" href="#/b/${b}/${c}">${isRead(b, c) ? "✓ " : ""}${esc(byId[b].name)} ${c}</a>`).join("");
-  const memText = v => `“${esc(v.t)}”`;
+  const memText = v => `“${esc(verseQuote(v.ref))}”`;
   function verseOfDay() { if (!MEMORY.length) return null; const n = Math.floor(parseYmd(todayYmd()) / 86400000); return MEMORY[((n * 37) % MEMORY.length + MEMORY.length) % MEMORY.length]; }
-  const ATTR = `<p class="muted small attr">Scripture quotations are from the ESV® Bible, © 2001 by Crossway. Used by permission. All rights reserved.</p>`;
+  const ATTR = () => window.BSG_TR.attrHtml(tr());
 
   // ---------- theme ----------
   const themeBtn = document.getElementById("themeBtn");
@@ -86,7 +117,7 @@
     const ready = BOOKS.filter(b => b.ready).length;
     let html = `<div class="card">
       <h1>Bible Study Guides</h1>
-      <p class="muted small">Book-by-book guides based on the ESV: overview, outline, themes, key verses, chapter questions, and your own notes. ${ready === 66 ? "All 66 books are ready." : ready + " of 66 guides are ready, and more are coming."}</p>
+      <p class="muted small">Book-by-book guides with a translation you choose: overview, outline, themes, key verses, chapter questions, and your own notes. ${ready === 66 ? "All 66 books are ready." : ready + " of 66 guides are ready, and more are coming."}</p>
       <div class="stat"><b>Whole Bible progress</b><span class="muted small">${done} / ${total} chapters</span></div>${bar(pct(done, total))}
       <div class="btnrow"><a class="btn" href="#/plan">📅 Reading plan</a><a class="btn" href="#/memory">🧠 Memory verses</a><a class="btn" href="#/search">🔍 Search</a><a class="btn" href="#/settings">⚙️ Backup &amp; settings</a></div>
     </div>`;
@@ -130,8 +161,8 @@
     const v = verseOfDay(); if (!v) return "";
     const m = !!state.mem[v.ref];
     return `<div class="card votd"><div class="stat"><h2>🧠 Verse of the day</h2>${m ? `<span class="badge go">Memorized</span>` : ""}</div>
-      <blockquote>${memText(v)}<cite>${esc(v.ref)} (ESV)</cite></blockquote>
-      <div class="btnrow"><a class="btn" href="#/memory/cards">Practice flashcards</a><a class="btn" href="#/memory">All memory verses</a></div>${ATTR}</div>`;
+      <blockquote>${memText(v)}<cite>${esc(v.ref)} (${esc(tr())})</cite></blockquote>
+      <div class="btnrow"><a class="btn" href="#/memory/cards">Practice flashcards</a><a class="btn" href="#/memory">All memory verses</a></div>${ATTR()}</div>`;
   }
   function wireDayButtons(rerender) {
     const a = activePlan(); if (!a) return;
@@ -182,8 +213,8 @@
       <div class="stat"><b>Memorized</b><span class="muted small">${mcount} / ${MEMORY.length}</span></div>${bar(pct(mcount, MEMORY.length))}
       <label class="field">Book <select id="memBook"><option value="">All books</option>${books.map(b => `<option value="${b}" ${b === bookFilter ? "selected" : ""}>${esc(byId[b].name)}</option>`).join("")}</select></label>
       <div class="btnrow"><a class="btn primary" href="#/memory/cards${bookFilter ? "?b=" + bookFilter : ""}">🃏 Flashcards${bookFilter ? ": " + esc(byId[bookFilter].name) : ""}</a></div></div>
-      <div class="card">${list.map(v => `<div class="mv"><blockquote>${memText(v)}<cite><a href="#/b/${v.b}">${esc(v.ref)}</a> (ESV)</cite></blockquote>
-        <button class="btn small-btn ${state.mem[v.ref] ? "primary" : ""}" data-mem="${esc(v.ref)}">${state.mem[v.ref] ? "✓ Memorized" : "Mark memorized"}</button></div>`).join("")}${ATTR}</div>`;
+      <div class="card">${list.map(v => `<div class="mv"><blockquote>${memText(v)}<cite><a href="#/b/${v.b}">${esc(v.ref)}</a> (${esc(tr())})</cite></blockquote>
+        <button class="btn small-btn ${state.mem[v.ref] ? "primary" : ""}" data-mem="${esc(v.ref)}">${state.mem[v.ref] ? "✓ Memorized" : "Mark memorized"}</button></div>`).join("")}${ATTR()}</div>`;
     document.getElementById("memBook").onchange = e => { location.hash = "#/memory" + (e.target.value ? "?b=" + e.target.value : ""); };
     app.querySelectorAll("button[data-mem]").forEach(b => b.onclick = () => { const r = b.dataset.mem; if (state.mem[r]) delete state.mem[r]; else state.mem[r] = todayYmd(); save(); const y = scrollY; memoryView(bookFilter); scrollTo(0, y); });
   }
@@ -207,7 +238,7 @@
       <div class="btnrow center"><button class="btn" id="prev">← Prev</button>
         <button class="btn ${state.mem[v.ref] ? "" : "primary"}" id="gotit">${state.mem[v.ref] ? "✓ Memorized (undo)" : "I know it ✓"}</button>
         <button class="btn" id="next">Next →</button></div>` : `<div class="card"><p>🎉 You've memorized every verse in this set. Uncheck “Not yet memorized only” to review them.</p></div>`}
-      ${ATTR}`;
+      ${ATTR()}`;
     const rer = () => cardsView(bookFilter);
     document.getElementById("onlyNew").onchange = e => { deck.onlyNew = e.target.checked; deck.i = 0; deck.order = null; deck.shown = false; rer(); };
     document.getElementById("shuf").onchange = e => { deck.shuffle = e.target.checked; deck.order = null; deck.i = 0; deck.shown = false; rer(); };
@@ -227,7 +258,7 @@
       <p><span class="badge">Coming soon</span></p>
       <p class="muted">The study guide for ${esc(b.name)} (${b.testament === "OT" ? "Old" : "New"} Testament · ${esc(b.section)} · ${b.chapters} chapter${b.chapters > 1 ? "s" : ""}) hasn't been written yet.</p>
       <p>You can still read it now:</p>
-      <div class="btnrow"><a class="btn primary" target="_blank" rel="noopener" href="${esvUrl(b, 1)}">Read ${esc(b.name)} on ESV.org ↗</a></div></div>`;
+      <div class="btnrow">${window.BSG_TR.chapterButtons(tr(), b, 1)}</div></div>`;
   }
 
   const TABS = [["overview", "Overview"], ["chapters", "Chapters"], ["outline", "Outline"], ["themes", "Themes"], ["verses", "Key Verses"], ["christ", "Christ in " ], ["refs", "Cross-Refs"], ["reflect", "Reflect"]];
@@ -247,7 +278,7 @@
         <dt>Author</dt><dd>${esc(o.author)}</dd><dt>Date</dt><dd>${esc(o.date)}</dd>
         <dt>Audience</dt><dd>${esc(o.audience)}</dd><dt>Setting</dt><dd>${esc(o.setting)}</dd>
         <dt>Purpose</dt><dd>${esc(o.purpose)}</dd>${o.structure ? `<dt>Structure</dt><dd>${esc(o.structure)}</dd>` : ""}</dl></div>
-        ${g.readingPlan ? `<div class="card"><h3>Reading plan</h3><p>${esc(g.readingPlan)}</p><a class="btn primary" href="#/b/${id}/${firstUnread(b)}">${rc ? "Continue" : "Start"} with chapter ${firstUnread(b)} →</a></div>` : ""}`;
+        ${g.readingPlan ? `<div class="card"><h3>Reading plan</h3><p>${esc(window.BSG_TR.readingPlanText(g.readingPlan, tr()))}</p><a class="btn primary" href="#/b/${id}/${firstUnread(b)}">${rc ? "Continue" : "Start"} with chapter ${firstUnread(b)} →</a></div>` : ""}`;
     } else if (tab === "chapters") {
       body = `<div class="card"><ul class="chlist">${g.chapterList.map(c => `<li>
         <input type="checkbox" data-ch="${c.n}" ${isRead(id, c.n) ? "checked" : ""} aria-label="Mark chapter ${c.n} read">
@@ -258,8 +289,11 @@
     } else if (tab === "themes") {
       body = g.themes.map(t => `<div class="card"><div class="theme-title">${esc(t.title)}</div><p>${esc(t.text)}</p></div>`).join("");
     } else if (tab === "verses") {
-      body = `<div class="card">${g.keyVerses.map(v => `<blockquote>“${esc(v.quote)}”<cite>${refLink(v.ref)} (ESV)</cite></blockquote>`).join("")}
-        <p class="muted small">Scripture quotations are from the ESV® Bible, © 2001 by Crossway. Used by permission. All rights reserved.</p></div>`;
+      const seen = {};
+      body = `<div class="card">${g.keyVerses.map(v => {
+        const i = seen[v.ref] || 0; seen[v.ref] = i + 1;
+        return `<blockquote>“${esc(verseQuote(v.ref, i))}”<cite>${refLink(v.ref)} (${esc(tr())})</cite></blockquote>`;
+      }).join("")}${ATTR()}</div>`;
     } else if (tab === "christ") {
       body = `<div class="card"><p class="muted small">How ${esc(b.name)} points forward to Jesus:</p><ul class="refs">${g.christInBook.map(x => `<li><b>${refLink(x.ref, b)}</b>: ${esc(x.text)}</li>`).join("")}</ul></div>`;
     } else if (tab === "refs") {
@@ -295,8 +329,7 @@
     if (!c) return notFound();
     app.innerHTML = `<a class="back" href="#/b/${id}/t/chapters">← ${esc(b.name)} chapters</a>
       <div class="card"><div class="muted small">${esc(b.name)} ${n} of ${b.chapters}</div><h1>${esc(c.title)}</h1>
-        <div class="btnrow"><a class="btn primary" target="_blank" rel="noopener" href="${esvUrl(b, n)}">📖 Read on ESV.org ↗</a>
-        <a class="btn" target="_blank" rel="noopener" href="${bgUrl(b.name + " " + n)}">BibleGateway (ESV) ↗</a></div>
+        <div class="btnrow">${window.BSG_TR.chapterButtons(tr(), b, n)}</div>
         <h3>Summary</h3><p>${esc(c.summary)}</p></div>
       <div class="card"><h3>Discussion questions</h3><ol class="q">${c.questions.map(q => `<li>${esc(q)}</li>`).join("")}</ol></div>
       <div class="card"><h3>Cross-references</h3><div class="chips">${c.crossRefs.map(r => `<span class="chip">${refLink(r)}</span>`).join("")}</div></div>
@@ -326,7 +359,7 @@
         const add = (href, title, text) => { if (re.test(text) || re.test(title)) res.push({ href, title, sub: hl(text), raw: true }); };
         Object.entries(g.overview).forEach(([k, v]) => add(`#/b/${g.id}/t/overview`, `${b.name}: ${k[0].toUpperCase() + k.slice(1)}`, v));
         g.themes.forEach(t => add(`#/b/${g.id}/t/themes`, `${b.name} theme: ${t.title}`, t.text));
-        g.keyVerses.forEach(v => add(`#/b/${g.id}/t/verses`, `Key verse: ${v.ref}`, v.quote));
+        { const seen = {}; g.keyVerses.forEach(v => { const i = seen[v.ref] || 0; seen[v.ref] = i + 1; add(`#/b/${g.id}/t/verses`, `Key verse: ${v.ref}`, verseQuote(v.ref, i)); }); }
         g.chapterList.forEach(c => add(`#/b/${g.id}/${c.n}`, `${b.name} ${c.n}: ${c.title}`, [c.summary, ...c.questions, ...c.crossRefs].join(" ")));
         g.reflection.forEach(r => add(`#/b/${g.id}/t/reflect`, `${b.name}: Reflection`, r));
       });
@@ -338,21 +371,25 @@
 
   function settingsView() {
     app.innerHTML = `<a class="back" href="#/">← All books</a><div class="card"><h1>Backup &amp; settings</h1>
+      <h3>Bible translation</h3>
+      <label class="field">Translation <select id="trSel" aria-label="Bible translation"></select></label>
+      <p class="muted small" id="trNote"></p>
       <p class="muted small">Your read checkmarks, notes, reading plan, and memorized verses are saved only on this device, in this browser. Export a backup now and then so you don't lose them.</p>
       <div class="btnrow"><button class="btn primary" id="exp">⬇️ Export backup</button><label class="btn">⬆️ Import backup<input type="file" id="imp" accept="application/json" hidden></label></div>
       <p class="saved" id="savedMsg"></p>
       <h3>Install on your phone</h3>
       <p class="small">In Chrome or Samsung Internet, open the menu (⋮ or ≡) and tap <b>Add to Home screen</b> or <b>Install app</b>. Once installed, it opens full screen and works offline.</p>
       <h3>Reset</h3><button class="btn" id="reset">Clear all progress, notes, plan &amp; memory verses</button></div>`;
+    paintTrPicks(); wireTrPicks();
     document.getElementById("exp").onclick = () => {
       const blob = new Blob([JSON.stringify(state, null, 1)], { type: "application/json" });
       const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = `bible-study-backup-${new Date().toISOString().slice(0, 10)}.json`; a.click();
     };
     document.getElementById("imp").onchange = async e => {
-      try { const d = JSON.parse(await e.target.files[0].text()); state = { read: d.read || {}, notes: d.notes || {}, mem: d.mem || {}, plan: d.plan, theme: state.theme }; save(); document.getElementById("savedMsg").textContent = "✓ Backup restored"; }
+      try { const d = JSON.parse(await e.target.files[0].text()); state = { read: d.read || {}, notes: d.notes || {}, mem: d.mem || {}, plan: d.plan, theme: state.theme, tr: window.BSG_TR.valid(d.tr || state.tr) }; save(); document.getElementById("savedMsg").textContent = "✓ Backup restored"; }
       catch (err) { alert("That file isn't a valid backup."); }
     };
-    document.getElementById("reset").onclick = () => { if (confirm("Erase all read checkmarks, notes, reading plan, and memorized verses on this device?")) { state = { read: {}, notes: {}, mem: {}, theme: state.theme }; save(); location.hash = "#/"; } };
+    document.getElementById("reset").onclick = () => { if (confirm("Erase all read checkmarks, notes, reading plan, and memorized verses on this device?")) { state = { read: {}, notes: {}, mem: {}, theme: state.theme, tr: state.tr }; save(); location.hash = "#/"; } };
   }
 
   function notFound() { app.innerHTML = `<div class="card"><h1>Not found</h1><a href="#/">Go home</a></div>`; }
@@ -377,7 +414,15 @@
     if (!(p[0] === "b" && p[2] === "t")) window.scrollTo(0, 0);
   }
   window.addEventListener("hashchange", route);
-  route();
+  window.BSG_TR.load().then(() => {
+    state.tr = window.BSG_TR.valid(state.tr);
+    paintTrPicks();
+    wireTrPicks();
+    updateFooter();
+    route();
+  }).catch(e => {
+    app.innerHTML = `<div class="card"><h1>Couldn't load</h1><p class="muted">${esc(e.message)}. Check your connection and try again.</p></div>`;
+  });
 
   if ("serviceWorker" in navigator) window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
 })();
