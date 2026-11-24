@@ -188,7 +188,7 @@
     const { st, p } = a, s = planStats(p, st);
     html += `<div class="card"><h1>${esc(p.name)}</h1><p class="muted small">Started ${niceDate(st.start)} · ${p.total} chapters over ${p.days} days</p>
       <div class="stat"><b>${s.doneDays} / ${p.days} days done</b><span class="small">🔥 ${s.streak}-day streak</span></div>${bar(pct(s.doneDays, p.days))}
-      ${s.behind ? `<p class="small behind">You're ${s.behind} day${s.behind > 1 ? "s" : ""} behind schedule.</p><div class="btnrow"><a class="btn primary" href="#plan-day-${s.firstUndone}" id="jumpUndone">Go to day ${s.firstUndone}</a><button class="btn" id="resched">Reschedule so day ${s.firstUndone} is today</button></div>` : `<p class="small">You're on track. 👍</p>`}
+      ${s.behind ? `<p class="small behind">You're ${s.behind} day${s.behind > 1 ? "s" : ""} behind schedule.</p><div class="btnrow"><button class="btn primary" type="button" id="jumpUndone">Go to day ${s.firstUndone}</button><button class="btn" id="resched">Reschedule so day ${s.firstUndone} is today</button></div>` : `<p class="small">You're on track. 👍</p>`}
       <label class="field">Start date <input type="date" id="startEdit" value="${st.start}"></label><div class="btnrow"><button class="btn" id="resetPlan">Stop / switch plan</button></div></div>
       <div class="card"><ul class="daylist">`;
     for (let d = 1; d <= p.days; d++) {
@@ -202,7 +202,7 @@
     const r = document.getElementById("resched");
     if (r) r.onclick = () => { state.plan.start = addDays(todayYmd(), -(s.firstUndone - 1)); save(); planView(); };
     const j = document.getElementById("jumpUndone");
-    if (j) j.onclick = e => { e.preventDefault(); document.getElementById("plan-day-" + s.firstUndone).scrollIntoView({ block: "center" }); };
+    if (j) j.onclick = () => { const el = document.getElementById("plan-day-" + s.firstUndone); if (el) el.scrollIntoView({ block: "center" }); };
     document.getElementById("startEdit").onchange = e => { if (e.target.value) { state.plan.start = e.target.value; save(); planView(); } };
     document.getElementById("resetPlan").onclick = () => { if (confirm("Stop this plan? Your chapter checkmarks stay; only the plan schedule is removed.")) { delete state.plan; save(); planView(); } };
     const t = document.getElementById("plan-day-" + Math.max(1, Math.min(s.raw, p.days)));
@@ -268,11 +268,12 @@
 
   const TABS = [["overview", "Overview"], ["chapters", "Chapters"], ["outline", "Outline"], ["themes", "Themes"], ["verses", "Key Verses"], ["christ", "Christ in " ], ["refs", "Cross-Refs"], ["reflect", "Reflect"]];
 
-  async function bookView(id, tab) {
+  async function bookView(id, tab, still) {
     const b = byId[id];
     if (!b) return notFound();
     if (!b.ready) return comingSoon(b);
     const g = await getGuide(id);
+    if (still && !still()) return;
     tab = tab || "overview";
     const rc = readCount(id);
     const tabs = TABS.map(([k, l]) => `<a class="tab ${k === tab ? "on" : ""}" href="#/b/${id}/t/${k}">${k === "christ" ? l + esc(b.name) : l}</a>`).join("");
@@ -325,11 +326,12 @@
     el.addEventListener("input", () => { clearTimeout(t); t = setTimeout(() => { setNote(id, ch, el.value); if (msg) { msg.textContent = "✓ Saved on this device"; setTimeout(() => msg.textContent = "", 1500); } }, 400); });
   }
 
-  async function chapterView(id, n) {
+  async function chapterView(id, n, still) {
     const b = byId[id];
     if (!b) return notFound();
     if (!b.ready) return comingSoon(b);
     const g = await getGuide(id);
+    if (still && !still()) return;
     const c = g.chapterList.find(x => x.n === n);
     if (!c) return notFound();
     app.innerHTML = `<a class="back" href="#/b/${id}/t/chapters">← ${esc(b.name)} chapters</a>
@@ -345,12 +347,13 @@
     wireNote(document.getElementById("note"), id, n);
   }
 
-  async function searchView(q) {
+  async function searchView(q, still) {
     app.innerHTML = `<a class="back" href="#/">← All books</a><div class="card"><h1>Search</h1>
       <input class="search" id="q" type="search" placeholder="Book, topic, person, or verse (e.g. covenant, Joseph, 15:6)" value="${esc(q || "")}" autofocus>
       <p class="muted small">Searches book names and everything inside the finished guides.</p></div><div id="results"></div>`;
     const input = document.getElementById("q");
     const guides = await Promise.all(BOOKS.filter(b => b.ready).map(b => getGuide(b.id).catch(() => null)));
+    if (still && !still()) return;
     const run = () => {
       const term = input.value.trim(); const out = document.getElementById("results");
       history.replaceState(null, "", "#/search" + (term ? "?q=" + encodeURIComponent(term) : ""));
@@ -383,9 +386,9 @@
       <div class="btnrow"><button class="btn primary" id="exp">⬇️ Export backup</button><label class="btn">⬆️ Import backup<input type="file" id="imp" accept="application/json" hidden></label></div>
       <p class="saved" id="savedMsg"></p>
       ${isNative() ? "" : `<h3>Install on your phone</h3>
-      <p class="small">In Chrome or Samsung Internet, open the menu (⋮ or ≡) and tap <b>Add to Home screen</b> or <b>Install app</b>. Once installed, it opens full screen and works offline.</p>`}
+      <p class="small">On iPhone or iPad, open this site in Safari, tap the Share button, then <b>Add to Home Screen</b>. On Android, in Chrome or Samsung Internet, open the menu (⋮ or ≡) and tap <b>Add to Home screen</b> or <b>Install app</b>. Once installed, it opens full screen and works offline.</p>`}
       <h3>Privacy</h3>
-      <p class="small">This app does not collect your data. Progress and notes stay on this device. Read the <a href="https://hullander28.github.io/bible-study-guides/privacy.html" target="_blank" rel="noopener">privacy policy</a>.</p>
+      <p class="small">This app does not collect your data. Progress and notes stay on this device. Read the <a href="privacy.html">privacy policy</a>.</p>
       <h3>Reset</h3><button class="btn" id="reset">Clear all progress, notes, plan &amp; memory verses</button></div>`;
     paintTrPicks(); wireTrPicks();
     document.getElementById("exp").onclick = async () => {
@@ -411,22 +414,29 @@
   function notFound() { app.innerHTML = `<div class="card"><h1>Not found</h1><a href="#/">Go home</a></div>`; }
 
   // ---------- router ----------
+  let nav = 0;
   async function route() {
+    const id = ++nav;
+    const still = () => id === nav;
     const h = location.hash.replace(/^#\/?/, "");
     const [path, qs] = h.split("?");
     const p = path.split("/").filter(Boolean);
     try {
       if (!p.length) home();
-      else if (p[0] === "search") await searchView(new URLSearchParams(qs || "").get("q"));
+      else if (p[0] === "search") await searchView(new URLSearchParams(qs || "").get("q"), still);
       else if (p[0] === "settings") settingsView();
       else if (p[0] === "plan") planView();
       else if (p[0] === "memory" && p[1] === "cards") cardsView(new URLSearchParams(qs || "").get("b"));
       else if (p[0] === "memory") memoryView(new URLSearchParams(qs || "").get("b"));
-      else if (p[0] === "b" && p[2] === "t") await bookView(p[1], p[3]);
-      else if (p[0] === "b" && p[2]) await chapterView(p[1], parseInt(p[2], 10));
-      else if (p[0] === "b") await bookView(p[1]);
+      else if (p[0] === "b" && p[2] === "t") await bookView(p[1], p[3], still);
+      else if (p[0] === "b" && p[2]) await chapterView(p[1], parseInt(p[2], 10), still);
+      else if (p[0] === "b") await bookView(p[1], undefined, still);
       else notFound();
-    } catch (e) { app.innerHTML = `<div class="card"><h1>Couldn't load</h1><p class="muted">${esc(e.message)}. Check your connection and try again.</p><a href="#/">Go home</a></div>`; }
+    } catch (e) {
+      if (!still()) return;
+      app.innerHTML = `<div class="card"><h1>Couldn't load</h1><p class="muted">${esc(e.message)}. Check your connection and try again.</p><a href="#/">Go home</a></div>`;
+    }
+    if (!still()) return;
     if (!(p[0] === "b" && p[2] === "t")) window.scrollTo(0, 0);
   }
   window.addEventListener("hashchange", route);

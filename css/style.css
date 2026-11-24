@@ -119,3 +119,6 @@ mark{background:#ffe08a;color:#2b2118;border-radius:3px;padding:0 2px}
   .brand{font-size:1.02rem}
   .tr-pick{max-width:4.2rem;padding:0 4px}
 }
+@media (max-width:400px){
+  .btnrow .btn{flex:1 1 calc(50% - 8px);justify-content:center}
+}

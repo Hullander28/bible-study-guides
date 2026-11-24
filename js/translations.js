@@ -97,7 +97,7 @@
       ? esc(T.a)
       : `Scripture quotations are from the ${esc(T.n)} (${esc(tr)}), ${esc(T.l)}.`;
     const dest = tr === "ESV" ? "ESV.org or BibleGateway" : "BibleGateway";
-    return `<p>${notice}</p><p>Study notes, summaries and questions are original to this app. Chapter links open the full text on ${dest}.</p>`;
+    return `<p>${notice}</p><p>Study notes, summaries and questions are original to this app. Chapter links open the full text on ${dest}.</p><p><a href="privacy.html">Privacy policy</a></p>`;
   }
 
   function bgUrl(tr, ref) {
